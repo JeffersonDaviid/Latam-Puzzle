@@ -1,0 +1,22 @@
+# GDevelop
+.export/
+GDMetadata.json
+gdjs/
+build/
+temp/
+*.autosave*
+
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editor-specific files
+.vscode/
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
