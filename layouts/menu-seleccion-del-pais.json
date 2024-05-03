@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Seleccion_32del_32pais",
-  "name": "Seleccion del pais",
+  "mangledName": "Menu_32seleccion_32del_32pais",
+  "name": "Menu seleccion del pais",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
