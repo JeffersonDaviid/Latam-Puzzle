@@ -16,7 +16,7 @@
     "pixelsRounding": false,
     "projectUuid": "7edd034a-dfab-4235-b4a2-638b42b40dd9",
     "scaleMode": "linear",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -63,7 +63,1502 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "hueco.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hueco.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzle ec/socket.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzle ec\\socket.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/socket.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\socket.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/piece.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "piece",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/piece2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "piece2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/piece3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "piece3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/piece4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/piece4.png\"}",
+        "name": "piece4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/move.png\"}",
+        "name": "move",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/move2.png\"}",
+        "name": "move2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "mitad-del-mundo-ecuador-1024x904.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "mitad-del-mundo-ecuador-1024x904.webp",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mitad-del-mundo-ecuador-1024x904.webp2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mitad-del-mundo-ecuador-1024x904.webp2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/mitad-del-mundo-ecuador-1024x904.webp3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "mitad-del-mundo-ecuador-1024x904.webp3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/idle4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "idle4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/move10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "move10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "7.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "7.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "8.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "8.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "9.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "9.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "10.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "10.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "11.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "11.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "12.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "12.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "13.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "13.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "14.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "14.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "15.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "15.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "16.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "16.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "17.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "17.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "18.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "18.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "19.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "19.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "20.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "20.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "21.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "21.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "22.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "22.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "23.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "23.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "24.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "24.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "25.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "25.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "26.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "26.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "27.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "27.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/7.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\7.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/8.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\8.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/9.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\9.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/10.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/10.jpg\",\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\10.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/11.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/11.jpg\",\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\11.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/12.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\12.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/13.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\13.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/14.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\14.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/15.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/15.jpg\",\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\15.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/16.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\16.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/17.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\17.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/18.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\18.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/19.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/19.jpg\",\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\19.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/20.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\20.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/21.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\21.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/22.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\22.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/23.jpg",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/23.jpg\",\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\23.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/hbe6lkf7hxuq4v103o325r (1)/24.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\24.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "26",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/1i.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "1i",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\14",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\15",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\16",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\24",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\23",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\21",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\19",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_hbe6lkf7hxuq4v103o325r (1)_17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "..\\..\\..\\Downloads\\hbe6lkf7hxuq4v103o325r (1)\\17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket9",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket10",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket11",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "../../../Downloads/overview-of-city-of-quito-at-dusk-pichincha-province-ecuador.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\overview-of-city-of-quito-at-dusk-pichincha-province-ecuador.webp",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/.._.._.._Downloads_overview-of-city-of-quito-at-dusk-pichincha-province-ecuador.webp2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "..\\..\\..\\Downloads\\overview-of-city-of-quito-at-dusk-pichincha-province-ecuador.webp2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/FondoEC.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\FondoEC.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket13",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/24.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\24.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\1",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\6",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/7.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\7.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/8.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\8.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\8",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/9.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\9.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/10.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\10.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/11.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\11.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/12.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\12.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\12",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/13.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\13.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\13",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/14.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\14.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\14",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/15.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\15.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/16.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\16.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/17.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\17.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/18.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\18.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/19.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\19.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\19",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/20.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\20.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/21.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\21.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\21",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/22.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\22.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/23.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\23.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\23",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\24",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
@@ -87,7 +1582,16 @@
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/shakeobject"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/draggablephysics"
+    }
+  ],
   "externalLayouts": [],
   "externalSourceFiles": []
 }
