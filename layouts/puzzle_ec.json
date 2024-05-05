@@ -1687,9 +1687,9 @@
       "effects": [],
       "behaviors": [
         {
-          "checkCollisionMask": false,
           "name": "Draggable",
-          "type": "DraggableBehavior::Draggable"
+          "type": "DraggableBehavior::Draggable",
+          "checkCollisionMask": false
         }
       ],
       "animations": [

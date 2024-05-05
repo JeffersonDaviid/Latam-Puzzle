@@ -1557,6 +1557,105 @@
         "name": "assets\\puzzles\\ec\\24",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cristo_redentor.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "cristo_redentor.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "machu picu.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "machu picu.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "barra.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "barra.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "info.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "info.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rompecabezas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rompecabezas.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "cabezas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cabezas.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "rompe.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rompe.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "avion.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "avion.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "instrucciones.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "instrucciones.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "barra2.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "barra2.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "oki.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "oki.jpg",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1583,6 +1682,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/mousehelper"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/shakeobject"
