@@ -1557,6 +1557,42 @@
         "name": "assets\\puzzles\\ec\\24",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/LogotipoPuzzle.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\LogotipoPuzzle.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/Fondo_con_Condor.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\Fondo_con_Condor.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/Bandera_EC.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\Bandera_EC.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/Fondo_volcan.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\Fondo_volcan.jpg",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
