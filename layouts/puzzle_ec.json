@@ -3656,7 +3656,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "Comprobar si el puzzle está resulto",
+      "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
