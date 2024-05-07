@@ -11,14 +11,14 @@
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
-    "gridWidth": 100,
-    "gridHeight": 100,
+    "gridWidth": 150,
+    "gridHeight": 150,
     "gridOffsetX": 1,
     "gridOffsetY": 1,
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.29879853636069165,
+    "zoomFactor": 0.352690493477126,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -40,8 +40,8 @@
       "name": "Socalo",
       "persistentUuid": "55ccb846-db73-4e7b-a600-5f7ee1791d5b",
       "width": 0,
-      "x": 954,
-      "y": 200,
+      "x": 789,
+      "y": 168,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -63,8 +63,8 @@
       "name": "Socalo",
       "persistentUuid": "6172386d-4a7d-4fbc-8938-7ca50bb7799b",
       "width": 0,
-      "x": 654,
-      "y": 200,
+      "x": 339,
+      "y": 168,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -86,8 +86,8 @@
       "name": "Socalo",
       "persistentUuid": "d79ae6ab-0be4-43ff-9449-bc720ca5cf44",
       "width": 0,
-      "x": 854,
-      "y": 200,
+      "x": 639,
+      "y": 168,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -109,8 +109,8 @@
       "name": "Socalo",
       "persistentUuid": "8bdaa174-18b2-4839-9eab-d4371484092c",
       "width": 0,
-      "x": 854,
-      "y": 500,
+      "x": 639,
+      "y": 618,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -132,8 +132,8 @@
       "name": "Socalo",
       "persistentUuid": "49864b07-e759-444d-9235-4e11a5f29479",
       "width": 0,
-      "x": 1154,
-      "y": 200,
+      "x": 1089,
+      "y": 168,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -155,8 +155,8 @@
       "name": "Socalo",
       "persistentUuid": "e945d545-d3bd-49c2-8672-7b6721c69a21",
       "width": 0,
-      "x": 1154,
-      "y": 300,
+      "x": 1089,
+      "y": 318,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -178,8 +178,8 @@
       "name": "Socalo",
       "persistentUuid": "6ab3bba3-9b2b-4665-bf01-cae3d3d80b7c",
       "width": 0,
-      "x": 954,
-      "y": 300,
+      "x": 789,
+      "y": 318,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -201,8 +201,8 @@
       "name": "Socalo",
       "persistentUuid": "f935f904-8974-4efd-8d26-8ef7f7f1c4d7",
       "width": 0,
-      "x": 654,
-      "y": 400,
+      "x": 339,
+      "y": 468,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -224,8 +224,8 @@
       "name": "Socalo",
       "persistentUuid": "e777e5dd-08e6-4a99-9804-d84764d784ea",
       "width": 0,
-      "x": 854,
-      "y": 300,
+      "x": 639,
+      "y": 318,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -247,8 +247,8 @@
       "name": "Socalo",
       "persistentUuid": "ad961a66-ca2e-47ff-93db-8d21fba37889",
       "width": 0,
-      "x": 854,
-      "y": 400,
+      "x": 639,
+      "y": 468,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -270,8 +270,8 @@
       "name": "Socalo",
       "persistentUuid": "fb248f4a-a07b-43bc-960d-b43902bdd68c",
       "width": 0,
-      "x": 954,
-      "y": 400,
+      "x": 789,
+      "y": 468,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -293,8 +293,8 @@
       "name": "Socalo",
       "persistentUuid": "995724df-3da2-4030-b6af-cf7cd0061b17",
       "width": 0,
-      "x": 654,
-      "y": 500,
+      "x": 339,
+      "y": 618,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -316,8 +316,8 @@
       "name": "Socalo",
       "persistentUuid": "cba4b69a-34db-4d69-9ca1-65b27b06c938",
       "width": 0,
-      "x": 954,
-      "y": 500,
+      "x": 789,
+      "y": 618,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -339,8 +339,8 @@
       "name": "Pieza",
       "persistentUuid": "8867fcd9-ec8a-43c3-a30f-a240c1a253fd",
       "width": 0,
-      "x": 600,
-      "y": 833,
+      "x": 0,
+      "y": 803,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -379,8 +379,8 @@
       "name": "Pieza",
       "persistentUuid": "b0e9a142-ab6e-4bb3-bf89-d6bd604e0856",
       "width": 0,
-      "x": 800,
-      "y": 633,
+      "x": 0,
+      "y": 145,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -412,15 +412,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 81,
       "keepRatio": true,
       "layer": "UI",
       "name": "nameCountry",
       "persistentUuid": "31f4208f-2f5f-40dd-b9d7-d2d39090743c",
-      "width": 0,
-      "x": 47,
-      "y": 107,
+      "width": 324,
+      "x": 1562,
+      "y": 24,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -435,8 +436,8 @@
       "name": "Socalo",
       "persistentUuid": "444b5ea3-435a-412c-b992-3c2e5a2716c4",
       "width": 0,
-      "x": 1154,
-      "y": 500,
+      "x": 1089,
+      "y": 618,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -458,8 +459,8 @@
       "name": "Socalo",
       "persistentUuid": "132922b5-cc10-493b-b0ed-6b160ce879aa",
       "width": 0,
-      "x": 1154,
-      "y": 400,
+      "x": 1089,
+      "y": 468,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -481,8 +482,8 @@
       "name": "Socalo",
       "persistentUuid": "ab7eaa9b-cc72-42cc-9f32-83cf58880ade",
       "width": 0,
-      "x": 1054,
-      "y": 300,
+      "x": 939,
+      "y": 318,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -504,8 +505,8 @@
       "name": "Socalo",
       "persistentUuid": "309cd7c9-c4a1-4a98-b11c-93036a16ca46",
       "width": 0,
-      "x": 1054,
-      "y": 200,
+      "x": 939,
+      "y": 168,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -527,8 +528,8 @@
       "name": "Pieza",
       "persistentUuid": "c411e87b-f074-47a6-85d3-b550b58b14dc",
       "width": 0,
-      "x": 800,
-      "y": 833,
+      "x": 0,
+      "y": 351,
       "zOrder": 17,
       "numberProperties": [
         {
@@ -567,8 +568,8 @@
       "name": "Pieza",
       "persistentUuid": "7b911376-6e7c-4d1a-b3b0-e5fd53506773",
       "width": 0,
-      "x": 700,
-      "y": 933,
+      "x": 0,
+      "y": 593,
       "zOrder": 18,
       "numberProperties": [
         {
@@ -607,8 +608,8 @@
       "name": "Pieza",
       "persistentUuid": "c36f32f3-7878-44b4-88ca-f17d10fc0fc8",
       "width": 0,
-      "x": 600,
-      "y": 933,
+      "x": 0,
+      "y": 689,
       "zOrder": 19,
       "numberProperties": [
         {
@@ -647,8 +648,8 @@
       "name": "Pieza",
       "persistentUuid": "6420bbfc-6634-4461-a2f9-17f14ebeb6d9",
       "width": 0,
-      "x": 400,
-      "y": 633,
+      "x": 3,
+      "y": 0,
       "zOrder": 20,
       "numberProperties": [
         {
@@ -687,8 +688,8 @@
       "name": "Pieza",
       "persistentUuid": "e4ba49ab-f85d-4c73-80c0-84885ed36cc9",
       "width": 0,
-      "x": 600,
-      "y": 633,
+      "x": 1375,
+      "y": 0,
       "zOrder": 21,
       "numberProperties": [
         {
@@ -727,8 +728,8 @@
       "name": "Pieza",
       "persistentUuid": "4ee526ff-74c3-40d6-81a5-ecdcb735bb49",
       "width": 0,
-      "x": 400,
-      "y": 733,
+      "x": 0,
+      "y": -13,
       "zOrder": 22,
       "numberProperties": [
         {
@@ -767,8 +768,8 @@
       "name": "Pieza",
       "persistentUuid": "503dbe38-7a38-42ee-bcc6-646f4a969fc7",
       "width": 0,
-      "x": 400,
-      "y": 933,
+      "x": 0,
+      "y": 84,
       "zOrder": 23,
       "numberProperties": [
         {
@@ -807,8 +808,8 @@
       "name": "Pieza",
       "persistentUuid": "6cbcd0a4-8451-485c-8e4d-4d24d89fea11",
       "width": 0,
-      "x": 400,
-      "y": 833,
+      "x": 0,
+      "y": 36,
       "zOrder": 24,
       "numberProperties": [
         {
@@ -847,8 +848,8 @@
       "name": "Pieza",
       "persistentUuid": "4d8b6c6d-a3f8-4031-b9ad-40e6bbfbe006",
       "width": 0,
-      "x": 1260,
-      "y": 672,
+      "x": 1375,
+      "y": 582,
       "zOrder": 25,
       "numberProperties": [
         {
@@ -887,8 +888,8 @@
       "name": "Pieza",
       "persistentUuid": "24f13a02-c30a-4246-ab40-9359bad53a9e",
       "width": 0,
-      "x": 1354,
-      "y": 733,
+      "x": 1375,
+      "y": 774,
       "zOrder": 26,
       "numberProperties": [
         {
@@ -927,8 +928,8 @@
       "name": "Pieza",
       "persistentUuid": "46b2bc9c-b393-4088-ba2d-d7331e1f1c82",
       "width": 0,
-      "x": 1354,
-      "y": 633,
+      "x": 1375,
+      "y": 687,
       "zOrder": 27,
       "numberProperties": [
         {
@@ -967,8 +968,8 @@
       "name": "Pieza",
       "persistentUuid": "34fed27e-b22e-4d4a-9a08-8270cdaaf656",
       "width": 0,
-      "x": 800,
-      "y": 933,
+      "x": 0,
+      "y": 469,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1007,8 +1008,8 @@
       "name": "Pieza",
       "persistentUuid": "b710e4a0-3619-4e58-b702-d5cef859137e",
       "width": 0,
-      "x": 1000,
-      "y": 633,
+      "x": 1375,
+      "y": 288,
       "zOrder": 29,
       "numberProperties": [
         {
@@ -1047,8 +1048,8 @@
       "name": "Pieza",
       "persistentUuid": "fa75a281-e6da-4793-a646-17d8bd69bb6a",
       "width": 0,
-      "x": 1090,
-      "y": 672,
+      "x": 1375,
+      "y": 380,
       "zOrder": 30,
       "numberProperties": [
         {
@@ -1087,8 +1088,8 @@
       "name": "Pieza",
       "persistentUuid": "e9e10e5b-58d5-4d9c-ad49-b64481ef521c",
       "width": 0,
-      "x": 1000,
-      "y": 833,
+      "x": 1375,
+      "y": 131,
       "zOrder": 31,
       "numberProperties": [
         {
@@ -1127,8 +1128,8 @@
       "name": "Pieza",
       "persistentUuid": "485c584e-7930-4c48-b8b5-a90b3745af85",
       "width": 0,
-      "x": 1000,
-      "y": 933,
+      "x": 1375,
+      "y": 57,
       "zOrder": 32,
       "numberProperties": [
         {
@@ -1167,8 +1168,8 @@
       "name": "Pieza",
       "persistentUuid": "8857518d-cbf2-435e-ada9-b744f33b4386",
       "width": 0,
-      "x": 600,
-      "y": 733,
+      "x": 0,
+      "y": 927,
       "zOrder": 33,
       "numberProperties": [
         {
@@ -1207,8 +1208,8 @@
       "name": "Pieza",
       "persistentUuid": "39e5f3bb-db03-4e3c-aa51-3a1ce84b3af9",
       "width": 0,
-      "x": 700,
-      "y": 633,
+      "x": 0,
+      "y": 239,
       "zOrder": 34,
       "numberProperties": [
         {
@@ -1247,8 +1248,8 @@
       "name": "Pieza",
       "persistentUuid": "6742d77c-553b-4f0c-960d-e665cf6a1d74",
       "width": 0,
-      "x": 1179,
-      "y": 745,
+      "x": 1375,
+      "y": 488,
       "zOrder": 31,
       "numberProperties": [
         {
@@ -1287,8 +1288,8 @@
       "name": "Pieza",
       "persistentUuid": "6a588f6c-1be9-4fdb-b8a1-b13e8199b3c8",
       "width": 0,
-      "x": 1000,
-      "y": 733,
+      "x": 1375,
+      "y": 230,
       "zOrder": 31,
       "numberProperties": [
         {
@@ -1327,8 +1328,8 @@
       "name": "Socalo",
       "persistentUuid": "8f14087d-d120-4e06-a367-bb402f87cd17",
       "width": 0,
-      "x": 754,
-      "y": 200,
+      "x": 489,
+      "y": 168,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1350,8 +1351,8 @@
       "name": "Socalo",
       "persistentUuid": "91cf4deb-6bfc-4520-a796-1dcc287ea0a3",
       "width": 0,
-      "x": 754,
-      "y": 400,
+      "x": 489,
+      "y": 468,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1373,8 +1374,8 @@
       "name": "Socalo",
       "persistentUuid": "03d03632-f2f3-496e-8cc4-46df7c779908",
       "width": 0,
-      "x": 754,
-      "y": 500,
+      "x": 489,
+      "y": 618,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1396,8 +1397,8 @@
       "name": "Pieza",
       "persistentUuid": "425de15e-7c06-44b6-a50c-d7279f48faef",
       "width": 0,
-      "x": 1354,
-      "y": 833,
+      "x": 1375,
+      "y": 868,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1436,8 +1437,8 @@
       "name": "Pieza",
       "persistentUuid": "632f442b-6875-4a8e-92d6-bb71568964a3",
       "width": 0,
-      "x": 1354,
-      "y": 933,
+      "x": 1375,
+      "y": 909,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1476,8 +1477,8 @@
       "name": "Socalo",
       "persistentUuid": "0e49219d-f9c2-4523-85d7-47c1eb146ec5",
       "width": 0,
-      "x": 654,
-      "y": 300,
+      "x": 339,
+      "y": 318,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1499,8 +1500,8 @@
       "name": "Socalo",
       "persistentUuid": "a7822d3a-3a80-42be-a890-9b18ce7baf6f",
       "width": 0,
-      "x": 754,
-      "y": 300,
+      "x": 489,
+      "y": 318,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1522,8 +1523,8 @@
       "name": "Socalo",
       "persistentUuid": "9c1382e5-4212-4123-aa53-3489d8dcae87",
       "width": 0,
-      "x": 1054,
-      "y": 400,
+      "x": 939,
+      "y": 468,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1545,8 +1546,8 @@
       "name": "Socalo",
       "persistentUuid": "4b0fce58-b155-4de4-8a3b-e03d168f0c3b",
       "width": 0,
-      "x": 1054,
-      "y": 500,
+      "x": 939,
+      "y": 618,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1561,17 +1562,155 @@
     },
     {
       "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "player",
+      "name": "Socalo",
+      "persistentUuid": "4856ff92-e86b-417d-a35b-35a1b61d0640",
+      "width": 0,
+      "x": 789,
+      "y": 768,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a4"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "player",
+      "name": "Socalo",
+      "persistentUuid": "253a610e-68cf-4c4f-aa0b-9b4e5ffffef5",
+      "width": 0,
+      "x": 339,
+      "y": 768,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a1"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "player",
+      "name": "Socalo",
+      "persistentUuid": "61860be6-0d00-4e15-8760-85dfb38e6562",
+      "width": 0,
+      "x": 639,
+      "y": 768,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a3"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "player",
+      "name": "Socalo",
+      "persistentUuid": "d039b855-27ff-4ae8-a0cb-43f36f103598",
+      "width": 0,
+      "x": 1089,
+      "y": 768,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a6"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "player",
+      "name": "Socalo",
+      "persistentUuid": "960918cf-fe0b-4b91-9abe-71dba44d0708",
+      "width": 0,
+      "x": 939,
+      "y": 768,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a5"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "player",
+      "name": "Socalo",
+      "persistentUuid": "09602cb4-a72c-4f9f-866f-b1b423f4ac0a",
+      "width": 0,
+      "x": 489,
+      "y": 768,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a2"
+        }
+      ]
+    },
+    {
+      "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 2040,
+      "depth": 1,
+      "height": 997,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite3",
-      "persistentUuid": "e4948114-9b0b-4082-af30-1cc1277fba26",
-      "width": 2040,
-      "x": -31,
-      "y": -565,
-      "zOrder": 36,
+      "name": "NewTiledSprite2",
+      "persistentUuid": "fdfc1c29-f894-486e-b681-135cf7a2aaed",
+      "width": 1138,
+      "x": 214,
+      "y": 52,
+      "zOrder": 35,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1579,16 +1718,16 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 1059.7826086956525,
+      "depth": 48,
+      "height": 128,
       "keepRatio": true,
       "layer": "",
-      "name": "NewSprite4",
-      "persistentUuid": "90f7e50c-4ce5-4a0b-a564-d7f24d62c626",
-      "width": 2500,
-      "x": -47,
-      "y": 352,
-      "zOrder": 37,
+      "name": "btn_back",
+      "persistentUuid": "867582a6-3103-4b84-b756-ba255dca7e9b",
+      "width": 343,
+      "x": 1562,
+      "y": 937,
+      "zOrder": 36,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1629,7 +1768,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\socket14",
+                  "image": "assets\\puzzles\\socket16",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1721,7 +1860,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\1",
+                  "image": "assets\\puzzles\\ec\\25",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1770,7 +1909,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\2",
+                  "image": "assets\\puzzles\\ec\\32",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1819,7 +1958,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\3",
+                  "image": "assets\\puzzles\\ec\\33",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1868,7 +2007,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\4",
+                  "image": "assets\\puzzles\\ec\\34",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1917,7 +2056,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\5",
+                  "image": "assets\\puzzles\\ec\\35",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1966,7 +2105,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\6",
+                  "image": "assets\\puzzles\\ec\\36",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2015,7 +2154,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\7",
+                  "image": "assets\\puzzles\\ec\\37",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2064,7 +2203,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\8",
+                  "image": "assets\\puzzles\\ec\\38",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2113,7 +2252,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\9",
+                  "image": "assets\\puzzles\\ec\\49",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2162,7 +2301,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\10",
+                  "image": "assets\\puzzles\\ec\\39",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2211,7 +2350,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\11",
+                  "image": "assets\\puzzles\\ec\\40",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2260,7 +2399,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\12",
+                  "image": "assets\\puzzles\\ec\\41",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2309,7 +2448,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\13",
+                  "image": "assets\\puzzles\\ec\\47",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2358,7 +2497,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\14",
+                  "image": "assets\\puzzles\\ec\\46",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2407,7 +2546,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\15",
+                  "image": "assets\\puzzles\\ec\\45",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2456,7 +2595,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\16",
+                  "image": "assets\\puzzles\\ec\\44",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2505,7 +2644,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\17",
+                  "image": "assets\\puzzles\\ec\\43",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2554,7 +2693,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\18",
+                  "image": "assets\\puzzles\\ec\\42",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2603,7 +2742,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\19",
+                  "image": "assets\\puzzles\\ec\\48",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2652,7 +2791,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\20",
+                  "image": "assets\\puzzles\\ec\\30",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2701,7 +2840,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\21",
+                  "image": "assets\\puzzles\\ec\\29",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2750,7 +2889,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\22",
+                  "image": "assets\\puzzles\\ec\\28",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2799,7 +2938,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\23",
+                  "image": "assets\\puzzles\\ec\\27",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2848,7 +2987,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\24",
+                  "image": "assets\\puzzles\\ec\\31",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2898,7 +3037,7 @@
       "content": {
         "text": "ECUADOR",
         "opacity": 255,
-        "scale": 5,
+        "scale": 3,
         "fontSize": 20,
         "tint": "77;27;20",
         "bitmapFontResourceName": "",
@@ -3170,34 +3309,143 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "height": 750,
+      "name": "NewTiledSprite2",
+      "texture": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png4",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 900,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "72c8adcfb9187ebb5fcfbcd75bc18c74d6af5507e7c482cadcfad28f8011b387",
+      "name": "btn_back",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "BottomPadding": 0,
+        "TopPadding": 0,
+        "LeftPadding": 10,
+        "RightPadding": 10,
+        "PressedLabelOffsetY": 2
+      },
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 35,
+          "height": 128,
+          "leftMargin": 56,
+          "rightMargin": 35,
+          "texture": "Orange Bubble Button_Hovered.png",
+          "tiled": false,
+          "topMargin": 35,
+          "width": 256
+        },
+        "Idle": {
+          "bottomMargin": 35,
+          "height": 128,
+          "leftMargin": 56,
+          "rightMargin": 35,
+          "texture": "Orange Bubble Button_Idle.png",
+          "tiled": false,
+          "topMargin": 35,
+          "width": 256
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Regresar",
+          "font": "Poppins-Medium.ttf",
+          "textAlignment": "center",
+          "characterSize": 60,
+          "color": {
+            "b": 0,
+            "g": 42,
+            "r": 117
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Regresar",
+            "font": "Poppins-Medium.ttf",
+            "textAlignment": "center",
+            "characterSize": 60,
+            "color": "117;42;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 35,
+          "height": 128,
+          "leftMargin": 35,
+          "rightMargin": 35,
+          "texture": "Orange Bubble Button_Pressed.png",
+          "tiled": false,
+          "topMargin": 35,
+          "width": 256
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "Socalo"
+        "folderName": "Player",
+        "children": [
+          {
+            "objectName": "btn_back"
+          },
+          {
+            "objectName": "Pieza"
+          },
+          {
+            "objectName": "Socalo"
+          }
+        ]
       },
       {
-        "objectName": "Pieza"
+        "folderName": "Fondo",
+        "children": [
+          {
+            "objectName": "NewSprite2"
+          },
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "NewSprite4"
+          },
+          {
+            "objectName": "NewSprite3"
+          }
+        ]
       },
       {
         "objectName": "nameCountry"
       },
       {
-        "objectName": "NewTiledSprite"
-      },
-      {
-        "objectName": "NewSprite"
-      },
-      {
-        "objectName": "NewSprite2"
-      },
-      {
-        "objectName": "NewSprite3"
-      },
-      {
-        "objectName": "NewSprite4"
+        "objectName": "NewTiledSprite2"
       }
     ]
   },

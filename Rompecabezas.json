@@ -1148,7 +1148,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_puzzles_ec_1.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_1.png\"}",
         "name": "assets\\puzzles\\ec\\1",
         "smoothed": true,
         "userAdded": true
@@ -1166,7 +1166,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_puzzles_ec_2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_2.png\"}",
         "name": "assets\\puzzles\\ec\\2",
         "smoothed": true,
         "userAdded": true
@@ -1593,6 +1593,335 @@
         "name": "assets\\puzzles\\ec\\Fondo_volcan.jpg",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_socket15.png\"}",
+        "name": "assets\\puzzles\\socket15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\26",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\27",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_28.png\"}",
+        "name": "assets\\puzzles\\ec\\28",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\30",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\31",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\32",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\33",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\34",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\35",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\37",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_39.png\"}",
+        "name": "assets\\puzzles\\ec\\39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\41",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\42",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\43",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\44",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\46",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/jeffe/OneDrive/Imágenes/Capturas de pantalla/Screenshot 2024-05-06 165636.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_jeffe_OneDrive_Imágenes_Capturas de pantalla_Screenshot 2024-05-06 165636.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\48",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_jeffe_OneDrive_Imágenes_Capturas de pantalla_Screenshot 2024-05-06 165636.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_jeffe_OneDrive_Imágenes_Capturas de pantalla_Screenshot 2024-05-06 165636.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bubble Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c7108719eeb51696e6b9bcca1280e5403f7867491f3b02101f759d0e55b112fe_Orange Bubble Button_Hovered.png",
+          "name": "Orange Bubble Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bubble Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c97e04689076f4c138d10a0dde322d982b332595bce0fe8007ce14bb7a22af21_Orange Bubble Button_Idle.png",
+          "name": "Orange Bubble Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bubble Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4c35e1cf340a1121bb63e0d0ef834876be8b9427c5a30bafb2e043640d27aab4_Orange Bubble Button_Pressed.png",
+          "name": "Orange Bubble Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Poppins-Medium.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Poppins-Medium.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
+          "name": "Poppins-Medium.ttf"
+        }
       }
     ],
     "resourceFolders": []
@@ -1619,6 +1948,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/shakeobject"
