@@ -48,7 +48,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "55ccb846-db73-4e7b-a600-5f7ee1791d5b",
       "width": 0,
@@ -71,7 +71,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "6172386d-4a7d-4fbc-8938-7ca50bb7799b",
       "width": 0,
@@ -94,7 +94,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "d79ae6ab-0be4-43ff-9449-bc720ca5cf44",
       "width": 0,
@@ -117,7 +117,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "8bdaa174-18b2-4839-9eab-d4371484092c",
       "width": 0,
@@ -140,7 +140,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "49864b07-e759-444d-9235-4e11a5f29479",
       "width": 0,
@@ -163,7 +163,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "e945d545-d3bd-49c2-8672-7b6721c69a21",
       "width": 0,
@@ -186,7 +186,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "6ab3bba3-9b2b-4665-bf01-cae3d3d80b7c",
       "width": 0,
@@ -209,7 +209,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "f935f904-8974-4efd-8d26-8ef7f7f1c4d7",
       "width": 0,
@@ -232,7 +232,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "e777e5dd-08e6-4a99-9804-d84764d784ea",
       "width": 0,
@@ -255,7 +255,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "ad961a66-ca2e-47ff-93db-8d21fba37889",
       "width": 0,
@@ -278,7 +278,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "fb248f4a-a07b-43bc-960d-b43902bdd68c",
       "width": 0,
@@ -301,7 +301,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "995724df-3da2-4030-b6af-cf7cd0061b17",
       "width": 0,
@@ -324,7 +324,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "cba4b69a-34db-4d69-9ca1-65b27b06c938",
       "width": 0,
@@ -347,12 +347,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "8867fcd9-ec8a-43c3-a30f-a240c1a253fd",
       "width": 0,
       "x": -99,
-      "y": 814,
+      "y": 845,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -387,12 +387,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "b0e9a142-ab6e-4bb3-bf89-d6bd604e0856",
       "width": 0,
       "x": -99,
-      "y": 156,
+      "y": 187,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -444,7 +444,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "444b5ea3-435a-412c-b992-3c2e5a2716c4",
       "width": 0,
@@ -467,7 +467,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "132922b5-cc10-493b-b0ed-6b160ce879aa",
       "width": 0,
@@ -490,7 +490,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "ab7eaa9b-cc72-42cc-9f32-83cf58880ade",
       "width": 0,
@@ -513,7 +513,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "309cd7c9-c4a1-4a98-b11c-93036a16ca46",
       "width": 0,
@@ -536,12 +536,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c411e87b-f074-47a6-85d3-b550b58b14dc",
       "width": 0,
       "x": -99,
-      "y": 362,
+      "y": 393,
       "zOrder": 17,
       "numberProperties": [
         {
@@ -576,12 +576,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "7b911376-6e7c-4d1a-b3b0-e5fd53506773",
       "width": 0,
       "x": -99,
-      "y": 604,
+      "y": 635,
       "zOrder": 18,
       "numberProperties": [
         {
@@ -616,12 +616,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c36f32f3-7878-44b4-88ca-f17d10fc0fc8",
       "width": 0,
       "x": -99,
-      "y": 700,
+      "y": 731,
       "zOrder": 19,
       "numberProperties": [
         {
@@ -656,12 +656,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "6420bbfc-6634-4461-a2f9-17f14ebeb6d9",
       "width": 0,
       "x": -96,
-      "y": 11,
+      "y": 42,
       "zOrder": 20,
       "numberProperties": [
         {
@@ -696,7 +696,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "e4ba49ab-f85d-4c73-80c0-84885ed36cc9",
       "width": 0,
@@ -736,12 +736,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "4ee526ff-74c3-40d6-81a5-ecdcb735bb49",
       "width": 0,
       "x": -99,
-      "y": -2,
+      "y": 29,
       "zOrder": 22,
       "numberProperties": [
         {
@@ -776,12 +776,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "503dbe38-7a38-42ee-bcc6-646f4a969fc7",
       "width": 0,
       "x": -99,
-      "y": 95,
+      "y": 126,
       "zOrder": 23,
       "numberProperties": [
         {
@@ -816,12 +816,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "6cbcd0a4-8451-485c-8e4d-4d24d89fea11",
       "width": 0,
       "x": -99,
-      "y": 47,
+      "y": 78,
       "zOrder": 24,
       "numberProperties": [
         {
@@ -856,7 +856,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "4d8b6c6d-a3f8-4031-b9ad-40e6bbfbe006",
       "width": 0,
@@ -896,7 +896,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "24f13a02-c30a-4246-ab40-9359bad53a9e",
       "width": 0,
@@ -936,7 +936,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "46b2bc9c-b393-4088-ba2d-d7331e1f1c82",
       "width": 0,
@@ -976,12 +976,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "34fed27e-b22e-4d4a-9a08-8270cdaaf656",
       "width": 0,
       "x": -99,
-      "y": 480,
+      "y": 511,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1016,7 +1016,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "b710e4a0-3619-4e58-b702-d5cef859137e",
       "width": 0,
@@ -1056,7 +1056,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "fa75a281-e6da-4793-a646-17d8bd69bb6a",
       "width": 0,
@@ -1096,7 +1096,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "e9e10e5b-58d5-4d9c-ad49-b64481ef521c",
       "width": 0,
@@ -1136,7 +1136,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "485c584e-7930-4c48-b8b5-a90b3745af85",
       "width": 0,
@@ -1176,12 +1176,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "8857518d-cbf2-435e-ada9-b744f33b4386",
       "width": 0,
       "x": -99,
-      "y": 938,
+      "y": 969,
       "zOrder": 33,
       "numberProperties": [
         {
@@ -1216,12 +1216,12 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "39e5f3bb-db03-4e3c-aa51-3a1ce84b3af9",
       "width": 0,
       "x": -99,
-      "y": 250,
+      "y": 281,
       "zOrder": 34,
       "numberProperties": [
         {
@@ -1256,7 +1256,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "6742d77c-553b-4f0c-960d-e665cf6a1d74",
       "width": 0,
@@ -1296,7 +1296,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "6a588f6c-1be9-4fdb-b8a1-b13e8199b3c8",
       "width": 0,
@@ -1336,7 +1336,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "8f14087d-d120-4e06-a367-bb402f87cd17",
       "width": 0,
@@ -1359,7 +1359,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "91cf4deb-6bfc-4520-a796-1dcc287ea0a3",
       "width": 0,
@@ -1382,7 +1382,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "03d03632-f2f3-496e-8cc4-46df7c779908",
       "width": 0,
@@ -1405,7 +1405,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "425de15e-7c06-44b6-a50c-d7279f48faef",
       "width": 0,
@@ -1445,7 +1445,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "632f442b-6875-4a8e-92d6-bb71568964a3",
       "width": 0,
@@ -1485,7 +1485,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "0e49219d-f9c2-4523-85d7-47c1eb146ec5",
       "width": 0,
@@ -1508,7 +1508,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "a7822d3a-3a80-42be-a890-9b18ce7baf6f",
       "width": 0,
@@ -1531,7 +1531,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "9c1382e5-4212-4123-aa53-3489d8dcae87",
       "width": 0,
@@ -1554,7 +1554,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "4b0fce58-b155-4de4-8a3b-e03d168f0c3b",
       "width": 0,
@@ -1577,7 +1577,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "4856ff92-e86b-417d-a35b-35a1b61d0640",
       "width": 0,
@@ -1600,7 +1600,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "253a610e-68cf-4c4f-aa0b-9b4e5ffffef5",
       "width": 0,
@@ -1623,7 +1623,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "61860be6-0d00-4e15-8760-85dfb38e6562",
       "width": 0,
@@ -1646,7 +1646,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "d039b855-27ff-4ae8-a0cb-43f36f103598",
       "width": 0,
@@ -1669,7 +1669,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "960918cf-fe0b-4b91-9abe-71dba44d0708",
       "width": 0,
@@ -1692,7 +1692,7 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "player",
+      "layer": "Socalos",
       "name": "Socalo",
       "persistentUuid": "09602cb4-a72c-4f9f-866f-b1b423f4ac0a",
       "width": 0,
@@ -1912,17 +1912,16 @@
       ],
       "animations": [
         {
-          "name": "assets\\puzzles\\ec\\1",
+          "name": "",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
-              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\25",
+                  "image": "assets\\puzzles\\ec\\00.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1938,1147 +1937,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 20,
-                        "y": 21.5
+                        "x": 31,
+                        "y": 35
                       },
                       {
-                        "x": 128,
-                        "y": 21.5
+                        "x": 116.5,
+                        "y": 33.5
                       },
                       {
-                        "x": 131,
-                        "y": 132
+                        "x": 118,
+                        "y": 108.5
                       },
                       {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\2",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\32",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\3",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\33",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\4",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\34",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\5",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\35",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\6",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\36",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\7",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\37",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\8",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\38",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\9",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\49",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\10",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\39",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\11",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\40",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\12",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\41",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\13",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\47",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\14",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\46",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\15",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\45",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\16",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\44",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\17",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\43",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\18",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\42",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\19",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\48",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\20",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\30",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\21",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\29",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\22",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\28",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\23",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\27",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "assets\\puzzles\\ec\\24",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\31",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 128,
-                        "y": 21.5
-                      },
-                      {
-                        "x": 131,
-                        "y": 132
-                      },
-                      {
-                        "x": 20,
-                        "y": 131.5
+                        "x": 31.5,
+                        "y": 108.5
                       }
                     ]
                   ]
@@ -4123,7 +2995,40 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
-      "name": "player",
+      "name": "Socalos",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Piezas",
       "renderingType": "",
       "visibility": true,
       "cameras": [],

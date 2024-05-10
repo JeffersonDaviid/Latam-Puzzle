@@ -2012,6 +2012,303 @@
         "name": "assets\\puzzles\\socket24",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/00.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\00.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/00.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\00.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2033,7 +2330,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/puzzle_ec"
+      "referenceTo": "/layouts/puzzle_us"
     }
   ],
   "externalEvents": [],
