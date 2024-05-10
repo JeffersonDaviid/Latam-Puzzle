@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.352690493477126,
+    "zoomFactor": 0.31928945896901956,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -40,11 +40,6 @@
       "name": "timerMinutes",
       "type": "string",
       "value": "0"
-    },
-    {
-      "name": "timerHours",
-      "type": "string",
-      "value": "0"
     }
   ],
   "instances": [
@@ -57,8 +52,8 @@
       "name": "Socalo",
       "persistentUuid": "55ccb846-db73-4e7b-a600-5f7ee1791d5b",
       "width": 0,
-      "x": 789,
-      "y": 168,
+      "x": 531,
+      "y": 171,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -80,8 +75,8 @@
       "name": "Socalo",
       "persistentUuid": "6172386d-4a7d-4fbc-8938-7ca50bb7799b",
       "width": 0,
-      "x": 339,
-      "y": 168,
+      "x": 81,
+      "y": 171,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -103,8 +98,8 @@
       "name": "Socalo",
       "persistentUuid": "d79ae6ab-0be4-43ff-9449-bc720ca5cf44",
       "width": 0,
-      "x": 639,
-      "y": 168,
+      "x": 381,
+      "y": 171,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -126,8 +121,8 @@
       "name": "Socalo",
       "persistentUuid": "8bdaa174-18b2-4839-9eab-d4371484092c",
       "width": 0,
-      "x": 639,
-      "y": 618,
+      "x": 381,
+      "y": 621,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -149,8 +144,8 @@
       "name": "Socalo",
       "persistentUuid": "49864b07-e759-444d-9235-4e11a5f29479",
       "width": 0,
-      "x": 1089,
-      "y": 168,
+      "x": 831,
+      "y": 171,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -172,8 +167,8 @@
       "name": "Socalo",
       "persistentUuid": "e945d545-d3bd-49c2-8672-7b6721c69a21",
       "width": 0,
-      "x": 1089,
-      "y": 318,
+      "x": 831,
+      "y": 321,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -195,8 +190,8 @@
       "name": "Socalo",
       "persistentUuid": "6ab3bba3-9b2b-4665-bf01-cae3d3d80b7c",
       "width": 0,
-      "x": 789,
-      "y": 318,
+      "x": 531,
+      "y": 321,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -218,8 +213,8 @@
       "name": "Socalo",
       "persistentUuid": "f935f904-8974-4efd-8d26-8ef7f7f1c4d7",
       "width": 0,
-      "x": 339,
-      "y": 468,
+      "x": 81,
+      "y": 471,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -241,8 +236,8 @@
       "name": "Socalo",
       "persistentUuid": "e777e5dd-08e6-4a99-9804-d84764d784ea",
       "width": 0,
-      "x": 639,
-      "y": 318,
+      "x": 381,
+      "y": 321,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -264,8 +259,8 @@
       "name": "Socalo",
       "persistentUuid": "ad961a66-ca2e-47ff-93db-8d21fba37889",
       "width": 0,
-      "x": 639,
-      "y": 468,
+      "x": 381,
+      "y": 471,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -287,8 +282,8 @@
       "name": "Socalo",
       "persistentUuid": "fb248f4a-a07b-43bc-960d-b43902bdd68c",
       "width": 0,
-      "x": 789,
-      "y": 468,
+      "x": 531,
+      "y": 471,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -310,8 +305,8 @@
       "name": "Socalo",
       "persistentUuid": "995724df-3da2-4030-b6af-cf7cd0061b17",
       "width": 0,
-      "x": 339,
-      "y": 618,
+      "x": 81,
+      "y": 621,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -333,8 +328,8 @@
       "name": "Socalo",
       "persistentUuid": "cba4b69a-34db-4d69-9ca1-65b27b06c938",
       "width": 0,
-      "x": 789,
-      "y": 618,
+      "x": 531,
+      "y": 621,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -356,8 +351,8 @@
       "name": "Pieza",
       "persistentUuid": "8867fcd9-ec8a-43c3-a30f-a240c1a253fd",
       "width": 0,
-      "x": 0,
-      "y": 803,
+      "x": -99,
+      "y": 814,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -396,8 +391,8 @@
       "name": "Pieza",
       "persistentUuid": "b0e9a142-ab6e-4bb3-bf89-d6bd604e0856",
       "width": 0,
-      "x": 0,
-      "y": 145,
+      "x": -99,
+      "y": 156,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -453,8 +448,8 @@
       "name": "Socalo",
       "persistentUuid": "444b5ea3-435a-412c-b992-3c2e5a2716c4",
       "width": 0,
-      "x": 1089,
-      "y": 618,
+      "x": 831,
+      "y": 621,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -476,8 +471,8 @@
       "name": "Socalo",
       "persistentUuid": "132922b5-cc10-493b-b0ed-6b160ce879aa",
       "width": 0,
-      "x": 1089,
-      "y": 468,
+      "x": 831,
+      "y": 471,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -499,8 +494,8 @@
       "name": "Socalo",
       "persistentUuid": "ab7eaa9b-cc72-42cc-9f32-83cf58880ade",
       "width": 0,
-      "x": 939,
-      "y": 318,
+      "x": 681,
+      "y": 321,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -522,8 +517,8 @@
       "name": "Socalo",
       "persistentUuid": "309cd7c9-c4a1-4a98-b11c-93036a16ca46",
       "width": 0,
-      "x": 939,
-      "y": 168,
+      "x": 681,
+      "y": 171,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -545,8 +540,8 @@
       "name": "Pieza",
       "persistentUuid": "c411e87b-f074-47a6-85d3-b550b58b14dc",
       "width": 0,
-      "x": 0,
-      "y": 351,
+      "x": -99,
+      "y": 362,
       "zOrder": 17,
       "numberProperties": [
         {
@@ -585,8 +580,8 @@
       "name": "Pieza",
       "persistentUuid": "7b911376-6e7c-4d1a-b3b0-e5fd53506773",
       "width": 0,
-      "x": 0,
-      "y": 593,
+      "x": -99,
+      "y": 604,
       "zOrder": 18,
       "numberProperties": [
         {
@@ -625,8 +620,8 @@
       "name": "Pieza",
       "persistentUuid": "c36f32f3-7878-44b4-88ca-f17d10fc0fc8",
       "width": 0,
-      "x": 0,
-      "y": 689,
+      "x": -99,
+      "y": 700,
       "zOrder": 19,
       "numberProperties": [
         {
@@ -665,8 +660,8 @@
       "name": "Pieza",
       "persistentUuid": "6420bbfc-6634-4461-a2f9-17f14ebeb6d9",
       "width": 0,
-      "x": 3,
-      "y": 0,
+      "x": -96,
+      "y": 11,
       "zOrder": 20,
       "numberProperties": [
         {
@@ -705,8 +700,8 @@
       "name": "Pieza",
       "persistentUuid": "e4ba49ab-f85d-4c73-80c0-84885ed36cc9",
       "width": 0,
-      "x": 1375,
-      "y": 0,
+      "x": 1103,
+      "y": 11,
       "zOrder": 21,
       "numberProperties": [
         {
@@ -745,8 +740,8 @@
       "name": "Pieza",
       "persistentUuid": "4ee526ff-74c3-40d6-81a5-ecdcb735bb49",
       "width": 0,
-      "x": 0,
-      "y": -13,
+      "x": -99,
+      "y": -2,
       "zOrder": 22,
       "numberProperties": [
         {
@@ -785,8 +780,8 @@
       "name": "Pieza",
       "persistentUuid": "503dbe38-7a38-42ee-bcc6-646f4a969fc7",
       "width": 0,
-      "x": 0,
-      "y": 84,
+      "x": -99,
+      "y": 95,
       "zOrder": 23,
       "numberProperties": [
         {
@@ -825,8 +820,8 @@
       "name": "Pieza",
       "persistentUuid": "6cbcd0a4-8451-485c-8e4d-4d24d89fea11",
       "width": 0,
-      "x": 0,
-      "y": 36,
+      "x": -99,
+      "y": 47,
       "zOrder": 24,
       "numberProperties": [
         {
@@ -865,8 +860,8 @@
       "name": "Pieza",
       "persistentUuid": "4d8b6c6d-a3f8-4031-b9ad-40e6bbfbe006",
       "width": 0,
-      "x": 1375,
-      "y": 582,
+      "x": 1103,
+      "y": 593,
       "zOrder": 25,
       "numberProperties": [
         {
@@ -905,8 +900,8 @@
       "name": "Pieza",
       "persistentUuid": "24f13a02-c30a-4246-ab40-9359bad53a9e",
       "width": 0,
-      "x": 1375,
-      "y": 774,
+      "x": 1103,
+      "y": 785,
       "zOrder": 26,
       "numberProperties": [
         {
@@ -945,8 +940,8 @@
       "name": "Pieza",
       "persistentUuid": "46b2bc9c-b393-4088-ba2d-d7331e1f1c82",
       "width": 0,
-      "x": 1375,
-      "y": 687,
+      "x": 1103,
+      "y": 698,
       "zOrder": 27,
       "numberProperties": [
         {
@@ -985,8 +980,8 @@
       "name": "Pieza",
       "persistentUuid": "34fed27e-b22e-4d4a-9a08-8270cdaaf656",
       "width": 0,
-      "x": 0,
-      "y": 469,
+      "x": -99,
+      "y": 480,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1025,8 +1020,8 @@
       "name": "Pieza",
       "persistentUuid": "b710e4a0-3619-4e58-b702-d5cef859137e",
       "width": 0,
-      "x": 1375,
-      "y": 288,
+      "x": 1103,
+      "y": 299,
       "zOrder": 29,
       "numberProperties": [
         {
@@ -1065,8 +1060,8 @@
       "name": "Pieza",
       "persistentUuid": "fa75a281-e6da-4793-a646-17d8bd69bb6a",
       "width": 0,
-      "x": 1375,
-      "y": 380,
+      "x": 1103,
+      "y": 391,
       "zOrder": 30,
       "numberProperties": [
         {
@@ -1105,8 +1100,8 @@
       "name": "Pieza",
       "persistentUuid": "e9e10e5b-58d5-4d9c-ad49-b64481ef521c",
       "width": 0,
-      "x": 1375,
-      "y": 131,
+      "x": 1103,
+      "y": 142,
       "zOrder": 31,
       "numberProperties": [
         {
@@ -1145,8 +1140,8 @@
       "name": "Pieza",
       "persistentUuid": "485c584e-7930-4c48-b8b5-a90b3745af85",
       "width": 0,
-      "x": 1375,
-      "y": 57,
+      "x": 1103,
+      "y": 68,
       "zOrder": 32,
       "numberProperties": [
         {
@@ -1185,8 +1180,8 @@
       "name": "Pieza",
       "persistentUuid": "8857518d-cbf2-435e-ada9-b744f33b4386",
       "width": 0,
-      "x": 0,
-      "y": 927,
+      "x": -99,
+      "y": 938,
       "zOrder": 33,
       "numberProperties": [
         {
@@ -1225,8 +1220,8 @@
       "name": "Pieza",
       "persistentUuid": "39e5f3bb-db03-4e3c-aa51-3a1ce84b3af9",
       "width": 0,
-      "x": 0,
-      "y": 239,
+      "x": -99,
+      "y": 250,
       "zOrder": 34,
       "numberProperties": [
         {
@@ -1265,8 +1260,8 @@
       "name": "Pieza",
       "persistentUuid": "6742d77c-553b-4f0c-960d-e665cf6a1d74",
       "width": 0,
-      "x": 1375,
-      "y": 488,
+      "x": 1103,
+      "y": 499,
       "zOrder": 31,
       "numberProperties": [
         {
@@ -1305,8 +1300,8 @@
       "name": "Pieza",
       "persistentUuid": "6a588f6c-1be9-4fdb-b8a1-b13e8199b3c8",
       "width": 0,
-      "x": 1375,
-      "y": 230,
+      "x": 1103,
+      "y": 241,
       "zOrder": 31,
       "numberProperties": [
         {
@@ -1345,8 +1340,8 @@
       "name": "Socalo",
       "persistentUuid": "8f14087d-d120-4e06-a367-bb402f87cd17",
       "width": 0,
-      "x": 489,
-      "y": 168,
+      "x": 231,
+      "y": 171,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1368,8 +1363,8 @@
       "name": "Socalo",
       "persistentUuid": "91cf4deb-6bfc-4520-a796-1dcc287ea0a3",
       "width": 0,
-      "x": 489,
-      "y": 468,
+      "x": 231,
+      "y": 471,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1391,8 +1386,8 @@
       "name": "Socalo",
       "persistentUuid": "03d03632-f2f3-496e-8cc4-46df7c779908",
       "width": 0,
-      "x": 489,
-      "y": 618,
+      "x": 231,
+      "y": 621,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1414,8 +1409,8 @@
       "name": "Pieza",
       "persistentUuid": "425de15e-7c06-44b6-a50c-d7279f48faef",
       "width": 0,
-      "x": 1375,
-      "y": 868,
+      "x": 1103,
+      "y": 879,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1454,8 +1449,8 @@
       "name": "Pieza",
       "persistentUuid": "632f442b-6875-4a8e-92d6-bb71568964a3",
       "width": 0,
-      "x": 1375,
-      "y": 909,
+      "x": 1103,
+      "y": 920,
       "zOrder": 28,
       "numberProperties": [
         {
@@ -1494,8 +1489,8 @@
       "name": "Socalo",
       "persistentUuid": "0e49219d-f9c2-4523-85d7-47c1eb146ec5",
       "width": 0,
-      "x": 339,
-      "y": 318,
+      "x": 81,
+      "y": 321,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1517,8 +1512,8 @@
       "name": "Socalo",
       "persistentUuid": "a7822d3a-3a80-42be-a890-9b18ce7baf6f",
       "width": 0,
-      "x": 489,
-      "y": 318,
+      "x": 231,
+      "y": 321,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1540,8 +1535,8 @@
       "name": "Socalo",
       "persistentUuid": "9c1382e5-4212-4123-aa53-3489d8dcae87",
       "width": 0,
-      "x": 939,
-      "y": 468,
+      "x": 681,
+      "y": 471,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1563,8 +1558,8 @@
       "name": "Socalo",
       "persistentUuid": "4b0fce58-b155-4de4-8a3b-e03d168f0c3b",
       "width": 0,
-      "x": 939,
-      "y": 618,
+      "x": 681,
+      "y": 621,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1586,8 +1581,8 @@
       "name": "Socalo",
       "persistentUuid": "4856ff92-e86b-417d-a35b-35a1b61d0640",
       "width": 0,
-      "x": 789,
-      "y": 768,
+      "x": 531,
+      "y": 771,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1596,7 +1591,7 @@
           "folded": true,
           "name": "ubicacion",
           "type": "string",
-          "value": "a4"
+          "value": "e4"
         }
       ]
     },
@@ -1609,8 +1604,8 @@
       "name": "Socalo",
       "persistentUuid": "253a610e-68cf-4c4f-aa0b-9b4e5ffffef5",
       "width": 0,
-      "x": 339,
-      "y": 768,
+      "x": 81,
+      "y": 771,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1619,7 +1614,7 @@
           "folded": true,
           "name": "ubicacion",
           "type": "string",
-          "value": "a1"
+          "value": "e1"
         }
       ]
     },
@@ -1632,8 +1627,8 @@
       "name": "Socalo",
       "persistentUuid": "61860be6-0d00-4e15-8760-85dfb38e6562",
       "width": 0,
-      "x": 639,
-      "y": 768,
+      "x": 381,
+      "y": 771,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1642,7 +1637,7 @@
           "folded": true,
           "name": "ubicacion",
           "type": "string",
-          "value": "a3"
+          "value": "e3"
         }
       ]
     },
@@ -1655,8 +1650,8 @@
       "name": "Socalo",
       "persistentUuid": "d039b855-27ff-4ae8-a0cb-43f36f103598",
       "width": 0,
-      "x": 1089,
-      "y": 768,
+      "x": 831,
+      "y": 771,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1665,7 +1660,7 @@
           "folded": true,
           "name": "ubicacion",
           "type": "string",
-          "value": "a6"
+          "value": "e6"
         }
       ]
     },
@@ -1678,8 +1673,8 @@
       "name": "Socalo",
       "persistentUuid": "960918cf-fe0b-4b91-9abe-71dba44d0708",
       "width": 0,
-      "x": 939,
-      "y": 768,
+      "x": 681,
+      "y": 771,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1688,7 +1683,7 @@
           "folded": true,
           "name": "ubicacion",
           "type": "string",
-          "value": "a5"
+          "value": "e5"
         }
       ]
     },
@@ -1701,8 +1696,8 @@
       "name": "Socalo",
       "persistentUuid": "09602cb4-a72c-4f9f-866f-b1b423f4ac0a",
       "width": 0,
-      "x": 489,
-      "y": 768,
+      "x": 231,
+      "y": 771,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -1711,43 +1706,9 @@
           "folded": true,
           "name": "ubicacion",
           "type": "string",
-          "value": "a2"
+          "value": "e2"
         }
       ]
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 997,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewTiledSprite2",
-      "persistentUuid": "fdfc1c29-f894-486e-b681-135cf7a2aaed",
-      "width": 1138,
-      "x": 214,
-      "y": 52,
-      "zOrder": 35,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 48,
-      "height": 128,
-      "keepRatio": true,
-      "layer": "",
-      "name": "btn_back",
-      "persistentUuid": "867582a6-3103-4b84-b756-ba255dca7e9b",
-      "width": 343,
-      "x": 1562,
-      "y": 937,
-      "zOrder": 36,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
     },
     {
       "angle": 0,
@@ -1805,22 +1766,6 @@
       "customSize": true,
       "depth": 0,
       "height": 60,
-      "layer": "",
-      "name": "timerHours",
-      "persistentUuid": "083f310f-16e4-4b6e-b056-91bfa3d23d82",
-      "width": 80,
-      "x": 1585,
-      "y": 110,
-      "zOrder": 40,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 60,
       "keepRatio": true,
       "layer": "",
       "name": "timerSeparator",
@@ -1829,6 +1774,22 @@
       "x": 1665,
       "y": 110,
       "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1180,
+      "layer": "",
+      "name": "background",
+      "persistentUuid": "2356df18-51f6-446e-a159-da9192d99364",
+      "width": 2070,
+      "x": 0,
+      "y": 0,
+      "zOrder": 42,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1869,7 +1830,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\socket16",
+                  "image": "assets\\puzzles\\socket24",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1885,20 +1846,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 5,
-                        "y": 5
+                        "x": 18,
+                        "y": 22
                       },
                       {
-                        "x": 95,
-                        "y": 5
+                        "x": 131.5,
+                        "y": 23.5
                       },
                       {
-                        "x": 95,
-                        "y": 95
+                        "x": 132,
+                        "y": 131
                       },
                       {
-                        "x": 5,
-                        "y": 95
+                        "x": 19,
+                        "y": 129.5
                       }
                     ]
                   ]
@@ -1977,20 +1938,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2026,20 +1987,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2075,20 +2036,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2124,20 +2085,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2173,20 +2134,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2222,20 +2183,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2271,20 +2232,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2320,20 +2281,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2369,20 +2330,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2418,20 +2379,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2467,20 +2428,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2516,20 +2477,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2565,20 +2526,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2614,20 +2575,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2663,20 +2624,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2712,20 +2673,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2761,20 +2722,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2810,20 +2771,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2859,20 +2820,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2908,20 +2869,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -2957,20 +2918,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -3006,20 +2967,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -3055,20 +3016,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -3104,20 +3065,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 20,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 0
+                        "x": 128,
+                        "y": 21.5
                       },
                       {
-                        "x": 100,
-                        "y": 100
+                        "x": 131,
+                        "y": 132
                       },
                       {
-                        "x": 0,
-                        "y": 100
+                        "x": 20,
+                        "y": 131.5
                       }
                     ]
                   ]
@@ -3149,270 +3110,6 @@
     },
     {
       "assetStoreId": "",
-      "height": 32,
-      "name": "NewTiledSprite",
-      "texture": "assets\\puzzles\\ec\\FondoEC.jpg",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\LogotipoPuzzle.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 1024,
-                        "y": 0
-                      },
-                      {
-                        "x": 1024,
-                        "y": 1024
-                      },
-                      {
-                        "x": 0,
-                        "y": 1024
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite2",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [
-        {
-          "effectType": "Outline",
-          "name": "Effect",
-          "doubleParameters": {
-            "padding": 0,
-            "thickness": 2
-          },
-          "stringParameters": {
-            "color": "194;168;168"
-          },
-          "booleanParameters": {}
-        }
-      ],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\Fondo_con_Condor.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 1024,
-                        "y": 0
-                      },
-                      {
-                        "x": 1024,
-                        "y": 1024
-                      },
-                      {
-                        "x": 0,
-                        "y": 1024
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite3",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\Bandera_EC.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 1024,
-                        "y": 0
-                      },
-                      {
-                        "x": 1024,
-                        "y": 1024
-                      },
-                      {
-                        "x": 0,
-                        "y": 1024
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "NewSprite4",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ec\\Fondo_volcan.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 48
-                      },
-                      {
-                        "x": 2300,
-                        "y": 48
-                      },
-                      {
-                        "x": 2300,
-                        "y": 975
-                      },
-                      {
-                        "x": 0,
-                        "y": 975
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
       "height": 750,
       "name": "NewTiledSprite2",
       "texture": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png4",
@@ -3421,88 +3118,6 @@
       "variables": [],
       "effects": [],
       "behaviors": []
-    },
-    {
-      "assetStoreId": "72c8adcfb9187ebb5fcfbcd75bc18c74d6af5507e7c482cadcfad28f8011b387",
-      "name": "btn_back",
-      "type": "PanelSpriteButton::PanelSpriteButton",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "BottomPadding": 0,
-        "TopPadding": 0,
-        "LeftPadding": 10,
-        "RightPadding": 10,
-        "PressedLabelOffsetY": 2
-      },
-      "childrenContent": {
-        "Hovered": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 56,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Hovered.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        },
-        "Idle": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 56,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Idle.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        },
-        "Label": {
-          "bold": false,
-          "italic": false,
-          "smoothed": true,
-          "underlined": false,
-          "string": "Regresar",
-          "font": "Poppins-Medium.ttf",
-          "textAlignment": "center",
-          "characterSize": 60,
-          "color": {
-            "b": 0,
-            "g": 42,
-            "r": 117
-          },
-          "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
-            "shadowAngle": 90,
-            "shadowBlurRadius": 2,
-            "shadowColor": "0;0;0",
-            "shadowDistance": 4,
-            "shadowOpacity": 127,
-            "smoothed": true,
-            "underlined": false,
-            "text": "Regresar",
-            "font": "Poppins-Medium.ttf",
-            "textAlignment": "center",
-            "characterSize": 60,
-            "color": "117;42;0"
-          }
-        },
-        "Pressed": {
-          "bottomMargin": 35,
-          "height": 128,
-          "leftMargin": 35,
-          "rightMargin": 35,
-          "texture": "Orange Bubble Button_Pressed.png",
-          "tiled": false,
-          "topMargin": 35,
-          "width": 256
-        }
-      }
     },
     {
       "assetStoreId": "",
@@ -3629,44 +3244,14 @@
     },
     {
       "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "timerHours",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
+      "height": 32,
+      "name": "background",
+      "texture": "assets\\puzzles\\ec\\bg1.jpg2",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
       "variables": [],
       "effects": [],
-      "behaviors": [],
-      "string": "00",
-      "font": "",
-      "textAlignment": "center",
-      "characterSize": 50,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 253
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "00",
-        "font": "",
-        "textAlignment": "center",
-        "characterSize": 50,
-        "color": "253;0;0"
-      }
+      "behaviors": []
     }
   ],
   "objectsFolderStructure": {
@@ -3682,9 +3267,6 @@
             "objectName": "timerMinutes"
           },
           {
-            "objectName": "timerHours"
-          },
-          {
             "objectName": "timerSeparator"
           }
         ]
@@ -3692,9 +3274,6 @@
       {
         "folderName": "Player",
         "children": [
-          {
-            "objectName": "btn_back"
-          },
           {
             "objectName": "Pieza"
           },
@@ -3707,19 +3286,7 @@
         "folderName": "Fondo",
         "children": [
           {
-            "objectName": "NewSprite2"
-          },
-          {
-            "objectName": "NewSprite"
-          },
-          {
-            "objectName": "NewTiledSprite"
-          },
-          {
-            "objectName": "NewSprite4"
-          },
-          {
-            "objectName": "NewSprite3"
+            "objectName": "background"
           }
         ]
       },
@@ -3737,6 +3304,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3765,7 +3333,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4082,110 +3649,112 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Quitar una pieza de un socalo",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
-    },
-    {
-      "folded": true,
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "MouseButtonReleased"
-          },
-          "parameters": [
-            "",
-            "Right"
-          ]
-        },
-        {
-          "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Pieza",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "Pieza",
-            "=",
-            "Pieza.Variable(posicion_inicial_x)",
-            "=",
-            "Pieza.Variable(posicion_inicial_y)"
-          ]
-        },
-        {
-          "type": {
-            "value": "ModVarObjet"
-          },
-          "parameters": [
-            "Pieza",
-            "colocada",
-            "=",
-            "0"
-          ]
-        }
-      ],
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "VarObjetTxt"
+                "value": "MouseButtonReleased"
               },
               "parameters": [
-                "Socalo",
-                "ubicacion",
-                "=",
-                "Pieza.VariableString(ubicacion)"
+                "",
+                "Right"
               ]
             },
             {
               "type": {
-                "value": "VarObjet"
+                "value": "SourisSurObjet"
               },
               "parameters": [
-                "Socalo",
-                "correcto",
-                "=",
-                "1"
+                "Pieza",
+                "",
+                "",
+                ""
               ]
             }
           ],
           "actions": [
             {
               "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "Pieza.Variable(posicion_inicial_x)",
+                "=",
+                "Pieza.Variable(posicion_inicial_y)"
+              ]
+            },
+            {
+              "type": {
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "Socalo",
-                "correcto",
+                "Pieza",
+                "colocada",
                 "=",
                 "0"
               ]
             }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjetTxt"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "ubicacion",
+                    "=",
+                    "Pieza.VariableString(ubicacion)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            }
           ]
         }
-      ]
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4262,6 +3831,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4290,17 +3860,6 @@
                 "Text",
                 "=",
                 "VariableString(timerMinutes)"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "timerHours",
-                "Text",
-                "=",
-                "VariableString(timerHours)"
               ]
             }
           ]
@@ -4501,6 +4060,11 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
@@ -4514,7 +4078,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "",
       "renderingType": "",
       "visibility": true,
@@ -4594,7 +4158,7 @@
       "isLocked": false,
       "name": "UI",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
