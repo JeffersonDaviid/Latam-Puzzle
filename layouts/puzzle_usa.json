@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2743347063776103,
+    "zoomFactor": 0.303033001097634,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,13 +32,13 @@
       "folded": true,
       "name": "timerSeconds",
       "type": "string",
-      "value": ""
+      "value": "00"
     },
     {
       "folded": true,
       "name": "timerMinutes",
       "type": "string",
-      "value": ""
+      "value": "05"
     }
   ],
   "instances": [
@@ -50,8 +50,8 @@
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
       "width": 0,
-      "x": 1071,
-      "y": 354,
+      "x": 1028,
+      "y": 168,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -86,8 +86,8 @@
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
       "width": 0,
-      "x": 1371,
-      "y": 354,
+      "x": 1328,
+      "y": 168,
       "zOrder": 2,
       "numberProperties": [
         {
@@ -122,8 +122,8 @@
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
       "width": 0,
-      "x": 1221,
-      "y": 354,
+      "x": 1178,
+      "y": 168,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -158,8 +158,8 @@
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
       "width": 0,
-      "x": 1521,
-      "y": 354,
+      "x": 1478,
+      "y": 168,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -194,8 +194,8 @@
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
       "width": 0,
-      "x": 1671,
-      "y": 354,
+      "x": 1628,
+      "y": 168,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -230,8 +230,8 @@
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
       "width": 0,
-      "x": 1821,
-      "y": 354,
+      "x": 1778,
+      "y": 168,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -266,8 +266,8 @@
       "name": "Pieza",
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
       "width": 0,
-      "x": 1071,
-      "y": 504,
+      "x": 1028,
+      "y": 318,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -302,8 +302,8 @@
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
       "width": 0,
-      "x": 1221,
-      "y": 504,
+      "x": 1178,
+      "y": 318,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -338,8 +338,8 @@
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
       "width": 0,
-      "x": 1371,
-      "y": 504,
+      "x": 1328,
+      "y": 318,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -374,8 +374,8 @@
       "name": "Socalo",
       "persistentUuid": "152ab44e-ed76-4177-b9be-cc22e3a32a73",
       "width": 0,
-      "x": 88,
-      "y": 165,
+      "x": 87,
+      "y": 103,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -395,8 +395,8 @@
       "name": "Socalo",
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
-      "x": 238,
-      "y": 165,
+      "x": 237,
+      "y": 103,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -416,8 +416,8 @@
       "name": "Socalo",
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
-      "x": 388,
-      "y": 165,
+      "x": 387,
+      "y": 103,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -437,8 +437,8 @@
       "name": "Socalo",
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
-      "x": 88,
-      "y": 315,
+      "x": 87,
+      "y": 253,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -458,8 +458,8 @@
       "name": "Socalo",
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
-      "x": 238,
-      "y": 315,
+      "x": 237,
+      "y": 253,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -479,8 +479,8 @@
       "name": "Socalo",
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
-      "x": 388,
-      "y": 315,
+      "x": 387,
+      "y": 253,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -500,8 +500,8 @@
       "name": "Socalo",
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
-      "x": 88,
-      "y": 465,
+      "x": 87,
+      "y": 403,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -521,8 +521,8 @@
       "name": "Socalo",
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
-      "x": 238,
-      "y": 465,
+      "x": 237,
+      "y": 403,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -542,8 +542,8 @@
       "name": "Socalo",
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
-      "x": 388,
-      "y": 465,
+      "x": 387,
+      "y": 403,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -595,8 +595,8 @@
       "name": "Socalo",
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
-      "x": 538,
-      "y": 165,
+      "x": 537,
+      "y": 103,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -616,8 +616,8 @@
       "name": "Socalo",
       "persistentUuid": "de803d45-900f-47e6-845e-c3aba266c45c",
       "width": 0,
-      "x": 688,
-      "y": 165,
+      "x": 687,
+      "y": 103,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -637,8 +637,8 @@
       "name": "Socalo",
       "persistentUuid": "94a5173d-9b41-4201-90b1-31b98d68613e",
       "width": 0,
-      "x": 838,
-      "y": 165,
+      "x": 837,
+      "y": 103,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -658,8 +658,8 @@
       "name": "Socalo",
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
-      "x": 538,
-      "y": 315,
+      "x": 537,
+      "y": 253,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -679,8 +679,8 @@
       "name": "Socalo",
       "persistentUuid": "d8305d67-cf5c-4d14-bdf4-fd94f737e6d7",
       "width": 0,
-      "x": 688,
-      "y": 315,
+      "x": 687,
+      "y": 253,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -700,8 +700,8 @@
       "name": "Socalo",
       "persistentUuid": "ec9ae6c8-6ae1-45c7-b2e0-2d20fc9b9871",
       "width": 0,
-      "x": 838,
-      "y": 315,
+      "x": 837,
+      "y": 253,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -721,8 +721,8 @@
       "name": "Socalo",
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
-      "x": 538,
-      "y": 465,
+      "x": 537,
+      "y": 403,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -742,8 +742,8 @@
       "name": "Socalo",
       "persistentUuid": "1bf95230-f947-4504-b68a-a4d8ea0ce516",
       "width": 0,
-      "x": 688,
-      "y": 465,
+      "x": 687,
+      "y": 403,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -763,8 +763,8 @@
       "name": "Socalo",
       "persistentUuid": "29794aba-8369-407f-80a5-dc8ae0b68e57",
       "width": 0,
-      "x": 838,
-      "y": 465,
+      "x": 837,
+      "y": 403,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -784,8 +784,8 @@
       "name": "Socalo",
       "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
       "width": 0,
-      "x": 88,
-      "y": 615,
+      "x": 87,
+      "y": 553,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -805,8 +805,8 @@
       "name": "Socalo",
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
-      "x": 238,
-      "y": 615,
+      "x": 237,
+      "y": 553,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -826,8 +826,8 @@
       "name": "Socalo",
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
-      "x": 388,
-      "y": 615,
+      "x": 387,
+      "y": 553,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -847,8 +847,8 @@
       "name": "Socalo",
       "persistentUuid": "e8d46c22-9412-44ee-840a-391d7de3e92b",
       "width": 0,
-      "x": 88,
-      "y": 765,
+      "x": 87,
+      "y": 703,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -868,8 +868,8 @@
       "name": "Socalo",
       "persistentUuid": "32d385e7-f8e6-43d7-9d50-9cab30ab1aa4",
       "width": 0,
-      "x": 238,
-      "y": 765,
+      "x": 237,
+      "y": 703,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -889,8 +889,8 @@
       "name": "Socalo",
       "persistentUuid": "84cde2da-051a-4c8b-b308-705b1c68c356",
       "width": 0,
-      "x": 388,
-      "y": 765,
+      "x": 387,
+      "y": 703,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -910,8 +910,8 @@
       "name": "Socalo",
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
-      "x": 538,
-      "y": 615,
+      "x": 537,
+      "y": 553,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -931,8 +931,8 @@
       "name": "Socalo",
       "persistentUuid": "262c50ff-389b-4321-8a0a-dae3dd7a2f12",
       "width": 0,
-      "x": 688,
-      "y": 615,
+      "x": 687,
+      "y": 553,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -952,8 +952,8 @@
       "name": "Socalo",
       "persistentUuid": "c5ad6004-2300-4b76-92aa-e4331b9f810d",
       "width": 0,
-      "x": 838,
-      "y": 615,
+      "x": 837,
+      "y": 553,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -973,8 +973,8 @@
       "name": "Socalo",
       "persistentUuid": "f32d8287-5076-4f60-8fe5-9bb8297eb868",
       "width": 0,
-      "x": 538,
-      "y": 765,
+      "x": 537,
+      "y": 703,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -994,8 +994,8 @@
       "name": "Socalo",
       "persistentUuid": "9bb85186-d4b0-42e4-8941-5f680741beda",
       "width": 0,
-      "x": 688,
-      "y": 765,
+      "x": 687,
+      "y": 703,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -1015,8 +1015,8 @@
       "name": "Socalo",
       "persistentUuid": "78455ab2-e533-434b-a840-74f1f15ad74c",
       "width": 0,
-      "x": 838,
-      "y": 765,
+      "x": 837,
+      "y": 703,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -1036,8 +1036,8 @@
       "name": "Pieza",
       "persistentUuid": "c957ed84-ffe3-4071-af03-dab4a7c7be0b",
       "width": 0,
-      "x": 1521,
-      "y": 504,
+      "x": 1478,
+      "y": 318,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -1072,8 +1072,8 @@
       "name": "Pieza",
       "persistentUuid": "72eb63d0-2cdb-4ba1-b402-ef6b71cc1d35",
       "width": 0,
-      "x": 1671,
-      "y": 504,
+      "x": 1628,
+      "y": 318,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -1108,8 +1108,8 @@
       "name": "Pieza",
       "persistentUuid": "9e65a187-6d38-4be7-b3ef-fbfe06f8ed88",
       "width": 0,
-      "x": 1821,
-      "y": 504,
+      "x": 1778,
+      "y": 318,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -1144,8 +1144,8 @@
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
       "width": 0,
-      "x": 1071,
-      "y": 654,
+      "x": 1028,
+      "y": 468,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -1180,8 +1180,8 @@
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
       "width": 0,
-      "x": 1371,
-      "y": 654,
+      "x": 1328,
+      "y": 468,
       "zOrder": 2,
       "numberProperties": [
         {
@@ -1216,8 +1216,8 @@
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
       "width": 0,
-      "x": 1221,
-      "y": 654,
+      "x": 1178,
+      "y": 468,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -1252,8 +1252,8 @@
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
       "width": 0,
-      "x": 1521,
-      "y": 654,
+      "x": 1478,
+      "y": 468,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -1288,8 +1288,8 @@
       "name": "Pieza",
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
       "width": 0,
-      "x": 1671,
-      "y": 654,
+      "x": 1628,
+      "y": 468,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -1324,8 +1324,8 @@
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
       "width": 0,
-      "x": 1821,
-      "y": 654,
+      "x": 1778,
+      "y": 468,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -1360,8 +1360,8 @@
       "name": "Pieza",
       "persistentUuid": "ea959d60-e42d-46af-b81b-c8bb7d1961b4",
       "width": 0,
-      "x": 1071,
-      "y": 804,
+      "x": 1028,
+      "y": 618,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -1396,8 +1396,8 @@
       "name": "Pieza",
       "persistentUuid": "b576135b-439d-423d-968e-f38fadfea8dd",
       "width": 0,
-      "x": 1221,
-      "y": 804,
+      "x": 1178,
+      "y": 618,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -1432,8 +1432,8 @@
       "name": "Pieza",
       "persistentUuid": "11e577a2-6050-4b63-85b3-647077238c9c",
       "width": 0,
-      "x": 1371,
-      "y": 804,
+      "x": 1328,
+      "y": 618,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -1468,8 +1468,8 @@
       "name": "Pieza",
       "persistentUuid": "0eb50dd2-da15-4d35-91b4-29efab9f6906",
       "width": 0,
-      "x": 1521,
-      "y": 804,
+      "x": 1478,
+      "y": 618,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -1504,8 +1504,8 @@
       "name": "Pieza",
       "persistentUuid": "ad20a1a8-e2e4-4966-a750-25bec25ee1bb",
       "width": 0,
-      "x": 1671,
-      "y": 804,
+      "x": 1628,
+      "y": 618,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -1540,8 +1540,8 @@
       "name": "Pieza",
       "persistentUuid": "2575debb-c36b-4183-8812-524eb7897444",
       "width": 0,
-      "x": 1821,
-      "y": 804,
+      "x": 1778,
+      "y": 618,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -1576,8 +1576,8 @@
       "name": "Pieza",
       "persistentUuid": "ea7533c5-beaa-41c4-950d-428b1300ef50",
       "width": 0,
-      "x": 1071,
-      "y": 954,
+      "x": 1028,
+      "y": 768,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -1612,8 +1612,8 @@
       "name": "Pieza",
       "persistentUuid": "1cbdc06e-c061-4fb4-b349-645a1a5ad3a8",
       "width": 0,
-      "x": 1221,
-      "y": 954,
+      "x": 1178,
+      "y": 768,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -1648,8 +1648,8 @@
       "name": "Pieza",
       "persistentUuid": "38783880-8242-46e8-adfb-3b2dc649a24a",
       "width": 0,
-      "x": 1371,
-      "y": 954,
+      "x": 1328,
+      "y": 768,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -1684,8 +1684,8 @@
       "name": "Pieza",
       "persistentUuid": "894e0e94-72e6-4d9f-a2dd-4ee4bc62f8d3",
       "width": 0,
-      "x": 1521,
-      "y": 954,
+      "x": 1478,
+      "y": 768,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -1720,8 +1720,8 @@
       "name": "Pieza",
       "persistentUuid": "8acbcbb0-2f69-4fb1-8eca-6ddcb04c3739",
       "width": 0,
-      "x": 1671,
-      "y": 954,
+      "x": 1628,
+      "y": 768,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -1756,8 +1756,8 @@
       "name": "Pieza",
       "persistentUuid": "39a8d01f-0895-49a6-81c7-fc4ee093715b",
       "width": 0,
-      "x": 1821,
-      "y": 954,
+      "x": 1778,
+      "y": 768,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -1831,6 +1831,348 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "76d1dea1-c522-4f0b-8eed-fdc94cc84e18",
+      "width": 0,
+      "x": 87,
+      "y": 853,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f1"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "148c031d-3a2c-479c-aff6-aed7b1f2a832",
+      "width": 0,
+      "x": 237,
+      "y": 853,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f2"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "b7b69b12-594f-4e19-8151-16467bc894b6",
+      "width": 0,
+      "x": 387,
+      "y": 853,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f3"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "768364da-dda0-4306-a655-763caa62df86",
+      "width": 0,
+      "x": 537,
+      "y": 853,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f4"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "aa7b0e0b-0ecc-4ae3-8091-1f7d29db04d9",
+      "width": 0,
+      "x": 687,
+      "y": 853,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f5"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "adc6bc8e-e75e-4806-a846-d3b34563d197",
+      "width": 0,
+      "x": 837,
+      "y": 853,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f6"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "41d43d27-f62b-495c-a118-44521fdb6693",
+      "width": 0,
+      "x": 1028,
+      "y": 918,
+      "zOrder": 7,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 24
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f1"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "490"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "9a4b2f1c-0c3d-40f0-8785-42248742e376",
+      "width": 0,
+      "x": 1178,
+      "y": 918,
+      "zOrder": 8,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 25
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f2"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "560"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "4901e907-3e9b-4854-adc9-4faee81d14cf",
+      "width": 0,
+      "x": 1328,
+      "y": 918,
+      "zOrder": 9,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 26
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f3"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "630"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "7a09144a-78e7-4a4e-a76c-aa700b6fe5b5",
+      "width": 0,
+      "x": 1478,
+      "y": 918,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 27
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f4"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "280"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "1400d7af-681c-4377-85eb-8f34b3cf57c1",
+      "width": 0,
+      "x": 1628,
+      "y": 918,
+      "zOrder": 5,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 28
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f5"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "350"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "750c2656-0169-45ca-b96c-ce9eade5cd4e",
+      "width": 0,
+      "x": 1778,
+      "y": 918,
+      "zOrder": 6,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 29
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "f6"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "420"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
     }
   ],
   "objects": [
@@ -3454,7 +3796,7 @@
       "color": {
         "b": 0,
         "g": 0,
-        "r": 253
+        "r": 0
       },
       "content": {
         "bold": false,
@@ -3474,7 +3816,7 @@
         "font": "",
         "textAlignment": "center",
         "characterSize": 50,
-        "color": "253;0;0"
+        "color": "0;0;0"
       }
     },
     {
@@ -3493,9 +3835,9 @@
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
-        "b": 4,
-        "g": 4,
-        "r": 148
+        "b": 0,
+        "g": 0,
+        "r": 0
       },
       "content": {
         "bold": false,
@@ -3515,7 +3857,7 @@
         "font": "",
         "textAlignment": "left",
         "characterSize": 50,
-        "color": "148;4;4"
+        "color": "0;0;0"
       }
     },
     {
@@ -3529,14 +3871,14 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "00",
+      "string": "05",
       "font": "",
       "textAlignment": "center",
       "characterSize": 50,
       "color": {
         "b": 0,
         "g": 0,
-        "r": 253
+        "r": 0
       },
       "content": {
         "bold": false,
@@ -3552,11 +3894,11 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "00",
+        "text": "05",
         "font": "",
         "textAlignment": "center",
         "characterSize": 50,
-        "color": "253;0;0"
+        "color": "0;0;0"
       }
     }
   ],
@@ -4056,7 +4398,7 @@
       "colorR": 74,
       "creationTime": 0,
       "folded": true,
-      "name": "Comprobar si el puzzle está resulto",
+      "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
@@ -4193,25 +4535,100 @@
               },
               "parameters": [
                 "",
-                "\"timerSeconds\""
+                "\"timer\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "timerSeconds",
+                "Text",
+                "startsWith",
+                "\"0\""
               ]
             },
             {
               "type": {
-                "value": "ResetTimer"
+                "value": "VarSceneTxt"
               },
               "parameters": [
-                "",
-                "\"timerMinutes\""
+                "timerMinutes",
+                "!=",
+                "\"0\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "-",
+                "1"
               ]
             },
             {
               "type": {
-                "value": "ResetTimer"
+                "value": "ModVarScene"
               },
               "parameters": [
-                "",
-                "\"timerHours\""
+                "timerSeconds",
+                "=",
+                "59"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "timerMinutes",
+                "Text",
+                "=",
+                "\"0\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerSeconds",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerSeparator",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerMinutes",
+                "\"255;0;0\""
               ]
             }
           ]
@@ -4225,9 +4642,29 @@
               },
               "parameters": [
                 "",
-                "\"timerSeconds\"",
+                "\"timer\"",
                 ">",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "<",
+                "60"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarSceneTxt"
+              },
+              "parameters": [
+                "timerSeconds",
+                "!=",
+                "\"0\""
               ]
             }
           ],
@@ -4238,7 +4675,7 @@
               },
               "parameters": [
                 "timerSeconds",
-                "+",
+                "-",
                 "1"
               ]
             },
@@ -4248,122 +4685,7 @@
               },
               "parameters": [
                 "",
-                "\"timerSeconds\""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"timerSeconds\"",
-                    ">",
-                    "59"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"timerSeconds\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ModVarScene"
-                  },
-                  "parameters": [
-                    "timerSeconds",
-                    "=",
-                    "0"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"timerMinutes\"",
-                    ">",
-                    "59"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ModVarScene"
-                  },
-                  "parameters": [
-                    "timerMinutes",
-                    "+",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"timerMinutes\""
-                  ]
-                }
-              ],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CompareTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"timerMinutes\"",
-                        ">",
-                        "3540"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ModVarScene"
-                      },
-                      "parameters": [
-                        "timerMinutes",
-                        "=",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"timerMinutes\""
-                      ]
-                    }
-                  ]
-                }
+                "\"timer\""
               ]
             }
           ]
@@ -4372,7 +4694,8 @@
       "parameters": []
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
+      "type": "BuiltinCommonInstructions::ForEach",
+      "object": "",
       "conditions": [],
       "actions": []
     }
