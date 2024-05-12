@@ -23,25 +23,130 @@
   },
   "objectsGroups": [],
   "variables": [],
-  "instances": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 1182.709326072158,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Fondo",
+      "persistentUuid": "664c2073-8c2b-4356-a4eb-51957634e4d0",
+      "width": 2100,
+      "x": 2,
+      "y": -38,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 206,
+      "keepRatio": true,
+      "layer": "",
+      "name": "_1",
+      "persistentUuid": "5e4f769f-1e38-465b-9a5e-7c210801b9a8",
+      "width": 1535,
+      "x": 262,
+      "y": 439,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
   "objects": [
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite",
+      "name": "Fondo",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "animations": []
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Fondo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 4407,
+                        "y": 0
+                      },
+                      {
+                        "x": 4407,
+                        "y": 2482
+                      },
+                      {
+                        "x": 0,
+                        "y": 2482
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "_1",
+      "type": "BBText::BBText",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "[shadow=blue][i]EQUIPO DE DESARROLLO[/i][/shadow] \n\n\n\n\n[font=times][size=50][i]Desarrollador Principal[/i][/size][/font] [size=80]   [/size]\n",
+        "opacity": 255,
+        "fontSize": 110,
+        "visible": true,
+        "color": "253;253;253",
+        "fontFamily": "assets\\Kenney Pixel Square.ttf",
+        "align": "center",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "NewSprite"
+        "objectName": "Fondo"
+      },
+      {
+        "objectName": "_1"
       }
     ]
   },
@@ -92,5 +197,30 @@
       ]
     }
   ],
-  "behaviorsSharedData": []
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    }
+  ]
 }

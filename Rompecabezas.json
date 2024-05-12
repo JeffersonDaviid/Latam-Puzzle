@@ -2603,6 +2603,254 @@
         "name": "assets\\puzzles\\Game_Over\\Argentina_1.jpg",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\Kenney Pixel Square.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Boton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Boton1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Boton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Boton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Menu0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Menu0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Menu1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Menu1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Salir0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Salir0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Salir1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Salir1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Perdiste.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Perdiste.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/eu_0jpg.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\eu_0jpg.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/eu_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\eu_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Brasil_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Brasil_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Brasil_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Brasil_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Ecuador_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Ecuador_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Ecuador_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Ecuador_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Mexico_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Mexico_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Mexico_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Mexico_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/peru_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\peru_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/peru_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\peru_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Chile_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Chile_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Chile_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Chile_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Colombia_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Colombia_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Colombia_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Colombia_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Canada_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Canada_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Canada_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Canada_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Argentina_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Argentina_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Argentina_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Argentina_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/puzzles/Game_Over/Botones/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Kenney Pixel Square.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2632,15 +2880,20 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/creditos"
+      "referenceTo": "/layouts/puzzle_usa"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/puzzle_usa"
+      "referenceTo": "/layouts/creditos"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/speedrestrictions"
+    }
+  ],
   "externalLayouts": [],
   "externalSourceFiles": []
 }

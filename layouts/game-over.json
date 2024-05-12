@@ -318,7 +318,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Boton1.png",
+                  "image": "assets\\puzzles\\Game_Over\\Botones\\Boton1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -338,16 +338,16 @@
                         "y": 7
                       },
                       {
-                        "x": 1065,
+                        "x": 1061,
                         "y": 7
                       },
                       {
-                        "x": 1065,
-                        "y": 414
+                        "x": 1061,
+                        "y": 409
                       },
                       {
                         "x": 20,
-                        "y": 414
+                        "y": 409
                       }
                     ]
                   ]
@@ -366,7 +366,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Boton2.png",
+                  "image": "assets\\puzzles\\Game_Over\\Botones\\Boton2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -386,16 +386,16 @@
                         "y": 7
                       },
                       {
-                        "x": 1065,
+                        "x": 1061,
                         "y": 7
                       },
                       {
-                        "x": 1065,
-                        "y": 414
+                        "x": 1061,
+                        "y": 409
                       },
                       {
                         "x": 20,
-                        "y": 414
+                        "y": 409
                       }
                     ]
                   ]
@@ -426,7 +426,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Menu0.png",
+                  "image": "assets\\puzzles\\Game_Over\\Botones\\Menu0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -446,16 +446,16 @@
                         "y": 7
                       },
                       {
-                        "x": 1066,
+                        "x": 1062,
                         "y": 7
                       },
                       {
-                        "x": 1066,
-                        "y": 414
+                        "x": 1062,
+                        "y": 409
                       },
                       {
                         "x": 20,
-                        "y": 414
+                        "y": 409
                       }
                     ]
                   ]
@@ -474,7 +474,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Menu1.png",
+                  "image": "assets\\puzzles\\Game_Over\\Botones\\Menu1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -494,16 +494,16 @@
                         "y": 7
                       },
                       {
-                        "x": 1066,
+                        "x": 1062,
                         "y": 7
                       },
                       {
-                        "x": 1066,
-                        "y": 414
+                        "x": 1062,
+                        "y": 409
                       },
                       {
                         "x": 20,
-                        "y": 414
+                        "y": 409
                       }
                     ]
                   ]
@@ -534,7 +534,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Salir0.png",
+                  "image": "assets\\puzzles\\Game_Over\\Botones\\Salir0.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -554,16 +554,16 @@
                         "y": 7
                       },
                       {
-                        "x": 1066,
+                        "x": 1062,
                         "y": 7
                       },
                       {
-                        "x": 1066,
-                        "y": 414
+                        "x": 1062,
+                        "y": 409
                       },
                       {
                         "x": 20,
-                        "y": 414
+                        "y": 409
                       }
                     ]
                   ]
@@ -582,7 +582,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Salir1.png",
+                  "image": "assets\\puzzles\\Game_Over\\Botones\\Salir1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -602,16 +602,16 @@
                         "y": 7
                       },
                       {
-                        "x": 1066,
+                        "x": 1062,
                         "y": 7
                       },
                       {
-                        "x": 1066,
-                        "y": 414
+                        "x": 1062,
+                        "y": 409
                       },
                       {
                         "x": 20,
-                        "y": 414
+                        "y": 409
                       }
                     ]
                   ]
@@ -642,7 +642,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Perdiste.png",
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Perdiste.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -702,7 +702,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\eu_0jpg.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\eu_0jpg.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -722,16 +722,16 @@
                         "y": 0
                       },
                       {
-                        "x": 407,
+                        "x": 416,
                         "y": 0
                       },
                       {
-                        "x": 407,
-                        "y": 629
+                        "x": 416,
+                        "y": 643
                       },
                       {
                         "x": 0,
-                        "y": 629
+                        "y": 643
                       }
                     ]
                   ]
@@ -750,7 +750,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\eu_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\eu_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -770,16 +770,16 @@
                         "y": 0
                       },
                       {
-                        "x": 407,
+                        "x": 416,
                         "y": 0
                       },
                       {
-                        "x": 407,
-                        "y": 629
+                        "x": 416,
+                        "y": 643
                       },
                       {
                         "x": 0,
-                        "y": 629
+                        "y": 643
                       }
                     ]
                   ]
@@ -810,7 +810,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Brasil_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Brasil_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -858,7 +858,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Brasil_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Brasil_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -918,7 +918,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Mexico_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Mexico_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -966,7 +966,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Mexico_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Mexico_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1026,7 +1026,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\peru_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\peru_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1074,7 +1074,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\peru_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\peru_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1134,7 +1134,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Quito_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Ecuador_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1154,11 +1154,11 @@
                         "y": 0
                       },
                       {
-                        "x": 567,
+                        "x": 566,
                         "y": 0
                       },
                       {
-                        "x": 567,
+                        "x": 566,
                         "y": 378
                       },
                       {
@@ -1182,7 +1182,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Quito_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Ecuador_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1202,11 +1202,11 @@
                         "y": 0
                       },
                       {
-                        "x": 567,
+                        "x": 566,
                         "y": 0
                       },
                       {
-                        "x": 567,
+                        "x": 566,
                         "y": 378
                       },
                       {
@@ -1242,7 +1242,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Chile_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Chile_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1290,7 +1290,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Chile_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Chile_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1350,7 +1350,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Colombia_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Colombia_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1398,7 +1398,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Colombia_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Colombia_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1458,7 +1458,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Canada_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Canada_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1506,7 +1506,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Canada_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Canada_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1566,7 +1566,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Argentina_0.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Argentina_0.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1614,7 +1614,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Argentina_1.jpg",
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Argentina_1.jpg",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
