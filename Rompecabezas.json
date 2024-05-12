@@ -2405,6 +2405,204 @@
         "name": "assets\\puzzles\\Game_Over\\Salir1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Perdiste.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Perdiste.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/eu_0jpg.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\eu_0jpg.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/eu_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\eu_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brazil_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brazil_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brazil_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brazil_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brasil_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brasil_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brasil_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brasil_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Mexico_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Mexico_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Mexico_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Mexico_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/peru_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\peru_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/peru_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\peru_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Quito_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Quito_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Quito_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Quito_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Chile_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Chile_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Chile_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Chile_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Colombia_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Colombia_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Colombia_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Colombia_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Canada_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Canada_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Canada_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Canada_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Argentina_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Argentina_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Argentina_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Argentina_1.jpg",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
