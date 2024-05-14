@@ -34,7 +34,7 @@
       "name": "Fondo",
       "persistentUuid": "664c2073-8c2b-4356-a4eb-51957634e4d0",
       "width": 2100,
-      "x": 2,
+      "x": -11,
       "y": -38,
       "zOrder": 1,
       "numberProperties": [],
@@ -51,9 +51,77 @@
       "name": "_1",
       "persistentUuid": "5e4f769f-1e38-465b-9a5e-7c210801b9a8",
       "width": 1535,
-      "x": 262,
-      "y": 439,
+      "x": 295,
+      "y": 401,
       "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 1453.1645569620252,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Credito_0",
+      "persistentUuid": "f28f2914-71f5-4b7d-8410-fe225080fe66",
+      "width": 700,
+      "x": 308,
+      "y": 808,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 1453.16,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Credito_1",
+      "persistentUuid": "5ad8be17-d2c3-4b92-a1df-7156e48bbff8",
+      "width": 793.4354513888891,
+      "x": 1052,
+      "y": 749,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 399.99999999999994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Logo_EPN",
+      "persistentUuid": "e652b89b-4144-42ea-8329-13d62802bda5",
+      "width": 400,
+      "x": 507,
+      "y": 2340,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 389.86784140969166,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Logo_FIS",
+      "persistentUuid": "9768e2d3-1c46-49eb-bc72-016a1f075eee",
+      "width": 450,
+      "x": 1121,
+      "y": 2340,
+      "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -126,9 +194,14 @@
       "type": "BBText::BBText",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
       "content": {
-        "text": "[shadow=blue][i]EQUIPO DE DESARROLLO[/i][/shadow] \n\n\n\n\n[font=times][size=50][i]Desarrollador Principal[/i][/size][/font] [size=80]   [/size]\n",
+        "text": "[shadow=blue][i]EQUIPO DE DESARROLLO[/i][/shadow] \n",
         "opacity": 255,
         "fontSize": 110,
         "visible": true,
@@ -137,6 +210,266 @@
         "align": "center",
         "wordWrap": true
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Credito_0",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Creditos_0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 236,
+                        "y": 128
+                      },
+                      {
+                        "x": 1043,
+                        "y": 128
+                      },
+                      {
+                        "x": 1043,
+                        "y": 2164
+                      },
+                      {
+                        "x": 236,
+                        "y": 2164
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Credito_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Creditos_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 59,
+                        "y": 62
+                      },
+                      {
+                        "x": 1144,
+                        "y": 62
+                      },
+                      {
+                        "x": 1144,
+                        "y": 2250
+                      },
+                      {
+                        "x": 59,
+                        "y": 2250
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Logo_EPN",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Logo_EPN.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 0
+                      },
+                      {
+                        "x": 132,
+                        "y": 0
+                      },
+                      {
+                        "x": 132,
+                        "y": 142
+                      },
+                      {
+                        "x": 10,
+                        "y": 142
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Logo_FIS",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Logo_FIS.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 11
+                      },
+                      {
+                        "x": 648,
+                        "y": 11
+                      },
+                      {
+                        "x": 648,
+                        "y": 561
+                      },
+                      {
+                        "x": 19,
+                        "y": 561
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -146,11 +479,193 @@
         "objectName": "Fondo"
       },
       {
+        "objectName": "Credito_0"
+      },
+      {
+        "objectName": "Credito_1"
+      },
+      {
         "objectName": "_1"
+      },
+      {
+        "objectName": "Logo_EPN"
+      },
+      {
+        "objectName": "Logo_FIS"
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "_1",
+            "Tween",
+            "\"Movimiento\"",
+            "-1500",
+            "\"linear\"",
+            "10",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Credito_0",
+            "Tween",
+            "\"Movimiento\"",
+            "-2000",
+            "\"linear\"",
+            "15",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Credito_1",
+            "Tween",
+            "\"Movimiento\"",
+            "-2000",
+            "\"linear\"",
+            "15",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Logo_EPN",
+            "Tween",
+            "\"Movimiento\"",
+            "-400",
+            "\"linear\"",
+            "15",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
+          ]
+        }
+      ],
+      "actions": []
+    }
+  ],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -221,6 +736,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
     }
   ]
 }
