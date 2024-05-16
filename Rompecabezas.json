@@ -2887,6 +2887,276 @@
         "name": "assets\\puzzles\\Game_Over\\Fondo\\Logo_FIS.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket27",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket28",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_socket29.png\"}",
+        "name": "assets\\puzzles\\socket29",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket30",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
