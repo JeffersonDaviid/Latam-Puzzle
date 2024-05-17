@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Menu_32principal",
-  "name": "Menu principal",
+  "mangledName": "Menu_32Seleccion_32Region",
+  "name": "Menu Seleccion Region",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,58 +18,17 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3797121001947931,
+    "zoomFactor": 0.3645833333333333,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [],
-  "objects": [
-    {
-      "assetStoreId": "",
-      "height": 32,
-      "name": "NewTiledSprite",
-      "texture": "",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    }
-  ],
+  "objects": [],
   "objectsFolderStructure": {
-    "folderName": "__ROOT",
-    "children": [
-      {
-        "objectName": "NewTiledSprite"
-      }
-    ]
+    "folderName": "__ROOT"
   },
-  "events": [
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "PlayerAuthentication::DisplayAuthenticationBanner"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ]
-    }
-  ],
+  "events": [],
   "layers": [
     {
       "ambientLightColorB": 200,
@@ -116,22 +75,5 @@
       ]
     }
   ],
-  "behaviorsSharedData": [
-    {
-      "name": "Effect",
-      "type": "EffectCapability::EffectBehavior"
-    },
-    {
-      "name": "Opacity",
-      "type": "OpacityCapability::OpacityBehavior"
-    },
-    {
-      "name": "Scale",
-      "type": "ScalableCapability::ScalableBehavior"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
-    }
-  ]
+  "behaviorsSharedData": []
 }

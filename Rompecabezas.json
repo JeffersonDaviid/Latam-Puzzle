@@ -2887,13 +2887,464 @@
         "name": "assets\\puzzles\\Game_Over\\Fondo\\Logo_FIS.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/fondoMenuNorte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\fondoMenuNorte.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/fondocentro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\fondocentro.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/busa1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\busa1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/busa2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\busa2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/busa3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\busa3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bmexico1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bmexico1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bmexico2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bmexico2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bmexico3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bmexico3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcanada1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcanada1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcanada2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcanada2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcanada3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcanada3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bretro1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bretro1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bretro2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bretro2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bretro3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bretro3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbelice1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbelice1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbelice2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbelice2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbelice3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbelice3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcostarica1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcostarica1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcostarica2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcostarica2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcostarica3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcostarica3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsalvador1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsalvador1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsalvador3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsalvador3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsalvador2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsalvador2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bguatemal1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bguatemal1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bguatemal2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bguatemal2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bguatemal3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bguatemal3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhaiti1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhaiti1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhaiti2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhaiti2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhaiti3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhaiti3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhonduras1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhonduras1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhonduras2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhonduras2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhonduras3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhonduras3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bnicaragua1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bnicaragua1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bnicaragua2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bnicaragua2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bnicaragua3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bnicaragua3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bpanama1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bpanama1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bpanama2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bpanama2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bpanama3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bpanama3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bredomi1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bredomi1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bredomi2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bredomi2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bredomi3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bredomi3.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "name": "btRetroceder",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\bottonbanderas\\bretro2.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\bottonbanderas\\bretro1.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\bottonbanderas\\bretro3.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "btRetroceder"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
@@ -2904,7 +3355,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/menu-seleccion-del-pais"
+      "referenceTo": "/layouts/menu-norte"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -2921,10 +3372,34 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/creditos"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-seleccion-region"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-sur"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-centro-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-sur-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-centro-2"
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/speedrestrictions"
