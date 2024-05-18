@@ -1868,6 +1868,41 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
           "name": "CantoraOne-Regular.ttf"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "instmen2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "instmen2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left arrow button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Left arrow button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/69b5c8f8989a271fbbe9d2f68763f7e820044f505b0d0b66874bd20f70935a3c_Left arrow button.png",
+          "name": "Left arrow button.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right arrow button2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right arrow button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/cb2f532a9cd3feb7cb8af6cdcb1de5ec074dc6aacf5c851dcd243c407aedd605_Right arrow button.png",
+          "name": "Right arrow button.png"
+        }
       }
     ],
     "resourceFolders": []
