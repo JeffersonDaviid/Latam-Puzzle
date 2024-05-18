@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3797121001947953,
+    "zoomFactor": 0.33253870912507905,
     "windowMask": true
   },
   "objectsGroups": [],
@@ -548,7 +548,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -663,7 +674,18 @@
         }
       ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -854,7 +876,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -912,7 +945,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "content": {
         "LeftPadding": 16,
         "RightPadding": 16,
@@ -997,7 +1041,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -1057,7 +1112,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -1305,12 +1371,11 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "play",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -1335,12 +1400,11 @@
         {
           "type": {
             "inverted": true,
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "play",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -1364,12 +1428,11 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "inst",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -1394,12 +1457,11 @@
         {
           "type": {
             "inverted": true,
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "inst",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -1756,32 +1818,22 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "play",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "MouseButtonFromTextReleased"
-          },
-          "parameters": [
-            "",
-            "\"Left\""
-          ]
-        },
-        {
-          "type": {
             "value": "ObjectVariableAsBoolean"
           },
           "parameters": [
             "inst",
             "instruccion",
             "True"
+          ]
+        },
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "play",
+            "ButtonFSM",
+            ""
           ]
         }
       ],
@@ -1803,32 +1855,22 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "inst",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "MouseButtonFromTextReleased"
-          },
-          "parameters": [
-            "",
-            "\"Left\""
-          ]
-        },
-        {
-          "type": {
             "value": "ObjectVariableAsBoolean"
           },
           "parameters": [
             "inst",
             "instruccion",
             "True"
+          ]
+        },
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "inst",
+            "ButtonFSM",
+            ""
           ]
         }
       ],
@@ -1922,12 +1964,11 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "LeftArrowButton",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -1951,12 +1992,11 @@
       "conditions": [
         {
           "type": {
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "RightArrowButton",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -1981,24 +2021,22 @@
         {
           "type": {
             "inverted": true,
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "LeftArrowButton",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         },
         {
           "type": {
             "inverted": true,
-            "value": "SourisSurObjet"
+            "value": "ButtonStates::ButtonFSM::IsFocused"
           },
           "parameters": [
             "RightArrowButton",
-            "",
-            "",
+            "ButtonFSM",
             ""
           ]
         }
@@ -2027,6 +2065,31 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+          },
+          "parameters": [
+            "creditos",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "inst",
+            "instruccion",
+            "True"
+          ]
+        }
+      ],
+      "actions": []
     }
   ],
   "layers": [
@@ -2084,7 +2147,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "botones",
       "renderingType": "",
       "visibility": true,
@@ -2145,6 +2208,10 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
     },
     {
       "name": "Effect",
