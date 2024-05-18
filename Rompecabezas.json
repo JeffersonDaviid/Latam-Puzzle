@@ -1656,6 +1656,218 @@
         "name": "oki.jpg",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_3485ac33-1753-467a-92d6-a9fe368fbdfd.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_3485ac33-1753-467a-92d6-a9fe368fbdfd.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_6721b979-c7bf-4470-8ef4-d1720db752e1.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_6721b979-c7bf-4470-8ef4-d1720db752e1.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_7deeb28b-1066-43f3-b40a-97b34c09126a.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_7deeb28b-1066-43f3-b40a-97b34c09126a.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_b41dd771-fdd9-4946-92f4-260a4af5c4a0.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_b41dd771-fdd9-4946-92f4-260a4af5c4a0.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_94a0acf6-fd47-4e53-aa7c-0686fed6de06.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_94a0acf6-fd47-4e53-aa7c-0686fed6de06.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_7deeb28b-1066-43f3-b40a-97b34c09126a2.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_7deeb28b-1066-43f3-b40a-97b34c09126a2.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_b41dd771-fdd9-4946-92f4-260a4af5c4a02.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_b41dd771-fdd9-4946-92f4-260a4af5c4a02.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_94a0acf6-fd47-4e53-aa7c-0686fed6de07.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_94a0acf6-fd47-4e53-aa7c-0686fed6de07.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "play.jpeg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "play6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "inst1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "inst1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "inst2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "inst2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "inst3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "inst3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Shadow_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Shadow_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4a64488d212c7a69721b3ac48319e64bc830f5663535fdafb18e2fc907e8d10a_Purple Button With Shadow_Hovered.png",
+          "name": "Purple Button With Shadow_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Shadow_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Shadow_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e44a40d67427b4e53751fc82b5ad4d87b2daf311558dcf0151cd1b173b7e5dcf_Purple Button With Shadow_Idle.png",
+          "name": "Purple Button With Shadow_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Purple Button With Shadow_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Purple Button With Shadow_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/04a69986487fb427759132f3807a28db0f3b845623d5ba34d063f46a9ee22f63_Purple Button With Shadow_Pressed.png",
+          "name": "Purple Button With Shadow_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/CantoraOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "CantoraOne-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/05b0c1364a92b436b86ca819e66b63480d1bc2fb399f6c0cf8bffbf8199ccc2a_CantoraOne-Regular.ttf",
+          "name": "CantoraOne-Regular.ttf"
+        }
       }
     ],
     "resourceFolders": []
@@ -1682,6 +1894,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/mousehelper"
