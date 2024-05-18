@@ -3538,6 +3538,87 @@
         "name": "assets\\bottonbanderas\\btrinidad3.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bNorte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bNorte.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_bNorte.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\bNorte.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_bNorte.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_bNorte.png2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/btCentro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\btCentro.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_btCentro.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\btCentro.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bcentro3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bcentro3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bcentro2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bcentro2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bSur.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bSur.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bsur2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bsur2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
