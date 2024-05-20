@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.357688695529497,
+    "zoomFactor": 0.29314795528314275,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -50,8 +50,8 @@
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
       "width": 0,
-      "x": 62,
-      "y": 116,
+      "x": 1064,
+      "y": 136,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -86,8 +86,8 @@
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
       "width": 0,
-      "x": 1109,
-      "y": 569,
+      "x": 1503,
+      "y": 136,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -122,8 +122,8 @@
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
       "width": 0,
-      "x": 1051,
-      "y": 306,
+      "x": 1238,
+      "y": 136,
       "zOrder": 2,
       "numberProperties": [
         {
@@ -158,8 +158,8 @@
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
       "width": 0,
-      "x": 1067,
-      "y": 759,
+      "x": 1687,
+      "y": 136,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -195,8 +195,8 @@
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
       "width": 245,
-      "x": 500,
-      "y": 773,
+      "x": 1503,
+      "y": 790,
       "zOrder": 14,
       "numberProperties": [
         {
@@ -232,8 +232,8 @@
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
       "width": 315,
-      "x": 240,
-      "y": 724,
+      "x": 1243,
+      "y": 741,
       "zOrder": 13,
       "numberProperties": [
         {
@@ -268,8 +268,8 @@
       "name": "Pieza",
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
       "width": 0,
-      "x": 61,
-      "y": 277,
+      "x": 1064,
+      "y": 294,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -304,8 +304,8 @@
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
       "width": 0,
-      "x": 275,
-      "y": 327,
+      "x": 1278,
+      "y": 344,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -340,8 +340,8 @@
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
       "width": 0,
-      "x": 461,
-      "y": 283,
+      "x": 1464,
+      "y": 299,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -376,8 +376,8 @@
       "name": "Socalo",
       "persistentUuid": "152ab44e-ed76-4177-b9be-cc22e3a32a73",
       "width": 0,
-      "x": 65,
-      "y": 118,
+      "x": 61,
+      "y": 119,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -397,8 +397,8 @@
       "name": "Socalo",
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
-      "x": 239,
-      "y": 118,
+      "x": 235,
+      "y": 119,
       "zOrder": 12,
       "numberProperties": [],
       "stringProperties": [],
@@ -418,8 +418,8 @@
       "name": "Socalo",
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
-      "x": 504,
-      "y": 118,
+      "x": 500,
+      "y": 119,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -439,7 +439,7 @@
       "name": "Socalo",
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
-      "x": 0,
+      "x": 61,
       "y": 277,
       "zOrder": 14,
       "numberProperties": [],
@@ -460,8 +460,8 @@
       "name": "Socalo",
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
-      "x": 321,
-      "y": 277,
+      "x": 275,
+      "y": 327,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -481,8 +481,8 @@
       "name": "Socalo",
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
-      "x": 642,
-      "y": 277,
+      "x": 461,
+      "y": 281,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -502,8 +502,8 @@
       "name": "Socalo",
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
-      "x": 0,
-      "y": 554,
+      "x": 61,
+      "y": 501,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -523,8 +523,8 @@
       "name": "Socalo",
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
-      "x": 321,
-      "y": 554,
+      "x": 236,
+      "y": 553,
       "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
@@ -544,8 +544,8 @@
       "name": "Socalo",
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
-      "x": 642,
-      "y": 554,
+      "x": 498,
+      "y": 503,
       "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
@@ -597,8 +597,8 @@
       "name": "Socalo",
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
-      "x": 686,
-      "y": 118,
+      "x": 684,
+      "y": 119,
       "zOrder": 11,
       "numberProperties": [],
       "stringProperties": [],
@@ -618,8 +618,8 @@
       "name": "Socalo",
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
-      "x": 963,
-      "y": 277,
+      "x": 723,
+      "y": 284,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -639,8 +639,8 @@
       "name": "Socalo",
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
-      "x": 963,
-      "y": 554,
+      "x": 690,
+      "y": 504,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -660,8 +660,8 @@
       "name": "Socalo",
       "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
       "width": 0,
-      "x": 0,
-      "y": 831,
+      "x": 61,
+      "y": 777,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -681,8 +681,8 @@
       "name": "Socalo",
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
-      "x": 321,
-      "y": 831,
+      "x": 240,
+      "y": 724,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -702,8 +702,8 @@
       "name": "Socalo",
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
-      "x": 642,
-      "y": 831,
+      "x": 500,
+      "y": 773,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -723,8 +723,8 @@
       "name": "Socalo",
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
-      "x": 963,
-      "y": 831,
+      "x": 689,
+      "y": 777,
       "zOrder": 14,
       "numberProperties": [],
       "stringProperties": [],
@@ -744,8 +744,8 @@
       "name": "Pieza",
       "persistentUuid": "c957ed84-ffe3-4071-af03-dab4a7c7be0b",
       "width": 0,
-      "x": 723,
-      "y": 285,
+      "x": 1726,
+      "y": 301,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -780,8 +780,8 @@
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
       "width": 0,
-      "x": 61,
-      "y": 501,
+      "x": 1064,
+      "y": 518,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -816,8 +816,8 @@
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
       "width": 0,
-      "x": 498,
-      "y": 504,
+      "x": 1501,
+      "y": 521,
       "zOrder": 10,
       "numberProperties": [
         {
@@ -852,8 +852,8 @@
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
       "width": 0,
-      "x": 236,
-      "y": 553,
+      "x": 1239,
+      "y": 570,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -888,8 +888,8 @@
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
       "width": 0,
-      "x": 690,
-      "y": 504,
+      "x": 1693,
+      "y": 521,
       "zOrder": 11,
       "numberProperties": [
         {
@@ -924,8 +924,8 @@
       "name": "Pieza",
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
       "width": 0,
-      "x": 689,
-      "y": 777,
+      "x": 1692,
+      "y": 794,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -960,8 +960,8 @@
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
       "width": 0,
-      "x": 60,
-      "y": 777,
+      "x": 1063,
+      "y": 794,
       "zOrder": 12,
       "numberProperties": [
         {
@@ -1128,8 +1128,8 @@
       "name": "info1",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
       "width": 448,
-      "x": 1454,
-      "y": 560,
+      "x": 1442,
+      "y": 610,
       "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
@@ -1183,78 +1183,6 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\BRASIL\\pieza1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\ARGENTINA\\pieza1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
                   "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz1.png",
                   "points": [],
                   "originPoint": {
@@ -1271,20 +1199,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 172,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 173,
+                        "y": 155.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 0,
+                        "y": 152.5
                       }
                     ]
                   ]
@@ -1301,78 +1229,6 @@
               "looping": false,
               "timeBetweenFrames": 0.08,
               "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\BRASIL\\pieza2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\ARGENTINA\\pieza2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
                 {
                   "hasCustomCollisionMask": true,
                   "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz2.png",
@@ -1391,20 +1247,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 26,
+                        "y": 31.5
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 244,
+                        "y": 11.5
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 237,
+                        "y": 167.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 68,
+                        "y": 178.5
                       }
                     ]
                   ]
@@ -1421,78 +1277,6 @@
               "looping": false,
               "timeBetweenFrames": 0.08,
               "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\BRASIL\\pieza3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\ARGENTINA\\pieza3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
                 {
                   "hasCustomCollisionMask": true,
                   "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz3.png",
@@ -1511,20 +1295,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 9,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 172,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 190,
+                        "y": 168.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 6,
+                        "y": 158.5
                       }
                     ]
                   ]
@@ -1543,42 +1327,6 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\BRASIL\\pieza4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
                   "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz4.png",
                   "points": [],
                   "originPoint": {
@@ -1595,56 +1343,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 5,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 260,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 262,
+                        "y": 157.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Sur\\BRASIL\\pieza4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 60,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 60
-                      },
-                      {
-                        "x": 180,
-                        "y": 181
-                      },
-                      {
-                        "x": 60,
-                        "y": 181
+                        "x": 6,
+                        "y": 154.5
                       }
                     ]
                   ]
@@ -1679,20 +1391,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 200.5,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 211.5,
+                        "y": 220.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 0,
+                        "y": 215.5
                       }
                     ]
                   ]
@@ -1727,20 +1439,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 10,
+                        "y": 19
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 177,
+                        "y": 30
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 195,
+                        "y": 226
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 37,
+                        "y": 218
+                      },
+                      {
+                        "x": 19,
+                        "y": 119
                       }
                     ]
                   ]
@@ -1775,20 +1491,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 253,
+                        "y": 1.5
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 252,
+                        "y": 220.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 1,
+                        "y": 217.5
                       }
                     ]
                   ]
@@ -1823,20 +1539,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 11,
+                        "y": 13.5
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 192,
+                        "y": 79.5
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 211,
+                        "y": 218.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 23,
+                        "y": 213.5
                       }
                     ]
                   ]
@@ -1871,20 +1587,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 172,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 171,
+                        "y": 227.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 0,
+                        "y": 230.5
                       }
                     ]
                   ]
@@ -1919,20 +1635,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 255,
+                        "y": 8
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 250,
+                        "y": 180
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 0,
+                        "y": 165
                       }
                     ]
                   ]
@@ -1967,20 +1683,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 183.5,
+                        "y": 47.5
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 197.5,
+                        "y": 244.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 0,
+                        "y": 243.5
                       }
                     ]
                   ]
@@ -2015,20 +1731,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 172,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 231.5,
+                        "y": 256.5
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 3.5,
+                        "y": 259.5
                       }
                     ]
                   ]
@@ -2063,20 +1779,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 19
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 169.5,
+                        "y": 19
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 186.5,
+                        "y": 186
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 0,
+                        "y": 182
                       }
                     ]
                   ]
@@ -2111,20 +1827,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 2,
+                        "y": 14
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 172,
+                        "y": 21
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 229,
+                        "y": 246
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 69,
+                        "y": 237
                       }
                     ]
                   ]
@@ -2159,20 +1875,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 191,
+                        "y": 21
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 202,
+                        "y": 207
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 25,
+                        "y": 212
                       }
                     ]
                   ]
@@ -2207,20 +1923,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 60,
-                        "y": 60
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 180,
-                        "y": 60
+                        "x": 203.5,
+                        "y": 87
                       },
                       {
-                        "x": 180,
-                        "y": 181
+                        "x": 223.5,
+                        "y": 203
                       },
                       {
-                        "x": 60,
-                        "y": 181
+                        "x": 52.5,
+                        "y": 219
                       }
                     ]
                   ]
@@ -3076,7 +2792,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3120,7 +2835,7 @@
               "parameters": [
                 "piezas_correctas",
                 "=",
-                "30"
+                "16"
               ]
             },
             {
@@ -3138,9 +2853,9 @@
               "parameters": [
                 "TextoCompleto",
                 "=",
-                "100",
+                "1080",
                 "=",
-                "400"
+                "150"
               ]
             },
             {
@@ -3163,6 +2878,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3418,7 +3134,7 @@
       "cameraType": "perspective",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "UI",
       "renderingType": "",
       "visibility": true,
