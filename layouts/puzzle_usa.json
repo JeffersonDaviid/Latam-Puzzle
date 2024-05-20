@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.29314795528314275,
+    "zoomFactor": 0.24835424145452328,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -50,8 +50,8 @@
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
       "width": 0,
-      "x": 1064,
-      "y": 136,
+      "x": 409,
+      "y": 1183,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -86,8 +86,8 @@
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
       "width": 0,
-      "x": 1503,
-      "y": 136,
+      "x": 848,
+      "y": 1183,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -122,8 +122,8 @@
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
       "width": 0,
-      "x": 1238,
-      "y": 136,
+      "x": 583,
+      "y": 1183,
       "zOrder": 2,
       "numberProperties": [
         {
@@ -158,8 +158,8 @@
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
       "width": 0,
-      "x": 1687,
-      "y": 136,
+      "x": 1032,
+      "y": 1183,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -195,8 +195,8 @@
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
       "width": 245,
-      "x": 1503,
-      "y": 790,
+      "x": 848,
+      "y": 1837,
       "zOrder": 14,
       "numberProperties": [
         {
@@ -232,8 +232,8 @@
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
       "width": 315,
-      "x": 1243,
-      "y": 741,
+      "x": 588,
+      "y": 1788,
       "zOrder": 13,
       "numberProperties": [
         {
@@ -268,8 +268,8 @@
       "name": "Pieza",
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
       "width": 0,
-      "x": 1064,
-      "y": 294,
+      "x": 409,
+      "y": 1341,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -304,8 +304,8 @@
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
       "width": 0,
-      "x": 1278,
-      "y": 344,
+      "x": 623,
+      "y": 1391,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -340,8 +340,8 @@
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
       "width": 0,
-      "x": 1464,
-      "y": 299,
+      "x": 809,
+      "y": 1346,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -744,8 +744,8 @@
       "name": "Pieza",
       "persistentUuid": "c957ed84-ffe3-4071-af03-dab4a7c7be0b",
       "width": 0,
-      "x": 1726,
-      "y": 301,
+      "x": 1071,
+      "y": 1348,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -780,8 +780,8 @@
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
       "width": 0,
-      "x": 1064,
-      "y": 518,
+      "x": 409,
+      "y": 1565,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -816,8 +816,8 @@
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
       "width": 0,
-      "x": 1501,
-      "y": 521,
+      "x": 846,
+      "y": 1568,
       "zOrder": 10,
       "numberProperties": [
         {
@@ -852,8 +852,8 @@
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
       "width": 0,
-      "x": 1239,
-      "y": 570,
+      "x": 584,
+      "y": 1617,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -888,8 +888,8 @@
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
       "width": 0,
-      "x": 1693,
-      "y": 521,
+      "x": 1038,
+      "y": 1568,
       "zOrder": 11,
       "numberProperties": [
         {
@@ -924,8 +924,8 @@
       "name": "Pieza",
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
       "width": 0,
-      "x": 1692,
-      "y": 794,
+      "x": 1037,
+      "y": 1841,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -960,8 +960,8 @@
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
       "width": 0,
-      "x": 1063,
-      "y": 794,
+      "x": 408,
+      "y": 1841,
       "zOrder": 12,
       "numberProperties": [
         {
@@ -997,8 +997,8 @@
       "name": "timerSeconds",
       "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
       "width": 0,
-      "x": 1706,
-      "y": 477,
+      "x": 1716,
+      "y": 439,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -1013,8 +1013,8 @@
       "name": "timerSeparator",
       "persistentUuid": "b6d5e80c-1172-40ee-a88c-2306900424f6",
       "width": 0,
-      "x": 1670,
-      "y": 481,
+      "x": 1680,
+      "y": 443,
       "zOrder": 104,
       "numberProperties": [],
       "stringProperties": [],
@@ -1029,8 +1029,8 @@
       "name": "timerMinutes",
       "persistentUuid": "88b23ff6-4c22-4325-8f0d-a6133abdc83b",
       "width": 0,
-      "x": 1579,
-      "y": 485,
+      "x": 1589,
+      "y": 447,
       "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
@@ -1045,8 +1045,8 @@
       "name": "nameCountry",
       "persistentUuid": "415ba0b9-0446-45ef-851d-8bd852e7fd97",
       "width": 0,
-      "x": 1395,
-      "y": 5,
+      "x": 1484,
+      "y": 24,
       "zOrder": 106,
       "numberProperties": [],
       "stringProperties": [],
@@ -1111,8 +1111,8 @@
       "name": "bg_objects",
       "persistentUuid": "16523f5e-16fe-4955-ab61-fc87312e9509",
       "width": 500,
-      "x": 1424,
-      "y": 467,
+      "x": 1482,
+      "y": 423,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -1128,8 +1128,8 @@
       "name": "info1",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
       "width": 448,
-      "x": 1442,
-      "y": 610,
+      "x": 1500,
+      "y": 566,
       "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
@@ -2363,6 +2363,44 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Ubicar aleatoriamente dentro del rango de casilla de piezas"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Pieza",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "RandomInRange(1050, 1060)",
+                "=",
+                "RandomInRange(100, 750)"
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -2400,6 +2438,16 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "99"
+              ]
             }
           ]
         },
@@ -2408,7 +2456,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Tarea para la casa",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2525,6 +2572,16 @@
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "1"
+              ]
             }
           ],
           "events": [
@@ -2592,9 +2649,9 @@
                   "parameters": [
                     "Pieza",
                     "=",
-                    "Pieza.Variable(posicion_inicial_x)",
+                    "RandomInRange(1050, 1060)",
                     "=",
-                    "Pieza.Variable(posicion_inicial_y)"
+                    "RandomInRange(100, 750)"
                   ]
                 },
                 {
@@ -2700,6 +2757,16 @@
       "conditions": [
         {
           "type": {
+            "value": "VarScene"
+          },
+          "parameters": [
+            "piezas_correctas",
+            "!=",
+            "16"
+          ]
+        },
+        {
+          "type": {
             "value": "MouseButtonReleased"
           },
           "parameters": [
@@ -2727,9 +2794,9 @@
           "parameters": [
             "Pieza",
             "=",
-            "Pieza.Variable(posicion_inicial_x)",
+            "RandomInRange(1050, 1060)",
             "=",
-            "Pieza.Variable(posicion_inicial_y)"
+            "RandomInRange(100, 750)"
           ]
         },
         {
@@ -3134,7 +3201,7 @@
       "cameraType": "perspective",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "UI",
       "renderingType": "",
       "visibility": true,
