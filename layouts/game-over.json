@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3526904934771228,
+    "zoomFactor": 0.44485159988866546,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -28,15 +28,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 166,
+      "height": 244,
       "keepRatio": true,
       "layer": "",
       "name": "Boton_Volver",
       "persistentUuid": "7ff47199-8ec6-4186-ad71-04b975a89515",
-      "width": 400,
+      "width": 401,
       "x": 236,
-      "y": 809,
-      "zOrder": 1,
+      "y": 780,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -61,16 +61,16 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 166,
+      "depth": 1.0000000000000002,
+      "height": 244.0000000000001,
       "keepRatio": true,
       "layer": "",
       "name": "Boton_Menu",
       "persistentUuid": "846f9ccb-3b2d-4fd4-8c62-b700f0b38868",
       "width": 400,
-      "x": 796,
-      "y": 809,
-      "zOrder": 1,
+      "x": 815,
+      "y": 780,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -79,83 +79,49 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 167,
+      "height": 245,
       "keepRatio": true,
       "layer": "",
       "name": "Boton_Salir",
       "persistentUuid": "dc201b2b-b9d9-4bc0-a8c2-ec444580214f",
       "width": 400,
       "x": 1346,
-      "y": 809,
+      "y": 780,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 360,
+      "customSize": true,
+      "depth": 0,
+      "height": 618.1818181818184,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_EU",
+      "persistentUuid": "e485ea92-dacf-40e3-b878-2e009a07714b",
+      "width": 400,
+      "x": 90,
+      "y": 386,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
-      "angle": 353,
-      "customSize": true,
-      "depth": 0,
-      "height": 695.4545454545455,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_EU",
-      "persistentUuid": "e485ea92-dacf-40e3-b878-2e009a07714b",
-      "width": 450,
-      "x": -47,
-      "y": -20,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 7,
-      "customSize": true,
-      "depth": 0,
-      "height": 661.5835777126102,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Brasil",
-      "persistentUuid": "08edb10a-2799-4d50-a518-7e6be78f2e2a",
-      "width": 470,
-      "x": 1663,
-      "y": -22,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 422.68370607028766,
+      "height": 332.10862619808324,
       "keepRatio": true,
       "layer": "",
       "name": "fondo_Mexico",
       "persistentUuid": "b06dbe77-dfcc-4321-9a48-10d7c787ff3d",
-      "width": 700,
-      "x": 999,
-      "y": -9,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 7,
-      "customSize": true,
-      "depth": 0,
-      "height": 454.1342756183746,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Peru",
-      "persistentUuid": "382aeb20-e5b8-4cb8-b787-8e6b09ac5bd3",
-      "width": 680,
-      "x": 346,
-      "y": -57,
-      "zOrder": 0,
+      "width": 550,
+      "x": 1408,
+      "y": 37,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -164,15 +130,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 399.99999999999994,
+      "height": 400.00000000000006,
       "keepRatio": true,
       "layer": "",
       "name": "fondo_Ecuador",
       "persistentUuid": "89f18793-f9cf-4dc3-a531-0b1e7795b11c",
       "width": 600,
-      "x": 402,
-      "y": 356,
-      "zOrder": 0,
+      "x": 696,
+      "y": 456,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -181,15 +147,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 410.3669724770642,
+      "height": 317.8899082568808,
       "keepRatio": true,
       "layer": "",
       "name": "fondo_Chile",
       "persistentUuid": "5560203a-71cd-464b-a632-f4dbdf27236d",
-      "width": 710,
-      "x": 971,
-      "y": 379,
-      "zOrder": 0,
+      "width": 550,
+      "x": 715,
+      "y": 37,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -198,83 +164,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 465.8450704225353,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Colombia",
-      "persistentUuid": "2fd233f0-d874-46d3-8982-f834f59bb307",
-      "width": 700,
-      "x": -1,
-      "y": 652,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 474.1696113074205,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Canada",
-      "persistentUuid": "dc9e253f-be8e-471c-9eb9-cae48608b856",
-      "width": 710,
-      "x": 1392,
-      "y": 616,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 393.75000000000006,
+      "height": 281.25000000000006,
       "keepRatio": true,
       "layer": "",
       "name": "fondo_Argentina",
       "persistentUuid": "7f04ae3c-8991-45ac-a6f9-486766508fe9",
-      "width": 700,
-      "x": 694,
-      "y": 721,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 353,
-      "customSize": true,
-      "depth": 0,
-      "height": 695.4545454545455,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_EU",
-      "persistentUuid": "dc6c5506-c397-4d72-a604-60fc47549198",
-      "width": 450,
-      "x": 1954,
-      "y": 20,
-      "zOrder": -1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 410.3669724770642,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Chile",
-      "persistentUuid": "6e8b0cc4-b7f6-45c7-809f-4c2a98eb47c2",
-      "width": 710,
-      "x": 1926,
-      "y": 688,
-      "zOrder": -1,
+      "width": 500,
+      "x": 90,
+      "y": 37,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -289,9 +187,145 @@
       "name": "_Perdiste_",
       "persistentUuid": "652bdbef-aab2-445e-b33c-55baeeb8fbf2",
       "width": 1000,
-      "x": 121,
-      "y": 544,
+      "x": 498,
+      "y": 294,
       "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 1181.25,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Piedra",
+      "persistentUuid": "51f2227e-61fe-4791-94cf-79cf1c9c91f0",
+      "width": 2100,
+      "x": -6,
+      "y": -70,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 563.0498533724341,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_Brasil",
+      "persistentUuid": "d0c1a8a6-54c2-458d-86af-ca32c5b66595",
+      "width": 400,
+      "x": 1513,
+      "y": 413,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 677,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pergamino",
+      "persistentUuid": "7a3dd316-f9c3-4a13-92bc-cd78d43d3e2b",
+      "width": 457,
+      "x": 64,
+      "y": 358,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 614,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pergamino",
+      "persistentUuid": "c768e999-341b-4bd2-84fd-cace4df50f49",
+      "width": 449,
+      "x": 1491,
+      "y": 392,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": true,
+      "depth": 1,
+      "height": 673,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pergamino",
+      "persistentUuid": "c8408d8c-be67-40b6-902e-9b6b19346cec",
+      "width": 463,
+      "x": 761,
+      "y": 323,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 270,
+      "customSize": true,
+      "depth": 1,
+      "height": 603,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pergamino",
+      "persistentUuid": "a7aa3e1e-7864-4af9-9f3b-de4b34250ec6",
+      "width": 381,
+      "x": 1491,
+      "y": -100,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": true,
+      "depth": 1,
+      "height": 560,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pergamino",
+      "persistentUuid": "dfcbf305-8ad4-4836-9855-095298796d6e",
+      "width": 341,
+      "x": 170,
+      "y": -102,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 90,
+      "customSize": true,
+      "depth": 1,
+      "height": 624,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pergamino",
+      "persistentUuid": "7a53a221-aaef-4e93-8cbc-244a855c6dd8",
+      "width": 384,
+      "x": 798,
+      "y": -114,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1653,6 +1687,126 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Piedra",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Piedra.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1280,
+                        "y": 0
+                      },
+                      {
+                        "x": 1280,
+                        "y": 720
+                      },
+                      {
+                        "x": 0,
+                        "y": 720
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Pergamino",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Pergamino.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 352,
+                        "y": 0
+                      },
+                      {
+                        "x": 352,
+                        "y": 486
+                      },
+                      {
+                        "x": 0,
+                        "y": 486
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -1696,6 +1850,12 @@
       },
       {
         "objectName": "fondo_Argentina"
+      },
+      {
+        "objectName": "Piedra"
+      },
+      {
+        "objectName": "Pergamino"
       }
     ]
   },

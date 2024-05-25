@@ -68,8 +68,8 @@
       "name": "Credito_0",
       "persistentUuid": "f28f2914-71f5-4b7d-8410-fe225080fe66",
       "width": 700,
-      "x": 308,
-      "y": 808,
+      "x": 311,
+      "y": 983,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -119,8 +119,8 @@
       "name": "Logo_FIS",
       "persistentUuid": "9768e2d3-1c46-49eb-bc72-016a1f075eee",
       "width": 450,
-      "x": 1121,
-      "y": 2340,
+      "x": 1176,
+      "y": 2331,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -576,9 +576,9 @@
             "Credito_0",
             "Tween",
             "\"Movimiento\"",
-            "-2000",
+            "-2100",
             "\"linear\"",
-            "15",
+            "17",
             ""
           ]
         }
@@ -663,7 +663,22 @@
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Logo_FIS",
+            "Tween",
+            "\"Movimiento\"",
+            "-400",
+            "\"linear\"",
+            "15",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
