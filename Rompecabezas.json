@@ -1,5 +1,5 @@
 {
-  "firstLayout": "Menu principal",
+  "firstLayout": "puzzle_usa",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -11,7 +11,7 @@
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": true,
-    "orientation": "default",
+    "orientation": "landscape",
     "packageName": "com.epn.latampuzzle",
     "pixelsRounding": false,
     "projectUuid": "7edd034a-dfab-4235-b4a2-638b42b40dd9",
@@ -19,7 +19,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "useExternalSourceFiles": false,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "LatamPuzzle",
     "description": "",
     "author": "",

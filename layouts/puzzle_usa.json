@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.24835424145452328,
+    "zoomFactor": 0.3951066939222996,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1122,14 +1122,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 275,
+      "height": 313,
       "keepRatio": true,
       "layer": "UI",
       "name": "info1",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 448,
-      "x": 1500,
-      "y": 566,
+      "width": 467,
+      "x": 1498,
+      "y": 528,
       "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
@@ -2205,7 +2205,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "ESTADOS UNIDOS\nDE NORTE AMERICA",
+      "string": "ESTADOS UNIDOS\nDE AMERICA",
       "font": "",
       "textAlignment": "center",
       "characterSize": 50,
@@ -2228,7 +2228,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "ESTADOS UNIDOS\nDE NORTE AMERICA",
+        "text": "ESTADOS UNIDOS\nDE AMERICA",
         "font": "",
         "textAlignment": "center",
         "characterSize": 50,
@@ -2410,6 +2410,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -2753,6 +2754,7 @@
       "parameters": []
     },
     {
+      "folded": true,
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
@@ -2859,6 +2861,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -2945,7 +2948,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3156,10 +3158,118 @@
       "parameters": []
     },
     {
-      "type": "BuiltinCommonInstructions::ForEach",
-      "object": "",
-      "conditions": [],
-      "actions": []
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Curiosidades",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "=",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "info1",
+                "Text",
+                "=",
+                "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "info1",
+                "Text",
+                "=",
+                "\"Tiene 93 m de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "info1",
+                "Text",
+                "=",
+                "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     }
   ],
   "layers": [
