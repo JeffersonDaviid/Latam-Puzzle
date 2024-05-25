@@ -3166,6 +3166,33 @@
         "name": "NewTiledSprite",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Piedra.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Piedra.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Piedra.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Piedra.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Pergamino.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Pergamino.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
