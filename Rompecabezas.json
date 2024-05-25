@@ -4425,19 +4425,19 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates2"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton2"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/mousehelper"
+      "referenceTo": "/eventsFunctionsExtensions/mousehelper2"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton3"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
