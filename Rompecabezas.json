@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "puzzle_usa",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -11,15 +11,15 @@
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": true,
-    "orientation": "default",
+    "orientation": "landscape",
     "packageName": "com.epn.latampuzzle",
     "pixelsRounding": false,
     "projectUuid": "7edd034a-dfab-4235-b4a2-638b42b40dd9",
     "scaleMode": "linear",
-    "sizeOnStartupMode": "",
+    "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "useExternalSourceFiles": false,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "LatamPuzzle",
     "description": "",
     "author": "",
@@ -1148,7 +1148,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_puzzles_ec_1.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_1.png\"}",
         "name": "assets\\puzzles\\ec\\1",
         "smoothed": true,
         "userAdded": true
@@ -1166,7 +1166,7 @@
         "alwaysLoaded": false,
         "file": "assets/assets_puzzles_ec_2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_2.png\"}",
         "name": "assets\\puzzles\\ec\\2",
         "smoothed": true,
         "userAdded": true
@@ -1903,13 +1903,2463 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Flat Dark/cb2f532a9cd3feb7cb8af6cdcb1de5ec074dc6aacf5c851dcd243c407aedd605_Right arrow button.png",
           "name": "Right arrow button.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/LogotipoPuzzle.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\LogotipoPuzzle.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/Fondo_con_Condor.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\Fondo_con_Condor.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/Bandera_EC.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\Bandera_EC.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/Fondo_volcan.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\Fondo_volcan.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_socket15.png\"}",
+        "name": "assets\\puzzles\\socket15",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket16",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\26",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\27",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_28.png\"}",
+        "name": "assets\\puzzles\\ec\\28",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\30",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\31",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\32",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\33",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\34",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\35",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\37",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_ec_39.png\"}",
+        "name": "assets\\puzzles\\ec\\39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\41",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\42",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\43",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\44",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\46",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "C:/Users/jeffe/OneDrive/Imágenes/Capturas de pantalla/Screenshot 2024-05-06 165636.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_jeffe_OneDrive_Imágenes_Capturas de pantalla_Screenshot 2024-05-06 165636.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\48",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\ec\\49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_jeffe_OneDrive_Imágenes_Capturas de pantalla_Screenshot 2024-05-06 165636.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/C__Users_jeffe_OneDrive_Imágenes_Capturas de pantalla_Screenshot 2024-05-06 165636.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "C:\\Users\\jeffe\\OneDrive\\Imágenes\\Capturas de pantalla\\Screenshot 2024-05-06 165636.png4",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bubble Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c7108719eeb51696e6b9bcca1280e5403f7867491f3b02101f759d0e55b112fe_Orange Bubble Button_Hovered.png",
+          "name": "Orange Bubble Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bubble Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c97e04689076f4c138d10a0dde322d982b332595bce0fe8007ce14bb7a22af21_Orange Bubble Button_Idle.png",
+          "name": "Orange Bubble Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orange Bubble Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orange Bubble Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4c35e1cf340a1121bb63e0d0ef834876be8b9427c5a30bafb2e043640d27aab4_Orange Bubble Button_Pressed.png",
+          "name": "Orange Bubble Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Poppins-Medium.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Poppins-Medium.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
+          "name": "Poppins-Medium.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/bg1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\bg1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_ec_bg1.jpg2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\puzzles\\ec\\bg1.jpg2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket17",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket18",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket19",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket20",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket21",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket22",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket23",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket24",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ec/00.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ec\\00.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket25",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/00.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\00.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-1-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-1-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-3-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-3-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-4-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-4-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-2.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-3.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-5.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-5.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-5-columna-6.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-5-columna-6.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/us/fila-2-columna-4.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\us\\fila-2-columna-4.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Boton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Boton1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Boton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Boton2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/FrederickatheGreat-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "e7262cd3e76593f3d9c9c411a3fb89993c9e61fcf50889a383a2309260eae108_FrederickatheGreat-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/e7262cd3e76593f3d9c9c411a3fb89993c9e61fcf50889a383a2309260eae108_FrederickatheGreat-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/1bee9bddf3765d016ea29c21d418cdb0e958d1cd9c0aaa8743f9e174cb486e71_Kenney Pixel Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/CaesarDressing-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/f66c77b4a9335111fb8db2dc84354aeb1fc92eb0db7c7302e849c4d421eec02c_CaesarDressing-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Menu0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Menu0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Menu1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Menu1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Salir0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Salir0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Salir1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Salir1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Perdiste.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Perdiste.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/eu_0jpg.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\eu_0jpg.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/eu_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\eu_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brazil_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brazil_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brazil_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brazil_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brasil_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brasil_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Brasil_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Brasil_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Mexico_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Mexico_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Mexico_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Mexico_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/peru_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\peru_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/peru_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\peru_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Quito_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Quito_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Quito_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Quito_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Chile_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Chile_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Chile_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Chile_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Colombia_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Colombia_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Colombia_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Colombia_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Canada_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Canada_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Canada_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Canada_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Argentina_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Argentina_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Argentina_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Argentina_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\Kenney Pixel Square.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Boton1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Boton1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Boton2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Boton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Menu0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Menu0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Menu1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Menu1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Salir0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Salir0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Botones/Salir1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Salir1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Perdiste.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Perdiste.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/eu_0jpg.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\eu_0jpg.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/eu_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\eu_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Brasil_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Brasil_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Brasil_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Brasil_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Ecuador_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Ecuador_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Ecuador_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Ecuador_1.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Mexico_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Mexico_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Mexico_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Mexico_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/peru_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\peru_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/peru_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\peru_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Chile_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Chile_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Chile_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Chile_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Colombia_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Colombia_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Colombia_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Colombia_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Canada_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Canada_0.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Canada_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Canada_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Argentina_0.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Argentina_0.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Argentina_1.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Argentina_1.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/puzzles/Game_Over/Botones/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Botones\\Kenney Pixel Square.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Creditos_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Creditos_0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Creditos_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Creditos_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Logo_EPN.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Logo_EPN.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Logo_FIS.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Logo_FIS.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/fondoMenuNorte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\fondoMenuNorte.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/fondocentro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\fondocentro.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/busa1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\busa1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/busa2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\busa2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/busa3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\busa3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bmexico1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bmexico1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bmexico2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bmexico2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bmexico3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bmexico3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcanada1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcanada1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcanada2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcanada2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcanada3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcanada3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bretro1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bretro1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bretro2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bretro2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bretro3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bretro3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbelice1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbelice1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbelice2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbelice2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbelice3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbelice3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcostarica1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcostarica1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcostarica2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcostarica2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcostarica3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcostarica3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsalvador1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsalvador1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsalvador3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsalvador3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsalvador2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsalvador2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bguatemal1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bguatemal1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bguatemal2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bguatemal2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bguatemal3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bguatemal3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhaiti1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhaiti1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhaiti2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhaiti2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhaiti3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhaiti3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhonduras1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhonduras1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhonduras2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhonduras2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bhonduras3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bhonduras3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bnicaragua1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bnicaragua1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bnicaragua2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bnicaragua2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bnicaragua3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bnicaragua3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bpanama1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bpanama1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bpanama2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bpanama2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bpanama3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bpanama3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bredomi1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bredomi1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bredomi2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bredomi2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bredomi3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bredomi3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c1e14acb64b9963341656c997853154dc4c86cd1c46fb12bfbe012d99712ef61_Yellow Button_Hovered.png",
+          "name": "Yellow Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1cacfd123a1eb708837337c27982f6871f5127c5890dbf0775e0f411958fcbf1_Yellow Button_Idle.png",
+          "name": "Yellow Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/928c3ea4db1da835c9f8cc5b7089a47228350209d2ff489e1484c31e5ce41b3d_Yellow Button_Pressed.png",
+          "name": "Yellow Button_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcuba1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcuba1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcuba2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcuba2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bcuba3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bcuba3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bjamaica1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bjamaica1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bjamaica2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bjamaica2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bjamaica3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bjamaica3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bdominica1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bdominica1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bdominica2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bdominica2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bdominica3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bdominica3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbahamas1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbahamas1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbahamas2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbahamas2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bbahamas3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bbahamas3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bantigua1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bantigua1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bantigua2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bantigua2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bantigua3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bantigua3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsankits1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsankits1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsankitts2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsankitts2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsankits3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsankits3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsanvins1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsanvins1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsanvins2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsanvins2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bsanvins3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bsanvins3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bgranadas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bgranadas.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bgranadas2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bgranadas2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/bgranadas3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\bgranadas3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/btrinidad1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\btrinidad1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/btrinidad2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\btrinidad2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bottonbanderas/btrinidad3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bottonbanderas\\btrinidad3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bNorte.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bNorte.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_bNorte.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\bNorte.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_bNorte.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_bNorte.png2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/btCentro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\btCentro.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_btCentro.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\btCentro.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bcentro3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bcentro3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bcentro2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bcentro2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bSur.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bSur.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/bsur2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\bsur2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/pz17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Norte/ESTADOS UNIDOS/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket27",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket28",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/assets_puzzles_socket29.png\"}",
+        "name": "assets\\puzzles\\socket29",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "assets\\puzzles\\socket30",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/ARGENTINA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\ARGENTINA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Sur/BRASIL/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Sur\\BRASIL\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite.png\"}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Piedra.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Piedra.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Piedra.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Piedra.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Paises_Fondos/Pergamino.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Paises_Fondos\\Pergamino.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
   },
-  "objects": [],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "name": "btRetroceder",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\bottonbanderas\\bretro2.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\bottonbanderas\\bretro1.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\bottonbanderas\\bretro3.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
+    }
+  ],
   "objectsFolderStructure": {
-    "folderName": "__ROOT"
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "btRetroceder"
+      }
+    ]
   },
   "objectsGroups": [],
   "variables": [],
@@ -1920,11 +4370,43 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/menu-seleccion-del-pais"
+      "referenceTo": "/layouts/menu-norte"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/puzzle_ec"
+      "referenceTo": "/layouts/game-over"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/score-table"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_usa"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/creditos"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-seleccion-region"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-sur"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-centro-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-sur-1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/menu-centro-2"
     }
   ],
   "externalEvents": [],
@@ -1943,11 +4425,23 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/shakeobject"
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/eventsFunctionsExtensions/draggablephysics"
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/mousehelper"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/speedrestrictions"
     }
   ],
   "externalLayouts": [],

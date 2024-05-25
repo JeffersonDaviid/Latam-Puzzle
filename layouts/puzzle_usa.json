@@ -1,0 +1,3386 @@
+{
+  "b": 209,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "puzzle_95usa",
+  "name": "puzzle_usa",
+  "r": 209,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "ESTADOS UNIDOS DE AMERICA",
+  "v": 209,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 321,
+    "gridHeight": 277,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.3951066939222996,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "piezas_correctas",
+      "type": "string",
+      "value": "0"
+    },
+    {
+      "folded": true,
+      "name": "timerSeconds",
+      "type": "string",
+      "value": "00"
+    },
+    {
+      "folded": true,
+      "name": "timerMinutes",
+      "type": "string",
+      "value": "05"
+    }
+  ],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
+      "width": 0,
+      "x": 409,
+      "y": 1183,
+      "zOrder": 1,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 0
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a1"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "70"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
+      "width": 0,
+      "x": 848,
+      "y": 1183,
+      "zOrder": 3,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 2
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a3"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "210"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
+      "width": 0,
+      "x": 583,
+      "y": 1183,
+      "zOrder": 2,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 1
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a2"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "140"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
+      "width": 0,
+      "x": 1032,
+      "y": 1183,
+      "zOrder": 4,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 3
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a4"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "280"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 246,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
+      "width": 245,
+      "x": 848,
+      "y": 1837,
+      "zOrder": 14,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 14
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d3"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "350"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 294,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
+      "width": 315,
+      "x": 588,
+      "y": 1788,
+      "zOrder": 13,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 13
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d2"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "420"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
+      "width": 0,
+      "x": 409,
+      "y": 1341,
+      "zOrder": 5,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 4
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b1"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "490"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
+      "width": 0,
+      "x": 623,
+      "y": 1391,
+      "zOrder": 6,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 5
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b2"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "560"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
+      "width": 0,
+      "x": 809,
+      "y": 1346,
+      "zOrder": 7,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 6
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b3"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "630"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "152ab44e-ed76-4177-b9be-cc22e3a32a73",
+      "width": 0,
+      "x": 61,
+      "y": 119,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a1"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
+      "width": 0,
+      "x": 235,
+      "y": 119,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a2"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
+      "width": 0,
+      "x": 500,
+      "y": 119,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a3"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
+      "width": 0,
+      "x": 61,
+      "y": 277,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b1"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
+      "width": 0,
+      "x": 275,
+      "y": 327,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b2"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
+      "width": 0,
+      "x": 461,
+      "y": 281,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b3"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
+      "width": 0,
+      "x": 61,
+      "y": 501,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c1"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
+      "width": 0,
+      "x": 236,
+      "y": 553,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c2"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
+      "width": 0,
+      "x": 498,
+      "y": 503,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c3"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "UI",
+      "name": "TextoCompleto",
+      "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
+      "width": 0,
+      "x": 129,
+      "y": -100,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1140,
+      "keepRatio": true,
+      "layer": "",
+      "name": "background",
+      "persistentUuid": "b94b80b5-8e77-4322-a062-7ced98417dad",
+      "width": 2311,
+      "x": 0,
+      "y": 0,
+      "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
+      "width": 0,
+      "x": 684,
+      "y": 119,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "a4"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
+      "width": 0,
+      "x": 723,
+      "y": 284,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b4"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
+      "width": 0,
+      "x": 690,
+      "y": 504,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c4"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
+      "width": 0,
+      "x": 61,
+      "y": 777,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d1"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
+      "width": 0,
+      "x": 240,
+      "y": 724,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d2"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
+      "width": 0,
+      "x": 500,
+      "y": 773,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d3"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Socalos",
+      "name": "Socalo",
+      "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
+      "width": 0,
+      "x": 689,
+      "y": 777,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d4"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "c957ed84-ffe3-4071-af03-dab4a7c7be0b",
+      "width": 0,
+      "x": 1071,
+      "y": 1348,
+      "zOrder": 8,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 7
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "b4"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "280"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
+      "width": 0,
+      "x": 409,
+      "y": 1565,
+      "zOrder": 9,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 8
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c1"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "70"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
+      "width": 0,
+      "x": 846,
+      "y": 1568,
+      "zOrder": 10,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 10
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c3"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "210"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
+      "width": 0,
+      "x": 584,
+      "y": 1617,
+      "zOrder": 9,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 9
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c2"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "140"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
+      "width": 0,
+      "x": 1038,
+      "y": 1568,
+      "zOrder": 11,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 11
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "c4"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "280"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
+      "width": 0,
+      "x": 1037,
+      "y": 1841,
+      "zOrder": 15,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 15
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d4"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "350"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Piezas",
+      "name": "Pieza",
+      "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
+      "width": 0,
+      "x": 408,
+      "y": 1841,
+      "zOrder": 12,
+      "numberProperties": [
+        {
+          "name": "animation",
+          "value": 12
+        }
+      ],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": "d1"
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": "420"
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": "490"
+        }
+      ]
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "timerSeconds",
+      "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
+      "width": 0,
+      "x": 1716,
+      "y": 439,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "timerSeparator",
+      "persistentUuid": "b6d5e80c-1172-40ee-a88c-2306900424f6",
+      "width": 0,
+      "x": 1680,
+      "y": 443,
+      "zOrder": 104,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "timerMinutes",
+      "persistentUuid": "88b23ff6-4c22-4325-8f0d-a6133abdc83b",
+      "width": 0,
+      "x": 1589,
+      "y": 447,
+      "zOrder": 105,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "nameCountry",
+      "persistentUuid": "415ba0b9-0446-45ef-851d-8bd852e7fd97",
+      "width": 0,
+      "x": 1484,
+      "y": 24,
+      "zOrder": 106,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "bg_objects",
+      "persistentUuid": "48f8a4ec-2262-4fb3-9397-13afa6718eae",
+      "width": 0,
+      "x": 1069,
+      "y": 809,
+      "zOrder": 107,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 950,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "bg_objects",
+      "persistentUuid": "000dc431-2137-4692-915a-6c75d05d325e",
+      "width": 948,
+      "x": 36,
+      "y": 92,
+      "zOrder": 108,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 948,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "bg_objects",
+      "persistentUuid": "512cd368-cabf-4f9c-81a6-d00e9184f209",
+      "width": 338,
+      "x": 1046,
+      "y": 91,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 435,
+      "layer": "UI",
+      "name": "bg_objects",
+      "persistentUuid": "16523f5e-16fe-4955-ab61-fc87312e9509",
+      "width": 500,
+      "x": 1482,
+      "y": 423,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 313,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "info1",
+      "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
+      "width": 467,
+      "x": 1498,
+      "y": 528,
+      "zOrder": 109,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Pieza",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "posicion_inicial_x",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "posicion_inicial_y",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "colocada",
+          "type": "string",
+          "value": "0"
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Arrastrable",
+          "type": "DraggableBehavior::Draggable"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 172,
+                        "y": 0
+                      },
+                      {
+                        "x": 173,
+                        "y": 155.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 152.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 26,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 244,
+                        "y": 11.5
+                      },
+                      {
+                        "x": 237,
+                        "y": 167.5
+                      },
+                      {
+                        "x": 68,
+                        "y": 178.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 9,
+                        "y": 0
+                      },
+                      {
+                        "x": 172,
+                        "y": 0
+                      },
+                      {
+                        "x": 190,
+                        "y": 168.5
+                      },
+                      {
+                        "x": 6,
+                        "y": 158.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 5,
+                        "y": 0
+                      },
+                      {
+                        "x": 260,
+                        "y": 0
+                      },
+                      {
+                        "x": 262,
+                        "y": 157.5
+                      },
+                      {
+                        "x": 6,
+                        "y": 154.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 200.5,
+                        "y": 0
+                      },
+                      {
+                        "x": 211.5,
+                        "y": 220.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 215.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 10,
+                        "y": 19
+                      },
+                      {
+                        "x": 177,
+                        "y": 30
+                      },
+                      {
+                        "x": 195,
+                        "y": 226
+                      },
+                      {
+                        "x": 37,
+                        "y": 218
+                      },
+                      {
+                        "x": 19,
+                        "y": 119
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 253,
+                        "y": 1.5
+                      },
+                      {
+                        "x": 252,
+                        "y": 220.5
+                      },
+                      {
+                        "x": 1,
+                        "y": 217.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 13.5
+                      },
+                      {
+                        "x": 192,
+                        "y": 79.5
+                      },
+                      {
+                        "x": 211,
+                        "y": 218.5
+                      },
+                      {
+                        "x": 23,
+                        "y": 213.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 172,
+                        "y": 0
+                      },
+                      {
+                        "x": 171,
+                        "y": 227.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 230.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 255,
+                        "y": 8
+                      },
+                      {
+                        "x": 250,
+                        "y": 180
+                      },
+                      {
+                        "x": 0,
+                        "y": 165
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 183.5,
+                        "y": 47.5
+                      },
+                      {
+                        "x": 197.5,
+                        "y": 244.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 243.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 172,
+                        "y": 0
+                      },
+                      {
+                        "x": 231.5,
+                        "y": 256.5
+                      },
+                      {
+                        "x": 3.5,
+                        "y": 259.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 19
+                      },
+                      {
+                        "x": 169.5,
+                        "y": 19
+                      },
+                      {
+                        "x": 186.5,
+                        "y": 186
+                      },
+                      {
+                        "x": 0,
+                        "y": 182
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 14
+                      },
+                      {
+                        "x": 172,
+                        "y": 21
+                      },
+                      {
+                        "x": 229,
+                        "y": 246
+                      },
+                      {
+                        "x": 69,
+                        "y": 237
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 191,
+                        "y": 21
+                      },
+                      {
+                        "x": 202,
+                        "y": 207
+                      },
+                      {
+                        "x": 25,
+                        "y": 212
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz17.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 203.5,
+                        "y": 87
+                      },
+                      {
+                        "x": 223.5,
+                        "y": 203
+                      },
+                      {
+                        "x": 52.5,
+                        "y": 219
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Socalo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "ubicacion",
+          "type": "string",
+          "value": ""
+        },
+        {
+          "name": "correcto",
+          "type": "string",
+          "value": "0"
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "assets\\puzzles\\socket",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\socket30",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 125,
+                        "y": 129
+                      },
+                      {
+                        "x": 125,
+                        "y": 29.5
+                      },
+                      {
+                        "x": 24,
+                        "y": 31.5
+                      },
+                      {
+                        "x": 22,
+                        "y": 128
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": true,
+      "name": "TextoCompleto",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "GANASTE!",
+      "font": "",
+      "textAlignment": "",
+      "characterSize": 40,
+      "color": {
+        "b": 61,
+        "g": 168,
+        "r": 59
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": true,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "GANASTE!",
+        "font": "",
+        "textAlignment": "",
+        "characterSize": 40,
+        "color": "59;168;61"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "background",
+      "texture": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\fondo.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "timerSeconds",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "00",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "00",
+        "font": "",
+        "textAlignment": "center",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "timerSeparator",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": ":",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": ":",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "timerMinutes",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "05",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "05",
+        "font": "",
+        "textAlignment": "center",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "nameCountry",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "ESTADOS UNIDOS\nDE AMERICA",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 10,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 5,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 6,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "ESTADOS UNIDOS\nDE AMERICA",
+        "font": "",
+        "textAlignment": "center",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "bg_objects",
+      "texture": "NewTiledSprite",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "info1",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "folderName": "Background",
+        "children": [
+          {
+            "objectName": "background"
+          }
+        ]
+      },
+      {
+        "folderName": "Timer",
+        "children": [
+          {
+            "objectName": "timerSeconds"
+          },
+          {
+            "objectName": "timerSeparator"
+          },
+          {
+            "objectName": "timerMinutes"
+          }
+        ]
+      },
+      {
+        "folderName": "Player",
+        "children": [
+          {
+            "objectName": "Socalo"
+          },
+          {
+            "objectName": "Pieza"
+          }
+        ]
+      },
+      {
+        "objectName": "TextoCompleto"
+      },
+      {
+        "objectName": "nameCountry"
+      },
+      {
+        "objectName": "bg_objects"
+      },
+      {
+        "objectName": "info1"
+      }
+    ]
+  },
+  "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Al comienzo de cada Iteración",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "piezas_correctas",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Ubicar aleatoriamente dentro del rango de casilla de piezas"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Pieza",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "RandomInRange(1050, 1060)",
+                "=",
+                "RandomInRange(100, 750)"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DraggableBehavior::Dragged"
+              },
+              "parameters": [
+                "Pieza",
+                "Arrastrable"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Pieza",
+                "colocada",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "99"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Tarea para la casa",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DraggableBehavior::Dragged"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "Arrastrable"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjetTxt"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "ubicacion",
+                    "=",
+                    "Pieza.VariableString(ubicacion)"
+                  ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "Socalo",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ]
+            },
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Pieza",
+                "Socalo",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "correcto",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "=",
+                    "Socalo.X()",
+                    "=",
+                    "Socalo.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "=",
+                    "RandomInRange(1050, 1060)",
+                    "=",
+                    "RandomInRange(100, 750)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjetTxt"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "ubicacion",
+                    "=",
+                    "Socalo.VariableString(ubicacion)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "colocada",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "1"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Quitar una pieza de un socalo",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "folded": true,
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "VarScene"
+          },
+          "parameters": [
+            "piezas_correctas",
+            "!=",
+            "16"
+          ]
+        },
+        {
+          "type": {
+            "value": "MouseButtonReleased"
+          },
+          "parameters": [
+            "",
+            "Right"
+          ]
+        },
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "Pieza",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "Pieza",
+            "=",
+            "RandomInRange(1050, 1060)",
+            "=",
+            "RandomInRange(100, 750)"
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarObjet"
+          },
+          "parameters": [
+            "Pieza",
+            "colocada",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "Socalo",
+                "ubicacion",
+                "=",
+                "Pieza.VariableString(ubicacion)"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "correcto",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "correcto",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Comprobar si el puzzle está resuelto",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Socalo",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "correcto",
+                "=",
+                "1"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "piezas_correctas",
+                "+",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "piezas_correctas",
+                "=",
+                "16"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "TextoCompleto",
+                "=",
+                "1080",
+                "=",
+                "150"
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "Pieza",
+                "Arrastrable",
+                "no"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Timer",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "timerSeconds",
+                "Text",
+                "=",
+                "VariableString(timerSeconds)"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "timerMinutes",
+                "Text",
+                "=",
+                "VariableString(timerMinutes)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "timerSeconds",
+                "Text",
+                "startsWith",
+                "\"0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarSceneTxt"
+              },
+              "parameters": [
+                "timerMinutes",
+                "!=",
+                "\"0\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "=",
+                "59"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "timerMinutes",
+                "Text",
+                "=",
+                "\"0\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerSeconds",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerSeparator",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerMinutes",
+                "\"255;0;0\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\"",
+                ">",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "<",
+                "60"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarSceneTxt"
+              },
+              "parameters": [
+                "timerSeconds",
+                "!=",
+                "\"0\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "-",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Curiosidades",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "=",
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "info1",
+                "Text",
+                "=",
+                "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "=",
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "info1",
+                "Text",
+                "=",
+                "\"Tiene 93 m de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerMinutes",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "info1",
+                "Text",
+                "=",
+                "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 16,
+      "ambientLightColorG": 6864984,
+      "ambientLightColorR": 98,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "cameraType": "perspective",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": true,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 1702453580,
+      "ambientLightColorG": 7115688,
+      "ambientLightColorR": 3,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "cameraType": "perspective",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "UI",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 1702453580,
+      "ambientLightColorG": 6000560,
+      "ambientLightColorR": 83886080,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "cameraType": "perspective",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Socalos",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 1702453580,
+      "ambientLightColorG": 1633906515,
+      "ambientLightColorR": 83886080,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "cameraType": "perspective",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Piezas",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
+    }
+  ]
+}
