@@ -1,0 +1,77 @@
+{
+  "associatedLayout": "puzzle_usa",
+  "lastChangeTimeStamp": 0,
+  "name": "sort_pieces",
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "y_reference",
+            "=",
+            "100"
+          ]
+        },
+        {
+          "type": {
+            "value": "ObjectStack::ObjectStack::Shuffle"
+          },
+          "parameters": [
+            "container_piece",
+            "ObjectStack",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::ForEach",
+      "object": "Pieza",
+      "conditions": [
+        {
+          "type": {
+            "value": "VarObjet"
+          },
+          "parameters": [
+            "Pieza",
+            "colocada",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionTween2"
+          },
+          "parameters": [
+            "Pieza",
+            "Tween",
+            "\"SwapPiece\"",
+            "RandomFloatInRange(1080, 1100)+Pieza.Width()/4",
+            "y_reference",
+            "\"easeInOutQuad\"",
+            "0.5",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ModVarScene"
+          },
+          "parameters": [
+            "y_reference",
+            "=",
+            "y_reference+Pieza.Height()+50"
+          ]
+        }
+      ]
+    }
+  ]
+}
