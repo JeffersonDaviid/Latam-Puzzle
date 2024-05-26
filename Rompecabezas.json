@@ -4298,6 +4298,375 @@
         "name": "NewSprite2",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0000.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0012.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0013.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0014.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0015.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0016.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0018.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0021.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0023.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0025.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0026.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0027.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0028.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0029.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0031.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0033.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0033.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0034.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0035.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0036.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0037.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0038.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0039.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Extras/pergamino/PERGAMINO0040.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0040.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

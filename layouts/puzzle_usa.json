@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4084298220582742,
+    "zoomFactor": 0.3697500764087279,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -844,8 +844,8 @@
       "name": "timerSeconds",
       "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
       "width": 72,
-      "x": 1829,
-      "y": 443,
+      "x": 1821,
+      "y": 530,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -860,8 +860,8 @@
       "name": "timerSeparator",
       "persistentUuid": "b6d5e80c-1172-40ee-a88c-2306900424f6",
       "width": 0,
-      "x": 1807,
-      "y": 440,
+      "x": 1799,
+      "y": 527,
       "zOrder": 104,
       "numberProperties": [],
       "stringProperties": [],
@@ -876,8 +876,8 @@
       "name": "timerMinutes",
       "persistentUuid": "88b23ff6-4c22-4325-8f0d-a6133abdc83b",
       "width": 0,
-      "x": 1716,
-      "y": 444,
+      "x": 1708,
+      "y": 531,
       "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
@@ -925,8 +925,8 @@
       "name": "bg_objects",
       "persistentUuid": "16523f5e-16fe-4955-ab61-fc87312e9509",
       "width": 500,
-      "x": 1609,
-      "y": 420,
+      "x": 1601,
+      "y": 507,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -942,8 +942,8 @@
       "name": "info1",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
       "width": 467,
-      "x": 1625,
-      "y": 525,
+      "x": 1617,
+      "y": 612,
       "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
@@ -975,8 +975,8 @@
       "name": "zero_auxMinutes",
       "persistentUuid": "aa853896-3677-4572-809e-ef1a8df9015b",
       "width": 0,
-      "x": 1687,
-      "y": 446,
+      "x": 1679,
+      "y": 533,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -991,9 +991,25 @@
       "name": "zero_auxSeconds",
       "persistentUuid": "feaca1ed-29bf-48b0-931b-8444c878d6de",
       "width": 0,
-      "x": 1840,
-      "y": 443,
+      "x": 1832,
+      "y": 530,
       "zOrder": 110,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "map_character",
+      "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
+      "width": 0,
+      "x": 1319,
+      "y": 135,
+      "zOrder": 111,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2296,6 +2312,1506 @@
         "characterSize": 50,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "map_character",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0020.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0021.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0022.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0023.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0024.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0025.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0026.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0027.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0028.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0029.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0030.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0031.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0032.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0033.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0034.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0035.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0036.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0037.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0038.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0039.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0040.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -2354,6 +3870,9 @@
       },
       {
         "objectName": "container_piece"
+      },
+      {
+        "objectName": "map_character"
       }
     ]
   },
