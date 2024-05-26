@@ -5016,6 +5016,18 @@
                 "=",
                 "\"Tiene 93 m de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "pasar2.wav",
+                "",
+                "100",
+                "1"
+              ]
             }
           ]
         },
@@ -5049,6 +5061,18 @@
                 "Text",
                 "=",
                 "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "pasar2.wav",
+                "",
+                "100",
+                "1"
               ]
             }
           ]
