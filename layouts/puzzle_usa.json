@@ -2120,7 +2120,7 @@
       "effects": [],
       "behaviors": [],
       "string": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
-      "font": "",
+      "font": "Coffee Normal3.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -2143,7 +2143,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
-        "font": "",
+        "font": "Coffee Normal3.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "0;0;0"
@@ -2296,6 +2296,47 @@
         "characterSize": 50,
         "color": "0;0;0"
       }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "NewText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Text",
+      "font": "Coffee Normal2.ttf",
+      "textAlignment": "left",
+      "characterSize": 20,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Text",
+        "font": "Coffee Normal2.ttf",
+        "textAlignment": "left",
+        "characterSize": 20,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2354,6 +2395,9 @@
       },
       {
         "objectName": "container_piece"
+      },
+      {
+        "objectName": "NewText"
       }
     ]
   },

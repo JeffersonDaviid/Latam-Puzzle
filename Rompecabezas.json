@@ -4298,6 +4298,20 @@
         "name": "NewSprite2",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "Coffee Normal2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Coffee Normal2.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "Coffee Normal3.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Coffee Normal3.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
