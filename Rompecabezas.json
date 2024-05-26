@@ -4704,6 +4704,36 @@
         "name": "assets\\puzzles\\reloj2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "pasar.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "pasar.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "pasar2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "pasar2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Late Nights.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Late Nights.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []

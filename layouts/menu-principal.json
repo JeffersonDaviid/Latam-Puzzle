@@ -2141,6 +2141,34 @@
         }
       ],
       "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            "fondo"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "Late Nights.wav",
+            "1",
+            "100",
+            "100",
+            "1"
+          ]
+        }
+      ]
     }
   ],
   "layers": [
