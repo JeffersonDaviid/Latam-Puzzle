@@ -4695,6 +4695,15 @@
         "metadata": "",
         "name": "Coffee Normal5.ttf",
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/reloj2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\reloj2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
