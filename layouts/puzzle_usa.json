@@ -1888,7 +1888,7 @@
       "effects": [],
       "behaviors": [],
       "string": "GANASTE!",
-      "font": "",
+      "font": "Coffee Normal4.ttf",
       "textAlignment": "",
       "characterSize": 40,
       "color": {
@@ -1911,7 +1911,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "GANASTE!",
-        "font": "",
+        "font": "Coffee Normal4.ttf",
         "textAlignment": "",
         "characterSize": 40,
         "color": "59;168;61"
@@ -2063,7 +2063,7 @@
       "effects": [],
       "behaviors": [],
       "string": "ESTADOS UNIDOS\nDE AMERICA",
-      "font": "",
+      "font": "Coffee Normal5.ttf",
       "textAlignment": "center",
       "characterSize": 50,
       "color": {
@@ -2086,7 +2086,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "ESTADOS UNIDOS\nDE AMERICA",
-        "font": "",
+        "font": "Coffee Normal5.ttf",
         "textAlignment": "center",
         "characterSize": 50,
         "color": "0;0;0"
