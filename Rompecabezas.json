@@ -4667,6 +4667,34 @@
         "name": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0040.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "Coffee Normal2.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Coffee Normal2.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "Coffee Normal3.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Coffee Normal3.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "Coffee Normal4.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Coffee Normal4.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "Coffee Normal5.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Coffee Normal5.ttf",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
