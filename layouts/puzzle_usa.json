@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2931479552831453,
+    "zoomFactor": 0.4084298220582742,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -836,15 +836,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 56,
       "keepRatio": true,
       "layer": "UI",
       "name": "timerSeconds",
       "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
-      "width": 0,
-      "x": 1843,
-      "y": 436,
+      "width": 72,
+      "x": 1829,
+      "y": 443,
       "zOrder": 103,
       "numberProperties": [],
       "stringProperties": [],
@@ -861,7 +862,7 @@
       "width": 0,
       "x": 1807,
       "y": 440,
-      "zOrder": 103,
+      "zOrder": 104,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -877,7 +878,7 @@
       "width": 0,
       "x": 1716,
       "y": 444,
-      "zOrder": 103,
+      "zOrder": 105,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -910,7 +911,7 @@
       "width": 948,
       "x": 36,
       "y": 92,
-      "zOrder": 0,
+      "zOrder": 108,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -926,7 +927,7 @@
       "width": 500,
       "x": 1609,
       "y": 420,
-      "zOrder": 100,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -943,7 +944,7 @@
       "width": 467,
       "x": 1625,
       "y": 525,
-      "zOrder": 100,
+      "zOrder": 109,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -951,16 +952,48 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0.9999999999999998,
-      "height": 936.9999999999999,
+      "depth": 1.0138740661686232,
+      "height": 950,
       "keepRatio": true,
-      "layer": "UI",
+      "layer": "",
       "name": "container_piece",
       "persistentUuid": "a6bacbda-901a-4f2b-94b7-c8a4e4629158",
-      "width": 400,
+      "width": 405.54962646744934,
       "x": 1100,
       "y": 100,
       "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "zero_auxMinutes",
+      "persistentUuid": "aa853896-3677-4572-809e-ef1a8df9015b",
+      "width": 0,
+      "x": 1687,
+      "y": 446,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "zero_auxSeconds",
+      "persistentUuid": "feaca1ed-29bf-48b0-931b-8444c878d6de",
+      "width": 0,
+      "x": 1840,
+      "y": 443,
+      "zOrder": 110,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1906,9 +1939,9 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "00",
+      "string": "0",
       "font": "",
-      "textAlignment": "center",
+      "textAlignment": "right",
       "characterSize": 50,
       "color": {
         "b": 0,
@@ -1929,9 +1962,9 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "00",
+        "text": "0",
         "font": "",
-        "textAlignment": "center",
+        "textAlignment": "right",
         "characterSize": 50,
         "color": "0;0;0"
       }
@@ -1988,7 +2021,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "05",
+      "string": "5",
       "font": "",
       "textAlignment": "center",
       "characterSize": 50,
@@ -2011,7 +2044,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "05",
+        "text": "5",
         "font": "",
         "textAlignment": "center",
         "characterSize": 50,
@@ -2181,6 +2214,88 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "zero_auxMinutes",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "0",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "zero_auxSeconds",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "0",
+      "font": "",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "0",
+        "font": "",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2205,6 +2320,12 @@
           },
           {
             "objectName": "timerMinutes"
+          },
+          {
+            "objectName": "zero_auxMinutes"
+          },
+          {
+            "objectName": "zero_auxSeconds"
           }
         ]
       },
@@ -3091,6 +3212,24 @@
                 "timerMinutes",
                 "\"255;0;0\""
               ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "zero_auxMinutes",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "\"255;0;0\""
+              ]
             }
           ],
           "events": [
@@ -3180,6 +3319,62 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "<",
+                "10"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                ">",
+                "10"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -3189,7 +3384,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -3272,7 +3466,7 @@
               "parameters": [
                 "timerMinutes",
                 "=",
-                "2"
+                "1"
               ]
             },
             {
