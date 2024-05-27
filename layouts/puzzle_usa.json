@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3238143136465241,
+    "zoomFactor": 0.2835853632291347,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -4989,6 +4989,31 @@
               "target": "sort_pieces"
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Late Nights.wav",
+                "yes",
+                "100",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
@@ -5051,79 +5076,78 @@
           ]
         },
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
-          "name": "Tarea para la casa",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Sobre poner un pieza encima de la otra, quitamos la que estaba"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "DraggableBehavior::Dragged"
-                  },
-                  "parameters": [
-                    "Pieza",
-                    "Arrastrable"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarObjet"
-                  },
-                  "parameters": [
-                    "Socalo",
-                    "correcto",
-                    "=",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "VarObjetTxt"
-                  },
-                  "parameters": [
-                    "Socalo",
-                    "ubicacion",
-                    "=",
-                    "Pieza.VariableString(ubicacion)"
-                  ]
-                },
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Pieza",
-                    "Socalo",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ModVarObjet"
-                  },
-                  "parameters": [
-                    "Socalo",
-                    "correcto",
-                    "=",
-                    "0"
-                  ]
-                }
+              "type": {
+                "value": "DraggableBehavior::Dragged"
+              },
+              "parameters": [
+                "Pieza",
+                "Arrastrable"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "correcto",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "Socalo",
+                "ubicacion",
+                "=",
+                "Pieza.VariableString(ubicacion)"
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Pieza",
+                "Socalo",
+                "",
+                "",
+                ""
               ]
             }
           ],
-          "parameters": []
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Socalo",
+                "correcto",
+                "=",
+                "0"
+              ]
+            }
+          ]
         },
         {
           "folded": true,
@@ -5340,6 +5364,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -5566,7 +5591,7 @@
               "parameters": [
                 "piezas_correctas",
                 "=",
-                "1"
+                "16"
               ]
             },
             {
@@ -5974,6 +5999,18 @@
                 "=",
                 "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "pasar2.wav",
+                "",
+                "150",
+                ""
+              ]
             }
           ]
         },
@@ -6017,7 +6054,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "100",
+                "150",
                 "1"
               ]
             }
@@ -6063,7 +6100,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "100",
+                "150",
                 "1"
               ]
             }
@@ -6071,11 +6108,6 @@
         }
       ],
       "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ],
   "layers": [
