@@ -4853,6 +4853,33 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f0ede8843d544f6e84bc09299a8aabffbce558966f25af98f7b47ab1648217ce_Blue Button_Pressed.png",
           "name": "Blue Button_Pressed.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "click1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "click1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "click2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "click2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "click3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "click3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

@@ -2067,12 +2067,11 @@
       "actions": [
         {
           "type": {
-            "value": "Scene"
+            "value": "PushScene"
           },
           "parameters": [
             "",
-            "\"Creditos\"",
-            ""
+            "\"ComoJugar\""
           ]
         }
       ]
