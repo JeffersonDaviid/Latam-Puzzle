@@ -4734,6 +4734,152 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "_d9275fd7-4753-4e68-931b-11e19b229775.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "_d9275fd7-4753-4e68-931b-11e19b229775.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondoTutorial.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondoTutorial.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "fondoTutorial2.jpeg",
+        "kind": "image",
+        "metadata": "",
+        "name": "fondoTutorial2.jpeg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/Roboto-Italic.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "c807beaa344a3d66eee7fb031c27c03f4b43a24d758cb76899434a26e9dae5b9_Roboto-Italic.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/c807beaa344a3d66eee7fb031c27c03f4b43a24d758cb76899434a26e9dae5b9_Roboto-Italic.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/WorkSans-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_btCentro.png2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_btCentro.png2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Mini Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "d73fbc705487707ea61faa2b865e21e3b24bea3319f75c2a124ad13bcae99ab4_Kenney Mini Square.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/d73fbc705487707ea61faa2b865e21e3b24bea3319f75c2a124ad13bcae99ab4_Kenney Mini Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/PressStart2P-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1ffd07cb739df2a909155dd3057f6def46b833ced6ef1a09527b6ea59e88e464_Blue Button_Hovered.png",
+          "name": "Blue Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/eeac55458b66fb84f756b38085fbf7d1e079c39363c942abd35ea9d0939465ce_Blue Button_Idle.png",
+          "name": "Blue Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f0ede8843d544f6e84bc09299a8aabffbce558966f25af98f7b47ab1648217ce_Blue Button_Pressed.png",
+          "name": "Blue Button_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "click1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "click1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "click2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "click2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "click3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "click3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -4870,6 +5016,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/creditos"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/comojugar"
     }
   ],
   "externalEvents": [
