@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.33253870912507905,
+    "zoomFactor": 0.22336005893811506,
     "windowMask": true
   },
   "objectsGroups": [],
@@ -62,12 +62,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1089,
+      "height": 1090,
       "layer": "",
       "name": "fondo",
       "persistentUuid": "34895886-6da4-4efd-969b-a60f7fc74046",
-      "width": 1925,
-      "x": -4,
+      "width": 2084,
+      "x": 0,
       "y": 0,
       "zOrder": 10,
       "numberProperties": [],
@@ -96,7 +96,7 @@
       "name": "inst",
       "persistentUuid": "de210516-ef97-49f5-ad36-7897a3c73b5d",
       "width": 395,
-      "x": 2134,
+      "x": 2289,
       "y": 400,
       "zOrder": 11,
       "numberProperties": [],
@@ -112,7 +112,7 @@
       "name": "play",
       "persistentUuid": "d162aa14-6f21-4cc7-a768-7ceb8f3a6c67",
       "width": 395,
-      "x": -692,
+      "x": -600,
       "y": 400,
       "zOrder": 12,
       "numberProperties": [],
@@ -129,8 +129,8 @@
       "name": "creditos",
       "persistentUuid": "70069dd6-8536-4b69-a474-3b6daa7b7055",
       "width": 256,
-      "x": 1637,
-      "y": 33,
+      "x": 1749,
+      "y": 47,
       "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
@@ -146,7 +146,7 @@
       "name": "rompe",
       "persistentUuid": "466285f1-c91a-4ae8-a229-5a4fd24af9d4",
       "width": 618,
-      "x": 312,
+      "x": 393,
       "y": -341,
       "zOrder": 14,
       "numberProperties": [],
@@ -163,74 +163,9 @@
       "name": "cabezas",
       "persistentUuid": "92a8dd52-8137-4ddd-b5b1-beb5a9824ceb",
       "width": 667,
-      "x": 904,
-      "y": -387,
+      "x": 1019,
+      "y": -335,
       "zOrder": 15,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 674,
-      "keepRatio": true,
-      "layer": "instrucciones",
-      "name": "instruc_man",
-      "persistentUuid": "2cada7ce-d911-458c-a449-da57e85cee83",
-      "width": 1185,
-      "x": 378,
-      "y": 382,
-      "zOrder": 16,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "instrucciones",
-      "name": "cerrar",
-      "persistentUuid": "d247f86c-583c-4231-9e63-74020de6157d",
-      "width": 0,
-      "x": 865,
-      "y": 957,
-      "zOrder": 17,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "instrucciones",
-      "name": "LeftArrowButton",
-      "persistentUuid": "61aa3e55-71a5-4f23-9af6-d396f875e58f",
-      "width": 0,
-      "x": 625,
-      "y": 945,
-      "zOrder": 18,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "instrucciones",
-      "name": "RightArrowButton",
-      "persistentUuid": "752bf65b-d95c-4fdc-93c1-0aca0c480c72",
-      "width": 0,
-      "x": 1191,
-      "y": 945,
-      "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1259,30 +1194,9 @@
       "conditions": [
         {
           "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+            "value": "BuiltinCommonInstructions::Once"
           },
-          "parameters": [
-            "btCreditos",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-          },
-          "parameters": [
-            "btJugar",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-          },
-          "parameters": [
-            "btSalir",
-            ""
-          ]
+          "parameters": []
         }
       ],
       "actions": [
@@ -1895,7 +1809,7 @@
           },
           "parameters": [
             "",
-            "\"Menu seleccion del pais\"",
+            "\"Menu Seleccion Region\"",
             ""
           ]
         }
@@ -1952,6 +1866,16 @@
           "parameters": [
             "",
             "\"instrucciones\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"ComoJugar\"",
+            ""
           ]
         }
       ]
@@ -2140,7 +2064,18 @@
           ]
         }
       ],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Creditos\"",
+            ""
+          ]
+        }
+      ]
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -2182,7 +2117,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "",
       "renderingType": "",
       "visibility": true,
