@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3645833333333333,
+    "zoomFactor": 0.4753585087126932,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -27,13 +27,13 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 1182.709326072158,
+      "depth": 1,
+      "height": 1183,
       "keepRatio": true,
       "layer": "",
       "name": "Fondo",
       "persistentUuid": "664c2073-8c2b-4356-a4eb-51957634e4d0",
-      "width": 2100,
+      "width": 2186,
       "x": -11,
       "y": -38,
       "zOrder": 1,
@@ -122,6 +122,40 @@
       "x": 1176,
       "y": 2331,
       "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 150,
+      "height": 100,
+      "keepRatio": true,
+      "layer": "",
+      "name": "btRetroceder",
+      "persistentUuid": "1e59164a-b7de-43db-82fe-cc21c5c81fcc",
+      "width": 100,
+      "x": 0,
+      "y": 966,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 95,
+      "keepRatio": true,
+      "layer": "",
+      "name": "txt_volver",
+      "persistentUuid": "f7731fa0-976c-4020-b6df-8a6d953271fa",
+      "width": 297,
+      "x": 103,
+      "y": 969,
+      "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -470,6 +504,29 @@
           ]
         }
       ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "txt_volver",
+      "type": "BBText::BBText",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "content": {
+        "text": "[shadow=blue][i]VOLVER[/i][/shadow] \n",
+        "opacity": 255,
+        "fontSize": 60,
+        "visible": true,
+        "color": "253;253;253",
+        "fontFamily": "assets\\Kenney Pixel Square.ttf",
+        "align": "center",
+        "wordWrap": true
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -486,6 +543,9 @@
       },
       {
         "objectName": "_1"
+      },
+      {
+        "objectName": "txt_volver"
       },
       {
         "objectName": "Logo_EPN"
@@ -679,6 +739,44 @@
           ]
         }
       ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Botones",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "btRetroceder",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu principal\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
     }
   ],
   "layers": [

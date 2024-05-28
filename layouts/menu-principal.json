@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.22336005893811506,
+    "zoomFactor": 0.21607397323875552,
     "windowMask": true
   },
   "objectsGroups": [],
@@ -62,11 +62,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1090,
+      "height": 1112,
       "layer": "",
       "name": "fondo",
       "persistentUuid": "34895886-6da4-4efd-969b-a60f7fc74046",
-      "width": 2084,
+      "width": 2209,
       "x": 0,
       "y": 0,
       "zOrder": 10,
@@ -1783,108 +1783,6 @@
       "conditions": [
         {
           "type": {
-            "value": "ObjectVariableAsBoolean"
-          },
-          "parameters": [
-            "inst",
-            "instruccion",
-            "True"
-          ]
-        },
-        {
-          "type": {
-            "value": "ButtonStates::ButtonFSM::IsClicked"
-          },
-          "parameters": [
-            "play",
-            "ButtonFSM",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Menu Seleccion Region\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "ObjectVariableAsBoolean"
-          },
-          "parameters": [
-            "inst",
-            "instruccion",
-            "True"
-          ]
-        },
-        {
-          "type": {
-            "value": "ButtonStates::ButtonFSM::IsClicked"
-          },
-          "parameters": [
-            "inst",
-            "ButtonFSM",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "SetObjectVariableAsBoolean"
-          },
-          "parameters": [
-            "inst",
-            "instruccion",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "HideLayer"
-          },
-          "parameters": [
-            "",
-            "\"botones\""
-          ]
-        },
-        {
-          "type": {
-            "value": "ShowLayer"
-          },
-          "parameters": [
-            "",
-            "\"instrucciones\""
-          ]
-        },
-        {
-          "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"ComoJugar\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
             "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
@@ -2046,6 +1944,34 @@
       "conditions": [
         {
           "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            "fondo"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "Late Nights.wav",
+            "1",
+            "yes",
+            "100",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
             "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
           },
           "parameters": [
@@ -2071,38 +1997,124 @@
           },
           "parameters": [
             "",
-            "\"ComoJugar\""
+            "\"Creditos\""
           ]
         }
       ]
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Botones",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
         {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            "fondo"
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "inst",
+                "instruccion",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "play",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Seleccion Region\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "inst",
+                "instruccion",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "inst",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "inst",
+                "instruccion",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"botones\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"instrucciones\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"ComoJugar\"",
+                ""
+              ]
+            }
           ]
         }
       ],
-      "actions": [
-        {
-          "type": {
-            "value": "PlayMusicCanal"
-          },
-          "parameters": [
-            "",
-            "Late Nights.wav",
-            "1",
-            "yes",
-            "100",
-            "1"
-          ]
-        }
-      ]
+      "parameters": []
     }
   ],
   "layers": [

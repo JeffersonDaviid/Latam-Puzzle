@@ -3021,7 +3021,7 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
+      "string": "",
       "font": "Coffee Normal3.ttf",
       "textAlignment": "left",
       "characterSize": 50,
@@ -3044,7 +3044,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
+        "text": "",
         "font": "Coffee Normal3.ttf",
         "textAlignment": "left",
         "characterSize": 50,
@@ -4710,7 +4710,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "RETROCEDER",
+      "string": "SALIR",
       "font": "Coffee Normal2.ttf",
       "textAlignment": "left",
       "characterSize": 60,
@@ -4733,7 +4733,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "RETROCEDER",
+        "text": "SALIR",
         "font": "Coffee Normal2.ttf",
         "textAlignment": "left",
         "characterSize": 60,
@@ -5642,6 +5642,24 @@
                 "",
                 "\"timer\""
               ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Norte\"",
+                ""
+              ]
             }
           ]
         }
@@ -5997,7 +6015,7 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "timerMinutes",
+                "piezas_correctas",
                 "=",
                 "4"
               ]
@@ -6029,7 +6047,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "150",
+                "500",
                 ""
               ]
             }
@@ -6043,9 +6061,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "timerMinutes",
+                "piezas_correctas",
                 "=",
-                "3"
+                "8"
               ]
             },
             {
@@ -6075,7 +6093,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "150",
+                "500",
                 "1"
               ]
             }
@@ -6089,9 +6107,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "timerMinutes",
+                "piezas_correctas",
                 "=",
-                "1"
+                "12"
               ]
             },
             {
@@ -6121,7 +6139,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "150",
+                "500",
                 "1"
               ]
             }
