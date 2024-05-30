@@ -4880,6 +4880,15 @@
         "name": "click3.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/fondo.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\fondo.jpg",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []

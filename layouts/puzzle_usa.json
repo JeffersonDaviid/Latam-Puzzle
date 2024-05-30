@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2743347063776161,
+    "zoomFactor": 0.27433470637761614,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -38,7 +38,7 @@
       "folded": true,
       "name": "timerMinutes",
       "type": "string",
-      "value": "05"
+      "value": "03"
     },
     {
       "folded": true,
@@ -292,9 +292,9 @@
       "name": "Socalo",
       "persistentUuid": "152ab44e-ed76-4177-b9be-cc22e3a32a73",
       "width": 0,
-      "x": 61,
-      "y": 119,
-      "zOrder": 11,
+      "x": 134,
+      "y": 90,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": [
@@ -313,9 +313,9 @@
       "name": "Socalo",
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
-      "x": 235,
-      "y": 119,
-      "zOrder": 12,
+      "x": 308,
+      "y": 90,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -339,9 +339,9 @@
       "name": "Socalo",
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
-      "x": 500,
-      "y": 119,
-      "zOrder": 13,
+      "x": 573,
+      "y": 90,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -365,9 +365,9 @@
       "name": "Socalo",
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
-      "x": 61,
-      "y": 277,
-      "zOrder": 14,
+      "x": 134,
+      "y": 248,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -391,9 +391,9 @@
       "name": "Socalo",
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
-      "x": 275,
-      "y": 327,
-      "zOrder": 15,
+      "x": 348,
+      "y": 298,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -417,9 +417,9 @@
       "name": "Socalo",
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
-      "x": 461,
-      "y": 281,
-      "zOrder": 16,
+      "x": 534,
+      "y": 252,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -443,9 +443,9 @@
       "name": "Socalo",
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
-      "x": 61,
-      "y": 501,
-      "zOrder": 17,
+      "x": 134,
+      "y": 472,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -469,9 +469,9 @@
       "name": "Socalo",
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
-      "x": 236,
-      "y": 553,
-      "zOrder": 18,
+      "x": 309,
+      "y": 524,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -495,9 +495,9 @@
       "name": "Socalo",
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
-      "x": 498,
-      "y": 503,
-      "zOrder": 19,
+      "x": 571,
+      "y": 474,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -515,32 +515,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "layer": "UI",
-      "name": "Win",
-      "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
-      "width": 0,
-      "x": 20,
-      "y": -89,
-      "zOrder": 101,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1140,
-      "keepRatio": true,
-      "layer": "",
-      "name": "background",
-      "persistentUuid": "b94b80b5-8e77-4322-a062-7ced98417dad",
-      "width": 2311,
-      "x": 0,
-      "y": 0,
-      "zOrder": 0,
+      "height": 71,
+      "layer": "winer",
+      "name": "txt_win",
+      "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
+      "width": 985,
+      "x": 580,
+      "y": 260,
+      "zOrder": 201,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -553,9 +537,9 @@
       "name": "Socalo",
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
-      "x": 684,
-      "y": 119,
-      "zOrder": 11,
+      "x": 757,
+      "y": 90,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -579,9 +563,9 @@
       "name": "Socalo",
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
-      "x": 723,
-      "y": 284,
-      "zOrder": 14,
+      "x": 796,
+      "y": 255,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -605,9 +589,9 @@
       "name": "Socalo",
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
-      "x": 690,
-      "y": 504,
-      "zOrder": 17,
+      "x": 763,
+      "y": 475,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -631,9 +615,9 @@
       "name": "Socalo",
       "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
       "width": 0,
-      "x": 61,
-      "y": 777,
-      "zOrder": 14,
+      "x": 134,
+      "y": 748,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -657,9 +641,9 @@
       "name": "Socalo",
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
-      "x": 240,
-      "y": 724,
-      "zOrder": 15,
+      "x": 313,
+      "y": 695,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -683,9 +667,9 @@
       "name": "Socalo",
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
-      "x": 500,
-      "y": 773,
-      "zOrder": 16,
+      "x": 573,
+      "y": 744,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -709,9 +693,9 @@
       "name": "Socalo",
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
-      "x": 689,
-      "y": 777,
-      "zOrder": 14,
+      "x": 762,
+      "y": 748,
+      "zOrder": 0,
       "numberProperties": [
         {
           "name": "animation",
@@ -919,9 +903,9 @@
       "name": "timerSeconds",
       "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
       "width": 72,
-      "x": 1935,
-      "y": 417,
-      "zOrder": 100,
+      "x": 1825,
+      "y": 286,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -935,9 +919,9 @@
       "name": "timerSeparator",
       "persistentUuid": "b6d5e80c-1172-40ee-a88c-2306900424f6",
       "width": 0,
-      "x": 1924,
-      "y": 413,
-      "zOrder": 100,
+      "x": 1814,
+      "y": 282,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -951,9 +935,9 @@
       "name": "timerMinutes",
       "persistentUuid": "88b23ff6-4c22-4325-8f0d-a6133abdc83b",
       "width": 0,
-      "x": 1886,
-      "y": 417,
-      "zOrder": 100,
+      "x": 1776,
+      "y": 286,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -978,65 +962,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 950,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "bg_objects",
-      "persistentUuid": "000dc431-2137-4692-915a-6c75d05d325e",
-      "width": 948,
-      "x": 36,
-      "y": 92,
-      "zOrder": 108,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 442,
-      "layer": "UI",
-      "name": "bg_objects",
-      "persistentUuid": "16523f5e-16fe-4955-ab61-fc87312e9509",
-      "width": 500,
-      "x": 1601,
-      "y": 511,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
       "height": 346,
       "keepRatio": true,
-      "layer": "UI",
-      "name": "info1",
+      "layer": "winer",
+      "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 467,
-      "x": 1622,
-      "y": 601,
-      "zOrder": 109,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1.0138740661686232,
-      "height": 950,
-      "keepRatio": true,
-      "layer": "",
-      "name": "container_piece",
-      "persistentUuid": "a6bacbda-901a-4f2b-94b7-c8a4e4629158",
-      "width": 405.54962646744934,
-      "x": 1100,
-      "y": 100,
-      "zOrder": 0,
+      "width": 769,
+      "x": 709,
+      "y": 572,
+      "zOrder": 201,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1050,9 +984,9 @@
       "name": "zero_auxMinutes",
       "persistentUuid": "aa853896-3677-4572-809e-ef1a8df9015b",
       "width": 0,
-      "x": 1854,
-      "y": 417,
-      "zOrder": 100,
+      "x": 1744,
+      "y": 286,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1066,9 +1000,9 @@
       "name": "zero_auxSeconds",
       "persistentUuid": "feaca1ed-29bf-48b0-931b-8444c878d6de",
       "width": 0,
-      "x": 1946,
-      "y": 417,
-      "zOrder": 100,
+      "x": 1836,
+      "y": 286,
+      "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1078,13 +1012,13 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "",
+      "layer": "UI",
       "name": "map_character",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 0,
-      "x": 1319,
-      "y": 135,
-      "zOrder": 111,
+      "x": 1358,
+      "y": 441,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1096,12 +1030,12 @@
       "height": 120.91715976331362,
       "keepRatio": true,
       "layer": "UI",
-      "name": "NewSprite",
+      "name": "timer",
       "persistentUuid": "3cb329d2-b53c-434f-89c2-1ca50abe410a",
       "width": 335,
-      "x": 1766,
-      "y": 379,
-      "zOrder": 0,
+      "x": 1656,
+      "y": 248,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1112,29 +1046,13 @@
       "depth": 135,
       "height": 90,
       "keepRatio": true,
-      "layer": "",
+      "layer": "UI",
       "name": "btRetroceder",
       "persistentUuid": "8c31c4cc-b847-4f48-b5ea-c73edbccafd9",
       "width": 90,
       "x": 1600,
       "y": 976,
-      "zOrder": 113,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "btn_backToMenu",
-      "persistentUuid": "99898667-3909-47db-881e-d1eb8b97c9f6",
-      "width": 0,
-      "x": 1704,
-      "y": 986,
-      "zOrder": 114,
+      "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1145,12 +1063,61 @@
       "height": 0,
       "keepRatio": true,
       "layer": "UI",
+      "name": "btn_backToMenu",
+      "persistentUuid": "99898667-3909-47db-881e-d1eb8b97c9f6",
+      "width": 0,
+      "x": 1704,
+      "y": 986,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "winer",
       "name": "txt_sabiasQue",
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 0,
-      "x": 1621,
-      "y": 527,
-      "zOrder": 115,
+      "x": 949,
+      "y": 445,
+      "zOrder": 201,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 1080.1499999999999,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "e052ab10-9169-4b08-90f0-9ea63bdcbbae",
+      "width": 2280,
+      "x": 0,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 700,
+      "layer": "winer",
+      "name": "bg_objects",
+      "persistentUuid": "e11fb1eb-6fd4-47f2-ad2f-577115728dee",
+      "width": 1000,
+      "x": 573,
+      "y": 225,
+      "zOrder": 200,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2777,7 +2744,7 @@
       "assetStoreId": "",
       "bold": true,
       "italic": true,
-      "name": "Win",
+      "name": "txt_win",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -2786,7 +2753,7 @@
       "behaviors": [],
       "string": "GANASTE!",
       "font": "Coffee Normal4.ttf",
-      "textAlignment": "",
+      "textAlignment": "center",
       "characterSize": 60,
       "color": {
         "b": 61,
@@ -2809,7 +2776,7 @@
         "underlined": false,
         "text": "GANASTE!",
         "font": "Coffee Normal4.ttf",
-        "textAlignment": "",
+        "textAlignment": "center",
         "characterSize": 60,
         "color": "59;168;61"
       }
@@ -3009,7 +2976,7 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "info1",
+      "name": "curiosidad",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -3021,7 +2988,7 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "",
+      "string": "0000\n",
       "font": "Coffee Normal3.ttf",
       "textAlignment": "left",
       "characterSize": 50,
@@ -3044,7 +3011,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "",
+        "text": "0000\n",
         "font": "Coffee Normal3.ttf",
         "textAlignment": "left",
         "characterSize": 50,
@@ -4743,7 +4710,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite",
+      "name": "timer",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4840,22 +4807,71 @@
         "characterSize": 50,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\fondo.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1600,
+                        "y": 0
+                      },
+                      {
+                        "x": 1600,
+                        "y": 758
+                      },
+                      {
+                        "x": 0,
+                        "y": 758
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
-      {
-        "folderName": "Curiosidades",
-        "children": [
-          {
-            "objectName": "txt_sabiasQue"
-          },
-          {
-            "objectName": "info1"
-          }
-        ]
-      },
       {
         "folderName": "Background",
         "children": [
@@ -4870,6 +4886,9 @@
       {
         "folderName": "Timer",
         "children": [
+          {
+            "objectName": "timer"
+          },
           {
             "objectName": "timerSeconds"
           },
@@ -4902,7 +4921,18 @@
         ]
       },
       {
-        "objectName": "Win"
+        "folderName": "win",
+        "children": [
+          {
+            "objectName": "txt_win"
+          },
+          {
+            "objectName": "txt_sabiasQue"
+          },
+          {
+            "objectName": "curiosidad"
+          }
+        ]
       },
       {
         "objectName": "nameCountry"
@@ -4914,7 +4944,7 @@
         "objectName": "btn_backToMenu"
       },
       {
-        "objectName": "NewSprite"
+        "objectName": "NewSprite2"
       }
     ]
   },
@@ -5617,11 +5647,11 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "Win",
+                "txt_win",
                 "=",
-                "1150",
+                "580",
                 "=",
-                "540"
+                "260"
               ]
             },
             {
@@ -5645,20 +5675,11 @@
             },
             {
               "type": {
-                "value": "Wait"
-              },
-              "parameters": [
-                "5"
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
+                "value": "ShowLayer"
               },
               "parameters": [
                 "",
-                "\"Menu Norte\"",
-                ""
+                "\"winer\""
               ]
             }
           ]
@@ -6033,7 +6054,7 @@
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
-                "info1",
+                "curiosidad",
                 "Text",
                 "=",
                 "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
@@ -6079,7 +6100,7 @@
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
-                "info1",
+                "curiosidad",
                 "Text",
                 "=",
                 "\"Tiene 93 m de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
@@ -6125,7 +6146,7 @@
                 "value": "TextContainerCapability::TextContainerBehavior::SetValue"
               },
               "parameters": [
-                "info1",
+                "curiosidad",
                 "Text",
                 "=",
                 "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
@@ -6153,6 +6174,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6218,23 +6240,6 @@
     },
     {
       "ambientLightColorB": 1702453580,
-      "ambientLightColorG": 7115688,
-      "ambientLightColorR": 3,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 0.1,
-      "cameraType": "perspective",
-      "followBaseLayerCamera": false,
-      "isLightingLayer": false,
-      "isLocked": false,
-      "name": "UI",
-      "renderingType": "",
-      "visibility": true,
-      "cameras": [],
-      "effects": []
-    },
-    {
-      "ambientLightColorB": 1702453580,
       "ambientLightColorG": 6000560,
       "ambientLightColorR": 83886080,
       "camera3DFarPlaneDistance": 10000,
@@ -6266,6 +6271,56 @@
       "visibility": true,
       "cameras": [],
       "effects": []
+    },
+    {
+      "ambientLightColorB": 1702453580,
+      "ambientLightColorG": 7115688,
+      "ambientLightColorR": 3,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "cameraType": "perspective",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "UI",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "winer",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
     }
   ],
   "behaviorsSharedData": [
