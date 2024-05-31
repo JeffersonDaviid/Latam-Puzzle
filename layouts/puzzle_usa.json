@@ -3015,8 +3015,13 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
-      "string": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
+      "behaviors": [
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "",
       "font": "Coffee Normal3.ttf",
       "textAlignment": "left",
       "characterSize": 50,
@@ -3039,7 +3044,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "El nombre real de la estatua es Libertad que Ilumina al Mundo.",
+        "text": "",
         "font": "Coffee Normal3.ttf",
         "textAlignment": "left",
         "characterSize": 50,
@@ -4705,7 +4710,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "RETROCEDER",
+      "string": "SALIR",
       "font": "Coffee Normal2.ttf",
       "textAlignment": "left",
       "characterSize": 60,
@@ -4728,7 +4733,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "RETROCEDER",
+        "text": "SALIR",
         "font": "Coffee Normal2.ttf",
         "textAlignment": "left",
         "characterSize": 60,
@@ -4919,6 +4924,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5023,6 +5029,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5428,94 +5435,42 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Quitar una pieza de un socalo",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
-      "events": [],
-      "parameters": []
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "VarScene"
-          },
-          "parameters": [
-            "piezas_correctas",
-            "!=",
-            "16"
-          ]
-        },
-        {
-          "type": {
-            "value": "MouseButtonReleased"
-          },
-          "parameters": [
-            "",
-            "Right"
-          ]
-        },
-        {
-          "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Pieza",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ModVarObjet"
-          },
-          "parameters": [
-            "Pieza",
-            "colocada",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "ObjectStack::ObjectStack::AddOnTop"
-          },
-          "parameters": [
-            "container_piece",
-            "ObjectStack",
-            "Pieza",
-            ""
-          ]
-        }
-      ],
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "VarObjetTxt"
+                "value": "VarScene"
               },
               "parameters": [
-                "Socalo",
-                "ubicacion",
-                "=",
-                "Pieza.VariableString(ubicacion)"
+                "piezas_correctas",
+                "!=",
+                "16"
               ]
             },
             {
               "type": {
-                "value": "VarObjet"
+                "value": "MouseButtonReleased"
               },
               "parameters": [
-                "Socalo",
-                "correcto",
-                "=",
-                "1"
+                "",
+                "Right"
+              ]
+            },
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "Pieza",
+                "",
+                "",
+                ""
               ]
             }
           ],
@@ -5525,28 +5480,83 @@
                 "value": "ModVarObjet"
               },
               "parameters": [
-                "Socalo",
-                "correcto",
+                "Pieza",
+                "colocada",
                 "=",
                 "0"
               ]
+            },
+            {
+              "type": {
+                "value": "ObjectStack::ObjectStack::AddOnTop"
+              },
+              "parameters": [
+                "container_piece",
+                "ObjectStack",
+                "Pieza",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjetTxt"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "ubicacion",
+                    "=",
+                    "Pieza.VariableString(ubicacion)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Socalo",
+                    "correcto",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "sort_pieces"
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Link",
-          "include": {
-            "includeConfig": 0
-          },
-          "target": "sort_pieces"
         }
-      ]
+      ],
+      "parameters": []
     },
     {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5622,6 +5632,33 @@
                 "Arrastrable",
                 "no"
               ]
+            },
+            {
+              "type": {
+                "value": "PauseTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Norte\"",
+                ""
+              ]
             }
           ]
         }
@@ -5633,6 +5670,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5963,6 +6001,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5975,7 +6014,7 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "timerMinutes",
+                "piezas_correctas",
                 "=",
                 "4"
               ]
@@ -6007,7 +6046,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "150",
+                "500",
                 ""
               ]
             }
@@ -6021,9 +6060,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "timerMinutes",
+                "piezas_correctas",
                 "=",
-                "3"
+                "8"
               ]
             },
             {
@@ -6053,7 +6092,7 @@
                 "",
                 "pasar2.wav",
                 "",
-                "150",
+                "500",
                 "1"
               ]
             }
@@ -6067,9 +6106,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "timerMinutes",
+                "piezas_correctas",
                 "=",
-                "1"
+                "12"
               ]
             },
             {
@@ -6099,8 +6138,46 @@
                 "",
                 "pasar2.wav",
                 "",
-                "150",
+                "500",
                 "1"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Botones",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "btRetroceder",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Norte\"",
+                ""
               ]
             }
           ]
