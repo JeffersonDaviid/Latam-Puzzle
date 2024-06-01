@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27433470637761614,
+    "zoomFactor": 0.2931479552831457,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,19 +32,25 @@
       "folded": true,
       "name": "timerSeconds",
       "type": "string",
-      "value": "00"
+      "value": "000"
     },
     {
       "folded": true,
       "name": "timerMinutes",
       "type": "string",
-      "value": "03"
+      "value": "3"
     },
     {
       "folded": true,
       "name": "y_reference",
       "type": "string",
       "value": "100"
+    },
+    {
+      "folded": true,
+      "name": "numberInfo",
+      "type": "number",
+      "value": 0
     }
   ],
   "instances": [
@@ -293,7 +299,7 @@
       "persistentUuid": "152ab44e-ed76-4177-b9be-cc22e3a32a73",
       "width": 0,
       "x": 134,
-      "y": 90,
+      "y": 87,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -314,7 +320,7 @@
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
       "x": 308,
-      "y": 90,
+      "y": 87,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -340,7 +346,7 @@
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
       "x": 573,
-      "y": 90,
+      "y": 87,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -366,7 +372,7 @@
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
       "x": 134,
-      "y": 248,
+      "y": 245,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -392,7 +398,7 @@
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
       "x": 348,
-      "y": 298,
+      "y": 295,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -418,7 +424,7 @@
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
       "x": 534,
-      "y": 252,
+      "y": 249,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -444,7 +450,7 @@
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
       "x": 134,
-      "y": 472,
+      "y": 469,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -470,7 +476,7 @@
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
       "x": 309,
-      "y": 524,
+      "y": 521,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -496,7 +502,7 @@
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
       "x": 571,
-      "y": 474,
+      "y": 471,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -522,8 +528,8 @@
       "name": "txt_win",
       "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
       "width": 985,
-      "x": 580,
-      "y": 260,
+      "x": 1103,
+      "y": 272,
       "zOrder": 201,
       "numberProperties": [],
       "stringProperties": [],
@@ -538,7 +544,7 @@
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
       "x": 757,
-      "y": 90,
+      "y": 87,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -564,7 +570,7 @@
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
       "x": 796,
-      "y": 255,
+      "y": 252,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -590,7 +596,7 @@
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
       "x": 763,
-      "y": 475,
+      "y": 472,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -616,7 +622,7 @@
       "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
       "width": 0,
       "x": 134,
-      "y": 748,
+      "y": 745,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -642,7 +648,7 @@
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
       "x": 313,
-      "y": 695,
+      "y": 692,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -668,7 +674,7 @@
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
       "x": 573,
-      "y": 744,
+      "y": 741,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -694,7 +700,7 @@
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
       "x": 762,
-      "y": 748,
+      "y": 745,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -903,8 +909,8 @@
       "name": "timerSeconds",
       "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
       "width": 72,
-      "x": 1825,
-      "y": 286,
+      "x": 578,
+      "y": 979,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -919,8 +925,8 @@
       "name": "timerSeparator",
       "persistentUuid": "b6d5e80c-1172-40ee-a88c-2306900424f6",
       "width": 0,
-      "x": 1814,
-      "y": 282,
+      "x": 567,
+      "y": 975,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -935,8 +941,8 @@
       "name": "timerMinutes",
       "persistentUuid": "88b23ff6-4c22-4325-8f0d-a6133abdc83b",
       "width": 0,
-      "x": 1776,
-      "y": 286,
+      "x": 529,
+      "y": 979,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -944,15 +950,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 178,
       "keepRatio": true,
       "layer": "UI",
       "name": "nameCountry",
       "persistentUuid": "415ba0b9-0446-45ef-851d-8bd852e7fd97",
-      "width": 0,
-      "x": 1580,
-      "y": 37,
+      "width": 1197,
+      "x": 1080,
+      "y": 20,
       "zOrder": 106,
       "numberProperties": [],
       "stringProperties": [],
@@ -962,15 +969,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 346,
+      "height": 322,
       "keepRatio": true,
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 769,
-      "x": 709,
-      "y": 572,
-      "zOrder": 201,
+      "width": 667,
+      "x": 1372,
+      "y": 589,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -984,8 +991,8 @@
       "name": "zero_auxMinutes",
       "persistentUuid": "aa853896-3677-4572-809e-ef1a8df9015b",
       "width": 0,
-      "x": 1744,
-      "y": 286,
+      "x": 497,
+      "y": 979,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -1000,8 +1007,8 @@
       "name": "zero_auxSeconds",
       "persistentUuid": "feaca1ed-29bf-48b0-931b-8444c878d6de",
       "width": 0,
-      "x": 1836,
-      "y": 286,
+      "x": 589,
+      "y": 979,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -1012,13 +1019,13 @@
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "UI",
+      "layer": "winer",
       "name": "map_character",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 0,
-      "x": 1358,
-      "y": 441,
-      "zOrder": 0,
+      "x": 849,
+      "y": 422,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1033,8 +1040,8 @@
       "name": "timer",
       "persistentUuid": "3cb329d2-b53c-434f-89c2-1ca50abe410a",
       "width": 335,
-      "x": 1656,
-      "y": 248,
+      "x": 409,
+      "y": 941,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -1050,9 +1057,9 @@
       "name": "btRetroceder",
       "persistentUuid": "8c31c4cc-b847-4f48-b5ea-c73edbccafd9",
       "width": 90,
-      "x": 1600,
-      "y": 976,
-      "zOrder": 1,
+      "x": 1785,
+      "y": 972,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1066,9 +1073,9 @@
       "name": "btn_backToMenu",
       "persistentUuid": "99898667-3909-47db-881e-d1eb8b97c9f6",
       "width": 0,
-      "x": 1704,
-      "y": 986,
-      "zOrder": 1,
+      "x": 1889,
+      "y": 982,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1082,26 +1089,9 @@
       "name": "txt_sabiasQue",
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 0,
-      "x": 949,
-      "y": 445,
-      "zOrder": 201,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 1080.1499999999999,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewSprite2",
-      "persistentUuid": "e052ab10-9169-4b08-90f0-9ea63bdcbbae",
-      "width": 2280,
-      "x": 0,
-      "y": 0,
-      "zOrder": 0,
+      "x": 1506,
+      "y": 505,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1115,9 +1105,92 @@
       "name": "bg_objects",
       "persistentUuid": "e11fb1eb-6fd4-47f2-ad2f-577115728dee",
       "width": 1000,
-      "x": 573,
-      "y": 225,
-      "zOrder": 200,
+      "x": 1096,
+      "y": 237,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "background",
+      "persistentUuid": "91e5eb4c-1111-4b45-bc7f-fb0fe7b840e4",
+      "width": 0,
+      "x": 0,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 582,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "personaje",
+      "persistentUuid": "06c71728-7608-4849-8f62-beebddeca977",
+      "width": 712,
+      "x": 1568,
+      "y": 499,
+      "zOrder": 50,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "tablero",
+      "persistentUuid": "0462cda6-d790-4ea9-9664-b57c921f094c",
+      "width": 0,
+      "x": 87,
+      "y": 40,
+      "zOrder": 204,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 323,
+      "keepRatio": true,
+      "layer": "",
+      "name": "incentivo",
+      "persistentUuid": "33ebbbd1-7d5f-437c-9ba8-0cb8a08fb39e",
+      "width": 910,
+      "x": 127,
+      "y": 196,
+      "zOrder": 205,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 57,
+      "keepRatio": true,
+      "layer": "winer",
+      "name": "nombreSitioPuzzle",
+      "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
+      "width": 997,
+      "x": 1097,
+      "y": 376,
+      "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2783,17 +2856,6 @@
     },
     {
       "assetStoreId": "",
-      "height": 32,
-      "name": "background",
-      "texture": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\fondo.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "",
       "bold": false,
       "italic": false,
       "name": "timerSeconds",
@@ -2885,7 +2947,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "5",
+      "string": "3",
       "font": "Coffee Normal2.ttf",
       "textAlignment": "center",
       "characterSize": 50,
@@ -2908,7 +2970,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "5",
+        "text": "3",
         "font": "Coffee Normal2.ttf",
         "textAlignment": "center",
         "characterSize": 50,
@@ -2964,7 +3026,26 @@
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
-      "effects": [],
+      "effects": [
+        {
+          "effectType": "DropShadow",
+          "name": "Effect",
+          "doubleParameters": {
+            "alpha": 1,
+            "blur": 1,
+            "distance": 5,
+            "padding": 10,
+            "quality": 3,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "color": "255;255;255"
+          },
+          "booleanParameters": {
+            "shadowOnly": false
+          }
+        }
+      ],
       "behaviors": [
         {
           "name": "ObjectStack",
@@ -2988,7 +3069,7 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "0000\n",
+      "string": "cuiosidad aleatoria",
       "font": "Coffee Normal3.ttf",
       "textAlignment": "left",
       "characterSize": 50,
@@ -3011,7 +3092,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "0000\n",
+        "text": "cuiosidad aleatoria",
         "font": "Coffee Normal3.ttf",
         "textAlignment": "left",
         "characterSize": 50,
@@ -4811,7 +4892,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "NewSprite2",
+      "name": "background",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -4828,7 +4909,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\fondo.jpg",
+                  "image": "assets\\puzzles\\fondo.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4848,16 +4929,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1600,
+                        "x": 2280,
                         "y": 0
                       },
                       {
-                        "x": 1600,
-                        "y": 758
+                        "x": 2280,
+                        "y": 1080
                       },
                       {
                         "x": 0,
-                        "y": 758
+                        "y": 1080
                       }
                     ]
                   ]
@@ -4867,6 +4948,208 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "personaje",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\personaje.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 712,
+                        "y": 0
+                      },
+                      {
+                        "x": 712,
+                        "y": 582
+                      },
+                      {
+                        "x": 1,
+                        "y": 582
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "tablero",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\recuadro-para-armar.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 10
+                      },
+                      {
+                        "x": 992,
+                        "y": 10
+                      },
+                      {
+                        "x": 992,
+                        "y": 989
+                      },
+                      {
+                        "x": 6,
+                        "y": 989
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "incentivo",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Arma\ny\nAprende",
+      "font": "CantoraOne-Regular.ttf",
+      "textAlignment": "center",
+      "characterSize": 150,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 20,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "255;255;255",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Arma\ny\nAprende",
+        "font": "CantoraOne-Regular.ttf",
+        "textAlignment": "center",
+        "characterSize": 150,
+        "color": "0;0;0"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": true,
+      "italic": false,
+      "name": "nombreSitioPuzzle",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "Estatua de la libertad",
+      "font": "",
+      "textAlignment": "center",
+      "characterSize": 60,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "content": {
+        "bold": true,
+        "isOutlineEnabled": false,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 2,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Estatua de la libertad",
+        "font": "",
+        "textAlignment": "center",
+        "characterSize": 60,
+        "color": "0;0;0"
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -4876,10 +5159,22 @@
         "folderName": "Background",
         "children": [
           {
-            "objectName": "map_character"
+            "objectName": "nameCountry"
+          },
+          {
+            "objectName": "personaje"
+          },
+          {
+            "objectName": "incentivo"
+          },
+          {
+            "objectName": "tablero"
           },
           {
             "objectName": "background"
+          },
+          {
+            "objectName": "map_character"
           }
         ]
       },
@@ -4924,6 +5219,9 @@
         "folderName": "win",
         "children": [
           {
+            "objectName": "nombreSitioPuzzle"
+          },
+          {
             "objectName": "txt_win"
           },
           {
@@ -4935,16 +5233,10 @@
         ]
       },
       {
-        "objectName": "nameCountry"
-      },
-      {
         "objectName": "bg_objects"
       },
       {
         "objectName": "btn_backToMenu"
-      },
-      {
-        "objectName": "NewSprite2"
       }
     ]
   },
@@ -4954,78 +5246,316 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
-      "name": "Al comienzo de cada Iteración",
+      "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
-          "folded": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\"",
+                ">",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "<",
+                "60"
+              ]
+            },
+            {
+              "type": {
+                "value": "VarSceneTxt"
+              },
+              "parameters": [
+                "timerSeconds",
+                "!=",
+                "\"0\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "-",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "timerSeconds",
+                "Text",
+                "=",
+                "VariableString(timerSeconds)"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "timerMinutes",
+                "Text",
+                "=",
+                "VariableString(timerMinutes)"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "timerSeconds",
+                "Text",
+                "startsWith",
+                "\"0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "VarSceneTxt"
+              },
+              "parameters": [
+                "timerMinutes",
+                "!=",
+                "\"0\""
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
                 "value": "ModVarScene"
               },
               "parameters": [
-                "piezas_correctas",
-                "=",
-                "0"
+                "timerMinutes",
+                "-",
+                "1"
               ]
-            }
-          ],
-          "events": [
+            },
             {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
+              "type": {
+                "value": "ModVarScene"
               },
-              "comment": "Ubicar aleatoriamente dentro del rango de casilla de piezas"
+              "parameters": [
+                "timerSeconds",
+                "=",
+                "59"
+              ]
             }
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::ForEach",
-          "object": "Pieza",
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "cambia el color del contador a rojo en el ultimo minuto"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
-                "value": "DepartScene"
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
               },
               "parameters": [
-                ""
+                "timerMinutes",
+                "Text",
+                "=",
+                "\"0\""
               ]
             }
           ],
           "actions": [
             {
               "type": {
-                "value": "ObjectStack::ObjectStack::AddOnTop"
+                "value": "TextObject::ChangeColor"
               },
               "parameters": [
-                "container_piece",
-                "ObjectStack",
-                "Pieza",
-                "Random(16)"
+                "timerSeconds",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerSeparator",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "timerMinutes",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "zero_auxMinutes",
+                "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::ChangeColor"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "\"255;0;0\""
               ]
             }
           ],
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Link",
-              "include": {
-                "includeConfig": 0
-              },
-              "target": "sort_pieces"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::Value"
+                  },
+                  "parameters": [
+                    "timerSeconds",
+                    "Text",
+                    "=",
+                    "\"0\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "Arrastrable",
+                    "no"
+                  ]
+                }
+              ]
             }
           ]
         },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                "<",
+                "10"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "VarScene"
+              },
+              "parameters": [
+                "timerSeconds",
+                ">",
+                "10"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Al comienzo de cada Iteración",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -5047,6 +5577,149 @@
                 "yes",
                 "100",
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "piezas_correctas",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Ubicar aleatoriamente dentro del rango de casilla de piezas"
+        },
+        {
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "Pieza",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "numberInfo",
+                "=",
+                "RandomInRange(0,2)"
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "numberInfo",
+                    "=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "=",
+                    "RandomInRange(1000, 1400)",
+                    "=",
+                    "RandomInRange(150, 400)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "numberInfo",
+                    "=",
+                    "1"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "=",
+                    "RandomInRange(1400, 1800)",
+                    "=",
+                    "RandomInRange(150, 400)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "numberInfo",
+                    "=",
+                    "2"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Pieza",
+                    "=",
+                    "RandomInRange(1000, 1400)",
+                    "=",
+                    "RandomInRange(400, 900)"
+                  ]
+                }
               ]
             }
           ]
@@ -5098,16 +5771,37 @@
                 "=",
                 "0"
               ]
-            },
+            }
+          ],
+          "events": [
             {
-              "type": {
-                "value": "ObjectStack::ObjectStack::Remove"
-              },
-              "parameters": [
-                "container_piece",
-                "ObjectStack",
-                "Pieza",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"timer\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "incentivo"
+                  ]
+                }
               ]
             }
           ]
@@ -5401,7 +6095,6 @@
           ]
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -5435,26 +6128,6 @@
                 "=",
                 "1"
               ]
-            },
-            {
-              "type": {
-                "value": "ObjectStack::ObjectStack::AddOnTop"
-              },
-              "parameters": [
-                "container_piece",
-                "ObjectStack",
-                "Pieza",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Link",
-              "include": {
-                "includeConfig": 0
-              },
-              "target": "sort_pieces"
             }
           ]
         }
@@ -5516,17 +6189,6 @@
                 "=",
                 "0"
               ]
-            },
-            {
-              "type": {
-                "value": "ObjectStack::ObjectStack::AddOnTop"
-              },
-              "parameters": [
-                "container_piece",
-                "ObjectStack",
-                "Pieza",
-                ""
-              ]
             }
           ],
           "events": [
@@ -5569,13 +6231,6 @@
                   ]
                 }
               ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Link",
-              "include": {
-                "includeConfig": 0
-              },
-              "target": "sort_pieces"
             }
           ]
         }
@@ -5644,14 +6299,14 @@
           "actions": [
             {
               "type": {
-                "value": "MettreXY"
+                "value": "PlaySound"
               },
               "parameters": [
-                "txt_win",
-                "=",
-                "580",
-                "=",
-                "260"
+                "",
+                "pasar2.wav",
+                "",
+                "500",
+                "1"
               ]
             },
             {
@@ -5693,337 +6348,6 @@
       "colorR": 74,
       "creationTime": 0,
       "folded": true,
-      "name": "Timer",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "timerSeconds",
-                "Text",
-                "=",
-                "VariableString(timerSeconds)"
-              ]
-            },
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-              },
-              "parameters": [
-                "timerMinutes",
-                "Text",
-                "=",
-                "VariableString(timerMinutes)"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"timer\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::Value"
-              },
-              "parameters": [
-                "timerSeconds",
-                "Text",
-                "startsWith",
-                "\"0\""
-              ]
-            },
-            {
-              "type": {
-                "value": "VarSceneTxt"
-              },
-              "parameters": [
-                "timerMinutes",
-                "!=",
-                "\"0\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarScene"
-              },
-              "parameters": [
-                "timerMinutes",
-                "-",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ModVarScene"
-              },
-              "parameters": [
-                "timerSeconds",
-                "=",
-                "59"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "cambia el color del contador a rojo en el ultimo minuto"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::Value"
-              },
-              "parameters": [
-                "timerMinutes",
-                "Text",
-                "=",
-                "\"0\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "TextObject::ChangeColor"
-              },
-              "parameters": [
-                "timerSeconds",
-                "\"255;0;0\""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextObject::ChangeColor"
-              },
-              "parameters": [
-                "timerSeparator",
-                "\"255;0;0\""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextObject::ChangeColor"
-              },
-              "parameters": [
-                "timerMinutes",
-                "\"255;0;0\""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextObject::ChangeColor"
-              },
-              "parameters": [
-                "zero_auxMinutes",
-                "\"255;0;0\""
-              ]
-            },
-            {
-              "type": {
-                "value": "TextObject::ChangeColor"
-              },
-              "parameters": [
-                "zero_auxSeconds",
-                "\"255;0;0\""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::Value"
-                  },
-                  "parameters": [
-                    "timerSeconds",
-                    "Text",
-                    "=",
-                    "\"0\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Pieza",
-                    "Arrastrable",
-                    "no"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CompareTimer"
-              },
-              "parameters": [
-                "",
-                "\"timer\"",
-                ">",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "VarScene"
-              },
-              "parameters": [
-                "timerSeconds",
-                "<",
-                "60"
-              ]
-            },
-            {
-              "type": {
-                "value": "VarSceneTxt"
-              },
-              "parameters": [
-                "timerSeconds",
-                "!=",
-                "\"0\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ModVarScene"
-              },
-              "parameters": [
-                "timerSeconds",
-                "-",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"timer\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarScene"
-              },
-              "parameters": [
-                "timerSeconds",
-                "<",
-                "10"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "zero_auxSeconds",
-                "Opacity",
-                "=",
-                "255"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "VarScene"
-              },
-              "parameters": [
-                "timerSeconds",
-                ">",
-                "10"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "zero_auxSeconds",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            }
-          ]
-        }
-      ],
-      "parameters": []
-    },
-    {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6036,9 +6360,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "piezas_correctas",
+                "numberInfo",
                 "=",
-                "4"
+                "0"
               ]
             },
             {
@@ -6059,18 +6383,6 @@
                 "=",
                 "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
               ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "pasar2.wav",
-                "",
-                "500",
-                ""
-              ]
             }
           ]
         },
@@ -6082,9 +6394,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "piezas_correctas",
+                "numberInfo",
                 "=",
-                "8"
+                "1"
               ]
             },
             {
@@ -6105,18 +6417,6 @@
                 "=",
                 "\"Tiene 93 m de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
               ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "pasar2.wav",
-                "",
-                "500",
-                "1"
-              ]
             }
           ]
         },
@@ -6128,9 +6428,9 @@
                 "value": "VarScene"
               },
               "parameters": [
-                "piezas_correctas",
+                "numberInfo",
                 "=",
-                "12"
+                "2"
               ]
             },
             {
@@ -6150,18 +6450,6 @@
                 "Text",
                 "=",
                 "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "pasar2.wav",
-                "",
-                "500",
-                "1"
               ]
             }
           ]
