@@ -18,29 +18,12 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3088741216342655,
+    "zoomFactor": 0.4303403802207661,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 244,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Boton_Volver",
-      "persistentUuid": "7ff47199-8ec6-4186-ad71-04b975a89515",
-      "width": 401,
-      "x": 236,
-      "y": 780,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
     {
       "angle": 0,
       "customSize": true,
@@ -61,32 +44,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1.0000000000000002,
-      "height": 244.0000000000001,
+      "depth": 0.8750000000000003,
+      "height": 213.50000000000006,
       "keepRatio": true,
       "layer": "",
       "name": "Boton_Menu",
       "persistentUuid": "846f9ccb-3b2d-4fd4-8c62-b700f0b38868",
-      "width": 400,
-      "x": 815,
-      "y": 780,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 245,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Boton_Salir",
-      "persistentUuid": "dc201b2b-b9d9-4bc0-a8c2-ec444580214f",
-      "width": 400,
-      "x": 1346,
-      "y": 780,
+      "width": 350,
+      "x": 1470,
+      "y": 779,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -96,100 +62,15 @@
       "angle": 360,
       "customSize": true,
       "depth": 0,
-      "height": 618.1818181818184,
+      "height": 463.63636363636385,
       "keepRatio": true,
       "layer": "",
       "name": "fondo_EU",
       "persistentUuid": "e485ea92-dacf-40e3-b878-2e009a07714b",
-      "width": 400,
-      "x": 90,
-      "y": 386,
+      "width": 300,
+      "x": 115,
+      "y": 414,
       "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 332.10862619808324,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Mexico",
-      "persistentUuid": "b06dbe77-dfcc-4321-9a48-10d7c787ff3d",
-      "width": 550,
-      "x": 1408,
-      "y": 37,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 400.00000000000006,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Ecuador",
-      "persistentUuid": "89f18793-f9cf-4dc3-a531-0b1e7795b11c",
-      "width": 600,
-      "x": 696,
-      "y": 456,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 317.8899082568808,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Chile",
-      "persistentUuid": "5560203a-71cd-464b-a632-f4dbdf27236d",
-      "width": 550,
-      "x": 715,
-      "y": 37,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 281.25000000000006,
-      "keepRatio": true,
-      "layer": "",
-      "name": "fondo_Argentina",
-      "persistentUuid": "7f04ae3c-8991-45ac-a6f9-486766508fe9",
-      "width": 500,
-      "x": 90,
-      "y": 37,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 336.6002027712065,
-      "keepRatio": true,
-      "layer": "",
-      "name": "_Perdiste_",
-      "persistentUuid": "652bdbef-aab2-445e-b33c-55baeeb8fbf2",
-      "width": 1000,
-      "x": 498,
-      "y": 294,
-      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -198,14 +79,99 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 1175,
+      "height": 191,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_Mexico",
+      "persistentUuid": "b06dbe77-dfcc-4321-9a48-10d7c787ff3d",
+      "width": 306,
+      "x": 565,
+      "y": 818,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 200.00000000000003,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_Ecuador",
+      "persistentUuid": "89f18793-f9cf-4dc3-a531-0b1e7795b11c",
+      "width": 300,
+      "x": 1484,
+      "y": 448,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 173.39449541284407,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_Chile",
+      "persistentUuid": "5560203a-71cd-464b-a632-f4dbdf27236d",
+      "width": 300,
+      "x": 576,
+      "y": 469,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 168.75000000000006,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_Argentina",
+      "persistentUuid": "7f04ae3c-8991-45ac-a6f9-486766508fe9",
+      "width": 300,
+      "x": 341,
+      "y": 139,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1.088929219600726,
+      "height": 439.9274047186934,
+      "keepRatio": true,
+      "layer": "",
+      "name": "_Perdiste_",
+      "persistentUuid": "652bdbef-aab2-445e-b33c-55baeeb8fbf2",
+      "width": 1200,
+      "x": 678,
+      "y": 45,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0.9463829787234045,
+      "height": 1112,
       "keepRatio": true,
       "layer": "",
       "name": "Piedra",
       "persistentUuid": "51f2227e-61fe-4791-94cf-79cf1c9c91f0",
-      "width": 2259,
-      "x": -6,
-      "y": -70,
+      "width": 2137.8791489361706,
+      "x": -10,
+      "y": -24,
       "zOrder": -1,
       "numberProperties": [],
       "stringProperties": [],
@@ -215,14 +181,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 563.0498533724341,
+      "height": 422.2873900293256,
       "keepRatio": true,
       "layer": "",
       "name": "fondo_Brasil",
       "persistentUuid": "d0c1a8a6-54c2-458d-86af-ca32c5b66595",
-      "width": 400,
-      "x": 1513,
-      "y": 413,
+      "width": 300,
+      "x": 1051,
+      "y": 485,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -232,14 +198,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 677,
+      "height": 517,
       "keepRatio": true,
       "layer": "",
       "name": "Pergamino",
       "persistentUuid": "7a3dd316-f9c3-4a13-92bc-cd78d43d3e2b",
-      "width": 457,
-      "x": 64,
-      "y": 358,
+      "width": 349,
+      "x": 93,
+      "y": 389,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -249,14 +215,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 614,
+      "height": 469,
       "keepRatio": true,
       "layer": "",
       "name": "Pergamino",
       "persistentUuid": "c768e999-341b-4bd2-84fd-cace4df50f49",
-      "width": 449,
-      "x": 1491,
-      "y": 392,
+      "width": 356,
+      "x": 1028,
+      "y": 461,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -266,14 +232,14 @@
       "angle": 90,
       "customSize": true,
       "depth": 1,
-      "height": 673,
+      "height": 353,
       "keepRatio": true,
       "layer": "",
       "name": "Pergamino",
       "persistentUuid": "c8408d8c-be67-40b6-902e-9b6b19346cec",
-      "width": 463,
-      "x": 761,
-      "y": 323,
+      "width": 238,
+      "x": 1515,
+      "y": 371,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -283,14 +249,14 @@
       "angle": 270,
       "customSize": true,
       "depth": 1,
-      "height": 603,
+      "height": 352,
       "keepRatio": true,
       "layer": "",
       "name": "Pergamino",
       "persistentUuid": "a7aa3e1e-7864-4af9-9f3b-de4b34250ec6",
-      "width": 381,
-      "x": 1491,
-      "y": -100,
+      "width": 237,
+      "x": 597,
+      "y": 736,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -300,14 +266,14 @@
       "angle": 90,
       "customSize": true,
       "depth": 1,
-      "height": 560,
+      "height": 342,
       "keepRatio": true,
       "layer": "",
       "name": "Pergamino",
       "persistentUuid": "dfcbf305-8ad4-4836-9855-095298796d6e",
-      "width": 341,
-      "x": 170,
-      "y": -102,
+      "width": 226,
+      "x": 380,
+      "y": 57,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -317,15 +283,32 @@
       "angle": 90,
       "customSize": true,
       "depth": 1,
-      "height": 624,
+      "height": 344,
       "keepRatio": true,
       "layer": "",
       "name": "Pergamino",
       "persistentUuid": "7a53a221-aaef-4e93-8cbc-244a855c6dd8",
-      "width": 384,
-      "x": 798,
-      "y": -114,
+      "width": 211,
+      "x": 621,
+      "y": 385,
       "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 180,
+      "height": 120,
+      "keepRatio": true,
+      "layer": "",
+      "name": "btRetroceder",
+      "persistentUuid": "6bd230d9-6e3d-44c2-bc22-41facb7a0755",
+      "width": 120,
+      "x": 62,
+      "y": 41,
+      "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1868,65 +1851,6 @@
             "value": "SourisSurObjet"
           },
           "parameters": [
-            "Boton_Volver",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-          },
-          "parameters": [
-            "Boton_Volver",
-            "Animation",
-            "=",
-            "1"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Boton_Volver",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-          },
-          "parameters": [
-            "Boton_Volver",
-            "Animation",
-            "=",
-            "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
             "Boton_Menu",
             "",
             "",
@@ -1974,100 +1898,6 @@
             "Animation",
             "=",
             "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Boton_Salir",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-          },
-          "parameters": [
-            "Boton_Salir",
-            "Animation",
-            "=",
-            "1"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Boton_Salir",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-          },
-          "parameters": [
-            "Boton_Salir",
-            "Animation",
-            "=",
-            "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "SourisSurObjet"
-          },
-          "parameters": [
-            "Boton_Salir",
-            "",
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "MouseButtonFromTextReleased"
-          },
-          "parameters": [
-            "",
-            "\"Left\""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Quit"
-          },
-          "parameters": [
-            ""
           ]
         }
       ]
@@ -2117,7 +1947,7 @@
             "value": "SourisSurObjet"
           },
           "parameters": [
-            "Boton_Volver",
+            "btRetroceder",
             "",
             "",
             ""
