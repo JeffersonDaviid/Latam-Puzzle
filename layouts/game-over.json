@@ -1966,9 +1966,11 @@
       "actions": [
         {
           "type": {
-            "value": "PopScene"
+            "value": "Scene"
           },
           "parameters": [
+            "",
+            "\"Menu Seleccion Region\"",
             ""
           ]
         }
