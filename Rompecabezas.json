@@ -23,7 +23,7 @@
     "name": "LatamPuzzle",
     "description": "",
     "author": "",
-    "windowWidth": 1920,
+    "windowWidth": 2340,
     "windowHeight": 1080,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
@@ -4927,7 +4927,18 @@
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 2,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "content": {},
       "childrenContent": {
         "Hovered": {
@@ -5065,6 +5076,10 @@
     }
   ],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/sticker"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/simplescrollablelistextension"
