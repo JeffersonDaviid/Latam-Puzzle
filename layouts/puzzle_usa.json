@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2931479552831457,
+    "zoomFactor": 0.3347334391873916,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1049,39 +1049,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 135,
-      "height": 90,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "btRetroceder",
-      "persistentUuid": "8c31c4cc-b847-4f48-b5ea-c73edbccafd9",
-      "width": 90,
-      "x": 2007,
-      "y": 962,
-      "zOrder": 100,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "btn_backToMenu",
-      "persistentUuid": "99898667-3909-47db-881e-d1eb8b97c9f6",
-      "width": 0,
-      "x": 2111,
-      "y": 972,
-      "zOrder": 100,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -1133,15 +1100,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 582,
+      "height": 490.4494382022471,
       "keepRatio": true,
       "layer": "UI",
       "name": "personaje",
       "persistentUuid": "06c71728-7608-4849-8f62-beebddeca977",
-      "width": 712,
-      "x": 1633,
-      "y": 499,
-      "zOrder": 50,
+      "width": 600,
+      "x": 1740,
+      "y": 591,
+      "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1192,6 +1159,40 @@
       "x": 1148,
       "y": 373,
       "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 150,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "icon_reloj",
+      "persistentUuid": "64248868-3241-4c28-a1ec-f84e63f8ef46",
+      "width": 150,
+      "x": 323,
+      "y": 925,
+      "zOrder": 206,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 48,
+      "height": 150,
+      "keepRatio": true,
+      "layer": "UI",
+      "name": "btn_volver",
+      "persistentUuid": "6cb2eef9-a9fa-4c31-b96f-13367efc8485",
+      "width": 436.15,
+      "x": 1897,
+      "y": 930,
+      "zOrder": 220,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2990,18 +2991,18 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 1,
           "leftEdgeAnchor": 1,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": false,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
       "string": "ESTADOS UNIDOS\nDE AMERICA",
-      "font": "Coffee Normal5.ttf",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
       "color": {
@@ -3024,7 +3025,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "ESTADOS UNIDOS\nDE AMERICA",
-        "font": "Coffee Normal5.ttf",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
         "color": "0;0;0"
@@ -3060,13 +3061,13 @@
       ],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 1,
           "leftEdgeAnchor": 1,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": false,
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ]
@@ -4766,58 +4767,6 @@
       ]
     },
     {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "btn_backToMenu",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "string": "SALIR",
-      "font": "Coffee Normal2.ttf",
-      "textAlignment": "left",
-      "characterSize": 60,
-      "color": {
-        "b": 226,
-        "g": 144,
-        "r": 74
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": true,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "255;255;255",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "SALIR",
-        "font": "Coffee Normal2.ttf",
-        "textAlignment": "left",
-        "characterSize": 60,
-        "color": "74;144;226"
-      }
-    },
-    {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
       "name": "timer",
@@ -4928,13 +4877,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
           "leftEdgeAnchor": 3,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 3,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -4999,13 +4948,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 2,
           "leftEdgeAnchor": 0,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -5201,6 +5150,66 @@
         "characterSize": 60,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "icon_reloj",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\reloj3_madera.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 356,
+                        "y": 0
+                      },
+                      {
+                        "x": 356,
+                        "y": 356
+                      },
+                      {
+                        "x": 0,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -5232,6 +5241,9 @@
       {
         "folderName": "Timer",
         "children": [
+          {
+            "objectName": "icon_reloj"
+          },
           {
             "objectName": "timer"
           },
@@ -5285,9 +5297,6 @@
       },
       {
         "objectName": "bg_objects"
-      },
-      {
-        "objectName": "btn_backToMenu"
       }
     ]
   },
@@ -5297,6 +5306,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5339,21 +5349,21 @@
           "actions": [
             {
               "type": {
-                "value": "ResetTimer"
-              },
-              "parameters": [
-                "",
-                "\"timer\""
-              ]
-            },
-            {
-              "type": {
                 "value": "ModVarScene"
               },
               "parameters": [
                 "timerSeconds",
                 "-",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\""
               ]
             }
           ]
@@ -5620,6 +5630,15 @@
           "actions": [
             {
               "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"timer\""
+              ]
+            },
+            {
+              "type": {
                 "value": "PlaySound"
               },
               "parameters": [
@@ -5783,7 +5802,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5836,15 +5854,6 @@
                 }
               ],
               "actions": [
-                {
-                  "type": {
-                    "value": "ResetTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"timer\""
-                  ]
-                },
                 {
                   "type": {
                     "value": "Cache"
@@ -6398,7 +6407,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6513,7 +6521,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6526,7 +6533,7 @@
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
-                "btRetroceder",
+                "btn_volver",
                 ""
               ]
             }
@@ -6559,7 +6566,7 @@
       "cameraType": "perspective",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "",
       "renderingType": "",
       "visibility": true,
