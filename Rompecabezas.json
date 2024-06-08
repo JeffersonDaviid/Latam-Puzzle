@@ -5076,6 +5076,1095 @@
         "name": "assets\\puzzles\\volver.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/salir.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\salir.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0006.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0007.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0009.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0014.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0016.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0017.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0018.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0019.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0020.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0021.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0022.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0023.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0025.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0026.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0027.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0028.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0029.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0030.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0031.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0032.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0033.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0033.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0034.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0035.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0036.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0037.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0038.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0039.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino_animacion/PERGAMINO0040.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0040.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/reloj icon.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\reloj icon.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/reloj_marco.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\reloj_marco.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/pz17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\pz17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/EEUU_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\EEUU_guia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0005.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0008.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0010.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0011.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0013.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0014.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0016.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0017.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0017.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0018.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0018.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0019.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0019.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0020.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0020.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0021.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0021.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0022.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0022.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0023.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0023.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0024.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0024.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0025.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0025.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0026.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0026.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0027.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0027.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0028.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0028.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0029.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0029.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0030.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0030.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0031.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0031.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0032.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0032.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0033.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0033.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0034.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0034.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0035.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0035.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0036.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0036.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0037.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0037.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0038.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0038.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0039.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0039.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/brujula_animacion/brujula0040.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\brujula_animacion\\brujula0040.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/map_tierra_animacion/79a.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\map_tierra_animacion\\79a.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/map_tierra_animacion/79b.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\map_tierra_animacion\\79b.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/map_tierra_animacion/79c.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\map_tierra_animacion\\79c.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/map_tierra_animacion/79d.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\map_tierra_animacion\\79d.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/map_tierra_animacion/79e.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\map_tierra_animacion\\79e.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/remolino_animacion/REMOLINO0000.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\remolino_animacion\\REMOLINO0000.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/remolino_animacion/REMOLINO0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\remolino_animacion\\REMOLINO0001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/remolino_animacion/REMOLINO0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\remolino_animacion\\REMOLINO0002.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/remolino_animacion/REMOLINO0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\remolino_animacion\\REMOLINO0003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/remolino_animacion/REMOLINO0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\remolino_animacion\\REMOLINO0004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/logo_dominio.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\logo_dominio.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/avion.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\avion.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/logo_juego.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\logo_juego.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/camara.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\camara.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/nube.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\nube.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/nube2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\nube2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/pergamino2d.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\pergamino2d.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\fondo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ESTADOS UNIDOS/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ESTADOS UNIDOS\\fondo.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5176,13 +6265,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 2,
           "leftEdgeAnchor": 0,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -5193,7 +6282,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "",
+          "texture": "assets\\Botones\\salir.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -5203,7 +6292,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\puzzles\\volver.png",
+          "texture": "assets\\Botones\\salir.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -5248,22 +6337,3957 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "",
+          "texture": "assets\\Botones\\salir.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
         }
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "map_personaje",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0020.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0021.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0022.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0023.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0024.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0025.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0026.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0027.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0028.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0029.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0030.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0031.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0032.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0033.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0034.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0035.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0036.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0037.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0038.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0039.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino_animacion\\PERGAMINO0040.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 191,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 76
+                      },
+                      {
+                        "x": 533,
+                        "y": 511
+                      },
+                      {
+                        "x": 191,
+                        "y": 511
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "brujula",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0005.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0006.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0007.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0008.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0009.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0010.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0011.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0012.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0013.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0014.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0015.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0016.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0017.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0018.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0019.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0020.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0021.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0022.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0023.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0024.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0025.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0026.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0027.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0028.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0029.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0030.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0031.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0032.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0033.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0034.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0035.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0036.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0037.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0038.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0039.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\brujula_animacion\\brujula0040.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 190,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 42
+                      },
+                      {
+                        "x": 679,
+                        "y": 548
+                      },
+                      {
+                        "x": 190,
+                        "y": 548
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "remolino",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\remolino_animacion\\REMOLINO0000.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 152,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 410
+                      },
+                      {
+                        "x": 152,
+                        "y": 410
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\remolino_animacion\\REMOLINO0001.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 152,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 410
+                      },
+                      {
+                        "x": 152,
+                        "y": 410
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\remolino_animacion\\REMOLINO0002.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 152,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 410
+                      },
+                      {
+                        "x": 152,
+                        "y": 410
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\remolino_animacion\\REMOLINO0003.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 152,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 410
+                      },
+                      {
+                        "x": 152,
+                        "y": 410
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\remolino_animacion\\REMOLINO0004.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 152,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 11
+                      },
+                      {
+                        "x": 495,
+                        "y": 410
+                      },
+                      {
+                        "x": 152,
+                        "y": 410
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "map_Tierra",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\map_tierra_animacion\\79a.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 600
+                      },
+                      {
+                        "x": 0,
+                        "y": 600
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\map_tierra_animacion\\79b.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 600
+                      },
+                      {
+                        "x": 0,
+                        "y": 600
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\map_tierra_animacion\\79c.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 600
+                      },
+                      {
+                        "x": 0,
+                        "y": 600
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\map_tierra_animacion\\79d.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 600
+                      },
+                      {
+                        "x": 0,
+                        "y": 600
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\map_tierra_animacion\\79e.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 0
+                      },
+                      {
+                        "x": 800,
+                        "y": 600
+                      },
+                      {
+                        "x": 0,
+                        "y": 600
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "logo_dominio",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\logo_dominio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 344,
+                        "y": 0
+                      },
+                      {
+                        "x": 344,
+                        "y": 160
+                      },
+                      {
+                        "x": 0,
+                        "y": 160
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "avion",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\avion.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 665,
+                        "y": 0
+                      },
+                      {
+                        "x": 665,
+                        "y": 310
+                      },
+                      {
+                        "x": 1,
+                        "y": 310
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "logo_juego",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 1,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\logo_juego.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1313,
+                        "y": 0
+                      },
+                      {
+                        "x": 1313,
+                        "y": 636
+                      },
+                      {
+                        "x": 0,
+                        "y": 636
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "camara",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\camara.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 590,
+                        "y": 0
+                      },
+                      {
+                        "x": 590,
+                        "y": 695
+                      },
+                      {
+                        "x": 0,
+                        "y": 695
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "nube_1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\nube.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 1
+                      },
+                      {
+                        "x": 493,
+                        "y": 1
+                      },
+                      {
+                        "x": 493,
+                        "y": 262
+                      },
+                      {
+                        "x": 0,
+                        "y": 262
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "nube_2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\nube2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 1
+                      },
+                      {
+                        "x": 707,
+                        "y": 1
+                      },
+                      {
+                        "x": 707,
+                        "y": 289
+                      },
+                      {
+                        "x": 0,
+                        "y": 289
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "mapa_2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\pergamino2d.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 20
+                      },
+                      {
+                        "x": 237,
+                        "y": 20
+                      },
+                      {
+                        "x": 237,
+                        "y": 345
+                      },
+                      {
+                        "x": 4,
+                        "y": 345
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "fondo_america",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\fondo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 2280,
+                        "y": 0
+                      },
+                      {
+                        "x": 2280,
+                        "y": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
+        "objectName": "logo_dominio"
+      },
+      {
+        "objectName": "logo_juego"
+      },
+      {
         "objectName": "btRetroceder"
       },
       {
         "objectName": "btn_volver"
+      },
+      {
+        "objectName": "map_personaje"
+      },
+      {
+        "objectName": "mapa_2"
+      },
+      {
+        "objectName": "brujula"
+      },
+      {
+        "objectName": "remolino"
+      },
+      {
+        "objectName": "map_Tierra"
+      },
+      {
+        "objectName": "avion"
+      },
+      {
+        "objectName": "camara"
+      },
+      {
+        "objectName": "nube_1"
+      },
+      {
+        "objectName": "nube_2"
+      },
+      {
+        "objectName": "fondo_america"
       }
     ]
   },

@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3347334391873916,
+    "zoomFactor": 0.23241570230723793,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1020,7 +1020,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "winer",
-      "name": "map_character",
+      "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 0,
       "x": 900,
@@ -1069,7 +1069,7 @@
       "depth": 0,
       "height": 700,
       "layer": "winer",
-      "name": "bg_objects",
+      "name": "background3",
       "persistentUuid": "e11fb1eb-6fd4-47f2-ad2f-577115728dee",
       "width": 1000,
       "x": 1147,
@@ -1098,23 +1098,6 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 490.4494382022471,
-      "keepRatio": true,
-      "layer": "UI",
-      "name": "personaje",
-      "persistentUuid": "06c71728-7608-4849-8f62-beebddeca977",
-      "width": 600,
-      "x": 1740,
-      "y": 591,
-      "zOrder": 0,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -1133,9 +1116,9 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 323,
+      "height": 656,
       "keepRatio": true,
-      "layer": "",
+      "layer": "UI",
       "name": "incentivo",
       "persistentUuid": "33ebbbd1-7d5f-437c-9ba8-0cb8a08fb39e",
       "width": 910,
@@ -1183,16 +1166,166 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 150,
+      "depth": 32,
+      "height": 100,
       "keepRatio": true,
       "layer": "UI",
       "name": "btn_volver",
       "persistentUuid": "6cb2eef9-a9fa-4c31-b96f-13367efc8485",
-      "width": 436.15,
-      "x": 1897,
-      "y": 930,
+      "width": 290.76666666666665,
+      "x": 2038,
+      "y": 958,
       "zOrder": 220,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "fondo_guia",
+      "persistentUuid": "537b11a9-f167-416c-879e-256728b5c7ef",
+      "width": 0,
+      "x": 129,
+      "y": 87,
+      "zOrder": 221,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 125,
+      "keepRatio": true,
+      "layer": "",
+      "name": "logo_dominio",
+      "persistentUuid": "438e399e-a887-4276-8e23-c1aa90c62de1",
+      "width": 268.74999999999994,
+      "x": 4,
+      "y": 2,
+      "zOrder": 222,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1080,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "background2",
+      "persistentUuid": "7768130d-2bdb-44e6-995b-af5ffcecbb4b",
+      "width": 2342,
+      "x": 0,
+      "y": 0,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 500,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "logo_juego",
+      "persistentUuid": "07464440-8536-4557-b772-e8a02d161f64",
+      "width": 1032.2327044025158,
+      "x": 692,
+      "y": 1,
+      "zOrder": 999,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 600,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "map_personaje",
+      "persistentUuid": "fe318cc8-226e-4c1a-b347-c53cfa74d0fb",
+      "width": 800,
+      "x": 161,
+      "y": 491,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 262.5000000000001,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "remolino",
+      "persistentUuid": "9f3ac786-9000-4788-b255-95656778ca33",
+      "width": 350,
+      "x": 342,
+      "y": 876,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 150,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "logo_dominio",
+      "persistentUuid": "2dfab488-d9dc-4d20-ab57-96d610b7d801",
+      "width": 322.5,
+      "x": 8,
+      "y": 927,
+      "zOrder": 1000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "avion",
+      "persistentUuid": "6b8df5fe-4bce-40a2-b065-fdfe0c7588f6",
+      "width": 0,
+      "x": 51,
+      "y": 70,
+      "zOrder": 800,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_1",
+      "persistentUuid": "414af49e-4526-483e-baf2-d72acf4ea036",
+      "width": 0,
+      "x": 20,
+      "y": 242,
+      "zOrder": 1001,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1239,7 +1372,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz1.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1287,7 +1420,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz2.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1335,7 +1468,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz3.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1383,7 +1516,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz4.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1431,7 +1564,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz5.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1479,7 +1612,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz6.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1527,7 +1660,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz7.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1575,7 +1708,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz8.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1623,7 +1756,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz9.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1671,7 +1804,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz10.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1719,7 +1852,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz11.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1767,7 +1900,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz12.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1815,7 +1948,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz13.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1863,7 +1996,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz14.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1911,7 +2044,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz16.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1959,7 +2092,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz17.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz17.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2031,7 +2164,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz1.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2079,7 +2212,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz2.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2095,24 +2228,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 86,
-                        "y": 171.5
+                        "x": 101,
+                        "y": 1.5
                       },
                       {
-                        "x": 77,
-                        "y": 102.5
+                        "x": 231,
+                        "y": 0
                       },
                       {
-                        "x": 93,
-                        "y": 39.5
+                        "x": 231,
+                        "y": 159.5
                       },
                       {
-                        "x": 229,
-                        "y": 48.5
-                      },
-                      {
-                        "x": 235,
-                        "y": 182.5
+                        "x": 96,
+                        "y": 162.5
                       }
                     ]
                   ]
@@ -2131,7 +2260,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz3.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2147,20 +2276,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 168,
+                        "x": 88,
+                        "y": 140.5
+                      },
+                      {
+                        "x": 58,
+                        "y": 0
+                      },
+                      {
+                        "x": 178,
+                        "y": 0
+                      },
+                      {
+                        "x": 140,
                         "y": 143.5
-                      },
-                      {
-                        "x": 73,
-                        "y": 142.5
-                      },
-                      {
-                        "x": 72,
-                        "y": 44.5
-                      },
-                      {
-                        "x": 173,
-                        "y": 44.5
                       }
                     ]
                   ]
@@ -2179,7 +2308,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz4.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2231,7 +2360,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz5.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2279,7 +2408,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz6.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2327,7 +2456,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz7.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2375,7 +2504,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz8.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2423,7 +2552,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz9.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2471,7 +2600,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz10.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2519,7 +2648,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz11.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2571,7 +2700,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz12.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2623,7 +2752,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz13.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2671,7 +2800,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz14.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2723,7 +2852,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz16.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2771,7 +2900,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Norte\\ESTADOS UNIDOS\\pz17.png",
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz17.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3034,7 +3163,7 @@
     {
       "assetStoreId": "",
       "height": 32,
-      "name": "bg_objects",
+      "name": "background3",
       "texture": "NewTiledSprite",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
@@ -3117,72 +3246,6 @@
         "characterSize": 50,
         "color": "0;0;0"
       }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "container_piece",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "ObjectStack",
-          "type": "ObjectStack::ObjectStack"
-        }
-      ],
-      "animations": [
-        {
-          "name": "container_pieces",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "NewSprite2",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 0
-                      },
-                      {
-                        "x": 64,
-                        "y": 64
-                      },
-                      {
-                        "x": 0,
-                        "y": 64
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
     },
     {
       "assetStoreId": "",
@@ -3269,1506 +3332,6 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "map_character",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0000.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0001.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0002.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0003.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0004.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0005.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0006.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0007.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0008.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0009.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0010.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0011.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0012.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0013.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0014.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0015.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0016.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0017.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0018.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0019.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0020.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0021.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0022.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0023.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0024.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0025.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0026.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0027.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0028.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0029.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0030.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0031.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0032.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0033.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0034.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0035.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0036.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0037.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0038.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0039.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Extras\\pergamino\\PERGAMINO0040.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 191,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 76
-                      },
-                      {
-                        "x": 533,
-                        "y": 511
-                      },
-                      {
-                        "x": 191,
-                        "y": 511
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "timer",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -4786,7 +3349,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\reloj2.png",
+                  "image": "assets\\Elementos\\reloj_marco.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4928,77 +3491,6 @@
                       {
                         "x": 0,
                         "y": 1080
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "personaje",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 0,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 0,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\personaje.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 1,
-                        "y": 0
-                      },
-                      {
-                        "x": 712,
-                        "y": 0
-                      },
-                      {
-                        "x": 712,
-                        "y": 582
-                      },
-                      {
-                        "x": 1,
-                        "y": 582
                       }
                     ]
                   ]
@@ -5171,7 +3663,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\reloj3_madera.png",
+                  "image": "assets\\Elementos\\reloj icon.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5210,19 +3702,158 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "fondo_guia",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\EEUU_guia.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 1
+                      },
+                      {
+                        "x": 905,
+                        "y": 1
+                      },
+                      {
+                        "x": 905,
+                        "y": 905
+                      },
+                      {
+                        "x": 1,
+                        "y": 905
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "background2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 1,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\fondo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 0
+                      },
+                      {
+                        "x": 1920,
+                        "y": 1080
+                      },
+                      {
+                        "x": 0,
+                        "y": 1080
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
+        "folderName": "Game over",
+        "children": [
+          {
+            "objectName": "background2"
+          }
+        ]
+      },
+      {
         "folderName": "Background",
         "children": [
           {
-            "objectName": "nameCountry"
+            "objectName": "fondo_guia"
           },
           {
-            "objectName": "personaje"
+            "objectName": "nameCountry"
           },
           {
             "objectName": "incentivo"
@@ -5232,9 +3863,6 @@
           },
           {
             "objectName": "background"
-          },
-          {
-            "objectName": "map_character"
           }
         ]
       },
@@ -5268,9 +3896,6 @@
         "folderName": "Player",
         "children": [
           {
-            "objectName": "container_piece"
-          },
-          {
             "objectName": "Socalo"
           },
           {
@@ -5281,6 +3906,9 @@
       {
         "folderName": "win",
         "children": [
+          {
+            "objectName": "background3"
+          },
           {
             "objectName": "nombreSitioPuzzle"
           },
@@ -5294,9 +3922,6 @@
             "objectName": "curiosidad"
           }
         ]
-      },
-      {
-        "objectName": "bg_objects"
       }
     ]
   },
@@ -5306,7 +3931,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5537,6 +4161,15 @@
               "actions": [
                 {
                   "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"game over\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
@@ -5613,6 +4246,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5702,94 +4336,17 @@
                 "=",
                 "RandomInRange(0,2)"
               ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarScene"
-                  },
-                  "parameters": [
-                    "numberInfo",
-                    "=",
-                    "0"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Pieza",
-                    "=",
-                    "RandomInRange(1000, 1400)",
-                    "=",
-                    "RandomInRange(150, 400)"
-                  ]
-                }
-              ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarScene"
-                  },
-                  "parameters": [
-                    "numberInfo",
-                    "=",
-                    "1"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Pieza",
-                    "=",
-                    "RandomInRange(1400, 1800)",
-                    "=",
-                    "RandomInRange(150, 400)"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "VarScene"
-                  },
-                  "parameters": [
-                    "numberInfo",
-                    "=",
-                    "2"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreXY"
-                  },
-                  "parameters": [
-                    "Pieza",
-                    "=",
-                    "RandomInRange(1000, 1400)",
-                    "=",
-                    "RandomInRange(400, 900)"
-                  ]
-                }
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Pieza",
+                "=",
+                "RandomInRange(1000, 1800)",
+                "=",
+                "RandomInRange(150, 900)"
               ]
             }
           ]
@@ -5802,6 +4359,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6301,7 +4859,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6406,6 +4963,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -6645,6 +5203,39 @@
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
       "isLocked": false,
+      "name": "game over",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
       "name": "winer",
       "renderingType": "",
       "visibility": false,
@@ -6684,10 +5275,6 @@
     {
       "name": "Flippable",
       "type": "FlippableCapability::FlippableBehavior"
-    },
-    {
-      "name": "ObjectStack",
-      "type": "ObjectStack::ObjectStack"
     },
     {
       "name": "Opacity",

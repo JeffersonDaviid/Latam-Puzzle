@@ -16,16 +16,6 @@
             "=",
             "100"
           ]
-        },
-        {
-          "type": {
-            "value": "ObjectStack::ObjectStack::Shuffle"
-          },
-          "parameters": [
-            "container_piece",
-            "ObjectStack",
-            ""
-          ]
         }
       ]
     },
