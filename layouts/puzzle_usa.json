@@ -1202,7 +1202,7 @@
       "depth": 0,
       "height": 125,
       "keepRatio": true,
-      "layer": "",
+      "layer": "UI",
       "name": "logo_dominio",
       "persistentUuid": "438e399e-a887-4276-8e23-c1aa90c62de1",
       "width": 268.74999999999994,
@@ -5102,7 +5102,7 @@
               },
               "parameters": [
                 "",
-                "\"Menu Norte\"",
+                "\"Menu Seleccion Region\"",
                 ""
               ]
             }
