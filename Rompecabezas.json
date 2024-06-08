@@ -10323,12 +10323,7 @@
       "referenceTo": "/layouts/comojugar"
     }
   ],
-  "externalEvents": [
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalEvents/sort_pieces"
-    }
-  ],
+  "externalEvents": [],
   "eventsFunctionsExtensions": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
