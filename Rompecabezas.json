@@ -6165,6 +6165,33 @@
         "name": "assets\\puzzles\\ESTADOS UNIDOS\\fondo.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/creditos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\creditos.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/reglas.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\reglas.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\play.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
