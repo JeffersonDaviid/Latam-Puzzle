@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.23241570230723793,
+    "zoomFactor": 0.18426551407050656,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,13 +32,13 @@
       "folded": true,
       "name": "timerSeconds",
       "type": "string",
-      "value": "000"
+      "value": "10"
     },
     {
       "folded": true,
       "name": "timerMinutes",
       "type": "string",
-      "value": "3"
+      "value": "0"
     },
     {
       "folded": true,
@@ -908,9 +908,9 @@
       "layer": "UI",
       "name": "timerSeconds",
       "persistentUuid": "7f9e8287-78e9-4425-8f15-903fbc1df907",
-      "width": 72,
-      "x": 578,
-      "y": 979,
+      "width": 88,
+      "x": 610,
+      "y": 973,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -925,8 +925,8 @@
       "name": "timerSeparator",
       "persistentUuid": "b6d5e80c-1172-40ee-a88c-2306900424f6",
       "width": 0,
-      "x": 567,
-      "y": 975,
+      "x": 587,
+      "y": 971,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -941,8 +941,8 @@
       "name": "timerMinutes",
       "persistentUuid": "88b23ff6-4c22-4325-8f0d-a6133abdc83b",
       "width": 0,
-      "x": 529,
-      "y": 979,
+      "x": 534,
+      "y": 973,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -976,7 +976,7 @@
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
       "width": 667,
       "x": 1423,
-      "y": 586,
+      "y": 598,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -991,8 +991,8 @@
       "name": "zero_auxMinutes",
       "persistentUuid": "aa853896-3677-4572-809e-ef1a8df9015b",
       "width": 0,
-      "x": 497,
-      "y": 979,
+      "x": 485,
+      "y": 973,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -1000,15 +1000,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 55,
       "keepRatio": true,
       "layer": "UI",
       "name": "zero_auxSeconds",
       "persistentUuid": "feaca1ed-29bf-48b0-931b-8444c878d6de",
-      "width": 0,
-      "x": 589,
-      "y": 979,
+      "width": 48,
+      "x": 614,
+      "y": 973,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -1057,7 +1058,7 @@
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 0,
       "x": 1557,
-      "y": 502,
+      "y": 517,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1140,7 +1141,7 @@
       "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
       "width": 997,
       "x": 1148,
-      "y": 373,
+      "y": 360,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1240,8 +1241,8 @@
       "name": "logo_juego",
       "persistentUuid": "07464440-8536-4557-b772-e8a02d161f64",
       "width": 1032.2327044025158,
-      "x": 692,
-      "y": 1,
+      "x": 662,
+      "y": 7,
       "zOrder": 999,
       "numberProperties": [],
       "stringProperties": [],
@@ -1258,7 +1259,7 @@
       "persistentUuid": "fe318cc8-226e-4c1a-b347-c53cfa74d0fb",
       "width": 800,
       "x": 161,
-      "y": 491,
+      "y": 532,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1307,9 +1308,141 @@
       "name": "avion",
       "persistentUuid": "6b8df5fe-4bce-40a2-b065-fdfe0c7588f6",
       "width": 0,
-      "x": 51,
-      "y": 70,
-      "zOrder": 800,
+      "x": -626,
+      "y": 21,
+      "zOrder": 500,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 180,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_1",
+      "persistentUuid": "414af49e-4526-483e-baf2-d72acf4ea036",
+      "width": 0,
+      "x": 20,
+      "y": 242,
+      "zOrder": 500,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "winer",
+      "name": "logo_dominio",
+      "persistentUuid": "f4f8fe2a-265e-45ff-a91a-010352fd1e70",
+      "width": 0,
+      "x": 1796,
+      "y": 775,
+      "zOrder": 1002,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 250,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "btn_volverAJugar",
+      "persistentUuid": "3e9d6e6b-7db9-40df-a313-73350668f843",
+      "width": 250,
+      "x": 869,
+      "y": 728,
+      "zOrder": 1003,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 82,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "txt_perdiste",
+      "persistentUuid": "41a6390d-9d36-471c-8466-1c5607688495",
+      "width": 360,
+      "x": 134,
+      "y": 704,
+      "zOrder": 1004,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 111,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "NewText",
+      "persistentUuid": "7ab32d3f-30f7-4cc4-bac4-efa92879c8c8",
+      "width": 1203,
+      "x": 544,
+      "y": 523,
+      "zOrder": 1005,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 250,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "btn_home",
+      "persistentUuid": "cab4889a-fe6e-429d-9d81-5e84a5b11d94",
+      "width": 250,
+      "x": 1300,
+      "y": 725,
+      "zOrder": 1006,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_2",
+      "persistentUuid": "5548c6b6-5526-4396-999d-3d572157ddf5",
+      "width": 0,
+      "x": 1640,
+      "y": 201,
+      "zOrder": 500,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_2",
+      "persistentUuid": "2adde91b-f5d5-4942-a1f1-79aa45fc18e7",
+      "width": 0,
+      "x": 807,
+      "y": -175,
+      "zOrder": 501,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1321,11 +1454,91 @@
       "keepRatio": true,
       "layer": "game over",
       "name": "nube_1",
-      "persistentUuid": "414af49e-4526-483e-baf2-d72acf4ea036",
+      "persistentUuid": "44c885f3-ba14-47fd-a7f0-486e7dceafd2",
       "width": 0,
-      "x": 20,
-      "y": 242,
-      "zOrder": 1001,
+      "x": 2688,
+      "y": -38,
+      "zOrder": 499,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_2",
+      "persistentUuid": "b7fe8217-385e-457d-af4e-96206e8ee41d",
+      "width": 0,
+      "x": 3845,
+      "y": 23,
+      "zOrder": 499,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_2",
+      "persistentUuid": "c4925bd1-84c8-460c-8231-3c73fecbeaa3",
+      "width": 0,
+      "x": -2318,
+      "y": 298,
+      "zOrder": 499,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_1",
+      "persistentUuid": "6387eb3c-f470-4de3-8314-a6d2f2168d87",
+      "width": 0,
+      "x": -920,
+      "y": 95,
+      "zOrder": 499,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_2",
+      "persistentUuid": "03dc1f8d-f743-4603-9919-173add588004",
+      "width": 0,
+      "x": -3612,
+      "y": 28,
+      "zOrder": 502,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_1",
+      "persistentUuid": "63cffc71-64ec-440e-a540-870bb9b5a131",
+      "width": 0,
+      "x": 4997,
+      "y": -119,
+      "zOrder": 501,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2947,7 +3160,7 @@
     {
       "assetStoreId": "",
       "bold": true,
-      "italic": true,
+      "italic": false,
       "name": "txt_win",
       "smoothed": true,
       "type": "TextObject::Text",
@@ -2955,8 +3168,8 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "GANASTE!",
-      "font": "Coffee Normal4.ttf",
+      "string": "¡ GANASTE !",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
       "color": {
@@ -2966,11 +3179,11 @@
       },
       "content": {
         "bold": true,
-        "isOutlineEnabled": false,
+        "isOutlineEnabled": true,
         "isShadowEnabled": false,
-        "italic": true,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 5,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
         "shadowColor": "0;0;0",
@@ -2978,8 +3191,8 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "GANASTE!",
-        "font": "Coffee Normal4.ttf",
+        "text": "¡ GANASTE !",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
         "color": "59;168;61"
@@ -2997,20 +3210,20 @@
       "effects": [],
       "behaviors": [],
       "string": "0",
-      "font": "Coffee Normal2.ttf",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "right",
       "characterSize": 50,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 255,
+        "g": 255,
+        "r": 255
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -3020,10 +3233,10 @@
         "smoothed": true,
         "underlined": false,
         "text": "0",
-        "font": "Coffee Normal2.ttf",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "right",
         "characterSize": 50,
-        "color": "0;0;0"
+        "color": "255;255;255"
       }
     },
     {
@@ -3038,20 +3251,20 @@
       "effects": [],
       "behaviors": [],
       "string": ":",
-      "font": "Coffee Normal2.ttf",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 255,
+        "g": 255,
+        "r": 255
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -3061,10 +3274,10 @@
         "smoothed": true,
         "underlined": false,
         "text": ":",
-        "font": "Coffee Normal2.ttf",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 50,
-        "color": "0;0;0"
+        "color": "255;255;255"
       }
     },
     {
@@ -3079,20 +3292,20 @@
       "effects": [],
       "behaviors": [],
       "string": "3",
-      "font": "Coffee Normal2.ttf",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 50,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 255,
+        "g": 255,
+        "r": 255
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -3102,10 +3315,10 @@
         "smoothed": true,
         "underlined": false,
         "text": "3",
-        "font": "Coffee Normal2.ttf",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 50,
-        "color": "0;0;0"
+        "color": "255;255;255"
       }
     },
     {
@@ -3135,9 +3348,9 @@
       "textAlignment": "center",
       "characterSize": 60,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 14,
+        "g": 29,
+        "r": 86
       },
       "content": {
         "bold": true,
@@ -3157,7 +3370,7 @@
         "font": "assets\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
-        "color": "0;0;0"
+        "color": "86;29;14"
       }
     },
     {
@@ -3218,7 +3431,7 @@
         }
       ],
       "string": "cuiosidad aleatoria",
-      "font": "Coffee Normal3.ttf",
+      "font": "assets\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -3241,7 +3454,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "cuiosidad aleatoria",
-        "font": "Coffee Normal3.ttf",
+        "font": "assets\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "0;0;0"
@@ -3259,20 +3472,20 @@
       "effects": [],
       "behaviors": [],
       "string": "0",
-      "font": "Coffee Normal2.ttf",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 255,
+        "g": 255,
+        "r": 255
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -3282,10 +3495,10 @@
         "smoothed": true,
         "underlined": false,
         "text": "0",
-        "font": "Coffee Normal2.ttf",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 50,
-        "color": "0;0;0"
+        "color": "255;255;255"
       }
     },
     {
@@ -3300,20 +3513,20 @@
       "effects": [],
       "behaviors": [],
       "string": "0",
-      "font": "Coffee Normal2.ttf",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 255,
+        "g": 255,
+        "r": 255
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -3323,10 +3536,10 @@
         "smoothed": true,
         "underlined": false,
         "text": "0",
-        "font": "Coffee Normal2.ttf",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 50,
-        "color": "0;0;0"
+        "color": "255;255;255"
       }
     },
     {
@@ -3349,7 +3562,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\Elementos\\reloj_marco.png",
+                  "image": "assets\\Elementos\\reloj_marco2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3369,16 +3582,16 @@
                         "y": 0
                       },
                       {
-                        "x": 2633,
+                        "x": 1649,
                         "y": 0
                       },
                       {
-                        "x": 2633,
-                        "y": 947
+                        "x": 1649,
+                        "y": 641
                       },
                       {
                         "x": 0,
-                        "y": 947
+                        "y": 641
                       }
                     ]
                   ]
@@ -3411,14 +3624,14 @@
       },
       "content": {
         "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
+        "shadowColor": "255;176;176",
         "shadowDistance": 4,
         "shadowOpacity": 127,
         "smoothed": true,
@@ -3572,14 +3785,14 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Arma\ny\nAprende",
-      "font": "CantoraOne-Regular.ttf",
+      "string": "ARMA\nY\nAPRENDE",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 150,
+      "characterSize": 125,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 14,
+        "g": 29,
+        "r": 86
       },
       "content": {
         "bold": true,
@@ -3595,11 +3808,11 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Arma\ny\nAprende",
-        "font": "CantoraOne-Regular.ttf",
+        "text": "ARMA\nY\nAPRENDE",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 150,
-        "color": "0;0;0"
+        "characterSize": 125,
+        "color": "86;29;14"
       }
     },
     {
@@ -3613,21 +3826,21 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Estatua de la libertad",
-      "font": "",
+      "string": "ESTATUA DE LA LIBERTAD",
+      "font": "assets\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 65,
       "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
+        "b": 142,
+        "g": 33,
+        "r": 163
       },
       "content": {
         "bold": true,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
         "italic": false,
-        "outlineColor": "255;255;255",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -3636,11 +3849,11 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Estatua de la libertad",
-        "font": "",
+        "text": "ESTATUA DE LA LIBERTAD",
+        "font": "assets\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
-        "color": "0;0;0"
+        "characterSize": 65,
+        "color": "163;33;142"
       }
     },
     {
@@ -3833,6 +4046,297 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "btn_volverAJugar",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 1,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "ButtonColorTintTween",
+          "type": "ButtonStates::ButtonColorTintTween",
+          "ButtonFSM": "ButtonFSM",
+          "Tween": "Tween",
+          "IdleColorTint": "255;255;255",
+          "FocusedColorTint": "192;192;192",
+          "PressedColorTint": "64;64;64",
+          "FadeInDuration": 0.1,
+          "FadeOutDuration": 0.2,
+          "FadeInEasing": "easeInOutQuad",
+          "FadeOutEasing": "easeInOutQuad",
+          "PreviousState": "Idle"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Botones\\repetir.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 0
+                      },
+                      {
+                        "x": 356,
+                        "y": 0
+                      },
+                      {
+                        "x": 356,
+                        "y": 356
+                      },
+                      {
+                        "x": 1,
+                        "y": 356
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "txt_perdiste",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "string": "PERDISTE",
+      "font": "assets\\Kid Games.ttf",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 14,
+        "g": 29,
+        "r": 86
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": true,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 15,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "PERDISTE",
+        "font": "assets\\Kid Games.ttf",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "86;29;14"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "NewText",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 1,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "string": "¿VOLVER A INTENTARLO?",
+      "font": "assets\\Kid Games.ttf",
+      "textAlignment": "center",
+      "characterSize": 75,
+      "color": {
+        "b": 14,
+        "g": 29,
+        "r": 86
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "255;255;255",
+        "outlineThickness": 15,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "¿VOLVER A INTENTARLO?",
+        "font": "assets\\Kid Games.ttf",
+        "textAlignment": "center",
+        "characterSize": 75,
+        "color": "86;29;14"
+      }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "btn_home",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 1,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "ButtonColorTintTween",
+          "type": "ButtonStates::ButtonColorTintTween",
+          "ButtonFSM": "ButtonFSM",
+          "Tween": "Tween",
+          "IdleColorTint": "255;255;255",
+          "FocusedColorTint": "192;192;192",
+          "PressedColorTint": "64;64;64",
+          "FadeInDuration": 0.1,
+          "FadeOutDuration": 0.2,
+          "FadeInEasing": "easeInOutQuad",
+          "FadeOutEasing": "easeInOutQuad",
+          "PreviousState": "Idle"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\assets_puzzles_socket26.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 241,
+                        "y": 0
+                      },
+                      {
+                        "x": 241,
+                        "y": 241
+                      },
+                      {
+                        "x": 0,
+                        "y": 241
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -3922,6 +4426,18 @@
             "objectName": "curiosidad"
           }
         ]
+      },
+      {
+        "objectName": "btn_volverAJugar"
+      },
+      {
+        "objectName": "txt_perdiste"
+      },
+      {
+        "objectName": "NewText"
+      },
+      {
+        "objectName": "btn_home"
       }
     ]
   },
@@ -3931,6 +4447,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4139,6 +4656,51 @@
               "parameters": [
                 "zero_auxSeconds",
                 "\"255;0;0\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::Text::SetOutlineColor"
+              },
+              "parameters": [
+                "timerSeconds",
+                "\"255;255;255\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::Text::SetOutlineColor"
+              },
+              "parameters": [
+                "timerSeparator",
+                "\"255;255;255\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::Text::SetOutlineColor"
+              },
+              "parameters": [
+                "timerMinutes",
+                "\"255;255;255\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::Text::SetOutlineColor"
+              },
+              "parameters": [
+                "zero_auxMinutes",
+                "\"255;255;255\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextObject::Text::SetOutlineColor"
+              },
+              "parameters": [
+                "zero_auxSeconds",
+                "\"255;255;255\""
               ]
             }
           ],
@@ -4859,6 +5421,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5078,6 +5641,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5107,9 +5671,429 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "btn_volverAJugar",
+                "ButtonFSM"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"puzzle_usa\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "btn_home",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Seleccion Region\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Nubes",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_1",
+                "izq",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "nube_1",
+                "100",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_2",
+                "der",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "nube_2",
+                "-100",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_2",
+                "der",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "nube_2",
+                "100",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_1",
+                "izq",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "nube_1",
+                "-100",
+                "0",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "avion",
+                "der",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "avion",
+                "-50",
+                "-5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "avion",
+                "der",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "avion",
+                "50",
+                "8",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "nube_1",
+                "<",
+                "-1800"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_1",
+                "izq",
+                "False"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "nube_1",
+                ">",
+                "2500"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_1",
+                "izq",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "avion",
+                ">",
+                "3200"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "avion",
+                "der",
+                "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "avion",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "avion",
+                "<",
+                "-1000"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "avion",
+                "der",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "avion",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "nube_2",
+                ">",
+                "2500"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_2",
+                "der",
+                "False"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PosX"
+              },
+              "parameters": [
+                "nube_2",
+                "<",
+                "-1800"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "nube_2",
+                "der",
+                "True"
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
@@ -5205,7 +6189,7 @@
       "isLocked": false,
       "name": "game over",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
@@ -5267,6 +6251,14 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonColorTintTween",
+      "type": "ButtonStates::ButtonColorTintTween"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
     },
     {
       "name": "Effect",

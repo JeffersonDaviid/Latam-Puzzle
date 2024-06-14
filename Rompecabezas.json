@@ -6255,6 +6255,63 @@
         "name": "assets\\Botones\\creditos2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "assets/GloriaHallelujah-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\GloriaHallelujah-Regular.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "assets/BerkshireSwash-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\BerkshireSwash-Regular.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "assets/CantoraOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\CantoraOne-Regular.ttf",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/repetir.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\repetir.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_puzzles_socket26.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\assets_puzzles_socket26.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/reloj_marco2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\reloj_marco2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/reloj_marco3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\reloj_marco3.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -9908,7 +9965,20 @@
       "name": "avion",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "der",
+          "type": "boolean",
+          "value": true
+        },
+        {
+          "folded": true,
+          "name": "velocidad",
+          "type": "number",
+          "value": 500
+        }
+      ],
       "effects": [],
       "behaviors": [],
       "animations": [
