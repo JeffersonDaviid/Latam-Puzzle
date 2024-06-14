@@ -6192,6 +6192,69 @@
         "name": "assets\\Botones\\play.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/instrucciones/fondo_instrucciones.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\instrucciones\\fondo_instrucciones.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/instrucciones/puntero.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\instrucciones\\puntero.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/instrucciones/tablet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\instrucciones\\tablet.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/instrucciones/puntero2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\instrucciones\\puntero2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/play2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\play2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/reglas2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\reglas2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/creditos2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\creditos2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

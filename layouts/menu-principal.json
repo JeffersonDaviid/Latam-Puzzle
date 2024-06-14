@@ -18,11 +18,18 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2725359896772945,
+    "zoomFactor": 0.27253598967729525,
     "windowMask": true
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "tiempo",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -209,8 +216,8 @@
       "name": "nube2",
       "persistentUuid": "b9b61764-ce1b-4b9f-9960-0bbce94c7540",
       "width": 0,
-      "x": -1295,
-      "y": -155,
+      "x": -1234,
+      "y": -158,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -264,7 +271,14 @@
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
-      "initialVariables": []
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "velocidad",
+          "type": "number",
+          "value": 500
+        }
+      ]
     },
     {
       "angle": 180,
@@ -301,16 +315,33 @@
     },
     {
       "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 254,
+      "keepRatio": true,
+      "layer": "PlusAssets",
+      "name": "avion2",
+      "persistentUuid": "bec42edb-8607-45aa-bd77-86fe7a6b556f",
+      "width": 477,
+      "x": -21,
+      "y": 231,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
-      "layer": "PlusAssets",
-      "name": "mapa_2",
-      "persistentUuid": "a9ef2a80-6326-4f07-89f1-8ad4338e492f",
+      "layer": "",
+      "name": "logo_dominio",
+      "persistentUuid": "055930fe-f845-4b15-9e88-914a4344189e",
       "width": 0,
-      "x": 42,
-      "y": 715,
-      "zOrder": 18,
+      "x": 45,
+      "y": 874,
+      "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -319,18 +350,57 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 220,
+      "height": 244,
       "keepRatio": true,
       "layer": "PlusAssets",
-      "name": "avion2",
-      "persistentUuid": "bec42edb-8607-45aa-bd77-86fe7a6b556f",
-      "width": 435,
-      "x": 89,
-      "y": 223,
-      "zOrder": 19,
+      "name": "nube1",
+      "persistentUuid": "a5746bd0-341b-4d67-8b22-ad7913e234a7",
+      "width": 624,
+      "x": 4206,
+      "y": -148,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 180,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "PlusAssets",
+      "name": "nube2",
+      "persistentUuid": "564759af-aaf2-4ad7-a080-da3b568805f8",
+      "width": 0,
+      "x": 5166,
+      "y": -131,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "PlusAssets",
+      "name": "nube2",
+      "persistentUuid": "2c510a3c-8422-48ba-8c78-3fdf37f41d27",
+      "width": 0,
+      "x": 6002,
+      "y": 147,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": [
+        {
+          "folded": true,
+          "name": "velocidad",
+          "type": "number",
+          "value": 500
+        }
+      ]
     }
   ],
   "objects": [
@@ -542,6 +612,54 @@
               ]
             }
           ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Botones\\play2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 915,
+                        "y": 0
+                      },
+                      {
+                        "x": 915,
+                        "y": 318
+                      },
+                      {
+                        "x": 0,
+                        "y": 318
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -584,6 +702,54 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "assets\\Botones\\reglas.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 916,
+                        "y": 0
+                      },
+                      {
+                        "x": 916,
+                        "y": 318
+                      },
+                      {
+                        "x": 0,
+                        "y": 318
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Botones\\reglas2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -702,7 +868,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -751,6 +928,54 @@
               ]
             }
           ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Botones\\creditos2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 916,
+                        "y": 0
+                      },
+                      {
+                        "x": 916,
+                        "y": 318
+                      },
+                      {
+                        "x": 0,
+                        "y": 318
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -760,7 +985,19 @@
       "name": "nube1",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "name": "velocidad",
+          "type": "number",
+          "value": -500
+        },
+        {
+          "folded": true,
+          "name": "izq",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "effects": [],
       "behaviors": [],
       "animations": [
@@ -820,7 +1057,20 @@
       "name": "nube2",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "velocidad",
+          "type": "number",
+          "value": 500
+        },
+        {
+          "folded": true,
+          "name": "der",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "effects": [],
       "behaviors": [],
       "animations": [
@@ -1131,6 +1381,34 @@
       "conditions": [
         {
           "type": {
+            "value": "ButtonStates::ButtonFSM::IsFocused"
+          },
+          "parameters": [
+            "creditos",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+          },
+          "parameters": [
+            "creditos",
+            "Animation",
+            "=",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
             "inverted": true,
             "value": "ButtonStates::ButtonFSM::IsFocused"
           },
@@ -1148,6 +1426,35 @@
           },
           "parameters": [
             "inst",
+            "Animation",
+            "=",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "ButtonStates::ButtonFSM::IsFocused"
+          },
+          "parameters": [
+            "creditos",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+          },
+          "parameters": [
+            "creditos",
             "Animation",
             "=",
             "0"
@@ -1434,33 +1741,14 @@
             "=",
             "670"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": [
-        {
-          "type": {
-            "value": "AddForceXY"
-          },
-          "parameters": [
-            "nube1",
-            "-30",
-            "0",
-            ""
-          ]
         },
         {
           "type": {
-            "value": "AddForceXY"
+            "value": "ResetObjectTimer"
           },
           "parameters": [
-            "nube2",
-            "40",
-            "0",
-            ""
+            "avion2",
+            "\"time\""
           ]
         }
       ]
@@ -1473,111 +1761,399 @@
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
-      "events": [
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "inst",
-                "instruccion",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "play",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Menu Seleccion Region\"",
-                ""
-              ]
-            }
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "inst",
+            "instruccion",
+            "True"
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "ObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "inst",
-                "instruccion",
-                "True"
-              ]
-            },
-            {
-              "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
-              },
-              "parameters": [
-                "inst",
-                "ButtonFSM",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetObjectVariableAsBoolean"
-              },
-              "parameters": [
-                "inst",
-                "instruccion",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "HideLayer"
-              },
-              "parameters": [
-                "",
-                "\"botones\""
-              ]
-            },
-            {
-              "type": {
-                "value": "ShowLayer"
-              },
-              "parameters": [
-                "",
-                "\"instrucciones\""
-              ]
-            },
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"ComoJugar\"",
-                ""
-              ]
-            }
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "inst",
+            "ButtonFSM",
+            ""
           ]
         }
       ],
-      "parameters": []
+      "actions": [
+        {
+          "type": {
+            "value": "HideLayer"
+          },
+          "parameters": [
+            "",
+            "\"botones\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ShowLayer"
+          },
+          "parameters": [
+            "",
+            "\"instrucciones\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"ComoJugar\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "inst",
+            "instruccion",
+            "True"
+          ]
+        },
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "creditos",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "HideLayer"
+          },
+          "parameters": [
+            "",
+            "\"botones\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ShowLayer"
+          },
+          "parameters": [
+            "",
+            "\"instrucciones\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Creditos\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "inst",
+            "instruccion",
+            "True"
+          ]
+        },
+        {
+          "type": {
+            "value": "ButtonStates::ButtonFSM::IsClicked"
+          },
+          "parameters": [
+            "play",
+            "ButtonFSM",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Menu Seleccion Region\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube1",
+            "izq",
+            "True"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "nube1",
+            "-100",
+            "0",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube2",
+            "der",
+            "True"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "nube2",
+            "100",
+            "0",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube2",
+            "der",
+            "False"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "nube2",
+            "-100",
+            "0",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "ObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube1",
+            "izq",
+            "False"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AddForceXY"
+          },
+          "parameters": [
+            "nube1",
+            "100",
+            "0",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "nube1",
+            ">",
+            "3500"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube1",
+            "izq",
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "nube2",
+            ">",
+            "3500"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube2",
+            "der",
+            "False"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "nube2",
+            "<",
+            "-2800"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube2",
+            "der",
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "nube1",
+            "<",
+            "-2800"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetObjectVariableAsBoolean"
+          },
+          "parameters": [
+            "nube1",
+            "izq",
+            "False"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreY"
+          },
+          "parameters": [
+            "avion2",
+            "=",
+            "50*sin(avion2.ObjectTimerElapsedTime(\"time\"))+260\n"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        }
+      ]
     }
   ],
   "layers": [

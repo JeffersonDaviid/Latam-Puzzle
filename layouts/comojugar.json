@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.26167741169921666,
+    "zoomFactor": 0.3526904934771255,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -56,23 +56,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 105,
-      "keepRatio": true,
-      "layer": "",
-      "name": "btRetroceder",
-      "persistentUuid": "e8d78bd3-ecdb-4046-a51a-8f08167db3b4",
-      "width": 123,
-      "x": 45,
-      "y": 61,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 1,
       "height": 108,
       "keepRatio": true,
@@ -80,8 +63,8 @@
       "name": "comoJugar",
       "persistentUuid": "b3727874-1676-4c94-980b-c52d79bdafbe",
       "width": 687,
-      "x": 696,
-      "y": 84,
+      "x": 769,
+      "y": 73,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -124,88 +107,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1.2295081967213113,
-      "height": 360,
-      "layer": "TutSeleccionReg",
-      "name": "norte",
-      "persistentUuid": "863b5c43-d9ed-4f4c-ba26-e3163224a8f7",
-      "width": 300,
-      "x": -856,
-      "y": -378,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1.1494117647058824,
-      "height": 360,
-      "layer": "TutSeleccionReg",
-      "name": "centro",
-      "persistentUuid": "41e43e4a-e3a9-47b0-a141-a383897cbd85",
-      "width": 299.9964705882353,
-      "x": -905,
-      "y": 5,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 360,
-      "layer": "TutSeleccionReg",
-      "name": "sur",
-      "persistentUuid": "b8e51e06-f745-498b-a3fc-8f2ec8e45f9d",
-      "width": 300,
-      "x": -721,
-      "y": -233,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 98,
-      "keepRatio": true,
-      "layer": "TutSeleccionReg",
-      "name": "SeleccionRegion",
-      "persistentUuid": "4b6d8a13-6a23-45d2-8260-6dc97a4c9d04",
-      "width": 868,
-      "x": -908,
-      "y": -150,
-      "zOrder": 7,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 374,
-      "keepRatio": true,
-      "layer": "TutSeleccionReg",
-      "name": "SeleccionRegion2",
-      "persistentUuid": "45b44912-8315-4186-9a2e-fc2ec0ba36ea",
-      "width": 746,
-      "x": -906,
-      "y": -289,
-      "zOrder": 8,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 48,
       "height": 106,
       "keepRatio": true,
@@ -233,54 +134,6 @@
       "x": -102,
       "y": 509,
       "zOrder": 30,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1.0049019607843137,
-      "height": 135,
-      "layer": "Seleccion pais",
-      "name": "EU",
-      "persistentUuid": "879e1849-0073-4989-b293-306b3d0a2d93",
-      "width": 205,
-      "x": 1256,
-      "y": -502,
-      "zOrder": 11,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0.009433962264150943,
-      "height": 135,
-      "layer": "Seleccion pais",
-      "name": "Mexico",
-      "persistentUuid": "d50ed310-7ae1-4bba-b9fd-ed53850302b2",
-      "width": 205,
-      "x": 1459,
-      "y": -545,
-      "zOrder": 12,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 135,
-      "layer": "Seleccion pais",
-      "name": "Canada",
-      "persistentUuid": "963cf127-91f0-4e2b-a70b-ac8991086731",
-      "width": 205,
-      "x": 1506,
-      "y": -497,
-      "zOrder": 13,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -744,6 +597,23 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 48,
+      "height": 136,
+      "keepRatio": true,
+      "layer": "arrastraRompecabezas",
+      "name": "btRetroceder",
+      "persistentUuid": "7d3dd19e-0635-4796-99ed-b72dd5671f65",
+      "width": 145,
+      "x": 119,
+      "y": 44,
+      "zOrder": 41,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -767,7 +637,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "fondoTutorial.jpeg",
+                  "image": "assets\\Elementos\\instrucciones\\fondo_instrucciones.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -787,16 +657,16 @@
                         "y": 0
                       },
                       {
-                        "x": 804,
+                        "x": 2280,
                         "y": 0
                       },
                       {
-                        "x": 804,
-                        "y": 451
+                        "x": 2280,
+                        "y": 1080
                       },
                       {
                         "x": 0,
-                        "y": 451
+                        "y": 1080
                       }
                     ]
                   ]
@@ -846,304 +716,6 @@
         "textAlignment": "left",
         "characterSize": 90,
         "color": "238;206;43"
-      }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "norte",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\assets_btCentro.png2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 1,
-                        "y": 0
-                      },
-                      {
-                        "x": 371,
-                        "y": 0
-                      },
-                      {
-                        "x": 371,
-                        "y": 477
-                      },
-                      {
-                        "x": 1,
-                        "y": 477
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\assets_btCentro.png2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 1,
-                        "y": 0
-                      },
-                      {
-                        "x": 371,
-                        "y": 0
-                      },
-                      {
-                        "x": 371,
-                        "y": 477
-                      },
-                      {
-                        "x": 1,
-                        "y": 477
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "centro",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\bcentro3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2,
-                        "y": 2
-                      },
-                      {
-                        "x": 595,
-                        "y": 2
-                      },
-                      {
-                        "x": 595,
-                        "y": 656
-                      },
-                      {
-                        "x": 2,
-                        "y": 656
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "sur",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\bSur.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 375,
-                        "y": 0
-                      },
-                      {
-                        "x": 375,
-                        "y": 465
-                      },
-                      {
-                        "x": 0,
-                        "y": 465
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "bold": true,
-      "italic": false,
-      "name": "SeleccionRegion",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "Seleccion Región",
-      "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
-      "textAlignment": "left",
-      "characterSize": 50,
-      "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
-      },
-      "content": {
-        "bold": true,
-        "isOutlineEnabled": true,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "87;87;87",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Seleccion Región",
-        "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
-        "textAlignment": "left",
-        "characterSize": 50,
-        "color": "255;255;255"
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "SeleccionRegion2",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "string": "¡Bienvenido al juego!\n\nPara iniciar a jugar primero debes presionar/click en la región del país que deseas armar \ncomo rompecabezas.\n\nCada región contiene un grupo de países, con sus respectivo puzzle",
-      "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
-      "textAlignment": "left",
-      "characterSize": 30,
-      "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": true,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "87;87;87",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "¡Bienvenido al juego!\n\nPara iniciar a jugar primero debes presionar/click en la región del país que deseas armar \ncomo rompecabezas.\n\nCada región contiene un grupo de países, con sus respectivo puzzle",
-        "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
-        "textAlignment": "left",
-        "characterSize": 30,
-        "color": "255;255;255"
       }
     },
     {
@@ -1249,7 +821,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "click1.png",
+                  "image": "assets\\Elementos\\instrucciones\\puntero.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1269,16 +841,16 @@
                         "y": 0
                       },
                       {
-                        "x": 225,
+                        "x": 101,
                         "y": 0
                       },
                       {
-                        "x": 225,
-                        "y": 226
+                        "x": 101,
+                        "y": 123
                       },
                       {
                         "x": 0,
-                        "y": 226
+                        "y": 123
                       }
                     ]
                   ]
@@ -1297,7 +869,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "click3.png",
+                  "image": "assets\\Elementos\\instrucciones\\puntero2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1317,16 +889,16 @@
                         "y": 0
                       },
                       {
-                        "x": 225,
+                        "x": 101,
                         "y": 0
                       },
                       {
-                        "x": 225,
-                        "y": 226
+                        "x": 101,
+                        "y": 123
                       },
                       {
                         "x": 0,
-                        "y": 226
+                        "y": 123
                       }
                     ]
                   ]
@@ -1336,221 +908,6 @@
           ]
         }
       ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "EU",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\bottonbanderas\\busa1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2,
-                        "y": 2
-                      },
-                      {
-                        "x": 317,
-                        "y": 2
-                      },
-                      {
-                        "x": 317,
-                        "y": 169
-                      },
-                      {
-                        "x": 2,
-                        "y": 169
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Mexico",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\bottonbanderas\\bmexico1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2,
-                        "y": 2
-                      },
-                      {
-                        "x": 306,
-                        "y": 2
-                      },
-                      {
-                        "x": 306,
-                        "y": 169
-                      },
-                      {
-                        "x": 2,
-                        "y": 169
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Canada",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\bottonbanderas\\bcanada1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 2,
-                        "y": 2
-                      },
-                      {
-                        "x": 306,
-                        "y": 2
-                      },
-                      {
-                        "x": 306,
-                        "y": 169
-                      },
-                      {
-                        "x": 2,
-                        "y": 169
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "",
-      "name": "New3DBox",
-      "type": "Scene3D::Cube3DObject",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "width": 100,
-        "height": 100,
-        "depth": 100,
-        "enableTextureTransparency": false,
-        "facesOrientation": "Y",
-        "frontFaceResourceName": "",
-        "backFaceResourceName": "",
-        "backFaceUpThroughWhichAxisRotation": "X",
-        "leftFaceResourceName": "",
-        "rightFaceResourceName": "",
-        "topFaceResourceName": "",
-        "bottomFaceResourceName": "",
-        "frontFaceVisible": true,
-        "backFaceVisible": false,
-        "leftFaceVisible": true,
-        "rightFaceVisible": true,
-        "topFaceVisible": true,
-        "bottomFaceVisible": true,
-        "frontFaceResourceRepeat": false,
-        "backFaceResourceRepeat": false,
-        "leftFaceResourceRepeat": false,
-        "rightFaceResourceRepeat": false,
-        "topFaceResourceRepeat": false,
-        "bottomFaceResourceRepeat": false,
-        "materialType": "Basic"
-      }
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -1572,7 +929,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\bottonbanderas\\fondoMenuNorte.png",
+                  "image": "assets\\Elementos\\instrucciones\\tablet.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1592,16 +949,16 @@
                         "y": 0
                       },
                       {
-                        "x": 1280,
+                        "x": 944,
                         "y": 0
                       },
                       {
-                        "x": 1280,
-                        "y": 716
+                        "x": 944,
+                        "y": 546
                       },
                       {
                         "x": 0,
-                        "y": 716
+                        "y": 546
                       }
                     ]
                   ]
@@ -1628,16 +985,16 @@
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
+        "b": 5,
+        "g": 117,
+        "r": 65
       },
       "content": {
         "bold": true,
         "isOutlineEnabled": true,
         "isShadowEnabled": false,
         "italic": false,
-        "outlineColor": "87;87;87",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -1650,7 +1007,7 @@
         "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 50,
-        "color": "255;255;255"
+        "color": "65;117;5"
       }
     },
     {
@@ -1669,16 +1026,16 @@
       "textAlignment": "left",
       "characterSize": 30,
       "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
+        "b": 226,
+        "g": 144,
+        "r": 74
       },
       "content": {
         "bold": false,
         "isOutlineEnabled": true,
         "isShadowEnabled": false,
         "italic": false,
-        "outlineColor": "87;87;87",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -1691,7 +1048,7 @@
         "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 30,
-        "color": "255;255;255"
+        "color": "74;144;226"
       }
     },
     {
@@ -2066,16 +1423,16 @@
       "textAlignment": "center",
       "characterSize": 40,
       "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
+        "b": 5,
+        "g": 117,
+        "r": 65
       },
       "content": {
         "bold": true,
         "isOutlineEnabled": true,
         "isShadowEnabled": false,
         "italic": false,
-        "outlineColor": "87;87;87",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -2088,7 +1445,7 @@
         "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
         "textAlignment": "center",
         "characterSize": 40,
-        "color": "255;255;255"
+        "color": "65;117;5"
       }
     },
     {
@@ -2107,16 +1464,16 @@
       "textAlignment": "left",
       "characterSize": 30,
       "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
+        "b": 226,
+        "g": 144,
+        "r": 74
       },
       "content": {
         "bold": false,
         "isOutlineEnabled": true,
         "isShadowEnabled": false,
         "italic": false,
-        "outlineColor": "87;87;87",
+        "outlineColor": "0;0;0",
         "outlineThickness": 2,
         "shadowAngle": 90,
         "shadowBlurRadius": 2,
@@ -2129,7 +1486,7 @@
         "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 30,
-        "color": "255;255;255"
+        "color": "74;144;226"
       }
     },
     {
@@ -2333,16 +1690,10 @@
             "objectName": "fin"
           },
           {
-            "objectName": "SeleccionRegion"
-          },
-          {
             "objectName": "SeleccionPais"
           },
           {
             "objectName": "armarRompe"
-          },
-          {
-            "objectName": "SeleccionRegion2"
           },
           {
             "objectName": "ArmarRompe2"
@@ -2362,15 +1713,6 @@
             "objectName": "boton"
           },
           {
-            "objectName": "Canada"
-          },
-          {
-            "objectName": "EU"
-          },
-          {
-            "objectName": "Mexico"
-          },
-          {
             "objectName": "base"
           },
           {
@@ -2380,22 +1722,10 @@
             "objectName": "contenedor"
           },
           {
-            "objectName": "New3DBox"
-          },
-          {
             "objectName": "FondoNort"
           },
           {
-            "objectName": "sur"
-          },
-          {
             "objectName": "fondoTutorial"
-          },
-          {
-            "objectName": "norte"
-          },
-          {
-            "objectName": "centro"
           },
           {
             "objectName": "click"
@@ -2436,66 +1766,6 @@
         }
       ],
       "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "SeleccionRegion",
-            "=",
-            "150",
-            "=",
-            "275"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "SeleccionRegion2",
-            "=",
-            "220",
-            "=",
-            "400"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "norte",
-            "=",
-            "1345",
-            "=",
-            "630"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "centro",
-            "=",
-            "1630",
-            "=",
-            "250"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "sur",
-            "=",
-            "1170",
-            "=",
-            "250"
-          ]
-        },
         {
           "type": {
             "value": "MettreXY"
@@ -2560,297 +1830,6 @@
             "=",
             "100"
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Comment",
-      "color": {
-        "b": 109,
-        "g": 230,
-        "r": 255,
-        "textB": 0,
-        "textG": 0,
-        "textR": 0
-      },
-      "comment": "Tutorial parte 1, seleccion región"
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "VarScene"
-          },
-          "parameters": [
-            "parteTutorial",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "CompareTimer"
-          },
-          "parameters": [
-            "",
-            "\"seleccion1\"",
-            "<",
-            "8"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "1"
-          ]
-        },
-        {
-          "type": {
-            "value": "AddForceVersPos"
-          },
-          "parameters": [
-            "click",
-            "1495",
-            "720",
-            "80",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "4"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CompareTimer"
-          },
-          "parameters": [
-            "",
-            "\"seleccion1\"",
-            ">=",
-            "8"
-          ]
-        },
-        {
-          "type": {
-            "value": "VarScene"
-          },
-          "parameters": [
-            "parteTutorial",
-            "=",
-            "0"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "click",
-            "=",
-            "1045",
-            "=",
-            "870"
-          ]
-        },
-        {
-          "type": {
-            "value": "ResetTimer"
-          },
-          "parameters": [
-            "",
-            "\"seleccion1\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "VarScene"
-          },
-          "parameters": [
-            "parteTutorial",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "PosX"
-          },
-          "parameters": [
-            "click",
-            ">=",
-            "1420"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-          },
-          "parameters": [
-            "click",
-            "Animation",
-            "=",
-            "1"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "VarScene"
-          },
-          "parameters": [
-            "parteTutorial",
-            "=",
-            "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "PosX"
-          },
-          "parameters": [
-            "click",
-            "<",
-            "1420"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-          },
-          "parameters": [
-            "click",
-            "Animation",
-            "=",
-            "0"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Comment",
-      "color": {
-        "b": 109,
-        "g": 230,
-        "r": 255,
-        "textB": 0,
-        "textG": 0,
-        "textR": 0
-      },
-      "comment": "Tutorial parte 2, seleccion pais"
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-          },
-          "parameters": [
-            "Ok",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "VarScene"
-          },
-          "parameters": [
-            "parteTutorial",
-            "=",
-            "0"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "SeleccionRegion",
-            "=",
-            "-200",
-            "=",
-            "-300"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "SeleccionRegion2",
-            "=",
-            "-220",
-            "=",
-            "-400"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "norte",
-            "=",
-            "-345",
-            "=",
-            "-330"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "sur",
-            "=",
-            "-345",
-            "=",
-            "-330"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "centro",
-            "=",
-            "-345",
-            "=",
-            "-330"
-          ]
         },
         {
           "type": {
@@ -2862,42 +1841,6 @@
             "660",
             "=",
             "390"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "EU",
-            "=",
-            "755",
-            "=",
-            "795"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "Mexico",
-            "=",
-            "1130",
-            "=",
-            "795"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "Canada",
-            "=",
-            "1540",
-            "=",
-            "795"
           ]
         },
         {
@@ -2973,8 +1916,40 @@
             "=",
             "1"
           ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "btRetroceder",
+            "=",
+            "45",
+            "=",
+            "61"
+          ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Tutorial parte 2, seleccion pais"
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -3004,22 +1979,26 @@
       "actions": [
         {
           "type": {
-            "value": "Wait"
-          },
-          "parameters": [
-            "1"
-          ]
-        },
-        {
-          "type": {
             "value": "AddForceVersPos"
           },
           "parameters": [
             "click",
-            "850",
+            "880",
             "850",
             "80",
             "0"
+          ]
+        },
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "btRetroceder",
+            "=",
+            "45",
+            "=",
+            "61"
           ]
         }
       ]
@@ -3185,42 +2164,6 @@
         }
       ],
       "actions": [
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "EU",
-            "=",
-            "-250",
-            "=",
-            "795"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "Mexico",
-            "=",
-            "-250",
-            "=",
-            "795"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "Canada",
-            "=",
-            "-250",
-            "=",
-            "795"
-          ]
-        },
         {
           "type": {
             "value": "MettreXY"
@@ -3668,7 +2611,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "",
       "renderingType": "",
       "visibility": true,
@@ -3712,7 +2655,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "TutSeleccionReg",
       "renderingType": "",
       "visibility": true,
@@ -3745,7 +2688,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "Seleccion pais",
       "renderingType": "",
       "visibility": true,
@@ -3778,7 +2721,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "flecha",
       "renderingType": "",
       "visibility": true,
@@ -3851,10 +2794,6 @@
     {
       "name": "Flippable",
       "type": "FlippableCapability::FlippableBehavior"
-    },
-    {
-      "name": "Object3D",
-      "type": "Scene3D::Base3DBehavior"
     },
     {
       "name": "ObjectStack",
