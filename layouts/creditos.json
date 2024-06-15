@@ -18,29 +18,12 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.34118560234734524,
+    "zoomFactor": 0.2705012603962552,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 1183,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Fondo",
-      "persistentUuid": "664c2073-8c2b-4356-a4eb-51957634e4d0",
-      "width": 2186,
-      "x": -11,
-      "y": -38,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
     {
       "angle": 0,
       "customSize": true,
@@ -51,8 +34,25 @@
       "name": "_1",
       "persistentUuid": "5e4f769f-1e38-465b-9a5e-7c210801b9a8",
       "width": 1535,
-      "x": 295,
-      "y": 401,
+      "x": 405,
+      "y": 418,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1453,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Credito_0",
+      "persistentUuid": "f28f2914-71f5-4b7d-8410-fe225080fe66",
+      "width": 2138,
+      "x": 60,
+      "y": 720,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -62,49 +62,15 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 1453.1645569620252,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Credito_0",
-      "persistentUuid": "f28f2914-71f5-4b7d-8410-fe225080fe66",
-      "width": 700,
-      "x": 311,
-      "y": 983,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 1453.16,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Credito_1",
-      "persistentUuid": "5ad8be17-d2c3-4b92-a1df-7156e48bbff8",
-      "width": 793.4354513888891,
-      "x": 1052,
-      "y": 749,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 399.99999999999994,
+      "height": 400,
       "keepRatio": true,
       "layer": "",
       "name": "Logo_EPN",
       "persistentUuid": "e652b89b-4144-42ea-8329-13d62802bda5",
       "width": 400,
-      "x": 507,
-      "y": 2340,
-      "zOrder": 5,
+      "x": 650,
+      "y": 2000,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -119,9 +85,9 @@
       "name": "Logo_FIS",
       "persistentUuid": "9768e2d3-1c46-49eb-bc72-016a1f075eee",
       "width": 450,
-      "x": 1176,
-      "y": 2331,
-      "zOrder": 6,
+      "x": 1250,
+      "y": 2000,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -136,9 +102,9 @@
       "name": "btRetroceder",
       "persistentUuid": "1e59164a-b7de-43db-82fe-cc21c5c81fcc",
       "width": 100,
-      "x": 0,
-      "y": 966,
-      "zOrder": 7,
+      "x": 50,
+      "y": 30,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -147,15 +113,32 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 95,
+      "height": 1090,
       "keepRatio": true,
       "layer": "",
-      "name": "txt_volver",
-      "persistentUuid": "f7731fa0-976c-4020-b6df-8a6d953271fa",
-      "width": 297,
-      "x": 103,
-      "y": 969,
-      "zOrder": 8,
+      "name": "fondo_america",
+      "persistentUuid": "697feba4-4daa-4959-8c8e-6c6c0a2a855c",
+      "width": 2358,
+      "x": -7,
+      "y": -4,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 255.81395348837225,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Logo_Dominio",
+      "persistentUuid": "1948d518-6c64-4029-9bbc-e663bb59a8da",
+      "width": 550,
+      "x": 900,
+      "y": 2475,
+      "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -230,6 +213,16 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
         }
@@ -254,6 +247,16 @@
       "variables": [],
       "effects": [],
       "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
         {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
@@ -313,77 +316,22 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Credito_1",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Creditos_1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 59,
-                        "y": 62
-                      },
-                      {
-                        "x": 1144,
-                        "y": 62
-                      },
-                      {
-                        "x": 1144,
-                        "y": 2250
-                      },
-                      {
-                        "x": 59,
-                        "y": 2250
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
       "name": "Logo_EPN",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
       "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
         {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
@@ -450,6 +398,16 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
         }
@@ -513,6 +471,16 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
         }
@@ -527,6 +495,81 @@
         "align": "center",
         "wordWrap": true
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Logo_Dominio",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\logo_dominio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 344,
+                        "y": 0
+                      },
+                      {
+                        "x": 344,
+                        "y": 160
+                      },
+                      {
+                        "x": 0,
+                        "y": 160
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -539,9 +582,6 @@
         "objectName": "Credito_0"
       },
       {
-        "objectName": "Credito_1"
-      },
-      {
         "objectName": "_1"
       },
       {
@@ -552,10 +592,51 @@
       },
       {
         "objectName": "Logo_FIS"
+      },
+      {
+        "objectName": "Logo_Dominio"
       }
     ]
   },
   "events": [
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Botones",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "btRetroceder",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu principal\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
@@ -604,9 +685,9 @@
             "_1",
             "Tween",
             "\"Movimiento\"",
-            "-1500",
+            "-2400",
             "\"linear\"",
-            "10",
+            "25",
             ""
           ]
         }
@@ -636,41 +717,9 @@
             "Credito_0",
             "Tween",
             "\"Movimiento\"",
-            "-2100",
-            "\"linear\"",
-            "17",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CompareTimer"
-          },
-          "parameters": [
-            "",
-            "\"Movimiento\"",
-            "<=",
-            "2"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-          },
-          "parameters": [
-            "Credito_1",
-            "Tween",
-            "\"Movimiento\"",
             "-2000",
             "\"linear\"",
-            "15",
+            "25",
             ""
           ]
         }
@@ -700,9 +749,9 @@
             "Logo_EPN",
             "Tween",
             "\"Movimiento\"",
-            "-400",
+            "-725",
             "\"linear\"",
-            "15",
+            "25",
             ""
           ]
         }
@@ -732,51 +781,73 @@
             "Logo_FIS",
             "Tween",
             "\"Movimiento\"",
-            "-400",
+            "-750",
             "\"linear\"",
-            "15",
+            "25",
             ""
           ]
         }
       ]
     },
     {
-      "colorB": 228,
-      "colorG": 176,
-      "colorR": 74,
-      "creationTime": 0,
-      "name": "Botones",
-      "source": "",
-      "type": "BuiltinCommonInstructions::Group",
-      "events": [
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
-              },
-              "parameters": [
-                "btRetroceder",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Menu principal\"",
-                ""
-              ]
-            }
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
           ]
         }
       ],
-      "parameters": []
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Logo_Dominio",
+            "Tween",
+            "\"Movimiento\"",
+            "-300",
+            "\"linear\"",
+            "25",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            ">=",
+            "27"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Menu principal\"",
+            ""
+          ]
+        }
+      ]
     }
   ],
   "layers": [
