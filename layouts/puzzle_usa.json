@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18426551407050656,
+    "zoomFactor": 0.42220221047269707,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1242,7 +1242,7 @@
       "persistentUuid": "07464440-8536-4557-b772-e8a02d161f64",
       "width": 1032.2327044025158,
       "x": 662,
-      "y": 7,
+      "y": 3,
       "zOrder": 999,
       "numberProperties": [],
       "stringProperties": [],
@@ -1251,33 +1251,33 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 600,
+      "depth": 1,
+      "height": 452,
       "keepRatio": true,
       "layer": "game over",
       "name": "map_personaje",
       "persistentUuid": "fe318cc8-226e-4c1a-b347-c53cfa74d0fb",
-      "width": 800,
-      "x": 161,
-      "y": 532,
+      "width": 665,
+      "x": 60,
+      "y": 500,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
-      "angle": 0,
+      "angle": 11,
       "customSize": true,
-      "depth": 0,
-      "height": 262.5000000000001,
+      "depth": 1,
+      "height": 266,
       "keepRatio": true,
       "layer": "game over",
       "name": "remolino",
       "persistentUuid": "9f3ac786-9000-4788-b255-95656778ca33",
-      "width": 350,
-      "x": 342,
-      "y": 876,
-      "zOrder": 100,
+      "width": 361,
+      "x": 170,
+      "y": 756,
+      "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1300,23 +1300,24 @@
       "initialVariables": []
     },
     {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "angle": 344,
+      "customSize": true,
+      "depth": 0,
+      "height": 234.63268365817098,
       "keepRatio": true,
       "layer": "game over",
       "name": "avion",
       "persistentUuid": "6b8df5fe-4bce-40a2-b065-fdfe0c7588f6",
-      "width": 0,
-      "x": -626,
-      "y": 21,
+      "width": 500,
+      "x": -95,
+      "y": -31,
       "zOrder": 500,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     },
     {
-      "angle": 180,
+      "angle": 356,
       "customSize": false,
       "height": 0,
       "keepRatio": true,
@@ -1324,8 +1325,8 @@
       "name": "nube_1",
       "persistentUuid": "414af49e-4526-483e-baf2-d72acf4ea036",
       "width": 0,
-      "x": 20,
-      "y": 242,
+      "x": 16,
+      "y": 185,
       "zOrder": 500,
       "numberProperties": [],
       "stringProperties": [],
@@ -1368,14 +1369,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 82,
+      "height": 102,
       "keepRatio": true,
       "layer": "game over",
       "name": "txt_perdiste",
       "persistentUuid": "41a6390d-9d36-471c-8466-1c5607688495",
-      "width": 360,
-      "x": 134,
-      "y": 704,
+      "width": 376,
+      "x": 106,
+      "y": 456,
       "zOrder": 1004,
       "numberProperties": [],
       "stringProperties": [],
@@ -1456,8 +1457,8 @@
       "name": "nube_1",
       "persistentUuid": "44c885f3-ba14-47fd-a7f0-486e7dceafd2",
       "width": 0,
-      "x": 2688,
-      "y": -38,
+      "x": 2637,
+      "y": -61,
       "zOrder": 499,
       "numberProperties": [],
       "stringProperties": [],
@@ -1539,6 +1540,39 @@
       "x": 4997,
       "y": -119,
       "zOrder": 501,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 356,
+      "customSize": true,
+      "depth": 1,
+      "height": 201,
+      "keepRatio": true,
+      "layer": "game over",
+      "name": "nube_1",
+      "persistentUuid": "6d2a778f-7864-4e92-add1-ceba019762ed",
+      "width": 378,
+      "x": 243,
+      "y": 247,
+      "zOrder": 500,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "NewText",
+      "persistentUuid": "6ec16bf1-528c-491b-82cc-1c8be945514f",
+      "width": 0,
+      "x": 1711,
+      "y": 857,
+      "zOrder": 1007,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -4057,13 +4091,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
+          "topEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 1,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -4156,11 +4190,22 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "string": "PERDISTE",
       "font": "assets\\Kid Games.ttf",
       "textAlignment": "left",
-      "characterSize": 50,
+      "characterSize": 60,
       "color": {
         "b": 14,
         "g": 29,
@@ -4183,7 +4228,7 @@
         "text": "PERDISTE",
         "font": "assets\\Kid Games.ttf",
         "textAlignment": "left",
-        "characterSize": 50,
+        "characterSize": 60,
         "color": "86;29;14"
       }
     },
@@ -4199,13 +4244,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
+          "topEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 1,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -4249,13 +4294,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 1,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -4328,6 +4373,66 @@
                       {
                         "x": 0,
                         "y": 241
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "btn_volver2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Botones\\volver.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 913,
+                        "y": 0
+                      },
+                      {
+                        "x": 913,
+                        "y": 314
+                      },
+                      {
+                        "x": 0,
+                        "y": 314
                       }
                     ]
                   ]
@@ -4438,6 +4543,9 @@
       },
       {
         "objectName": "btn_home"
+      },
+      {
+        "objectName": "btn_volver2"
       }
     ]
   },
@@ -5641,7 +5749,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5733,6 +5840,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Nubes",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
