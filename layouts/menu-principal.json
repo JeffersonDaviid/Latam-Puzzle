@@ -102,8 +102,8 @@
       "name": "cabezas",
       "persistentUuid": "92a8dd52-8137-4ddd-b5b1-beb5a9824ceb",
       "width": 1113,
-      "x": 485,
-      "y": -431,
+      "x": 678,
+      "y": -443,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -150,8 +150,8 @@
       "name": "creditos",
       "persistentUuid": "d616ee73-8ad9-48e6-b320-4013ddce328a",
       "width": 296,
-      "x": 1708,
-      "y": 69,
+      "x": 1884,
+      "y": 79,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -200,8 +200,8 @@
       "name": "camara",
       "persistentUuid": "65889463-5db9-4d0d-872b-b76e252808a7",
       "width": 717,
-      "x": 1553,
-      "y": 407,
+      "x": 1670,
+      "y": 402,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -323,7 +323,7 @@
       "name": "avion2",
       "persistentUuid": "bec42edb-8607-45aa-bd77-86fe7a6b556f",
       "width": 477,
-      "x": -21,
+      "x": 11,
       "y": 231,
       "zOrder": 19,
       "numberProperties": [],
@@ -339,8 +339,8 @@
       "name": "logo_dominio",
       "persistentUuid": "055930fe-f845-4b15-9e88-914a4344189e",
       "width": 0,
-      "x": 45,
-      "y": 874,
+      "x": 67,
+      "y": 876,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -419,7 +419,18 @@
         }
       ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -492,7 +503,18 @@
         }
       ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": false,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -553,6 +575,16 @@
       "variables": [],
       "effects": [],
       "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": false,
+          "rightEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
         {
           "name": "ButtonFSM",
           "type": "ButtonStates::ButtonFSM",
@@ -679,6 +711,16 @@
       ],
       "effects": [],
       "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": false,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
         {
           "name": "ButtonFSM",
           "type": "ButtonStates::ButtonFSM",
@@ -869,6 +911,16 @@
       "variables": [],
       "effects": [],
       "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        },
         {
           "name": "ButtonFSM",
           "type": "ButtonStates::ButtonFSM",
@@ -1192,7 +1244,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -1599,6 +1662,26 @@
           "parameters": [
             "inst"
           ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "play",
+            "Anchor",
+            "yes"
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "inst",
+            "Anchor",
+            "yes"
+          ]
         }
       ]
     },
@@ -1749,6 +1832,26 @@
           "parameters": [
             "avion2",
             "\"time\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "play",
+            "Anchor",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ActivateBehavior"
+          },
+          "parameters": [
+            "inst",
+            "Anchor",
+            ""
           ]
         }
       ]

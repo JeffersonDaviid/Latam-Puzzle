@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3526904934771255,
+    "zoomFactor": 0.2291680161074895,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -625,7 +625,18 @@
       "updateIfNotVisible": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": false,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": true
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -1935,6 +1946,18 @@
             "45",
             "=",
             "61"
+          ]
+        },
+        {
+          "type": {
+            "value": "PlayMusic"
+          },
+          "parameters": [
+            "",
+            "Late Nights.wav",
+            "yes",
+            "100",
+            "1"
           ]
         }
       ]
