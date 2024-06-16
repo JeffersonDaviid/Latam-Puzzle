@@ -353,14 +353,10 @@
       "actions": [
         {
           "type": {
-            "value": "PlayMusicCanal"
+            "value": "RePlayMusicCanal"
           },
           "parameters": [
             "",
-            "Late Nights.wav",
-            "1",
-            "yes",
-            "100",
             "1"
           ]
         }

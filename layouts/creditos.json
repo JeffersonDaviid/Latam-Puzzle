@@ -652,6 +652,19 @@
       "actions": [
         {
           "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "Creditos.wav",
+            "2",
+            "no",
+            "100",
+            "1"
+          ]
+        },
+        {
+          "type": {
             "value": "ResetTimer"
           },
           "parameters": [
@@ -845,6 +858,15 @@
             "",
             "\"Menu principal\"",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "RePlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "1"
           ]
         }
       ]

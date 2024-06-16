@@ -6328,6 +6328,16 @@
         "name": "assets\\Botones\\volver.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "Creditos.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Creditos.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

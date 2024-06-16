@@ -1779,6 +1779,15 @@
       "actions": [
         {
           "type": {
+            "value": "PauseMusicCanal"
+          },
+          "parameters": [
+            "",
+            "1"
+          ]
+        },
+        {
+          "type": {
             "value": "MettreXY"
           },
           "parameters": [
@@ -2592,6 +2601,15 @@
             "",
             "\"Menu principal\"",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "RePlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "1"
           ]
         }
       ]
