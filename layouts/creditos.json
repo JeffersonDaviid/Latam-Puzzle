@@ -631,6 +631,15 @@
                 "\"Menu principal\"",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "RePlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
             }
           ]
         }
@@ -858,15 +867,6 @@
             "",
             "\"Menu principal\"",
             ""
-          ]
-        },
-        {
-          "type": {
-            "value": "RePlayMusicCanal"
-          },
-          "parameters": [
-            "",
-            "1"
           ]
         }
       ]
