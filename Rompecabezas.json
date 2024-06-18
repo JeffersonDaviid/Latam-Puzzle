@@ -6338,6 +6338,108 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "file": "assets/Fonts/Kid Games.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\Fonts\\Kid Games.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "assets/Fonts/CantoraOne-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Fonts/Kenney Pixel Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\Fonts\\Kenney Pixel Square.ttf",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tutorial/romp1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tutorial\\romp1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tutorial/romp2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tutorial\\romp2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tutorial/romp3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tutorial\\romp3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tutorial/romp4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tutorial\\romp4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tutorial/base.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tutorial\\base.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Yellow Jelly Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Yellow Jelly Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Yellow Jelly Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Yellow Jelly Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Yellow Jelly Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Yellow Jelly Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/fondoBlanco.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\fondoBlanco.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -10541,15 +10643,7 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/menu-seleccion-region"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/game-over"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/score-table"
+      "referenceTo": "/layouts/menu-seleccion-pais"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

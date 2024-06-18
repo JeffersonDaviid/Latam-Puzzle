@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.42220221047269707,
+    "zoomFactor": 0.27433470637761914,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1557,22 +1557,6 @@
       "x": 243,
       "y": 247,
       "zOrder": 500,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "NewText",
-      "persistentUuid": "6ec16bf1-528c-491b-82cc-1c8be945514f",
-      "width": 0,
-      "x": 1711,
-      "y": 857,
-      "zOrder": 1007,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3203,7 +3187,7 @@
       "effects": [],
       "behaviors": [],
       "string": "¡ GANASTE !",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
       "color": {
@@ -3226,7 +3210,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "¡ GANASTE !",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
         "color": "59;168;61"
@@ -3244,7 +3228,7 @@
       "effects": [],
       "behaviors": [],
       "string": "0",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "right",
       "characterSize": 50,
       "color": {
@@ -3267,7 +3251,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "0",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "right",
         "characterSize": 50,
         "color": "255;255;255"
@@ -3285,7 +3269,7 @@
       "effects": [],
       "behaviors": [],
       "string": ":",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -3308,7 +3292,7 @@
         "smoothed": true,
         "underlined": false,
         "text": ":",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "255;255;255"
@@ -3326,7 +3310,7 @@
       "effects": [],
       "behaviors": [],
       "string": "3",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 50,
       "color": {
@@ -3349,7 +3333,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "3",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 50,
         "color": "255;255;255"
@@ -3378,7 +3362,7 @@
         }
       ],
       "string": "ESTADOS UNIDOS\nDE AMERICA",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
       "color": {
@@ -3401,7 +3385,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "ESTADOS UNIDOS\nDE AMERICA",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
         "color": "86;29;14"
@@ -3411,7 +3395,7 @@
       "assetStoreId": "",
       "height": 32,
       "name": "background3",
-      "texture": "NewTiledSprite",
+      "texture": "assets\\Elementos\\fondoBlanco.png",
       "type": "TiledSpriteObject::TiledSprite",
       "width": 32,
       "variables": [],
@@ -3465,7 +3449,7 @@
         }
       ],
       "string": "cuiosidad aleatoria",
-      "font": "assets\\CantoraOne-Regular.ttf",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -3488,7 +3472,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "cuiosidad aleatoria",
-        "font": "assets\\CantoraOne-Regular.ttf",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "0;0;0"
@@ -3506,7 +3490,7 @@
       "effects": [],
       "behaviors": [],
       "string": "0",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -3529,7 +3513,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "0",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "255;255;255"
@@ -3547,7 +3531,7 @@
       "effects": [],
       "behaviors": [],
       "string": "0",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -3570,7 +3554,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "0",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "255;255;255"
@@ -3648,7 +3632,7 @@
       "effects": [],
       "behaviors": [],
       "string": "Sabías que ...",
-      "font": "CantoraOne-Regular.ttf",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 50,
       "color": {
@@ -3671,7 +3655,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "Sabías que ...",
-        "font": "CantoraOne-Regular.ttf",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 50,
         "color": "0;0;0"
@@ -3820,7 +3804,7 @@
       "effects": [],
       "behaviors": [],
       "string": "ARMA\nY\nAPRENDE",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 125,
       "color": {
@@ -3843,7 +3827,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "ARMA\nY\nAPRENDE",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 125,
         "color": "86;29;14"
@@ -3861,7 +3845,7 @@
       "effects": [],
       "behaviors": [],
       "string": "ESTATUA DE LA LIBERTAD",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 65,
       "color": {
@@ -3884,7 +3868,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "ESTATUA DE LA LIBERTAD",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 65,
         "color": "163;33;142"
@@ -4203,7 +4187,7 @@
         }
       ],
       "string": "PERDISTE",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "left",
       "characterSize": 60,
       "color": {
@@ -4226,7 +4210,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "PERDISTE",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "left",
         "characterSize": 60,
         "color": "86;29;14"
@@ -4255,7 +4239,7 @@
         }
       ],
       "string": "¿VOLVER A INTENTARLO?",
-      "font": "assets\\Kid Games.ttf",
+      "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 75,
       "color": {
@@ -4278,7 +4262,7 @@
         "smoothed": true,
         "underlined": false,
         "text": "¿VOLVER A INTENTARLO?",
-        "font": "assets\\Kid Games.ttf",
+        "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 75,
         "color": "86;29;14"
@@ -4343,7 +4327,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\assets_puzzles_socket26.png",
+                  "image": "assets\\Botones\\Yellow Jelly Button_Hovered.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4360,19 +4344,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 0
+                        "y": 1
                       },
                       {
-                        "x": 241,
-                        "y": 0
+                        "x": 128,
+                        "y": 1
                       },
                       {
-                        "x": 241,
-                        "y": 241
+                        "x": 128,
+                        "y": 128
                       },
                       {
                         "x": 0,
-                        "y": 241
+                        "y": 128
                       }
                     ]
                   ]
@@ -5773,7 +5757,7 @@
               },
               "parameters": [
                 "",
-                "\"Menu Seleccion Region\"",
+                "\"Menu Seleccion Pais\"",
                 ""
               ]
             }
@@ -5826,7 +5810,7 @@
               },
               "parameters": [
                 "",
-                "\"Menu Seleccion Region\"",
+                "\"Menu Seleccion Pais\"",
                 ""
               ]
             }
@@ -6297,7 +6281,7 @@
       "isLocked": false,
       "name": "game over",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
@@ -6330,7 +6314,7 @@
       "isLocked": false,
       "name": "winer",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {

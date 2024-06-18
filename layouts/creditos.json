@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2705012603962552,
+    "zoomFactor": 0.2368956372544658,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -233,7 +233,7 @@
         "fontSize": 110,
         "visible": true,
         "color": "86;240;206",
-        "fontFamily": "assets\\Kenney Pixel Square.ttf",
+        "fontFamily": "assets\\Fonts\\Kenney Pixel Square.ttf",
         "align": "center",
         "wordWrap": true
       }

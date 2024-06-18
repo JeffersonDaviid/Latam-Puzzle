@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Menu_32Seleccion_32Region",
-  "name": "Menu Seleccion Region",
+  "mangledName": "Menu_32Seleccion_32Pais",
+  "name": "Menu Seleccion Pais",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -68,8 +68,8 @@
       "name": "btNorte",
       "persistentUuid": "5b58be85-6359-468f-8e4a-1990a27422f1",
       "width": 673,
-      "x": 26,
-      "y": 533,
+      "x": 11,
+      "y": 450,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -177,14 +177,16 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "content": {},
+      "content": {
+        "TopPadding": -5
+      },
       "childrenContent": {
         "Hovered": {
           "bottomMargin": 0,
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\btCentro.png2",
+          "texture": "assets\\bNorte.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -194,7 +196,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\btCentro.png",
+          "texture": "assets\\bNorte.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -239,7 +241,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\btCentro.png",
+          "texture": "assets\\bNorte.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
