@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2291680161074895,
+    "zoomFactor": 0.2074649961630152,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -627,13 +627,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
           "leftEdgeAnchor": 3,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": false,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 3,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": true
         }
       ],
@@ -1109,7 +1109,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "romp1.png",
+                  "image": "assets\\Tutorial\\romp1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1157,7 +1157,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "romp2.png",
+                  "image": "assets\\Tutorial\\romp2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1205,7 +1205,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "romp3.png",
+                  "image": "assets\\Tutorial\\romp3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1253,7 +1253,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "romp4.png",
+                  "image": "assets\\Tutorial\\romp4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1313,7 +1313,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "base.png",
+                  "image": "assets\\Tutorial\\base.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1587,7 +1587,7 @@
           "height": 128,
           "leftMargin": 37,
           "rightMargin": 32,
-          "texture": "Yellow Jelly Button_Hovered.png",
+          "texture": "assets\\Botones\\Yellow Jelly Button_Hovered.png",
           "tiled": false,
           "topMargin": 50,
           "width": 256
@@ -1597,7 +1597,7 @@
           "height": 128,
           "leftMargin": 37,
           "rightMargin": 32,
-          "texture": "Yellow Jelly Button_Idle.png",
+          "texture": "assets\\Botones\\Yellow Jelly Button_Idle.png",
           "tiled": false,
           "topMargin": 50,
           "width": 256
@@ -1642,7 +1642,7 @@
           "height": 128,
           "leftMargin": 37,
           "rightMargin": 32,
-          "texture": "Yellow Jelly Button_Pressed.png",
+          "texture": "assets\\Botones\\Yellow Jelly Button_Pressed.png",
           "tiled": false,
           "topMargin": 50,
           "width": 256
@@ -2634,7 +2634,7 @@
           },
           "parameters": [
             "",
-            "\"Menu Seleccion Region\"",
+            "\"Menu Seleccion Pais\"",
             ""
           ]
         }
