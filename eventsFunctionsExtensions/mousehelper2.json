@@ -26,6 +26,8 @@
   ],
   "authorIds": [],
   "dependencies": [],
+  "globalVariables": [],
+  "sceneVariables": [],
   "eventsFunctions": [],
   "eventsBasedBehaviors": [
     {

@@ -6440,6 +6440,393 @@
         "name": "assets\\Elementos\\fondoBlanco.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Tablet1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Tablet1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Argen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Argen.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/belice.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\belice.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/bolivia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\bolivia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/brazil.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\brazil.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/chile.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\chile.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/colombia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\colombia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/costarica.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\costarica.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/ecuador.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\ecuador.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/salvador.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\salvador.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/USA.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\USA.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/guatemala.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\guatemala.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/haiti.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\haiti.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/honduras.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\honduras.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/mexico.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\mexico.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/nicaragua.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\nicaragua.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 17.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/panama.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\panama.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/paraguay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\paraguay.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/peru.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\peru.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/republicadom.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\republicadom.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 21.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/uruguay.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\uruguay.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/Recurso 22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\Recurso 22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tablet/venezuela.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tablet\\venezuela.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
