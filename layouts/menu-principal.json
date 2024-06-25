@@ -421,9 +421,9 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,

@@ -3171,11 +3171,11 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
@@ -3416,11 +3416,11 @@
       ],
       "behaviors": [
         {
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
@@ -3439,11 +3439,11 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
@@ -3637,11 +3637,11 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
@@ -3861,11 +3861,11 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
@@ -4354,7 +4354,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\Botones\\Yellow Jelly Button_Hovered.png",
+                  "image": "assets\\Botones\\Recurso 14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4374,16 +4374,16 @@
                         "y": 1
                       },
                       {
-                        "x": 128,
+                        "x": 356,
                         "y": 1
                       },
                       {
-                        "x": 128,
-                        "y": 128
+                        "x": 356,
+                        "y": 357
                       },
                       {
                         "x": 0,
-                        "y": 128
+                        "y": 357
                       }
                     ]
                   ]
@@ -6275,7 +6275,7 @@
       "isLocked": false,
       "name": "game over",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {

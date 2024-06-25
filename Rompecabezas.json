@@ -6827,6 +6827,15 @@
         "name": "assets\\Tablet\\venezuela.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 14.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -7016,12 +7025,12 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
-          "name": "Anchor",
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -10446,12 +10455,12 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 1,
-          "name": "Anchor",
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
