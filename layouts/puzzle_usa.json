@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27433470637761914,
+    "zoomFactor": 0.23241570230723993,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -32,13 +32,13 @@
       "folded": true,
       "name": "timerSeconds",
       "type": "string",
-      "value": "10"
+      "value": "0"
     },
     {
       "folded": true,
       "name": "timerMinutes",
       "type": "string",
-      "value": "0"
+      "value": "3"
     },
     {
       "folded": true,
@@ -527,7 +527,7 @@
       "layer": "winer",
       "name": "txt_win",
       "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
-      "width": 985,
+      "width": 1119,
       "x": 1154,
       "y": 269,
       "zOrder": 201,
@@ -974,9 +974,9 @@
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 667,
-      "x": 1423,
-      "y": 598,
+      "width": 720,
+      "x": 1208,
+      "y": 594,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1024,8 +1024,8 @@
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 0,
-      "x": 900,
-      "y": 419,
+      "x": 1713,
+      "y": 415,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1057,8 +1057,8 @@
       "name": "txt_sabiasQue",
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 0,
-      "x": 1557,
-      "y": 517,
+      "x": 1450,
+      "y": 500,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1067,12 +1067,12 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
+      "depth": 1,
       "height": 700,
       "layer": "winer",
       "name": "background3",
       "persistentUuid": "e11fb1eb-6fd4-47f2-ad2f-577115728dee",
-      "width": 1000,
+      "width": 1125,
       "x": 1147,
       "y": 234,
       "zOrder": 0,
@@ -1139,8 +1139,8 @@
       "layer": "winer",
       "name": "nombreSitioPuzzle",
       "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
-      "width": 997,
-      "x": 1148,
+      "width": 1115,
+      "x": 1156,
       "y": 360,
       "zOrder": 100,
       "numberProperties": [],
@@ -1207,8 +1207,8 @@
       "name": "logo_dominio",
       "persistentUuid": "438e399e-a887-4276-8e23-c1aa90c62de1",
       "width": 268.74999999999994,
-      "x": 4,
-      "y": 2,
+      "x": 25,
+      "y": 25,
       "zOrder": 222,
       "numberProperties": [],
       "stringProperties": [],
@@ -1292,8 +1292,8 @@
       "name": "logo_dominio",
       "persistentUuid": "2dfab488-d9dc-4d20-ab57-96d610b7d801",
       "width": 322.5,
-      "x": 8,
-      "y": 927,
+      "x": 15,
+      "y": 920,
       "zOrder": 1000,
       "numberProperties": [],
       "stringProperties": [],
@@ -1328,22 +1328,6 @@
       "x": 16,
       "y": 185,
       "zOrder": 500,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "winer",
-      "name": "logo_dominio",
-      "persistentUuid": "f4f8fe2a-265e-45ff-a91a-010352fd1e70",
-      "width": 0,
-      "x": 1796,
-      "y": 775,
-      "zOrder": 1002,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1389,7 +1373,7 @@
       "height": 111,
       "keepRatio": true,
       "layer": "game over",
-      "name": "NewText",
+      "name": "txt_volverJugar",
       "persistentUuid": "7ab32d3f-30f7-4cc4-bac4-efa92879c8c8",
       "width": 1203,
       "x": 544,
@@ -3185,7 +3169,18 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "string": "¡ GANASTE !",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
@@ -3421,13 +3416,13 @@
       ],
       "behaviors": [
         {
+          "leftEdgeAnchor": 0,
           "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 1,
-          "leftEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": false,
-          "rightEdgeAnchor": 0,
+          "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
       ]
@@ -3443,6 +3438,16 @@
       "variables": [],
       "effects": [],
       "behaviors": [
+        {
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "useLegacyBottomAndRightAnchors": false
+        },
         {
           "name": "Tween",
           "type": "Tween::TweenBehavior"
@@ -3630,7 +3635,18 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "string": "Sabías que ...",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
@@ -3843,7 +3859,18 @@
       "underlined": false,
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "leftEdgeAnchor": 0,
+          "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
       "string": "ESTATUA DE LA LIBERTAD",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
@@ -4220,7 +4247,7 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "NewText",
+      "name": "txt_volverJugar",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -4435,7 +4462,22 @@
         "folderName": "Game over",
         "children": [
           {
+            "objectName": "txt_volverJugar"
+          },
+          {
+            "objectName": "txt_perdiste"
+          },
+          {
+            "objectName": "btn_volverAJugar"
+          },
+          {
             "objectName": "background2"
+          },
+          {
+            "objectName": "btn_home"
+          },
+          {
+            "objectName": "btn_volver2"
           }
         ]
       },
@@ -4515,21 +4557,6 @@
             "objectName": "curiosidad"
           }
         ]
-      },
-      {
-        "objectName": "btn_volverAJugar"
-      },
-      {
-        "objectName": "txt_perdiste"
-      },
-      {
-        "objectName": "NewText"
-      },
-      {
-        "objectName": "btn_home"
-      },
-      {
-        "objectName": "btn_volver2"
       }
     ]
   },
@@ -4900,7 +4927,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5013,7 +5039,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5032,16 +5057,6 @@
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "Pieza",
-                "=",
-                "99"
-              ]
-            },
             {
               "type": {
                 "value": "ModVarObjet"
@@ -5198,16 +5213,6 @@
                 "correcto",
                 "=",
                 "0"
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "Pieza",
-                "=",
-                "1"
               ]
             }
           ],
@@ -5389,18 +5394,7 @@
               ]
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "Pieza",
-                "=",
-                "1"
-              ]
-            }
-          ]
+          "actions": []
         }
       ],
       "parameters": []
@@ -6314,7 +6308,7 @@
       "isLocked": false,
       "name": "winer",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
