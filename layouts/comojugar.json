@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4027225833325955,
+    "zoomFactor": 0.41630252177333743,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -108,14 +108,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 48,
-      "height": 106,
+      "height": 165,
       "keepRatio": true,
       "layer": "TutSeleccionReg",
       "name": "Ok",
       "persistentUuid": "5897e432-ec5b-497b-82c3-33d4f3210653",
-      "width": 289,
-      "x": -368,
-      "y": 1117,
+      "width": 402,
+      "x": 226,
+      "y": 1113,
       "zOrder": 9,
       "numberProperties": [],
       "stringProperties": [],
@@ -627,13 +627,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 1,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -700,13 +700,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 1,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -748,11 +748,11 @@
       "effects": [],
       "behaviors": [],
       "content": {
-        "LeftPadding": 16,
+        "LeftPadding": 9,
         "RightPadding": 16,
         "PressedLabelOffsetY": 10,
-        "BottomPadding": 32,
-        "TopPadding": 16,
+        "BottomPadding": 19,
+        "TopPadding": 9,
         "HoveredFadeOutDuration": 0.25
       },
       "childrenContent": {
@@ -761,8 +761,8 @@
           "height": 106,
           "leftMargin": 16,
           "rightMargin": 16,
-          "texture": "Blue Button_Hovered.png",
-          "tiled": true,
+          "texture": "assets\\Botones\\Siguiente2.png",
+          "tiled": false,
           "topMargin": 16,
           "width": 256
         },
@@ -771,8 +771,8 @@
           "height": 106,
           "leftMargin": 16,
           "rightMargin": 16,
-          "texture": "Blue Button_Idle.png",
-          "tiled": true,
+          "texture": "assets\\Botones\\Recurso 13.png",
+          "tiled": false,
           "topMargin": 16,
           "width": 256
         },
@@ -781,8 +781,8 @@
           "italic": false,
           "smoothed": true,
           "underlined": false,
-          "string": "Continuar",
-          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "string": "",
+          "font": "",
           "textAlignment": "center",
           "characterSize": 25,
           "color": {
@@ -804,8 +804,8 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Continuar",
-            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "text": "",
+            "font": "",
             "textAlignment": "center",
             "characterSize": 25,
             "color": "232;236;238"
@@ -816,8 +816,8 @@
           "height": 106,
           "leftMargin": 16,
           "rightMargin": 16,
-          "texture": "Blue Button_Pressed.png",
-          "tiled": true,
+          "texture": "assets\\Botones\\Siguiente2.png",
+          "tiled": false,
           "topMargin": 32,
           "width": 256
         }
@@ -1389,7 +1389,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\container_piece.png",
+                  "image": "assets\\Elementos\\fondoBlanco.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2302,7 +2302,7 @@
           "parameters": [
             "contenedor",
             "=",
-            "1430",
+            "1350",
             "=",
             "225"
           ]
