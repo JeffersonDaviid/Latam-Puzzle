@@ -50,10 +50,10 @@
       "layer": "",
       "name": "Tableta",
       "persistentUuid": "5eb050b9-72a9-4495-869d-85835088906a",
-      "width": 1855,
-      "x": 225,
-      "y": 41,
-      "zOrder": 5,
+      "width": 1866,
+      "x": 219,
+      "y": 45,
+      "zOrder": 63,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -67,10 +67,10 @@
       "layer": "",
       "name": "b1",
       "persistentUuid": "6efb80a0-275f-40f0-96f0-c391513d98fa",
-      "width": 133,
-      "x": 496,
+      "width": 146,
+      "x": 471,
       "y": 224,
-      "zOrder": 8,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -84,10 +84,10 @@
       "layer": "",
       "name": "b2",
       "persistentUuid": "bc33187d-ccc6-4ebc-a82c-7c2e839bcfe1",
-      "width": 137,
-      "x": 682,
+      "width": 148,
+      "x": 673,
       "y": 223,
-      "zOrder": 9,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -101,10 +101,10 @@
       "layer": "",
       "name": "b3",
       "persistentUuid": "61adfadc-2f46-4d63-b0e6-0de8ff7c5aa5",
-      "width": 136,
+      "width": 141,
       "x": 884,
       "y": 223,
-      "zOrder": 10,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -118,10 +118,10 @@
       "layer": "",
       "name": "b4",
       "persistentUuid": "3f8512bd-df83-442d-9379-edc180d63140",
-      "width": 139,
+      "width": 144,
       "x": 1081,
       "y": 221,
-      "zOrder": 11,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -135,10 +135,10 @@
       "layer": "",
       "name": "b5",
       "persistentUuid": "b24727ec-48e8-44ea-96f6-2bb71a364e60",
-      "width": 138,
+      "width": 143,
       "x": 1272,
       "y": 221,
-      "zOrder": 12,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -152,10 +152,10 @@
       "layer": "",
       "name": "b6",
       "persistentUuid": "ba4e1373-db62-4d16-96e9-daa712d9dec6",
-      "width": 135,
+      "width": 140,
       "x": 1472,
       "y": 222,
-      "zOrder": 13,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -172,7 +172,7 @@
       "width": 137,
       "x": 1665,
       "y": 220,
-      "zOrder": 14,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -189,7 +189,7 @@
       "width": 134,
       "x": 493,
       "y": 441,
-      "zOrder": 15,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -206,7 +206,7 @@
       "width": 139,
       "x": 678,
       "y": 439,
-      "zOrder": 16,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -223,7 +223,7 @@
       "width": 138,
       "x": 879,
       "y": 443,
-      "zOrder": 17,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -240,7 +240,7 @@
       "width": 147,
       "x": 1071,
       "y": 436,
-      "zOrder": 18,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -257,7 +257,7 @@
       "width": 146,
       "x": 1272,
       "y": 439,
-      "zOrder": 19,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -274,7 +274,7 @@
       "width": 143,
       "x": 1472,
       "y": 430,
-      "zOrder": 20,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -291,7 +291,7 @@
       "width": 148,
       "x": 1664,
       "y": 430,
-      "zOrder": 21,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -308,7 +308,7 @@
       "width": 141,
       "x": 481,
       "y": 660,
-      "zOrder": 22,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -325,7 +325,7 @@
       "width": 138,
       "x": 681,
       "y": 664,
-      "zOrder": 23,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -342,7 +342,7 @@
       "width": 139,
       "x": 881,
       "y": 664,
-      "zOrder": 24,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -359,7 +359,7 @@
       "width": 144,
       "x": 1073,
       "y": 664,
-      "zOrder": 25,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -376,7 +376,7 @@
       "width": 145,
       "x": 1266,
       "y": 662,
-      "zOrder": 26,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -393,7 +393,7 @@
       "width": 140,
       "x": 1471,
       "y": 660,
-      "zOrder": 27,
+      "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -410,7 +410,56 @@
       "width": 142,
       "x": 1671,
       "y": 660,
-      "zOrder": 28,
+      "zOrder": 65,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "0470e5d6-c1ca-4892-ba75-bd40c37e0834",
+      "width": 0,
+      "x": 244,
+      "y": 77,
+      "zOrder": 61,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "9331bea2-4bdd-440f-8910-b53df4d9cb13",
+      "width": 0,
+      "x": 1929,
+      "y": 188,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 331,
+      "customSize": true,
+      "depth": 47,
+      "height": 196,
+      "keepRatio": true,
+      "layer": "",
+      "name": "BtRegresar",
+      "persistentUuid": "37776a24-9c87-4556-9f90-f577a3a7f83d",
+      "width": 413,
+      "x": 32,
+      "y": 79,
+      "zOrder": 66,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2314,6 +2363,93 @@
           "width": 32
         }
       }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Return",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 1,
+          "leftEdgeAnchor": 1,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 1,
+          "topEdgeAnchor": 1,
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\regresar2.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\volver.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "Text",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\volver.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -2384,6 +2520,9 @@
       },
       {
         "objectName": "b22"
+      },
+      {
+        "objectName": "Return"
       }
     ]
   },
@@ -2459,7 +2598,7 @@
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
-                "btRetroceder",
+                "BtRegresar",
                 ""
               ]
             }
@@ -2479,6 +2618,11 @@
         }
       ],
       "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [
