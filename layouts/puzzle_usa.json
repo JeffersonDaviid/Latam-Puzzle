@@ -4354,7 +4354,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\Botones\\Recurso 14.png",
+                  "image": "assets\\Botones\\home.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -6275,7 +6275,7 @@
       "isLocked": false,
       "name": "game over",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {

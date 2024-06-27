@@ -6899,6 +6899,15 @@
         "name": "assets\\Botones\\Siguiente2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/home.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\home.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -7088,11 +7097,11 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "rightEdgeAnchor": 2,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
@@ -10099,13 +10108,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 1,
           "name": "Anchor",
+          "rightEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
