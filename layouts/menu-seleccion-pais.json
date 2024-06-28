@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2708151835213083,
+    "zoomFactor": 0.14907951572091327,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -433,16 +433,17 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 694,
       "keepRatio": true,
       "layer": "",
       "name": "nube_1",
       "persistentUuid": "9331bea2-4bdd-440f-8910-b53df4d9cb13",
-      "width": 0,
-      "x": 1929,
-      "y": 188,
-      "zOrder": 31,
+      "width": 1170,
+      "x": -1161,
+      "y": 48,
+      "zOrder": 72,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -460,6 +461,397 @@
       "x": 32,
       "y": 79,
       "zOrder": 66,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 765,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "24e26c3b-1591-4830-a523-83aa096b2eaf",
+      "width": 1676,
+      "x": -1946,
+      "y": -882,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "a0bd4d46-daf6-45b7-b11a-ccdd5d40d5f7",
+      "width": 1393,
+      "x": 2503,
+      "y": -288,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 864,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "b84d9b8f-a899-4470-9eed-0b0f4bb8545a",
+      "width": 1997,
+      "x": 2395,
+      "y": 739,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "eb1d70fc-aecc-42bb-a54a-97d3348cf8e4",
+      "width": 1393,
+      "x": 2263,
+      "y": -965,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 725,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "e51bb16b-efd6-42e9-9894-a4346db2929f",
+      "width": 1707,
+      "x": 3393,
+      "y": 1885,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "119e0b0d-98d2-44d6-8700-9253b7155762",
+      "width": 1393,
+      "x": 3368,
+      "y": -1358,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 864,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "60d630bd-555f-4f33-adf3-590a282edf62",
+      "width": 1997,
+      "x": 3262,
+      "y": -331,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "2172e9d4-cfa3-44ec-a815-ba900384dd1d",
+      "width": 1393,
+      "x": 3487,
+      "y": -1862,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 864,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "827abb16-d46e-45a6-beb9-9aaab3d39008",
+      "width": 1997,
+      "x": 4160,
+      "y": 1049,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "c253c864-e02e-41f9-a873-e05a41725575",
+      "width": 1393,
+      "x": 3997,
+      "y": -830,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 864,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "79a87865-1a7f-4ccb-9bd3-14918f2ca2eb",
+      "width": 1997,
+      "x": 3255,
+      "y": 288,
+      "zOrder": 70,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 783,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "669947de-ad39-48d6-acd0-a09e5cdf67aa",
+      "width": 1393,
+      "x": 2010,
+      "y": 221,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 864,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "52edbd0e-3842-4309-bcab-63677c791013",
+      "width": 1997,
+      "x": 1904,
+      "y": 1248,
+      "zOrder": 71,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 765,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "353a5415-f659-464f-874b-302052869aff",
+      "width": 1676,
+      "x": -2963,
+      "y": -225,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1199,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "c7065023-dc22-4c66-8382-831a57156526",
+      "width": 2284,
+      "x": -2195,
+      "y": 483,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 765,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_2",
+      "persistentUuid": "85a1bb7a-dd8d-460e-9e53-db91a0bf42c1",
+      "width": 1676,
+      "x": -3051,
+      "y": 270,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1145,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "43b84563-a4cd-4793-8c85-0ff0b92e4d61",
+      "width": 1598,
+      "x": -2556,
+      "y": -568,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 694,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "04214253-488c-4e8f-baae-498d054c1aba",
+      "width": 1170,
+      "x": -1396,
+      "y": 346,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 694,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "9869e93b-2ff8-47da-80fa-028cf9d0e6d8",
+      "width": 1170,
+      "x": -1117,
+      "y": -390,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 694,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "38461b8f-d7c0-4077-bea3-8212f89ca146",
+      "width": 1170,
+      "x": -2948,
+      "y": 1739,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1208,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "34c7dc47-9af4-48ee-a826-b787c45e25f6",
+      "width": 1882,
+      "x": -3515,
+      "y": 740,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 694,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "b407d03c-b453-4d96-8a54-9509323f879b",
+      "width": 1170,
+      "x": -1065,
+      "y": 552,
+      "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 694,
+      "keepRatio": true,
+      "layer": "",
+      "name": "nube_1",
+      "persistentUuid": "dd34d931-3454-4786-b327-820cf5c05519",
+      "width": 1170,
+      "x": -2917,
+      "y": -848,
+      "zOrder": 72,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2580,12 +2972,51 @@
           "actions": [
             {
               "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "nube_1",
+                "b12",
+                "600",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "nube_2",
+                "b12",
+                "600",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "4.4"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
                 "",
                 "\"puzzle_usa\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"puzzle_usa\""
               ]
             }
           ]
@@ -2606,12 +3037,51 @@
           "actions": [
             {
               "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "nube_1",
+                "b12",
+                "600",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "nube_2",
+                "b12",
+                "600",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "4.4"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
                 "",
                 "\"Menu principal\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Menu principal\""
               ]
             }
           ]
