@@ -7325,6 +7325,24 @@
         "name": "assets\\puzzles\\MEXICO\\fondo.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Titulo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Titulo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Logos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Logos.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
