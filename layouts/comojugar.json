@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18169065978486407,
+    "zoomFactor": 0.22916801610749035,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -608,8 +608,8 @@
       "name": "btRetroceder",
       "persistentUuid": "7d3dd19e-0635-4796-99ed-b72dd5671f65",
       "width": 145,
-      "x": 119,
-      "y": 44,
+      "x": 150,
+      "y": 50,
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -2838,6 +2838,14 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
+    },
+    {
+      "name": "ButtonObjectEffects",
+      "type": "ButtonStates::ButtonObjectEffects"
     },
     {
       "name": "Effect",

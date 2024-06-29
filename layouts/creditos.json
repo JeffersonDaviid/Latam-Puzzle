@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2368956372544658,
+    "zoomFactor": 0.21446078431372598,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -68,8 +68,8 @@
       "name": "Logo_EPN",
       "persistentUuid": "e652b89b-4144-42ea-8329-13d62802bda5",
       "width": 400,
-      "x": 650,
-      "y": 2000,
+      "x": 519,
+      "y": 2030,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -85,8 +85,8 @@
       "name": "Logo_FIS",
       "persistentUuid": "9768e2d3-1c46-49eb-bc72-016a1f075eee",
       "width": 450,
-      "x": 1250,
-      "y": 2000,
+      "x": 1660,
+      "y": 2030,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -96,14 +96,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 150,
-      "height": 100,
-      "keepRatio": true,
+      "height": 136,
       "layer": "",
       "name": "btRetroceder",
       "persistentUuid": "1e59164a-b7de-43db-82fe-cc21c5c81fcc",
-      "width": 100,
+      "width": 145,
       "x": 50,
-      "y": 30,
+      "y": 50,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -136,8 +135,8 @@
       "name": "Logo_Dominio",
       "persistentUuid": "1948d518-6c64-4029-9bbc-e663bb59a8da",
       "width": 550,
-      "x": 900,
-      "y": 2475,
+      "x": 995,
+      "y": 2030,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -665,7 +664,7 @@
           },
           "parameters": [
             "",
-            "Creditos.wav",
+            "assets\\sounds\\Creditos.wav",
             "2",
             "no",
             "100",
@@ -926,6 +925,14 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
+    },
+    {
+      "name": "ButtonObjectEffects",
+      "type": "ButtonStates::ButtonObjectEffects"
     },
     {
       "name": "Effect",

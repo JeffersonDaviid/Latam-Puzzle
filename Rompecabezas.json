@@ -6908,6 +6908,423 @@
         "name": "assets\\Botones\\home.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/sounds/Late Nights.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\sounds\\Late Nights.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sounds/pasar2.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\sounds\\pasar2.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/salir2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\salir2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/Ecuador_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\Ecuador_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "assets/sounds/Creditos.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\sounds\\Creditos.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/armado_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\armado_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/Mexico_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\Mexico_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -6923,15 +7340,17 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
+          "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
-          "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
+          "rightEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "content": {},
+      "content": {
+        "HoveredFadeOutDuration": 0.25
+      },
       "childrenContent": {
         "Hovered": {
           "bottomMargin": 0,
@@ -7097,10 +7516,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
-          "rightEdgeAnchor": 2,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
+          "rightEdgeAnchor": 2,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -10108,12 +10527,12 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 1,
           "name": "Anchor",
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
+          "rightEdgeAnchor": 2,
+          "bottomEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -10673,11 +11092,11 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
+          "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 1,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -11056,11 +11475,41 @@
     },
     {
       "assetStoreId": "",
-      "name": "BtRegresar",
+      "name": "btn_regresar",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 3,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "ButtonObjectEffects",
+          "type": "ButtonStates::ButtonObjectEffects",
+          "ButtonFSM": "ButtonFSM",
+          "Effect": "Effect",
+          "IdleEffect": "",
+          "FocusedEffect": "",
+          "PressedEffect": ""
+        }
+      ],
       "content": {},
       "childrenContent": {
         "Hovered": {
@@ -11281,6 +11730,183 @@
           "width": 32
         }
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "logo_dominioTablet",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
+          "bottomEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\logo_dominio.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 344,
+                        "y": 0
+                      },
+                      {
+                        "x": 344,
+                        "y": 160
+                      },
+                      {
+                        "x": 0,
+                        "y": 160
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "btn_salirJuego",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 0,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "ButtonObjectEffects",
+          "type": "ButtonStates::ButtonObjectEffects",
+          "ButtonFSM": "ButtonFSM",
+          "Effect": "Effect",
+          "IdleEffect": "",
+          "FocusedEffect": "",
+          "PressedEffect": ""
+        }
+      ],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\salir2.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\salir.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\salir.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -11288,6 +11914,9 @@
     "children": [
       {
         "objectName": "logo_dominio"
+      },
+      {
+        "objectName": "logo_dominioTablet"
       },
       {
         "objectName": "logo_juego"
@@ -11329,13 +11958,16 @@
         "objectName": "fondo_america"
       },
       {
-        "objectName": "BtRegresar"
+        "objectName": "btn_regresar"
       },
       {
         "objectName": "BtHome"
       },
       {
         "objectName": "BtSiguiente"
+      },
+      {
+        "objectName": "btn_salirJuego"
       }
     ]
   },
@@ -11353,6 +11985,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/puzzle_usa"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_ve"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_mx"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

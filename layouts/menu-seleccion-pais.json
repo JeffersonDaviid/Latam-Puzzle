@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.14907951572091327,
+    "zoomFactor": 0.21470967113781864,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -455,7 +455,7 @@
       "height": 196,
       "keepRatio": true,
       "layer": "",
-      "name": "BtRegresar",
+      "name": "btn_regresar",
       "persistentUuid": "37776a24-9c87-4556-9f90-f577a3a7f83d",
       "width": 413,
       "x": 32,
@@ -852,6 +852,23 @@
       "x": -2917,
       "y": -848,
       "zOrder": 72,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 200,
+      "keepRatio": true,
+      "layer": "",
+      "name": "logo_dominioTablet",
+      "persistentUuid": "b902a4e5-b5a4-4ecb-849e-cb9934f4ffdd",
+      "width": 430,
+      "x": 928,
+      "y": 859,
+      "zOrder": 64,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2938,7 +2955,7 @@
           },
           "parameters": [
             "",
-            "Late Nights.wav",
+            "assets\\sounds\\Late Nights.wav",
             "1",
             "yes",
             "100",
@@ -3029,7 +3046,7 @@
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
-                "BtRegresar",
+                "btn_regresar",
                 ""
               ]
             }
@@ -3149,6 +3166,14 @@
     {
       "name": "Animation",
       "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "ButtonFSM",
+      "type": "ButtonStates::ButtonFSM"
+    },
+    {
+      "name": "ButtonObjectEffects",
+      "type": "ButtonStates::ButtonObjectEffects"
     },
     {
       "name": "Effect",

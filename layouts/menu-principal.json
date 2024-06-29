@@ -18,8 +18,8 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18923010380623098,
-    "windowMask": true
+    "zoomFactor": 0.202207073036021,
+    "windowMask": false
   },
   "objectsGroups": [],
   "variables": [
@@ -1794,7 +1794,7 @@
           },
           "parameters": [
             "",
-            "Late Nights.wav",
+            "assets\\sounds\\Late Nights.wav",
             "1",
             "yes",
             "100",
@@ -2425,6 +2425,10 @@
     {
       "name": "ButtonFSM",
       "type": "ButtonStates::ButtonFSM"
+    },
+    {
+      "name": "ButtonObjectEffects",
+      "type": "ButtonStates::ButtonObjectEffects"
     },
     {
       "name": "Effect",
