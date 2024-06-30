@@ -7325,6 +7325,816 @@
         "name": "assets\\puzzles\\MEXICO\\fondo.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/NICARAGUA/Nicaragua_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\NICARAGUA\\Nicaragua_guia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/Panama_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\Panama_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\fondo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PANAMA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PANAMA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/Paraguay_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\Paraguay_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PARAGUAY/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PARAGUAY\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/armado_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\armado_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/REPUBLICA DOMINICANA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\REPUBLICA DOMINICANA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/armado_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\armado_guia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/URUGUAY/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\URUGUAY\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -11993,6 +12803,26 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/puzzle_mx"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_uru"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_redom"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_par"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_pan"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_nic"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,

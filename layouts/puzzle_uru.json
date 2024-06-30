@@ -1,8 +1,8 @@
 {
   "b": 255,
   "disableInputWhenNotFocused": true,
-  "mangledName": "puzzle_95mx",
-  "name": "puzzle_mx",
+  "mangledName": "puzzle_95uru",
+  "name": "puzzle_uru",
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3238143136465295,
+    "zoomFactor": 0.6285751298948492,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -62,8 +62,8 @@
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
       "width": 0,
-      "x": 643,
-      "y": 1613,
+      "x": 674,
+      "y": 1584,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -88,8 +88,8 @@
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
       "width": 0,
-      "x": 240,
-      "y": 1834,
+      "x": 239,
+      "y": 1849,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -114,7 +114,7 @@
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
       "width": 0,
-      "x": 456,
+      "x": 403,
       "y": 1177,
       "zOrder": 2,
       "numberProperties": [
@@ -140,8 +140,8 @@
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
       "width": 0,
-      "x": 643,
-      "y": 1781,
+      "x": 624,
+      "y": 1851,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -162,12 +162,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 229,
+      "height": 271,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
-      "width": 231,
-      "x": 909,
+      "width": 241,
+      "x": 902,
       "y": 1178,
       "zOrder": 14,
       "numberProperties": [
@@ -189,13 +189,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 346,
+      "height": 322,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
-      "width": 270,
-      "x": 238,
-      "y": 1562,
+      "width": 277,
+      "x": 240,
+      "y": 1583,
       "zOrder": 13,
       "numberProperties": [
         {
@@ -221,7 +221,7 @@
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
       "width": 0,
       "x": 238,
-      "y": 1340,
+      "y": 1393,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -246,8 +246,8 @@
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
       "width": 0,
-      "x": 454,
-      "y": 1562,
+      "x": 446,
+      "y": 1625,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -272,8 +272,8 @@
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
       "width": 0,
-      "x": 683,
-      "y": 1385,
+      "x": 625,
+      "y": 1394,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -319,7 +319,7 @@
       "name": "Socalo",
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
-      "x": 350,
+      "x": 298,
       "y": 87,
       "zOrder": 0,
       "numberProperties": [
@@ -345,7 +345,7 @@
       "name": "Socalo",
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
-      "x": 537,
+      "x": 519,
       "y": 87,
       "zOrder": 0,
       "numberProperties": [
@@ -372,7 +372,7 @@
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
       "x": 134,
-      "y": 251,
+      "y": 303,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -397,8 +397,8 @@
       "name": "Socalo",
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
-      "x": 314,
-      "y": 251,
+      "x": 297,
+      "y": 268,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -423,8 +423,8 @@
       "name": "Socalo",
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
-      "x": 577,
-      "y": 294,
+      "x": 516,
+      "y": 303,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -450,7 +450,7 @@
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
       "x": 134,
-      "y": 472,
+      "y": 492,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -475,8 +475,8 @@
       "name": "Socalo",
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
-      "x": 349,
-      "y": 472,
+      "x": 343,
+      "y": 531,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -501,8 +501,8 @@
       "name": "Socalo",
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
-      "x": 538,
-      "y": 519,
+      "x": 568,
+      "y": 493,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -543,7 +543,7 @@
       "name": "Socalo",
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
-      "x": 802,
+      "x": 792,
       "y": 87,
       "zOrder": 0,
       "numberProperties": [
@@ -569,8 +569,8 @@
       "name": "Socalo",
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
-      "x": 766,
-      "y": 245,
+      "x": 788,
+      "y": 302,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -595,8 +595,8 @@
       "name": "Socalo",
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
-      "x": 804,
-      "y": 471,
+      "x": 738,
+      "y": 491,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -622,7 +622,7 @@
       "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
       "width": 0,
       "x": 134,
-      "y": 745,
+      "y": 758,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -647,8 +647,8 @@
       "name": "Socalo",
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
-      "x": 349,
-      "y": 742,
+      "x": 293,
+      "y": 721,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -673,8 +673,8 @@
       "name": "Socalo",
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
-      "x": 540,
-      "y": 692,
+      "x": 519,
+      "y": 757,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -699,8 +699,8 @@
       "name": "Socalo",
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
-      "x": 797,
-      "y": 745,
+      "x": 789,
+      "y": 750,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -751,8 +751,8 @@
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
       "width": 0,
-      "x": 455,
-      "y": 1830,
+      "x": 398,
+      "y": 1814,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -777,8 +777,8 @@
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
       "width": 0,
-      "x": 872,
-      "y": 1336,
+      "x": 899,
+      "y": 1392,
       "zOrder": 10,
       "numberProperties": [
         {
@@ -803,8 +803,8 @@
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
       "width": 0,
-      "x": 418,
-      "y": 1341,
+      "x": 403,
+      "y": 1360,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -829,8 +829,8 @@
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
       "width": 0,
-      "x": 908,
-      "y": 1561,
+      "x": 850,
+      "y": 1584,
       "zOrder": 11,
       "numberProperties": [
         {
@@ -856,7 +856,7 @@
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
       "width": 0,
       "x": 901,
-      "y": 1834,
+      "y": 1843,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -881,7 +881,7 @@
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
       "width": 0,
-      "x": 645,
+      "x": 625,
       "y": 1177,
       "zOrder": 12,
       "numberProperties": [
@@ -1569,7 +1569,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza1.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1589,16 +1589,16 @@
                         "y": 0
                       },
                       {
-                        "x": 158,
+                        "x": 130,
                         "y": 0
                       },
                       {
-                        "x": 160,
-                        "y": 142.5
+                        "x": 130,
+                        "y": 180
                       },
                       {
                         "x": 0,
-                        "y": 152.5
+                        "y": 181.5
                       }
                     ]
                   ]
@@ -1617,7 +1617,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza2.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1633,20 +1633,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 88,
-                        "y": 43.5
+                        "x": 110.5,
+                        "y": 0
                       },
                       {
-                        "x": 239,
-                        "y": 49.5
+                        "x": 199,
+                        "y": 1
                       },
                       {
-                        "x": 237,
-                        "y": 167.5
+                        "x": 197.5,
+                        "y": 155
                       },
                       {
-                        "x": 89,
-                        "y": 183.5
+                        "x": 110.5,
+                        "y": 157
                       }
                     ]
                   ]
@@ -1665,7 +1665,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza3.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1681,20 +1681,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 83,
-                        "y": 35.5
+                        "x": 113,
+                        "y": 0
                       },
                       {
-                        "x": 154,
-                        "y": 40.5
+                        "x": 247.5,
+                        "y": 0
                       },
                       {
-                        "x": 166,
-                        "y": 152.5
+                        "x": 247,
+                        "y": 193.5
                       },
                       {
-                        "x": 74,
-                        "y": 150.5
+                        "x": 114.5,
+                        "y": 190
                       }
                     ]
                   ]
@@ -1713,7 +1713,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza4.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1729,20 +1729,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 89,
-                        "y": 29.5
+                        "x": 104.5,
+                        "y": 0
                       },
                       {
                         "x": 241,
-                        "y": 27.5
+                        "y": 0
                       },
                       {
-                        "x": 246,
-                        "y": 146.5
+                        "x": 241,
+                        "y": 180.5
                       },
                       {
-                        "x": 90,
-                        "y": 145.5
+                        "x": 104,
+                        "y": 180.5
                       }
                     ]
                   ]
@@ -1761,7 +1761,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza5.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1777,259 +1777,259 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 31.5,
-                        "y": 98.5
-                      },
-                      {
-                        "x": 176.5,
-                        "y": 99.5
-                      },
-                      {
-                        "x": 174.5,
-                        "y": 213.5
-                      },
-                      {
-                        "x": 31.5,
-                        "y": 219.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 163,
-                        "y": 88
-                      },
-                      {
-                        "x": 172,
-                        "y": 195
-                      },
-                      {
-                        "x": 52,
-                        "y": 204
-                      },
-                      {
-                        "x": 81,
-                        "y": 91
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza7.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 89,
-                        "y": 90.5
-                      },
-                      {
-                        "x": 230,
-                        "y": 100.5
-                      },
-                      {
-                        "x": 235,
-                        "y": 209.5
-                      },
-                      {
-                        "x": 80,
-                        "y": 213.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza8.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 80,
-                        "y": 93.5
-                      },
-                      {
-                        "x": 201,
-                        "y": 106.5
-                      },
-                      {
-                        "x": 206,
-                        "y": 203.5
-                      },
-                      {
-                        "x": 80,
-                        "y": 209.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza9.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 27,
-                        "y": 94.5
-                      },
-                      {
-                        "x": 156,
-                        "y": 96.5
-                      },
-                      {
-                        "x": 158,
-                        "y": 258.5
-                      },
-                      {
-                        "x": 26,
-                        "y": 253.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza10.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 71,
-                        "y": 68
-                      },
-                      {
-                        "x": 238,
+                        "x": 0,
                         "y": 83
                       },
                       {
-                        "x": 248,
-                        "y": 168
+                        "x": 140,
+                        "y": 85.5
                       },
                       {
-                        "x": 86,
+                        "x": 139.5,
+                        "y": 155
+                      },
+                      {
+                        "x": 0,
+                        "y": 156
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 194,
+                        "y": 87
+                      },
+                      {
+                        "x": 192.5,
+                        "y": 226
+                      },
+                      {
+                        "x": 110,
+                        "y": 226
+                      },
+                      {
+                        "x": 115,
+                        "y": 96.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 111,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 246,
+                        "y": 85.5
+                      },
+                      {
+                        "x": 245.5,
+                        "y": 165.5
+                      },
+                      {
+                        "x": 113,
+                        "y": 162.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 95,
+                        "y": 87
+                      },
+                      {
+                        "x": 245,
+                        "y": 82
+                      },
+                      {
+                        "x": 245,
+                        "y": 167.5
+                      },
+                      {
+                        "x": 96.5,
+                        "y": 163
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 106
+                      },
+                      {
+                        "x": 164,
+                        "y": 101
+                      },
+                      {
+                        "x": 164,
+                        "y": 219.5
+                      },
+                      {
+                        "x": 0,
+                        "y": 218.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 94,
+                        "y": 82
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 80
+                      },
+                      {
+                        "x": 190.5,
+                        "y": 152.5
+                      },
+                      {
+                        "x": 94,
                         "y": 155
                       }
                     ]
@@ -2049,7 +2049,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza11.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2065,212 +2065,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 64.5,
-                        "y": 93.5
-                      },
-                      {
-                        "x": 172.5,
-                        "y": 95.5
-                      },
-                      {
-                        "x": 167.5,
-                        "y": 258.5
-                      },
-                      {
-                        "x": 69.5,
-                        "y": 252.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza12.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 72.5,
-                        "y": 94.5
-                      },
-                      {
-                        "x": 235.5,
-                        "y": 98.5
-                      },
-                      {
-                        "x": 231.5,
-                        "y": 256.5
-                      },
-                      {
-                        "x": 77.5,
-                        "y": 254.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza13.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 23.5,
-                        "y": 77
-                      },
-                      {
-                        "x": 158.5,
-                        "y": 81
-                      },
-                      {
-                        "x": 178.5,
-                        "y": 228
-                      },
-                      {
-                        "x": 20.5,
-                        "y": 221
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza14.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 68,
-                        "y": 96
-                      },
-                      {
-                        "x": 234,
-                        "y": 102
-                      },
-                      {
-                        "x": 229,
-                        "y": 246
-                      },
-                      {
-                        "x": 69,
-                        "y": 237
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza15.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 85,
-                        "y": 94
-                      },
-                      {
-                        "x": 164,
+                        "x": 101,
                         "y": 93
                       },
                       {
-                        "x": 186,
-                        "y": 222
+                        "x": 145,
+                        "y": 93
                       },
                       {
-                        "x": 58,
-                        "y": 215
+                        "x": 148.5,
+                        "y": 225.5
+                      },
+                      {
+                        "x": 98.5,
+                        "y": 228
                       }
                     ]
                   ]
@@ -2289,7 +2097,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza16.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2305,20 +2113,212 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 86.5,
+                        "x": 120.5,
+                        "y": 98
+                      },
+                      {
+                        "x": 294,
+                        "y": 87.5
+                      },
+                      {
+                        "x": 294,
+                        "y": 217
+                      },
+                      {
+                        "x": 120.5,
+                        "y": 208.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 91
+                      },
+                      {
+                        "x": 123.5,
                         "y": 90
                       },
                       {
-                        "x": 248.5,
-                        "y": 92
+                        "x": 134,
+                        "y": 230
                       },
                       {
-                        "x": 238.5,
-                        "y": 208
+                        "x": 0,
+                        "y": 230
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 108,
+                        "y": 87
                       },
                       {
-                        "x": 83.5,
-                        "y": 217
+                        "x": 191.5,
+                        "y": 84.5
+                      },
+                      {
+                        "x": 191,
+                        "y": 268
+                      },
+                      {
+                        "x": 112.5,
+                        "y": 268
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 116,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 245.5,
+                        "y": 87
+                      },
+                      {
+                        "x": 250,
+                        "y": 231
+                      },
+                      {
+                        "x": 112.5,
+                        "y": 230.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 96.5,
+                        "y": 94
+                      },
+                      {
+                        "x": 243,
+                        "y": 90
+                      },
+                      {
+                        "x": 243,
+                        "y": 238
+                      },
+                      {
+                        "x": 96.5,
+                        "y": 238
                       }
                     ]
                   ]
@@ -2361,7 +2361,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza1.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2378,19 +2378,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 229
+                        "y": 201
                       },
                       {
                         "x": 0,
                         "y": 0
                       },
                       {
-                        "x": 216,
+                        "x": 154.5,
                         "y": 0
                       },
                       {
-                        "x": 148,
-                        "y": 106.5
+                        "x": 139.5,
+                        "y": 193
                       }
                     ]
                   ]
@@ -2409,7 +2409,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza2.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2425,20 +2425,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 84,
-                        "y": 32.5
+                        "x": 99.5,
+                        "y": 0
                       },
                       {
-                        "x": 156,
-                        "y": 19.5
+                        "x": 202,
+                        "y": 0
                       },
                       {
-                        "x": 160,
-                        "y": 140.5
+                        "x": 208.5,
+                        "y": 156.5
                       },
                       {
-                        "x": 79,
-                        "y": 137.5
+                        "x": 99,
+                        "y": 159
                       }
                     ]
                   ]
@@ -2457,7 +2457,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza3.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2473,20 +2473,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 87,
-                        "y": 167.5
+                        "x": 98,
+                        "y": 198.5
                       },
                       {
-                        "x": 132,
-                        "y": 0
+                        "x": 100.5,
+                        "y": 1.5
                       },
                       {
-                        "x": 236,
-                        "y": 0
+                        "x": 245,
+                        "y": 1.5
                       },
                       {
-                        "x": 222,
-                        "y": 164.5
+                        "x": 245.5,
+                        "y": 192.5
                       }
                     ]
                   ]
@@ -2505,7 +2505,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza4.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2521,23 +2521,23 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 228,
-                        "y": 154.5
+                        "x": 241,
+                        "y": 198.5
                       },
                       {
-                        "x": 117,
-                        "y": 143.5
+                        "x": 90,
+                        "y": 192.5
                       },
                       {
-                        "x": 73,
+                        "x": 93.5,
                         "y": 93.5
                       },
                       {
-                        "x": 76,
+                        "x": 90,
                         "y": 0
                       },
                       {
-                        "x": 231,
+                        "x": 241,
                         "y": 0
                       }
                     ]
@@ -2557,7 +2557,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza5.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2573,20 +2573,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 215.5
+                        "x": 1,
+                        "y": 163
                       },
                       {
-                        "x": 0,
-                        "y": 96.5
+                        "x": 1,
+                        "y": 85.5
                       },
                       {
-                        "x": 159,
-                        "y": 103.5
+                        "x": 141,
+                        "y": 83
                       },
                       {
-                        "x": 145,
-                        "y": 189.5
+                        "x": 139,
+                        "y": 159.5
                       }
                     ]
                   ]
@@ -2605,7 +2605,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza6.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2621,20 +2621,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 232.5,
-                        "y": 199
+                        "x": 196,
+                        "y": 229.5
                       },
                       {
-                        "x": 96.5,
-                        "y": 192
+                        "x": 104.5,
+                        "y": 232
                       },
                       {
                         "x": 106.5,
                         "y": 96
                       },
                       {
-                        "x": 217.5,
-                        "y": 98
+                        "x": 198,
+                        "y": 96
                       }
                     ]
                   ]
@@ -2653,7 +2653,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza7.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2669,20 +2669,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 77.5,
-                        "y": 193.5
+                        "x": 105,
+                        "y": 166
                       },
                       {
-                        "x": 80.5,
-                        "y": 97.5
+                        "x": 106.5,
+                        "y": 82
                       },
                       {
-                        "x": 161.5,
-                        "y": 95.5
+                        "x": 249,
+                        "y": 77
                       },
                       {
-                        "x": 162.5,
-                        "y": 195.5
+                        "x": 246,
+                        "y": 164
                       }
                     ]
                   ]
@@ -2701,7 +2701,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza8.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2717,20 +2717,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 98.5,
-                        "y": 192
+                        "x": 96,
+                        "y": 84
                       },
                       {
-                        "x": 104.5,
-                        "y": 93
+                        "x": 245,
+                        "y": 79
                       },
                       {
-                        "x": 253.5,
-                        "y": 97
+                        "x": 245,
+                        "y": 166.5
                       },
                       {
-                        "x": 264.5,
-                        "y": 190
+                        "x": 97.5,
+                        "y": 165
                       }
                     ]
                   ]
@@ -2749,7 +2749,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza9.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2769,12 +2769,12 @@
                         "y": 237
                       },
                       {
-                        "x": 25,
-                        "y": 110.5
+                        "x": 24.5,
+                        "y": 102.5
                       },
                       {
-                        "x": 170.5,
-                        "y": 111
+                        "x": 169.5,
+                        "y": 102
                       },
                       {
                         "x": 168.5,
@@ -2797,7 +2797,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza10.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2813,20 +2813,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 79.5,
-                        "y": 238.5
+                        "x": 99.5,
+                        "y": 160.5
                       },
                       {
-                        "x": 78.5,
-                        "y": 102.5
+                        "x": 96,
+                        "y": 83.5
                       },
                       {
-                        "x": 164.5,
-                        "y": 101.5
+                        "x": 196.5,
+                        "y": 82.5
                       },
                       {
-                        "x": 162.5,
-                        "y": 243.5
+                        "x": 195.5,
+                        "y": 158
                       }
                     ]
                   ]
@@ -2845,7 +2845,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza11.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2861,180 +2861,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 97.5,
-                        "y": 154
-                      },
-                      {
-                        "x": 75.5,
-                        "y": 149
-                      },
-                      {
-                        "x": 83.5,
-                        "y": 89
-                      },
-                      {
-                        "x": 239.5,
-                        "y": 95
-                      },
-                      {
-                        "x": 233.5,
-                        "y": 152
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza12.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 208,
-                        "y": 240.5
-                      },
-                      {
-                        "x": 79.5,
-                        "y": 250.5
-                      },
-                      {
-                        "x": 92,
-                        "y": 101.5
-                      },
-                      {
-                        "x": 219,
-                        "y": 103.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza13.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 183.5,
-                        "y": 242
-                      },
-                      {
-                        "x": 0,
-                        "y": 242
-                      },
-                      {
-                        "x": 0,
-                        "y": 55
-                      },
-                      {
-                        "x": 147.5,
-                        "y": 100
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza14.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 179.5,
-                        "y": 235.5
-                      },
-                      {
-                        "x": 109.5,
-                        "y": 237.5
+                        "x": 94,
+                        "y": 235
                       },
                       {
                         "x": 92.5,
-                        "y": 234.5
+                        "y": 85
                       },
                       {
-                        "x": 60,
-                        "y": 175
+                        "x": 145,
+                        "y": 89.5
                       },
                       {
-                        "x": 82,
-                        "y": 98
-                      },
-                      {
-                        "x": 151.5,
-                        "y": 107.5
-                      },
-                      {
-                        "x": 177.5,
-                        "y": 187.5
+                        "x": 147.5,
+                        "y": 233.5
                       }
                     ]
                   ]
@@ -3053,7 +2893,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza15.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3069,20 +2909,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 234.5,
-                        "y": 270.5
+                        "x": 294,
+                        "y": 224.5
                       },
                       {
-                        "x": 109.5,
-                        "y": 259.5
+                        "x": 115.5,
+                        "y": 217
                       },
                       {
-                        "x": 108.5,
-                        "y": 113.5
+                        "x": 117,
+                        "y": 96.5
                       },
                       {
-                        "x": 213.5,
-                        "y": 106.5
+                        "x": 294,
+                        "y": 95.5
                       }
                     ]
                   ]
@@ -3101,7 +2941,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza16.png",
+                  "image": "assets\\puzzles\\URUGUAY\\pieza13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3117,20 +2957,164 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 68,
-                        "y": 243
+                        "x": 0,
+                        "y": 230
                       },
                       {
-                        "x": 95,
-                        "y": 103.5
+                        "x": 0,
+                        "y": 84
                       },
                       {
-                        "x": 237,
-                        "y": 99.5
+                        "x": 133,
+                        "y": 83
                       },
                       {
-                        "x": 237,
-                        "y": 243
+                        "x": 134,
+                        "y": 230
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 109,
+                        "y": 267.5
+                      },
+                      {
+                        "x": 110,
+                        "y": 82
+                      },
+                      {
+                        "x": 199,
+                        "y": 81
+                      },
+                      {
+                        "x": 202.5,
+                        "y": 266
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 113.5,
+                        "y": 231
+                      },
+                      {
+                        "x": 111.5,
+                        "y": 86.5
+                      },
+                      {
+                        "x": 243.5,
+                        "y": 84
+                      },
+                      {
+                        "x": 250.5,
+                        "y": 230.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\URUGUAY\\pieza16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 96,
+                        "y": 236.5
+                      },
+                      {
+                        "x": 96,
+                        "y": 91
+                      },
+                      {
+                        "x": 243,
+                        "y": 90
+                      },
+                      {
+                        "x": 243,
+                        "y": 238
                       }
                     ]
                   ]
@@ -3338,7 +3322,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "MÉXICO",
+      "string": "URUGUAY",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
@@ -3361,7 +3345,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "MÉXICO",
+        "text": "URUGUAY",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
@@ -3853,7 +3837,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "CHICHÉN ITZÁ",
+      "string": "CIUDAD DE MONTEVIDEO",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 65,
@@ -3876,7 +3860,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "CHICHÉN ITZÁ",
+        "text": "CIUDAD DE MONTEVIDEO",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 65,
@@ -3963,7 +3947,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\Mexico_guia.png",
+                  "image": "assets\\puzzles\\URUGUAY\\armado_guia.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3983,16 +3967,16 @@
                         "y": 1
                       },
                       {
-                        "x": 905,
+                        "x": 906,
                         "y": 1
                       },
                       {
-                        "x": 905,
-                        "y": 904
+                        "x": 906,
+                        "y": 905
                       },
                       {
                         "x": 0,
-                        "y": 904
+                        "y": 905
                       }
                     ]
                   ]
@@ -4034,7 +4018,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\fondo.png",
+                  "image": "assets\\puzzles\\URUGUAY\\fondo.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5498,7 +5482,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Es una de las 7 Nuevas Maravillas del Mundo Moderno.\""
+                "\"Es la ciudad latinoamericana con la mejor calidad de vida.\""
               ]
             }
           ]
@@ -5532,7 +5516,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Fue nombrada Patrimonio de la Humanidad por la UNESCO en 1988.\""
+                "\"Puedes visitar clubes de tango y ver música de tango en vivo o aprender a bailarla.\""
               ]
             }
           ]
@@ -5566,7 +5550,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Chichén Itzá fue fundada por los mayas, un antiguo pueblo nativo de la península de Yucatán.\""
+                "\"La Fuente de los Candados se encuentra en una de las calles más concurridas.\""
               ]
             }
           ]
@@ -6045,7 +6029,7 @@
       "cameraType": "perspective",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": true,
+      "isLocked": false,
       "name": "",
       "renderingType": "",
       "visibility": true,
@@ -6160,7 +6144,7 @@
       "isLocked": false,
       "name": "winer",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {

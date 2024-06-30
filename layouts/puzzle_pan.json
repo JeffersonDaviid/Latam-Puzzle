@@ -1,8 +1,8 @@
 {
   "b": 255,
   "disableInputWhenNotFocused": true,
-  "mangledName": "puzzle_95mx",
-  "name": "puzzle_mx",
+  "mangledName": "puzzle_95pan",
+  "name": "puzzle_pan",
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3238143136465295,
+    "zoomFactor": 0.2483542414545299,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1569,7 +1569,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza1.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1617,7 +1617,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza2.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1665,7 +1665,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza3.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1713,7 +1713,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza4.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1761,7 +1761,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza5.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1809,7 +1809,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza6.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1857,7 +1857,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza7.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1905,7 +1905,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza8.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1953,7 +1953,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza9.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2001,7 +2001,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza10.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2049,7 +2049,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza11.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2097,7 +2097,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza12.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2145,7 +2145,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza13.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2193,7 +2193,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza14.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2241,7 +2241,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza15.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza15.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2289,7 +2289,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza16.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2361,7 +2361,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza1.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2409,7 +2409,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza2.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2457,7 +2457,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza3.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2505,7 +2505,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza4.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2557,7 +2557,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza5.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2605,7 +2605,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza6.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2653,7 +2653,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza7.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2701,7 +2701,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza8.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2749,7 +2749,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza9.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2797,7 +2797,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza10.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2845,7 +2845,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza11.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2897,7 +2897,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza12.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2945,7 +2945,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza13.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2993,7 +2993,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza14.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3053,7 +3053,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza15.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza15.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3101,7 +3101,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\pieza16.png",
+                  "image": "assets\\puzzles\\PANAMA\\pieza16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3338,7 +3338,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "MÉXICO",
+      "string": "PANAMÁ",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
@@ -3361,7 +3361,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "MÉXICO",
+        "text": "PANAMÁ",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
@@ -3853,7 +3853,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "CHICHÉN ITZÁ",
+      "string": "CANAL DE PANAMÁ",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 65,
@@ -3876,7 +3876,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "CHICHÉN ITZÁ",
+        "text": "CANAL DE PANAMÁ",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 65,
@@ -3963,7 +3963,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\Mexico_guia.png",
+                  "image": "assets\\puzzles\\PANAMA\\Panama_guia.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3983,16 +3983,16 @@
                         "y": 1
                       },
                       {
-                        "x": 905,
+                        "x": 906,
                         "y": 1
                       },
                       {
-                        "x": 905,
-                        "y": 904
+                        "x": 906,
+                        "y": 905
                       },
                       {
                         "x": 0,
-                        "y": 904
+                        "y": 905
                       }
                     ]
                   ]
@@ -4034,7 +4034,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\MEXICO\\fondo.png",
+                  "image": "assets\\puzzles\\PANAMA\\fondo.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -5498,7 +5498,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Es una de las 7 Nuevas Maravillas del Mundo Moderno.\""
+                "\"El primer barco que atravesó fue la nave estadounidense Ancón, el 15 de agosto de 1914.\""
               ]
             }
           ]
@@ -5532,7 +5532,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Fue nombrada Patrimonio de la Humanidad por la UNESCO en 1988.\""
+                "\"En promedio, un barco toma entre 8 y 10 horas para atravesar el canal.\""
               ]
             }
           ]
@@ -5566,7 +5566,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Chichén Itzá fue fundada por los mayas, un antiguo pueblo nativo de la península de Yucatán.\""
+                "\"Cada día transitan aproximadamente 40 barcos, que representa un promedio de 13.000 a 14.000 por año.\""
               ]
             }
           ]
