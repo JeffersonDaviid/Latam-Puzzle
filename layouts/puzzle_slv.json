@@ -1,12 +1,12 @@
 {
   "b": 255,
   "disableInputWhenNotFocused": true,
-  "mangledName": "puzzle_95usa",
-  "name": "puzzle_usa",
+  "mangledName": "puzzle_95slv",
+  "name": "puzzle_slv",
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
-  "title": "ESTADOS UNIDOS DE AMERICA",
+  "title": "EL SALVADOR",
   "v": 255,
   "uiSettings": {
     "grid": false,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2653858092897582,
+    "zoomFactor": 0.2931479552831506,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -62,8 +62,8 @@
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
       "width": 0,
-      "x": 677,
-      "y": 1575,
+      "x": 679,
+      "y": 1594,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -82,14 +82,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 272,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
-      "width": 0,
-      "x": 236,
-      "y": 1851,
+      "width": 241,
+      "x": 237,
+      "y": 1822,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -114,7 +115,7 @@
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
       "width": 0,
-      "x": 410,
+      "x": 411,
       "y": 1192,
       "zOrder": 2,
       "numberProperties": [
@@ -140,8 +141,8 @@
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
       "width": 0,
-      "x": 681,
-      "y": 1846,
+      "x": 673,
+      "y": 1857,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -162,12 +163,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 241,
+      "height": 233,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
-      "width": 277,
-      "x": 862,
+      "width": 229,
+      "x": 904,
       "y": 1192,
       "zOrder": 14,
       "numberProperties": [
@@ -189,13 +190,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 341,
+      "height": 252,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
-      "width": 231,
-      "x": 236,
-      "y": 1574,
+      "width": 243,
+      "x": 237,
+      "y": 1628,
       "zOrder": 13,
       "numberProperties": [
         {
@@ -221,7 +222,7 @@
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
       "width": 0,
       "x": 236,
-      "y": 1350,
+      "y": 1371,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -246,8 +247,8 @@
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
       "width": 0,
-      "x": 412,
-      "y": 1623,
+      "x": 410,
+      "y": 1630,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -272,8 +273,8 @@
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
       "width": 0,
-      "x": 640,
-      "y": 1354,
+      "x": 633,
+      "y": 1406,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -319,8 +320,8 @@
       "name": "Socalo",
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
-      "x": 308,
-      "y": 87,
+      "x": 310,
+      "y": 86,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -345,8 +346,8 @@
       "name": "Socalo",
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
-      "x": 573,
-      "y": 87,
+      "x": 580,
+      "y": 86,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -372,7 +373,7 @@
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
       "x": 134,
-      "y": 245,
+      "y": 266,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -397,8 +398,8 @@
       "name": "Socalo",
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
-      "x": 348,
-      "y": 295,
+      "x": 354,
+      "y": 262,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -423,8 +424,8 @@
       "name": "Socalo",
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
-      "x": 534,
-      "y": 249,
+      "x": 531,
+      "y": 300,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -450,7 +451,7 @@
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
       "x": 134,
-      "y": 469,
+      "y": 524,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -475,8 +476,8 @@
       "name": "Socalo",
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
-      "x": 309,
-      "y": 521,
+      "x": 308,
+      "y": 525,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -501,8 +502,8 @@
       "name": "Socalo",
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
-      "x": 571,
-      "y": 471,
+      "x": 578,
+      "y": 488,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -543,8 +544,8 @@
       "name": "Socalo",
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
-      "x": 757,
-      "y": 87,
+      "x": 805,
+      "y": 86,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -569,8 +570,8 @@
       "name": "Socalo",
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
-      "x": 796,
-      "y": 252,
+      "x": 756,
+      "y": 260,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -595,8 +596,8 @@
       "name": "Socalo",
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
-      "x": 763,
-      "y": 472,
+      "x": 797,
+      "y": 524,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -621,8 +622,8 @@
       "name": "Socalo",
       "persistentUuid": "c466011b-5f02-4323-83f2-99c71235ea0f",
       "width": 0,
-      "x": 134,
-      "y": 745,
+      "x": 135,
+      "y": 713,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -647,8 +648,8 @@
       "name": "Socalo",
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
-      "x": 313,
-      "y": 692,
+      "x": 304,
+      "y": 715,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -673,8 +674,8 @@
       "name": "Socalo",
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
-      "x": 573,
-      "y": 741,
+      "x": 574,
+      "y": 748,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -699,8 +700,8 @@
       "name": "Socalo",
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
-      "x": 762,
-      "y": 745,
+      "x": 794,
+      "y": 708,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -745,14 +746,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 271,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
-      "width": 0,
-      "x": 419,
-      "y": 1798,
+      "width": 346,
+      "x": 403,
+      "y": 1822,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -777,8 +779,8 @@
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
       "width": 0,
-      "x": 902,
-      "y": 1355,
+      "x": 856,
+      "y": 1367,
       "zOrder": 10,
       "numberProperties": [
         {
@@ -803,8 +805,8 @@
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
       "width": 0,
-      "x": 451,
-      "y": 1400,
+      "x": 455,
+      "y": 1368,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -829,8 +831,8 @@
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
       "width": 0,
-      "x": 868,
-      "y": 1575,
+      "x": 896,
+      "y": 1633,
       "zOrder": 11,
       "numberProperties": [
         {
@@ -855,8 +857,8 @@
       "name": "Pieza",
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
       "width": 0,
-      "x": 865,
-      "y": 1851,
+      "x": 892,
+      "y": 1817,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -881,7 +883,7 @@
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
       "width": 0,
-      "x": 677,
+      "x": 682,
       "y": 1192,
       "zOrder": 12,
       "numberProperties": [
@@ -1569,7 +1571,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz1.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1617,7 +1619,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz2.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1665,7 +1667,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz3.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1713,7 +1715,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz4.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1761,7 +1763,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz5.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1809,7 +1811,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz6.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1857,7 +1859,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz7.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1905,7 +1907,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz8.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1953,7 +1955,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz9.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2001,7 +2003,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz10.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2049,7 +2051,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz11.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2097,7 +2099,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz12.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2145,7 +2147,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz13.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2193,7 +2195,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz14.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2241,7 +2243,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz16.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza15.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2289,7 +2291,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz17.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2361,7 +2363,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz1.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2409,7 +2411,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz2.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2457,7 +2459,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz3.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2505,7 +2507,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz4.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2557,7 +2559,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz5.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2605,7 +2607,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz6.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2653,7 +2655,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz7.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2701,7 +2703,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz8.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2749,7 +2751,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz9.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2797,7 +2799,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz10.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2845,7 +2847,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz11.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza11.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2897,7 +2899,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz12.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza12.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2949,7 +2951,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz13.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza13.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2997,7 +2999,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz14.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza14.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3049,7 +3051,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz16.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza15.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3097,7 +3099,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\pz17.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\pieza16.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3338,7 +3340,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "ESTADOS UNIDOS\nDE AMERICA",
+      "string": "EL SALVADOR",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
@@ -3361,7 +3363,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "ESTADOS UNIDOS\nDE AMERICA",
+        "text": "EL SALVADOR",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
@@ -3853,7 +3855,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "ESTATUA DE LA LIBERTAD",
+      "string": "SAN SALVADOR",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 65,
@@ -3876,7 +3878,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "ESTATUA DE LA LIBERTAD",
+        "text": "SAN SALVADOR",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 65,
@@ -3963,7 +3965,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\EEUU_guia.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\El Salvador_guia.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3979,20 +3981,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 1,
+                        "x": 0,
                         "y": 1
                       },
                       {
-                        "x": 905,
+                        "x": 906,
                         "y": 1
                       },
                       {
-                        "x": 905,
-                        "y": 905
+                        "x": 906,
+                        "y": 906
                       },
                       {
-                        "x": 1,
-                        "y": 905
+                        "x": 0,
+                        "y": 906
                       }
                     ]
                   ]
@@ -4034,7 +4036,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\ESTADOS UNIDOS\\fondo.png",
+                  "image": "assets\\puzzles\\EL SALVADOR\\fondo.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4054,11 +4056,11 @@
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 1980,
                         "y": 0
                       },
                       {
-                        "x": 1920,
+                        "x": 1980,
                         "y": 1080
                       },
                       {
@@ -4909,6 +4911,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5032,6 +5035,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5371,6 +5375,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5498,7 +5503,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
+                "\"Es la capital del país más pequeño de Centroamérica.\""
               ]
             }
           ]
@@ -5532,7 +5537,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Tiene 93 m. de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
+                "\"La ciudad fue fundada por el español Diego de Alvarado en 1525.\""
               ]
             }
           ]
@@ -5566,7 +5571,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
+                "\"La ciudad moderna tiene forma de cruz y posee edificios planeados para resistir los sismos.\""
               ]
             }
           ]
@@ -5579,7 +5584,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5631,7 +5635,7 @@
               },
               "parameters": [
                 "",
-                "\"puzzle_usa\"",
+                "\"puzzle_slv\"",
                 ""
               ]
             }
