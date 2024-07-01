@@ -3153,10 +3153,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -3328,10 +3328,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 1,
           "relativeToOriginalWindowSize": false,
           "topEdgeAnchor": 0,
@@ -3398,10 +3398,10 @@
       ],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -3421,10 +3421,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -3619,10 +3619,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -3843,10 +3843,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,

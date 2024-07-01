@@ -8335,10 +8335,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
+          "leftEdgeAnchor": 0,
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
