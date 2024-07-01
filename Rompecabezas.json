@@ -8135,6 +8135,1608 @@
         "name": "assets\\puzzles\\URUGUAY\\pieza16.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Titulo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Titulo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Logos.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Logos.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/Colombia_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\Colombia_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COLOMBIA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COLOMBIA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/Costarica_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\Costarica_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/COSTA RICA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\COSTA RICA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ECUADOR/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ECUADOR\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\fondo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/El Salvador_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\El Salvador_guia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/EL SALVADOR/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\EL SALVADOR\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/Peru_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\Peru_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/PERU/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\PERU\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\armado.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/Argentina_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\Argentina_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/ARGENTINA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\ARGENTINA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/VENEZUELA/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\VENEZUELA\\armado.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\armado.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BELICE/Belice_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BELICE\\Belice_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\armado.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/Bolivia_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\Bolivia_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BOLIVIA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BOLIVIA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\armado.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/Brasil_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\Brasil_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/BRASIL/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\BRASIL\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\armado.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/Chile_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\Chile_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/CHILE/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\CHILE\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -8326,10 +9928,10 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 0,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
-          "rightEdgeAnchor": 2,
+          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -12798,7 +14400,47 @@
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/puzzle_ve"
+      "referenceTo": "/layouts/puzzle_col"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_cri"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_ecu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_per"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_slv"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_ven"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_arge"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_belice"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_bol"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_bra"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_ch"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
