@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1539278892348343,
+    "zoomFactor": 0.22916801610749069,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -63,8 +63,8 @@
       "name": "comoJugar",
       "persistentUuid": "b3727874-1676-4c94-980b-c52d79bdafbe",
       "width": 823,
-      "x": 756,
-      "y": 73,
+      "x": 672,
+      "y": 80,
       "zOrder": 3,
       "numberProperties": [],
       "stringProperties": [],
@@ -180,9 +180,9 @@
       "layer": "Seleccion pais",
       "name": "SeleccionPais2",
       "persistentUuid": "0eeda0cd-ca80-4d22-9654-0aa43c9802bb",
-      "width": 1682,
-      "x": 77,
-      "y": -297,
+      "width": 472,
+      "x": 138,
+      "y": -171,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -259,7 +259,7 @@
           "children": [
             {
               "type": "number",
-              "value": 1522
+              "value": 1400
             },
             {
               "type": "number",
@@ -346,7 +346,7 @@
           "children": [
             {
               "type": "number",
-              "value": 1450
+              "value": 1430
             },
             {
               "type": "number",
@@ -415,7 +415,7 @@
       "layer": "arrastraRompecabezas",
       "name": "ArmarRompe2",
       "persistentUuid": "020586fa-04e9-4d1e-9bd0-a14e8aa6d51f",
-      "width": 490,
+      "width": 502,
       "x": 227,
       "y": 1305,
       "zOrder": 37,
@@ -1481,7 +1481,7 @@
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Para colocar las piezas, debes \nmantener presionada la pieza\ny arrastrarla a el lugar correcto\n\n!Inténtalo!",
+      "string": "Para colocar las piezas, debes \nmantener presionada la pieza\ny arrastrarla a el lugar correcto\n!Inténtalo!",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
       "characterSize": 40,
@@ -1504,7 +1504,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Para colocar las piezas, debes \nmantener presionada la pieza\ny arrastrarla a el lugar correcto\n\n!Inténtalo!",
+        "text": "Para colocar las piezas, debes \nmantener presionada la pieza\ny arrastrarla a el lugar correcto\n!Inténtalo!",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
         "characterSize": 40,
@@ -1871,7 +1871,7 @@
             "=",
             "660",
             "=",
-            "390"
+            "350"
           ]
         },
         {
@@ -1881,7 +1881,7 @@
           "parameters": [
             "SeleccionPais",
             "=",
-            "680",
+            "950",
             "=",
             "210"
           ]
@@ -1893,9 +1893,9 @@
           "parameters": [
             "SeleccionPais2",
             "=",
-            "125",
+            "150",
             "=",
-            "280"
+            "350"
           ]
         },
         {
@@ -1907,7 +1907,7 @@
             "=",
             "250",
             "=",
-            "540"
+            "550"
           ]
         },
         {
@@ -2571,7 +2571,7 @@
           "parameters": [
             "JUGAR",
             "=",
-            "1560",
+            "1520",
             "=",
             "765"
           ]
@@ -2583,7 +2583,7 @@
           "parameters": [
             "fin",
             "=",
-            "1500",
+            "1450",
             "=",
             "390"
           ]
