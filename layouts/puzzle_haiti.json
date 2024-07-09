@@ -1,13 +1,13 @@
 {
-  "b": 255,
+  "b": 8,
   "disableInputWhenNotFocused": true,
   "mangledName": "puzzle_95haiti",
   "name": "puzzle_haiti",
-  "r": 255,
+  "r": 8,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "ESTADOS UNIDOS DE AMERICA",
-  "v": 255,
+  "v": 197,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.12794120290959793,
+    "zoomFactor": 0.11204647531022062,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -58,13 +58,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 296,
+      "height": 294,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
-      "width": 256,
-      "x": 679,
-      "y": 1590,
+      "width": 240,
+      "x": 587,
+      "y": 1665,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -85,13 +85,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 249,
+      "height": 244,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
-      "width": 285,
-      "x": 234,
-      "y": 1843,
+      "width": 281,
+      "x": 140,
+      "y": 1927,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -110,14 +110,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 248,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
-      "width": 0,
-      "x": 451,
-      "y": 1192,
+      "width": 241,
+      "x": 357,
+      "y": 1269,
       "zOrder": 2,
       "numberProperties": [
         {
@@ -138,13 +139,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 280,
+      "height": 273,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
-      "width": 342,
-      "x": 637,
-      "y": 1817,
+      "width": 319,
+      "x": 550,
+      "y": 1893,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -165,13 +166,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 245,
+      "height": 242,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
-      "width": 263,
-      "x": 898,
-      "y": 1193,
+      "width": 237,
+      "x": 797,
+      "y": 1269,
       "zOrder": 14,
       "numberProperties": [
         {
@@ -192,13 +193,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 296,
+      "height": 297,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
-      "width": 248,
-      "x": 234,
-      "y": 1634,
+      "width": 234,
+      "x": 142,
+      "y": 1706,
       "zOrder": 13,
       "numberProperties": [
         {
@@ -219,13 +220,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 356,
+      "height": 347,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
-      "width": 282,
-      "x": 235,
-      "y": 1358,
+      "width": 267,
+      "x": 141,
+      "y": 1437,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -246,13 +247,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 296,
+      "height": 292,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
-      "width": 323,
-      "x": 414,
-      "y": 1637,
+      "width": 321,
+      "x": 320,
+      "y": 1712,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -273,13 +274,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 246,
+      "height": 245,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
-      "width": 326,
-      "x": 640,
-      "y": 1414,
+      "width": 319,
+      "x": 541,
+      "y": 1489,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -725,14 +726,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 240,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c957ed84-ffe3-4071-af03-dab4a7c7be0b",
-      "width": 0,
-      "x": 235,
-      "y": 1192,
+      "width": 272,
+      "x": 140,
+      "y": 1269,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -753,13 +755,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 242,
+      "height": 235,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
-      "width": 250,
-      "x": 452,
-      "y": 1855,
+      "width": 241,
+      "x": 363,
+      "y": 1933,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -780,13 +782,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 341,
+      "height": 343,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
-      "width": 258,
-      "x": 903,
-      "y": 1370,
+      "width": 229,
+      "x": 805,
+      "y": 1446,
       "zOrder": 10,
       "numberProperties": [
         {
@@ -805,14 +807,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 338,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
-      "width": 0,
-      "x": 452,
-      "y": 1370,
+      "width": 244,
+      "x": 356,
+      "y": 1446,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -833,13 +836,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 301,
+      "height": 299,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
-      "width": 283,
-      "x": 876,
-      "y": 1637,
+      "width": 270,
+      "x": 766,
+      "y": 1712,
       "zOrder": 11,
       "numberProperties": [
         {
@@ -860,13 +863,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 232,
+      "height": 226,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
-      "width": 252,
-      "x": 912,
-      "y": 1865,
+      "width": 233,
+      "x": 803,
+      "y": 1940,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -887,13 +890,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 295,
+      "height": 293,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
-      "width": 322,
-      "x": 641,
-      "y": 1192,
+      "width": 312,
+      "x": 543,
+      "y": 1270,
       "zOrder": 12,
       "numberProperties": [
         {
@@ -1604,8 +1607,8 @@
                         "y": 0
                       },
                       {
-                        "x": 183,
-                        "y": 155
+                        "x": 158,
+                        "y": 125.5
                       },
                       {
                         "x": 0,
@@ -1652,12 +1655,12 @@
                         "y": 11.5
                       },
                       {
-                        "x": 167,
-                        "y": 167
+                        "x": 163.5,
+                        "y": 120.5
                       },
                       {
-                        "x": 69,
-                        "y": 164.5
+                        "x": 79.5,
+                        "y": 124.5
                       }
                     ]
                   ]
@@ -1740,20 +1743,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 61,
-                        "y": 25
+                        "x": 81.5,
+                        "y": 41
                       },
                       {
-                        "x": 211.5,
-                        "y": 24
+                        "x": 184.5,
+                        "y": 42
                       },
                       {
-                        "x": 206.5,
-                        "y": 162
+                        "x": 186.5,
+                        "y": 146
                       },
                       {
-                        "x": 87,
-                        "y": 148
+                        "x": 97.5,
+                        "y": 140
                       }
                     ]
                   ]
@@ -1788,12 +1791,12 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 31.5,
-                        "y": 98.5
+                        "x": 44,
+                        "y": 136.5
                       },
                       {
-                        "x": 176.5,
-                        "y": 99.5
+                        "x": 152,
+                        "y": 132.5
                       },
                       {
                         "x": 174.5,
@@ -1836,20 +1839,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 163,
-                        "y": 88
+                        "x": 159.5,
+                        "y": 120.5
                       },
                       {
-                        "x": 170,
-                        "y": 225.5
+                        "x": 154.5,
+                        "y": 209.5
                       },
                       {
-                        "x": 76.5,
-                        "y": 229
+                        "x": 96.5,
+                        "y": 209.5
                       },
                       {
-                        "x": 81,
-                        "y": 91
+                        "x": 79.5,
+                        "y": 118.5
                       }
                     ]
                   ]
@@ -1932,8 +1935,8 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 80,
-                        "y": 93.5
+                        "x": 102,
+                        "y": 109
                       },
                       {
                         "x": 201,
@@ -1944,8 +1947,8 @@
                         "y": 203.5
                       },
                       {
-                        "x": 80,
-                        "y": 209.5
+                        "x": 115,
+                        "y": 193
                       }
                     ]
                   ]
@@ -1984,12 +1987,12 @@
                         "y": 81.5
                       },
                       {
-                        "x": 156,
-                        "y": 96.5
+                        "x": 120,
+                        "y": 106
                       },
                       {
-                        "x": 180.5,
-                        "y": 195.5
+                        "x": 140,
+                        "y": 172
                       },
                       {
                         "x": 36.5,
@@ -2076,20 +2079,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 64.5,
-                        "y": 93.5
+                        "x": 85.5,
+                        "y": 115.5
                       },
                       {
-                        "x": 172.5,
-                        "y": 95.5
+                        "x": 151.5,
+                        "y": 121.5
                       },
                       {
-                        "x": 170.5,
-                        "y": 208
+                        "x": 155.5,
+                        "y": 169.5
                       },
                       {
-                        "x": 72.5,
-                        "y": 210
+                        "x": 86.5,
+                        "y": 177.5
                       }
                     ]
                   ]
@@ -2124,12 +2127,12 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 72.5,
-                        "y": 94.5
+                        "x": 106.5,
+                        "y": 104
                       },
                       {
-                        "x": 235.5,
-                        "y": 98.5
+                        "x": 199.5,
+                        "y": 111
                       },
                       {
                         "x": 221,
@@ -2172,16 +2175,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 25.5,
-                        "y": 91
+                        "x": 43,
+                        "y": 118.5
                       },
                       {
-                        "x": 179.5,
-                        "y": 94.5
+                        "x": 146,
+                        "y": 120.5
                       },
                       {
-                        "x": 178.5,
-                        "y": 228
+                        "x": 134,
+                        "y": 206.5
                       },
                       {
                         "x": 20.5,
@@ -2220,20 +2223,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 68,
-                        "y": 96
+                        "x": 96,
+                        "y": 113
                       },
                       {
-                        "x": 166.5,
-                        "y": 86.5
+                        "x": 161,
+                        "y": 134
                       },
                       {
-                        "x": 189.5,
-                        "y": 213.5
+                        "x": 155,
+                        "y": 178
                       },
                       {
-                        "x": 70,
-                        "y": 212.5
+                        "x": 90,
+                        "y": 193
                       }
                     ]
                   ]
@@ -2272,8 +2275,8 @@
                         "y": 127.5
                       },
                       {
-                        "x": 218,
-                        "y": 105
+                        "x": 202,
+                        "y": 153.5
                       },
                       {
                         "x": 224,
@@ -2317,15 +2320,15 @@
                     [
                       {
                         "x": 86.5,
-                        "y": 90
+                        "y": 115
                       },
                       {
-                        "x": 185.5,
-                        "y": 91
+                        "x": 196,
+                        "y": 116.5
                       },
                       {
-                        "x": 185.5,
-                        "y": 205.5
+                        "x": 201.5,
+                        "y": 218.5
                       },
                       {
                         "x": 83.5,
@@ -2396,12 +2399,12 @@
                         "y": 0
                       },
                       {
-                        "x": 216,
+                        "x": 148,
                         "y": 0
                       },
                       {
-                        "x": 194.5,
-                        "y": 143.5
+                        "x": 162,
+                        "y": 152.5
                       }
                     ]
                   ]
@@ -2444,12 +2447,12 @@
                         "y": 27
                       },
                       {
-                        "x": 169,
-                        "y": 153.5
+                        "x": 165.5,
+                        "y": 131.5
                       },
                       {
-                        "x": 75,
-                        "y": 161.5
+                        "x": 78.5,
+                        "y": 129.5
                       }
                     ]
                   ]
@@ -2484,8 +2487,8 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 82.5,
-                        "y": 184.5
+                        "x": 99.5,
+                        "y": 155
                       },
                       {
                         "x": 89,
@@ -2496,8 +2499,8 @@
                         "y": 19.5
                       },
                       {
-                        "x": 257,
-                        "y": 191.5
+                        "x": 212.5,
+                        "y": 143
                       }
                     ]
                   ]
@@ -2532,16 +2535,12 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 215,
-                        "y": 154.5
+                        "x": 203.5,
+                        "y": 120
                       },
                       {
-                        "x": 87,
-                        "y": 161
-                      },
-                      {
-                        "x": 70,
-                        "y": 116.5
+                        "x": 92.5,
+                        "y": 115
                       },
                       {
                         "x": 76,
@@ -2592,12 +2591,12 @@
                         "y": 96.5
                       },
                       {
-                        "x": 183.5,
-                        "y": 105.5
+                        "x": 117,
+                        "y": 108.5
                       },
                       {
-                        "x": 184.5,
-                        "y": 212
+                        "x": 125,
+                        "y": 228.5
                       }
                     ]
                   ]
@@ -2632,20 +2631,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 167.5,
-                        "y": 232
+                        "x": 157.5,
+                        "y": 200.5
                       },
                       {
-                        "x": 75.5,
-                        "y": 225.5
+                        "x": 72.5,
+                        "y": 203.5
                       },
                       {
-                        "x": 75,
-                        "y": 81
+                        "x": 80.5,
+                        "y": 115.5
                       },
                       {
-                        "x": 171,
-                        "y": 83
+                        "x": 161.5,
+                        "y": 120.5
                       }
                     ]
                   ]
@@ -2680,20 +2679,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 94.5,
-                        "y": 152
+                        "x": 113,
+                        "y": 154
                       },
                       {
-                        "x": 85.5,
-                        "y": 92.5
+                        "x": 111,
+                        "y": 98
                       },
                       {
-                        "x": 239.5,
-                        "y": 91
+                        "x": 211,
+                        "y": 103
                       },
                       {
-                        "x": 226,
-                        "y": 164
+                        "x": 209,
+                        "y": 157
                       }
                     ]
                   ]
@@ -2732,12 +2731,12 @@
                         "y": 216
                       },
                       {
-                        "x": 58,
-                        "y": 103.5
+                        "x": 97,
+                        "y": 136
                       },
                       {
-                        "x": 208,
-                        "y": 117.5
+                        "x": 173,
+                        "y": 137
                       },
                       {
                         "x": 197,
@@ -2776,16 +2775,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 56.5,
-                        "y": 193.5
+                        "x": 58,
+                        "y": 181
                       },
                       {
-                        "x": 25,
-                        "y": 110.5
+                        "x": 47,
+                        "y": 115
                       },
                       {
-                        "x": 162,
-                        "y": 89.5
+                        "x": 125,
+                        "y": 116
                       },
                       {
                         "x": 159,
@@ -2828,12 +2827,12 @@
                         "y": 179.5
                       },
                       {
-                        "x": 78,
-                        "y": 83
+                        "x": 96.5,
+                        "y": 102.5
                       },
                       {
-                        "x": 234,
-                        "y": 82
+                        "x": 206.5,
+                        "y": 107.5
                       },
                       {
                         "x": 229.5,
@@ -2872,8 +2871,8 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 75,
-                        "y": 208
+                        "x": 76.5,
+                        "y": 184.5
                       },
                       {
                         "x": 71.5,
@@ -2881,15 +2880,15 @@
                       },
                       {
                         "x": 75.5,
-                        "y": 103.5
+                        "y": 120.5
                       },
                       {
-                        "x": 176.5,
-                        "y": 102.5
+                        "x": 159.5,
+                        "y": 118.5
                       },
                       {
-                        "x": 171,
-                        "y": 210
+                        "x": 164.5,
+                        "y": 181.5
                       }
                     ]
                   ]
@@ -2924,24 +2923,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 98,
-                        "y": 204.5
+                        "x": 107.5,
+                        "y": 176
                       },
                       {
-                        "x": 60.5,
-                        "y": 174.5
+                        "x": 112.5,
+                        "y": 111
                       },
                       {
-                        "x": 89.5,
-                        "y": 99.5
+                        "x": 208.5,
+                        "y": 109
                       },
                       {
-                        "x": 235,
-                        "y": 90
-                      },
-                      {
-                        "x": 260.5,
-                        "y": 189
+                        "x": 223.5,
+                        "y": 175
                       }
                     ]
                   ]
@@ -2976,20 +2971,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 183.5,
-                        "y": 242
+                        "x": 160,
+                        "y": 241
                       },
                       {
                         "x": 0,
                         "y": 242
                       },
                       {
-                        "x": 0,
-                        "y": 29
+                        "x": 13,
+                        "y": 111.5
                       },
                       {
-                        "x": 192.5,
-                        "y": 128.5
+                        "x": 153,
+                        "y": 140.5
                       }
                     ]
                   ]
@@ -3024,20 +3019,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 66,
-                        "y": 203
+                        "x": 81,
+                        "y": 193
                       },
                       {
-                        "x": 82,
-                        "y": 98
+                        "x": 97,
+                        "y": 122
                       },
                       {
-                        "x": 171,
-                        "y": 88.5
+                        "x": 156,
+                        "y": 115
                       },
                       {
-                        "x": 182.5,
-                        "y": 205.5
+                        "x": 161,
+                        "y": 197
                       }
                     ]
                   ]
@@ -3080,12 +3075,12 @@
                         "y": 245
                       },
                       {
-                        "x": 87.5,
-                        "y": 102.5
+                        "x": 105,
+                        "y": 137.5
                       },
                       {
-                        "x": 230.5,
-                        "y": 97
+                        "x": 216,
+                        "y": 140.5
                       }
                     ]
                   ]
@@ -3124,20 +3119,20 @@
                         "y": 212
                       },
                       {
-                        "x": 61.5,
-                        "y": 138
+                        "x": 87,
+                        "y": 152
                       },
                       {
-                        "x": 82.5,
-                        "y": 92
+                        "x": 103.5,
+                        "y": 111.5
                       },
                       {
-                        "x": 176.5,
-                        "y": 86
+                        "x": 183.5,
+                        "y": 118.5
                       },
                       {
-                        "x": 204,
-                        "y": 201.5
+                        "x": 188,
+                        "y": 191.5
                       }
                     ]
                   ]
