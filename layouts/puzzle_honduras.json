@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.18426551407050998,
+    "zoomFactor": 0.1724399736959729,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -165,11 +165,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 245,
+      "height": 240,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
-      "width": 263,
+      "width": 259,
       "x": 898,
       "y": 1193,
       "zOrder": 14,
@@ -5505,7 +5505,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"El nombre real de la estatua es Libertad que Ilumina al Mundo.\""
+                "\"Fue fundada por los mayas en el siglo V.\""
               ]
             }
           ]
@@ -5539,7 +5539,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Tiene 93 m. de altura desde la base del pedestal a la antorcha y pesa 225 toneladas.\""
+                "\"Su nombre traducido significa El lugar de las pirámides.\""
               ]
             }
           ]
@@ -5573,7 +5573,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Fue diseñada por Auguste Bartholdi, un escultor francés. \""
+                "\"Actualmente es una zona arqueológica de 120 hectáreas.\""
               ]
             }
           ]
