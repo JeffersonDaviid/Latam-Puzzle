@@ -1,13 +1,13 @@
 {
-  "b": 255,
+  "b": 27,
   "disableInputWhenNotFocused": true,
-  "mangledName": "puzzle_95ven",
-  "name": "puzzle_ven",
-  "r": 255,
+  "mangledName": "puzzle_95honduras",
+  "name": "puzzle_honduras",
+  "r": 34,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "ESTADOS UNIDOS DE AMERICA",
-  "v": 255,
+  "v": 177,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27433470637762114,
+    "zoomFactor": 0.4084298220582882,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -56,14 +56,15 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 297,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "dd74f9aa-07e5-4c45-bcfc-f7ccd43bfce0",
-      "width": 0,
-      "x": 677,
-      "y": 1575,
+      "width": 245,
+      "x": 585,
+      "y": 1598,
       "zOrder": 1,
       "numberProperties": [
         {
@@ -82,14 +83,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 240,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "54cfe002-b637-4682-b624-e1a2da8e80dd",
-      "width": 0,
-      "x": 236,
-      "y": 1851,
+      "width": 278,
+      "x": 140,
+      "y": 1861,
       "zOrder": 3,
       "numberProperties": [
         {
@@ -108,14 +110,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 246,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "fb1ce10a-0e04-43e2-aa6d-bf4eb7ef052d",
-      "width": 0,
-      "x": 410,
-      "y": 1192,
+      "width": 244,
+      "x": 356,
+      "y": 1200,
       "zOrder": 2,
       "numberProperties": [
         {
@@ -134,14 +137,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 281,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "201f4831-2bf3-4db5-8431-f730d5aaa5bf",
-      "width": 0,
-      "x": 681,
-      "y": 1846,
+      "width": 322,
+      "x": 546,
+      "y": 1823,
       "zOrder": 4,
       "numberProperties": [
         {
@@ -161,14 +165,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0,
-      "height": 242,
+      "depth": 1,
+      "height": 241,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c746e512-0ac4-4891-8a86-471476281569",
-      "width": 276,
-      "x": 862,
-      "y": 1192,
+      "width": 239,
+      "x": 802,
+      "y": 1200,
       "zOrder": 14,
       "numberProperties": [
         {
@@ -189,13 +193,13 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 342,
+      "height": 297,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "2a537890-f55b-4b63-b794-d799999b1064",
-      "width": 230,
-      "x": 236,
-      "y": 1574,
+      "width": 239,
+      "x": 141,
+      "y": 1640,
       "zOrder": 13,
       "numberProperties": [
         {
@@ -214,14 +218,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 348,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "e360aa13-2fbe-4d49-bed4-3c9d46fb0ff2",
-      "width": 0,
-      "x": 236,
-      "y": 1350,
+      "width": 270,
+      "x": 140,
+      "y": 1368,
       "zOrder": 5,
       "numberProperties": [
         {
@@ -240,14 +245,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 294,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "72bb7460-d987-426b-8ecf-3f3fa6922fdc",
-      "width": 0,
-      "x": 412,
-      "y": 1623,
+      "width": 319,
+      "x": 321,
+      "y": 1645,
       "zOrder": 6,
       "numberProperties": [
         {
@@ -266,14 +272,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 246,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "268ed387-d343-42a7-a346-9eb3fabed612",
-      "width": 0,
-      "x": 640,
-      "y": 1354,
+      "width": 323,
+      "x": 542,
+      "y": 1421,
       "zOrder": 7,
       "numberProperties": [
         {
@@ -298,7 +305,7 @@
       "name": "Socalo",
       "persistentUuid": "152ab44e-ed76-4177-b9be-cc22e3a32a73",
       "width": 0,
-      "x": 134,
+      "x": 135,
       "y": 87,
       "zOrder": 0,
       "numberProperties": [],
@@ -319,7 +326,7 @@
       "name": "Socalo",
       "persistentUuid": "c624acdb-49f7-4cba-85df-d884ea68c65c",
       "width": 0,
-      "x": 308,
+      "x": 351,
       "y": 87,
       "zOrder": 0,
       "numberProperties": [
@@ -345,8 +352,8 @@
       "name": "Socalo",
       "persistentUuid": "271a433e-78fc-43cc-861c-641d4eb2392d",
       "width": 0,
-      "x": 573,
-      "y": 87,
+      "x": 540,
+      "y": 88,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -372,7 +379,7 @@
       "persistentUuid": "012d7d12-6052-4ceb-9cfb-f9b5a12ab21c",
       "width": 0,
       "x": 134,
-      "y": 245,
+      "y": 255,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -397,8 +404,8 @@
       "name": "Socalo",
       "persistentUuid": "17238005-1bd0-405c-be87-f8b95badaada",
       "width": 0,
-      "x": 348,
-      "y": 295,
+      "x": 351,
+      "y": 262,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -423,8 +430,8 @@
       "name": "Socalo",
       "persistentUuid": "17ef4bb2-b346-433a-96f1-0d1e1f82e869",
       "width": 0,
-      "x": 534,
-      "y": 249,
+      "x": 539,
+      "y": 307,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -449,8 +456,8 @@
       "name": "Socalo",
       "persistentUuid": "19096616-802b-4972-9ea3-33c312aa3251",
       "width": 0,
-      "x": 134,
-      "y": 469,
+      "x": 135,
+      "y": 526,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -475,8 +482,8 @@
       "name": "Socalo",
       "persistentUuid": "009ff41c-934c-4c30-ab33-bce45a1ed53e",
       "width": 0,
-      "x": 309,
-      "y": 521,
+      "x": 316,
+      "y": 531,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -501,8 +508,8 @@
       "name": "Socalo",
       "persistentUuid": "a01d0e00-32e6-4bdc-9b88-7532113ccb2d",
       "width": 0,
-      "x": 571,
-      "y": 471,
+      "x": 581,
+      "y": 485,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -528,8 +535,8 @@
       "name": "txt_win",
       "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
       "width": 1119,
-      "x": 1154,
-      "y": 269,
+      "x": 1217,
+      "y": 266,
       "zOrder": 201,
       "numberProperties": [],
       "stringProperties": [],
@@ -543,7 +550,7 @@
       "name": "Socalo",
       "persistentUuid": "921106fd-ebeb-43b4-a56b-68dd053fc06f",
       "width": 0,
-      "x": 757,
+      "x": 797,
       "y": 87,
       "zOrder": 0,
       "numberProperties": [
@@ -569,8 +576,8 @@
       "name": "Socalo",
       "persistentUuid": "06e0fadb-0bfc-440e-8c2a-1ce5220c9ef9",
       "width": 0,
-      "x": 796,
-      "y": 252,
+      "x": 804,
+      "y": 263,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -595,8 +602,8 @@
       "name": "Socalo",
       "persistentUuid": "a030bbec-2429-4e9e-baa3-6ff37af2ce9b",
       "width": 0,
-      "x": 763,
-      "y": 472,
+      "x": 768,
+      "y": 535,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -647,8 +654,8 @@
       "name": "Socalo",
       "persistentUuid": "7c7e2a37-ffcf-4971-8e6b-cafdb4cd0f44",
       "width": 0,
-      "x": 313,
-      "y": 692,
+      "x": 353,
+      "y": 750,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -673,8 +680,8 @@
       "name": "Socalo",
       "persistentUuid": "2765c472-bbe4-4ff1-9901-04c047eab552",
       "width": 0,
-      "x": 573,
-      "y": 741,
+      "x": 542,
+      "y": 709,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -699,8 +706,8 @@
       "name": "Socalo",
       "persistentUuid": "8e2db7c1-4887-476a-8c24-4dd69ca5a731",
       "width": 0,
-      "x": 762,
-      "y": 745,
+      "x": 805,
+      "y": 758,
       "zOrder": 0,
       "numberProperties": [
         {
@@ -719,14 +726,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 242,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "c957ed84-ffe3-4071-af03-dab4a7c7be0b",
-      "width": 0,
-      "x": 235,
-      "y": 1192,
+      "width": 271,
+      "x": 140,
+      "y": 1200,
       "zOrder": 8,
       "numberProperties": [
         {
@@ -745,14 +753,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 237,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "8d88b720-8b6f-4fbe-bba2-cc9a464aaa35",
-      "width": 0,
-      "x": 419,
-      "y": 1798,
+      "width": 244,
+      "x": 361,
+      "y": 1866,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -771,14 +780,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 341,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "cc6d1f9c-744f-4add-a11a-627f58d96643",
-      "width": 0,
-      "x": 908,
-      "y": 1357,
+      "width": 231,
+      "x": 809,
+      "y": 1376,
       "zOrder": 10,
       "numberProperties": [
         {
@@ -797,14 +807,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 340,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "cbf28838-b429-4689-95d4-9588237ff25e",
-      "width": 0,
-      "x": 451,
-      "y": 1400,
+      "width": 248,
+      "x": 356,
+      "y": 1376,
       "zOrder": 9,
       "numberProperties": [
         {
@@ -823,14 +834,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 295,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "d3e0d51a-3f83-42ff-a091-963c78ca0d9d",
-      "width": 0,
-      "x": 868,
-      "y": 1575,
+      "width": 267,
+      "x": 773,
+      "y": 1647,
       "zOrder": 11,
       "numberProperties": [
         {
@@ -849,14 +861,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 228,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "1ab2f82c-aa91-48c6-bfb4-e4d14d4eb6e0",
-      "width": 0,
-      "x": 865,
-      "y": 1851,
+      "width": 229,
+      "x": 811,
+      "y": 1873,
       "zOrder": 15,
       "numberProperties": [
         {
@@ -875,14 +888,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 295,
       "layer": "Piezas",
       "name": "Pieza",
       "persistentUuid": "6b35dc36-897a-4a2f-9840-afd47a6133a2",
-      "width": 0,
-      "x": 677,
-      "y": 1192,
+      "width": 317,
+      "x": 544,
+      "y": 1200,
       "zOrder": 12,
       "numberProperties": [
         {
@@ -958,8 +972,8 @@
       "name": "nameCountry",
       "persistentUuid": "415ba0b9-0446-45ef-851d-8bd852e7fd97",
       "width": 1004,
-      "x": 1142,
-      "y": 44,
+      "x": 1166,
+      "y": 57,
       "zOrder": 106,
       "numberProperties": [],
       "stringProperties": [],
@@ -969,14 +983,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 507,
+      "height": 322,
       "keepRatio": true,
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 541,
-      "x": 1222,
-      "y": 583,
+      "width": 678,
+      "x": 1322,
+      "y": 585,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1024,8 +1038,8 @@
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 0,
-      "x": 1744,
-      "y": 404,
+      "x": 1774,
+      "y": 316,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1072,9 +1086,9 @@
       "layer": "winer",
       "name": "background3",
       "persistentUuid": "e11fb1eb-6fd4-47f2-ad2f-577115728dee",
-      "width": 1115,
-      "x": 1157,
-      "y": 234,
+      "width": 1007,
+      "x": 1276,
+      "y": 243,
       "zOrder": 0,
       "numberProperties": [],
       "stringProperties": [],
@@ -1140,8 +1154,8 @@
       "name": "nombreSitioPuzzle",
       "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
       "width": 1115,
-      "x": 1156,
-      "y": 360,
+      "x": 1207,
+      "y": 358,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1569,7 +1583,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza1.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1585,496 +1599,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 87,
-                        "y": 106
+                        "x": 0,
+                        "y": 0
                       },
                       {
-                        "x": 117.5,
-                        "y": 103
+                        "x": 182,
+                        "y": 0
                       },
                       {
-                        "x": 122,
-                        "y": 136
-                      },
-                      {
-                        "x": 84,
-                        "y": 134
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 155.5,
-                        "y": 109.5
-                      },
-                      {
-                        "x": 183.5,
-                        "y": 102.5
-                      },
-                      {
-                        "x": 183.5,
-                        "y": 129.5
-                      },
-                      {
-                        "x": 157.5,
-                        "y": 133.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 127.5,
-                        "y": 85.5
-                      },
-                      {
-                        "x": 134,
-                        "y": 115.5
-                      },
-                      {
-                        "x": 114.5,
-                        "y": 120
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 157,
-                        "y": 53
-                      },
-                      {
-                        "x": 173.5,
-                        "y": 56.5
-                      },
-                      {
-                        "x": 171.5,
-                        "y": 76
-                      },
-                      {
-                        "x": 156,
-                        "y": 77.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 105.5,
-                        "y": 131
-                      },
-                      {
-                        "x": 124,
-                        "y": 130
-                      },
-                      {
-                        "x": 119.5,
-                        "y": 154
-                      },
-                      {
-                        "x": 105,
-                        "y": 154.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 114.5,
-                        "y": 100.5
-                      },
-                      {
-                        "x": 135.5,
-                        "y": 101.5
-                      },
-                      {
-                        "x": 138.5,
-                        "y": 125
-                      },
-                      {
-                        "x": 121.5,
-                        "y": 133
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza7.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 153.5,
-                        "y": 126
-                      },
-                      {
-                        "x": 173,
-                        "y": 129.5
-                      },
-                      {
-                        "x": 175.5,
-                        "y": 163
-                      },
-                      {
-                        "x": 152,
-                        "y": 167.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza8.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 119,
-                        "y": 145
-                      },
-                      {
-                        "x": 144.5,
-                        "y": 151.5
-                      },
-                      {
-                        "x": 141.5,
-                        "y": 170
-                      },
-                      {
-                        "x": 119.5,
-                        "y": 169
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza9.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 82.5,
-                        "y": 159.5
-                      },
-                      {
-                        "x": 110.5,
-                        "y": 161
-                      },
-                      {
-                        "x": 115.5,
-                        "y": 190.5
-                      },
-                      {
-                        "x": 78.5,
-                        "y": 190.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza10.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 157.5,
-                        "y": 111.5
-                      },
-                      {
-                        "x": 173.5,
-                        "y": 108.5
-                      },
-                      {
-                        "x": 174.5,
-                        "y": 128
-                      },
-                      {
-                        "x": 158.5,
-                        "y": 129
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza11.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 113.5,
-                        "y": 121
-                      },
-                      {
-                        "x": 135.5,
-                        "y": 124.5
-                      },
-                      {
-                        "x": 136.5,
+                        "x": 183,
                         "y": 155
                       },
                       {
-                        "x": 116.5,
-                        "y": 153
+                        "x": 0,
+                        "y": 152.5
                       }
                     ]
                   ]
@@ -2093,7 +1631,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza12.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2109,20 +1647,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 149.5,
-                        "y": 138
+                        "x": 76.5,
+                        "y": 10
                       },
                       {
-                        "x": 189,
-                        "y": 139
+                        "x": 171,
+                        "y": 11.5
                       },
                       {
-                        "x": 189,
-                        "y": 180
+                        "x": 167,
+                        "y": 167
                       },
                       {
-                        "x": 150,
-                        "y": 172
+                        "x": 69,
+                        "y": 164.5
                       }
                     ]
                   ]
@@ -2141,7 +1679,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza13.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2157,19 +1695,211 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 100,
-                        "y": 136.5
+                        "x": 103.5,
+                        "y": 39.5
                       },
                       {
-                        "x": 131,
-                        "y": 136.5
+                        "x": 223.5,
+                        "y": 38.5
                       },
                       {
-                        "x": 129,
-                        "y": 157.5
+                        "x": 219.5,
+                        "y": 176.5
                       },
                       {
-                        "x": 98,
+                        "x": 97.5,
+                        "y": 178.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 61,
+                        "y": 25
+                      },
+                      {
+                        "x": 211.5,
+                        "y": 24
+                      },
+                      {
+                        "x": 206.5,
+                        "y": 162
+                      },
+                      {
+                        "x": 87,
+                        "y": 148
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 31.5,
+                        "y": 98.5
+                      },
+                      {
+                        "x": 176.5,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 174.5,
+                        "y": 213.5
+                      },
+                      {
+                        "x": 31.5,
+                        "y": 219.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 163,
+                        "y": 88
+                      },
+                      {
+                        "x": 170,
+                        "y": 225.5
+                      },
+                      {
+                        "x": 76.5,
+                        "y": 229
+                      },
+                      {
+                        "x": 81,
+                        "y": 91
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 89,
+                        "y": 90.5
+                      },
+                      {
+                        "x": 231.5,
+                        "y": 94.5
+                      },
+                      {
+                        "x": 228,
+                        "y": 157
+                      },
+                      {
+                        "x": 86.5,
                         "y": 156
                       }
                     ]
@@ -2189,7 +1919,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza14.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2205,20 +1935,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 158.5,
-                        "y": 173
+                        "x": 80,
+                        "y": 93.5
                       },
                       {
-                        "x": 173.5,
-                        "y": 174
+                        "x": 201,
+                        "y": 106.5
                       },
                       {
-                        "x": 171.5,
-                        "y": 189
+                        "x": 206,
+                        "y": 203.5
                       },
                       {
-                        "x": 152,
-                        "y": 189
+                        "x": 80,
+                        "y": 209.5
                       }
                     ]
                   ]
@@ -2237,7 +1967,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza15.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2253,20 +1983,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 121,
-                        "y": 108
+                        "x": 36,
+                        "y": 81.5
                       },
                       {
-                        "x": 139,
-                        "y": 109
+                        "x": 156,
+                        "y": 96.5
                       },
                       {
-                        "x": 139.5,
-                        "y": 126
+                        "x": 180.5,
+                        "y": 195.5
                       },
                       {
-                        "x": 120,
-                        "y": 126
+                        "x": 36.5,
+                        "y": 188.5
                       }
                     ]
                   ]
@@ -2285,7 +2015,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza16.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza10.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2301,20 +2031,308 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 150.5,
-                        "y": 110.5
+                        "x": 76,
+                        "y": 97.5
                       },
                       {
-                        "x": 172,
-                        "y": 110.5
+                        "x": 236,
+                        "y": 104
                       },
                       {
-                        "x": 167.5,
-                        "y": 126.5
+                        "x": 225,
+                        "y": 181
                       },
                       {
-                        "x": 149.5,
-                        "y": 126.5
+                        "x": 91,
+                        "y": 177.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 64.5,
+                        "y": 93.5
+                      },
+                      {
+                        "x": 172.5,
+                        "y": 95.5
+                      },
+                      {
+                        "x": 170.5,
+                        "y": 208
+                      },
+                      {
+                        "x": 72.5,
+                        "y": 210
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 72.5,
+                        "y": 94.5
+                      },
+                      {
+                        "x": 235.5,
+                        "y": 98.5
+                      },
+                      {
+                        "x": 221,
+                        "y": 191.5
+                      },
+                      {
+                        "x": 97,
+                        "y": 183.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 25.5,
+                        "y": 91
+                      },
+                      {
+                        "x": 179.5,
+                        "y": 94.5
+                      },
+                      {
+                        "x": 178.5,
+                        "y": 228
+                      },
+                      {
+                        "x": 20.5,
+                        "y": 221
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 68,
+                        "y": 96
+                      },
+                      {
+                        "x": 166.5,
+                        "y": 86.5
+                      },
+                      {
+                        "x": 189.5,
+                        "y": 213.5
+                      },
+                      {
+                        "x": 70,
+                        "y": 212.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 110.5,
+                        "y": 127.5
+                      },
+                      {
+                        "x": 218,
+                        "y": 105
+                      },
+                      {
+                        "x": 224,
+                        "y": 225
+                      },
+                      {
+                        "x": 105,
+                        "y": 225.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 86.5,
+                        "y": 90
+                      },
+                      {
+                        "x": 185.5,
+                        "y": 91
+                      },
+                      {
+                        "x": 185.5,
+                        "y": 205.5
+                      },
+                      {
+                        "x": 83.5,
+                        "y": 217
                       }
                     ]
                   ]
@@ -2357,151 +2375,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 20,
-                        "y": 13
-                      },
-                      {
-                        "x": 213,
-                        "y": 8
-                      },
-                      {
-                        "x": 205,
-                        "y": 215
-                      },
-                      {
-                        "x": 13,
-                        "y": 210.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 56.5,
-                        "y": 4.5
-                      },
-                      {
-                        "x": 259,
-                        "y": 7.5
-                      },
-                      {
-                        "x": 264,
-                        "y": 209.5
-                      },
-                      {
-                        "x": 55,
-                        "y": 212.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 11.5,
-                        "y": 4.5
-                      },
-                      {
-                        "x": 227.5,
-                        "y": 15.5
-                      },
-                      {
-                        "x": 224.5,
-                        "y": 226
-                      },
-                      {
-                        "x": 14.5,
-                        "y": 221.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza4.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2518,19 +2392,19 @@
                     [
                       {
                         "x": 0,
-                        "y": 1
-                      },
-                      {
-                        "x": 230,
-                        "y": 1
-                      },
-                      {
-                        "x": 230,
-                        "y": 229
+                        "y": 153.5
                       },
                       {
                         "x": 0,
-                        "y": 229
+                        "y": 0
+                      },
+                      {
+                        "x": 216,
+                        "y": 0
+                      },
+                      {
+                        "x": 194.5,
+                        "y": 143.5
                       }
                     ]
                   ]
@@ -2549,247 +2423,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza5.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 73.5
-                      },
-                      {
-                        "x": 211,
-                        "y": 68.5
-                      },
-                      {
-                        "x": 211,
-                        "y": 281.5
-                      },
-                      {
-                        "x": 2,
-                        "y": 286.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza6.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 9,
-                        "y": 16
-                      },
-                      {
-                        "x": 235.5,
-                        "y": 19
-                      },
-                      {
-                        "x": 230,
-                        "y": 229
-                      },
-                      {
-                        "x": 9.5,
-                        "y": 227
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza7.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 62,
-                        "y": 67
-                      },
-                      {
-                        "x": 266,
-                        "y": 73.5
-                      },
-                      {
-                        "x": 262.5,
-                        "y": 281.5
-                      },
-                      {
-                        "x": 55.5,
-                        "y": 273.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza8.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 12,
-                        "y": 74
-                      },
-                      {
-                        "x": 231,
-                        "y": 70
-                      },
-                      {
-                        "x": 232,
-                        "y": 280.5
-                      },
-                      {
-                        "x": 11.5,
-                        "y": 282.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza9.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 3.5,
-                        "y": 73
-                      },
-                      {
-                        "x": 210,
-                        "y": 67
-                      },
-                      {
-                        "x": 208,
-                        "y": 270.5
-                      },
-                      {
-                        "x": 5.5,
-                        "y": 270.5
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza10.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2806,19 +2440,19 @@
                     [
                       {
                         "x": 68,
-                        "y": 27.5
+                        "y": 18.5
                       },
                       {
-                        "x": 255,
-                        "y": 20.5
+                        "x": 165,
+                        "y": 27
                       },
                       {
-                        "x": 254.5,
-                        "y": 227
+                        "x": 169,
+                        "y": 153.5
                       },
                       {
-                        "x": 72,
-                        "y": 226
+                        "x": 75,
+                        "y": 161.5
                       }
                     ]
                   ]
@@ -2837,7 +2471,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza11.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2853,20 +2487,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 10.5,
-                        "y": 64.5
+                        "x": 82.5,
+                        "y": 184.5
                       },
                       {
-                        "x": 237.5,
-                        "y": 79
+                        "x": 89,
+                        "y": 30
                       },
                       {
-                        "x": 232,
-                        "y": 281
+                        "x": 227.5,
+                        "y": 19.5
                       },
                       {
-                        "x": 15.5,
-                        "y": 273
+                        "x": 257,
+                        "y": 191.5
                       }
                     ]
                   ]
@@ -2885,7 +2519,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza12.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza4.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2901,20 +2535,24 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 56,
-                        "y": 75
+                        "x": 215,
+                        "y": 154.5
                       },
                       {
-                        "x": 267,
-                        "y": 77
+                        "x": 87,
+                        "y": 161
                       },
                       {
-                        "x": 259.5,
-                        "y": 275
+                        "x": 70,
+                        "y": 116.5
                       },
                       {
-                        "x": 52,
-                        "y": 272
+                        "x": 76,
+                        "y": 8.5
+                      },
+                      {
+                        "x": 205,
+                        "y": 10
                       }
                     ]
                   ]
@@ -2933,7 +2571,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza13.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza5.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2949,20 +2587,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 4,
-                        "y": 10.5
+                        "x": 0,
+                        "y": 229.5
                       },
                       {
-                        "x": 207.5,
-                        "y": 6.5
+                        "x": 0,
+                        "y": 96.5
                       },
                       {
-                        "x": 220.5,
-                        "y": 231.5
+                        "x": 183.5,
+                        "y": 105.5
                       },
                       {
-                        "x": 3,
-                        "y": 231.5
+                        "x": 184.5,
+                        "y": 212
                       }
                     ]
                   ]
@@ -2981,7 +2619,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza14.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza6.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -2997,20 +2635,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 48.5,
-                        "y": 76
+                        "x": 167.5,
+                        "y": 232
                       },
                       {
-                        "x": 262.5,
-                        "y": 70
+                        "x": 75.5,
+                        "y": 225.5
                       },
                       {
-                        "x": 258,
-                        "y": 287
+                        "x": 75,
+                        "y": 81
                       },
                       {
-                        "x": 56,
-                        "y": 292
+                        "x": 171,
+                        "y": 83
                       }
                     ]
                   ]
@@ -3029,7 +2667,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza15.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3045,20 +2683,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11.5,
-                        "y": 15
+                        "x": 94.5,
+                        "y": 152
                       },
                       {
-                        "x": 233.5,
-                        "y": 16.5
+                        "x": 85.5,
+                        "y": 92.5
                       },
                       {
-                        "x": 228.5,
-                        "y": 239
+                        "x": 239.5,
+                        "y": 91
                       },
                       {
-                        "x": 4,
-                        "y": 240
+                        "x": 226,
+                        "y": 164
                       }
                     ]
                   ]
@@ -3077,7 +2715,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\pieza16.png",
+                  "image": "assets\\puzzles\\HONDURAS\\pieza8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -3093,20 +2731,416 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 52.5,
-                        "y": 13.5
+                        "x": 80.5,
+                        "y": 216
                       },
                       {
-                        "x": 267.5,
-                        "y": 5.5
+                        "x": 58,
+                        "y": 103.5
                       },
                       {
-                        "x": 263.5,
-                        "y": 238
+                        "x": 208,
+                        "y": 117.5
                       },
                       {
-                        "x": 54.5,
-                        "y": 236.5
+                        "x": 197,
+                        "y": 199.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 56.5,
+                        "y": 193.5
+                      },
+                      {
+                        "x": 25,
+                        "y": 110.5
+                      },
+                      {
+                        "x": 162,
+                        "y": 89.5
+                      },
+                      {
+                        "x": 159,
+                        "y": 184.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 89.5,
+                        "y": 179.5
+                      },
+                      {
+                        "x": 78,
+                        "y": 83
+                      },
+                      {
+                        "x": 234,
+                        "y": 82
+                      },
+                      {
+                        "x": 229.5,
+                        "y": 181.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 75,
+                        "y": 208
+                      },
+                      {
+                        "x": 71.5,
+                        "y": 151.5
+                      },
+                      {
+                        "x": 75.5,
+                        "y": 103.5
+                      },
+                      {
+                        "x": 176.5,
+                        "y": 102.5
+                      },
+                      {
+                        "x": 171,
+                        "y": 210
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 98,
+                        "y": 204.5
+                      },
+                      {
+                        "x": 60.5,
+                        "y": 174.5
+                      },
+                      {
+                        "x": 89.5,
+                        "y": 99.5
+                      },
+                      {
+                        "x": 235,
+                        "y": 90
+                      },
+                      {
+                        "x": 260.5,
+                        "y": 189
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 183.5,
+                        "y": 242
+                      },
+                      {
+                        "x": 0,
+                        "y": 242
+                      },
+                      {
+                        "x": 0,
+                        "y": 29
+                      },
+                      {
+                        "x": 192.5,
+                        "y": 128.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 66,
+                        "y": 203
+                      },
+                      {
+                        "x": 82,
+                        "y": 98
+                      },
+                      {
+                        "x": 171,
+                        "y": 88.5
+                      },
+                      {
+                        "x": 182.5,
+                        "y": 205.5
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 223.5,
+                        "y": 249
+                      },
+                      {
+                        "x": 110.5,
+                        "y": 245
+                      },
+                      {
+                        "x": 87.5,
+                        "y": 102.5
+                      },
+                      {
+                        "x": 230.5,
+                        "y": 97
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\HONDURAS\\pieza16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 80.5,
+                        "y": 212
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 138
+                      },
+                      {
+                        "x": 82.5,
+                        "y": 92
+                      },
+                      {
+                        "x": 176.5,
+                        "y": 86
+                      },
+                      {
+                        "x": 204,
+                        "y": 201.5
                       }
                     ]
                   ]
@@ -3307,14 +3341,14 @@
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
           "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 1,
           "relativeToOriginalWindowSize": false,
-          "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "VENEZUELA\n\n",
+      "string": "HONDURAS",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
@@ -3337,7 +3371,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "VENEZUELA\n\n",
+        "text": "HONDURAS",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
@@ -3376,8 +3410,8 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 1,
-          "rightEdgeAnchor": 2,
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -3399,7 +3433,7 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 1,
+          "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
@@ -3411,10 +3445,10 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "Empezó su formación hace más de 2.5 millones de años, en la última era del hielo. \nEl nombre del glaciar se debe a Francisco Moreno, director del museo de la Sociedad Científica Argentina.\nDeclarado Patrimonio de la Humanidad por la UNESCO en 1981.\n \n",
+      "string": "Fue fundada por los mayas en el siglo V.\nSu nombre traducido significa \"El lugar de las pirámides\".\n\n\n",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
-      "characterSize": 30,
+      "characterSize": 50,
       "color": {
         "b": 0,
         "g": 0,
@@ -3434,10 +3468,10 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Empezó su formación hace más de 2.5 millones de años, en la última era del hielo. \nEl nombre del glaciar se debe a Francisco Moreno, director del museo de la Sociedad Científica Argentina.\nDeclarado Patrimonio de la Humanidad por la UNESCO en 1981.\n \n",
+        "text": "Fue fundada por los mayas en el siglo V.\nSu nombre traducido significa \"El lugar de las pirámides\".\n\n\n",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
-        "characterSize": 30,
+        "characterSize": 50,
         "color": "0;0;0"
       }
     },
@@ -3829,7 +3863,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "SALTO ÁNGEL",
+      "string": "RUINAS DE COPÀN",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 40,
@@ -3852,7 +3886,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "SALTO ÁNGEL",
+        "text": "RUINAS DE COPÀN",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 40,
@@ -3939,7 +3973,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\armado_guia.png",
+                  "image": "assets\\puzzles\\HONDURAS\\Honduras_guia.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4010,7 +4044,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\VENEZUELA\\armado.png",
+                  "image": "assets\\puzzles\\HONDURAS\\fondo.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -4030,16 +4064,16 @@
                         "y": 0
                       },
                       {
-                        "x": 901,
+                        "x": 1980,
                         "y": 0
                       },
                       {
-                        "x": 901,
-                        "y": 900
+                        "x": 1980,
+                        "y": 1080
                       },
                       {
                         "x": 0,
-                        "y": 900
+                        "y": 1080
                       }
                     ]
                   ]
@@ -5474,7 +5508,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Es la catarata más alta del mundo.\n\"\n"
+                "\"Fue fundada por los mayas en el siglo V.\""
               ]
             }
           ]
@@ -5508,7 +5542,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Sus caídas de agua son de 226 metros de altura.\"\n"
+                "\"Su nombre traducido significa El lugar de las pirámides.\""
               ]
             }
           ]
@@ -5542,7 +5576,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"\nDeclarada Patrimonio de la Humanidad por la Unesco en el año 1994.\n\"\n"
+                "\"Actualmente es una zona arqueológica de 120 hectáreas.\""
               ]
             }
           ]
@@ -5555,7 +5589,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",

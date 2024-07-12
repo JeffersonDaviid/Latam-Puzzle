@@ -9737,6 +9737,492 @@
         "name": "assets\\puzzles\\CHILE\\pieza16.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/Guatemala_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\Guatemala_guia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/GUATEMALA/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\GUATEMALA\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza12.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\pieza16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HAITY/Haity_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HAITY\\Haity_guia.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/Honduras_guia.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\Honduras_guia.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/fondo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\fondo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza14.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/HONDURAS/pieza16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\HONDURAS\\pieza16.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -14397,6 +14883,18 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/puzzle_usa"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_guate"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_haiti"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/puzzle_honduras"
     },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
