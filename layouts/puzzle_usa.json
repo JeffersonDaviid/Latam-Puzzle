@@ -6139,7 +6139,7 @@
       "isLocked": false,
       "name": "winer",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
