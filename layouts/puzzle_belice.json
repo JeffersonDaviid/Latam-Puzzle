@@ -1526,6 +1526,23 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 8,
+      "customSize": true,
+      "depth": 0,
+      "height": 307.5,
+      "keepRatio": true,
+      "layer": "winer",
+      "name": "remolino",
+      "persistentUuid": "d890bf65-2c49-49b0-9fd2-e27dfd14010b",
+      "width": 410,
+      "x": 1910,
+      "y": 675,
+      "zOrder": 1011,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [

@@ -1540,6 +1540,23 @@
           "value": "b2"
         }
       ]
+    },
+    {
+      "angle": 10,
+      "customSize": true,
+      "depth": 0,
+      "height": 307.5,
+      "keepRatio": true,
+      "layer": "winer",
+      "name": "remolino",
+      "persistentUuid": "bf710a53-7229-4963-9ad6-0edf93c77289",
+      "width": 410,
+      "x": 1938,
+      "y": 612,
+      "zOrder": 1011,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [

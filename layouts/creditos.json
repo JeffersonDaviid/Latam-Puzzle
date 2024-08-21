@@ -102,9 +102,26 @@
       "name": "Logos",
       "persistentUuid": "4c30244f-b77b-408f-87c9-025ca1ed6bf4",
       "width": 1500,
-      "x": 446,
-      "y": 1690,
+      "x": 419,
+      "y": 1535,
       "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 291.6359717868338,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Pie_Imagen",
+      "persistentUuid": "a541b7e4-3a22-4547-a7d4-3ae5000b45f1",
+      "width": 2235,
+      "x": 108,
+      "y": 1948,
+      "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -395,6 +412,81 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Pie_Imagen",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Pie_Imagen.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 325,
+                        "y": 20
+                      },
+                      {
+                        "x": 2226,
+                        "y": 20
+                      },
+                      {
+                        "x": 2226,
+                        "y": 310
+                      },
+                      {
+                        "x": 325,
+                        "y": 310
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -411,6 +503,9 @@
       },
       {
         "objectName": "Logos"
+      },
+      {
+        "objectName": "Pie_Imagen"
       }
     ]
   },
@@ -587,7 +682,7 @@
             "Logos",
             "Tween",
             "\"Movimiento\"",
-            "-725",
+            "-1200",
             "\"linear\"",
             "32",
             ""
@@ -606,7 +701,7 @@
             "",
             "\"Movimiento\"",
             ">=",
-            "26"
+            "33"
           ]
         }
       ],
@@ -618,6 +713,38 @@
           "parameters": [
             "",
             "\"Menu principal\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CompareTimer"
+          },
+          "parameters": [
+            "",
+            "\"Movimiento\"",
+            "<=",
+            "2"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Pie_Imagen",
+            "Tween",
+            "\"Movimiento\"",
+            "-750",
+            "\"linear\"",
+            "32",
             ""
           ]
         }

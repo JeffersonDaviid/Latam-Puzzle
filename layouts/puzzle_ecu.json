@@ -1528,6 +1528,23 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 9,
+      "customSize": true,
+      "depth": 0,
+      "height": 307.5,
+      "keepRatio": true,
+      "layer": "winer",
+      "name": "remolino",
+      "persistentUuid": "a8019c90-0aff-4179-9daa-7053804cd0da",
+      "width": 410,
+      "x": 1877,
+      "y": 681,
+      "zOrder": 1011,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -3402,7 +3419,7 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
+          "leftEdgeAnchor": 2,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
@@ -3425,7 +3442,7 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
+          "leftEdgeAnchor": 1,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,

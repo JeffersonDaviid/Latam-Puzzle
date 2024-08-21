@@ -6160,7 +6160,7 @@
       "isLocked": false,
       "name": "winer",
       "renderingType": "",
-      "visibility": false,
+      "visibility": true,
       "cameras": [],
       "effects": [
         {
