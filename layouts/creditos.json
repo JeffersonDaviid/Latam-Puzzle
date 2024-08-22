@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.45985214267363483,
+    "zoomFactor": 0.3192894589690176,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -102,9 +102,26 @@
       "name": "Logos",
       "persistentUuid": "4c30244f-b77b-408f-87c9-025ca1ed6bf4",
       "width": 1500,
-      "x": 419,
-      "y": 1535,
+      "x": 446,
+      "y": 1575,
       "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 141.81818181818184,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Boton_Mute",
+      "persistentUuid": "0f067cd9-01af-4893-82d3-d96251eb8bc8",
+      "width": 150,
+      "x": 2191,
+      "y": -1,
+      "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -117,11 +134,11 @@
       "keepRatio": true,
       "layer": "",
       "name": "Pie_Imagen",
-      "persistentUuid": "a541b7e4-3a22-4547-a7d4-3ae5000b45f1",
+      "persistentUuid": "62d56314-3750-4d0d-9a64-fed709e32b0c",
       "width": 2235,
-      "x": 108,
-      "y": 1948,
-      "zOrder": 6,
+      "x": 86,
+      "y": 1997,
+      "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -416,6 +433,125 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
+      "name": "Boton_Mute",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Volumen_On.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 27,
+                        "y": 26
+                      },
+                      {
+                        "x": 88,
+                        "y": 26
+                      },
+                      {
+                        "x": 88,
+                        "y": 72
+                      },
+                      {
+                        "x": 27,
+                        "y": 72
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Volumen_Off.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 27,
+                        "y": 26
+                      },
+                      {
+                        "x": 88,
+                        "y": 26
+                      },
+                      {
+                        "x": 88,
+                        "y": 72
+                      },
+                      {
+                        "x": 27,
+                        "y": 72
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
       "name": "Pie_Imagen",
       "type": "Sprite",
       "updateIfNotVisible": false,
@@ -423,15 +559,6 @@
       "effects": [],
       "behaviors": [
         {
-<<<<<<< Updated upstream
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 3,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
-=======
           "bottomEdgeAnchor": 3,
           "leftEdgeAnchor": 3,
           "name": "Anchor",
@@ -439,7 +566,6 @@
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
->>>>>>> Stashed changes
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -513,6 +639,9 @@
       },
       {
         "objectName": "Logos"
+      },
+      {
+        "objectName": "Boton_Mute"
       },
       {
         "objectName": "Pie_Imagen"
@@ -711,11 +840,7 @@
             "",
             "\"Movimiento\"",
             ">=",
-<<<<<<< Updated upstream
             "33"
-=======
-            "30"
->>>>>>> Stashed changes
           ]
         }
       ],
@@ -763,6 +888,73 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "MouseButtonFromTextPressed"
+          },
+          "parameters": [
+            "Volumen",
+            "\"Left\""
+          ]
+        },
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "Boton_Mute",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Index"
+          },
+          "parameters": [
+            "Boton_Mute",
+            "Animation",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlayMusicCanal"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\Creditos.wav",
+            "2",
+            "no",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+          },
+          "parameters": [
+            "Boton_Mute",
+            "Animation",
+            "=",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [

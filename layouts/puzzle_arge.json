@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3576886955295111,
+    "zoomFactor": 0.24025283650487195,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -51,12 +51,6 @@
       "name": "numberInfo",
       "type": "number",
       "value": 0
-    },
-    {
-      "folded": true,
-      "name": "ganar",
-      "type": "boolean",
-      "value": false
     }
   ],
   "instances": [
@@ -975,14 +969,14 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 314,
+      "height": 507,
       "keepRatio": true,
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 428,
-      "x": 1215,
-      "y": 589,
+      "width": 541,
+      "x": 1222,
+      "y": 583,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1023,16 +1017,15 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 600,
+      "customSize": false,
+      "height": 0,
       "keepRatio": true,
       "layer": "winer",
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
-      "width": 664,
-      "x": 1897,
-      "y": 413,
+      "width": 0,
+      "x": 1744,
+      "y": 404,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1530,23 +1523,6 @@
       "x": 1990,
       "y": 950,
       "zOrder": 1010,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 9,
-      "customSize": true,
-      "depth": 0,
-      "height": 307.5,
-      "keepRatio": true,
-      "layer": "winer",
-      "name": "remolino",
-      "persistentUuid": "8a140efc-e780-45a3-a64d-712fc163b4c4",
-      "width": 410,
-      "x": 1913,
-      "y": 671,
-      "zOrder": 1011,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -2397,16 +2373,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 109.5,
-                        "y": 35
+                        "x": 1,
+                        "y": 0
                       },
                       {
-                        "x": 133.5,
-                        "y": 108
+                        "x": 218.5,
+                        "y": 2
                       },
                       {
-                        "x": 64,
-                        "y": 105.5
+                        "x": 216,
+                        "y": 218
+                      },
+                      {
+                        "x": 1,
+                        "y": 229
                       }
                     ]
                   ]
@@ -2441,16 +2421,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 162.5,
-                        "y": 72
+                        "x": 52,
+                        "y": 1.5
                       },
                       {
-                        "x": 180.5,
-                        "y": 130
+                        "x": 264.5,
+                        "y": 3.5
                       },
                       {
-                        "x": 123.5,
-                        "y": 134.5
+                        "x": 272.5,
+                        "y": 215.5
+                      },
+                      {
+                        "x": 51.5,
+                        "y": 206.5
                       }
                     ]
                   ]
@@ -2485,16 +2469,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 131.5,
-                        "y": 56.5
+                        "x": 15,
+                        "y": 8.5
                       },
                       {
-                        "x": 151.5,
-                        "y": 116.5
+                        "x": 218.5,
+                        "y": 2
                       },
                       {
-                        "x": 98,
-                        "y": 114.5
+                        "x": 230.5,
+                        "y": 224
+                      },
+                      {
+                        "x": 14.5,
+                        "y": 220.5
                       }
                     ]
                   ]
@@ -2529,16 +2517,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 167.5,
-                        "y": 37
+                        "x": 57.5,
+                        "y": 4
                       },
                       {
-                        "x": 190.5,
-                        "y": 131.5
+                        "x": 271.5,
+                        "y": 3
                       },
                       {
-                        "x": 137,
-                        "y": 124.5
+                        "x": 272,
+                        "y": 222
+                      },
+                      {
+                        "x": 61.5,
+                        "y": 224.5
                       }
                     ]
                   ]
@@ -2573,16 +2565,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 110,
-                        "y": 97.5
+                        "x": 2.5,
+                        "y": 73
                       },
                       {
-                        "x": 145,
-                        "y": 184.5
+                        "x": 215,
+                        "y": 67.5
                       },
                       {
-                        "x": 80.5,
-                        "y": 184.5
+                        "x": 213.5,
+                        "y": 281.5
+                      },
+                      {
+                        "x": 4,
+                        "y": 284
                       }
                     ]
                   ]
@@ -2617,16 +2613,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 123.5,
-                        "y": 73.5
+                        "x": 8,
+                        "y": 19
                       },
                       {
-                        "x": 147,
-                        "y": 149.5
+                        "x": 229.5,
+                        "y": 17
                       },
                       {
-                        "x": 95.5,
-                        "y": 149.5
+                        "x": 225.5,
+                        "y": 223
+                      },
+                      {
+                        "x": 12,
+                        "y": 229.5
                       }
                     ]
                   ]
@@ -2661,16 +2661,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 163.5,
-                        "y": 113
+                        "x": 55,
+                        "y": 67
                       },
                       {
-                        "x": 185.5,
-                        "y": 172.5
+                        "x": 266.5,
+                        "y": 77
                       },
                       {
-                        "x": 132,
-                        "y": 169.5
+                        "x": 265,
+                        "y": 278.5
+                      },
+                      {
+                        "x": 54,
+                        "y": 272
                       }
                     ]
                   ]
@@ -2705,16 +2709,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 133.5,
-                        "y": 102.5
+                        "x": 13,
+                        "y": 74.5
                       },
                       {
-                        "x": 156,
-                        "y": 175
+                        "x": 233.5,
+                        "y": 82.5
                       },
                       {
-                        "x": 112.5,
-                        "y": 178
+                        "x": 235,
+                        "y": 281
+                      },
+                      {
+                        "x": 15,
+                        "y": 279.5
                       }
                     ]
                   ]
@@ -2749,16 +2757,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 100.5,
-                        "y": 136
+                        "x": 6.5,
+                        "y": 78
                       },
                       {
-                        "x": 134.5,
-                        "y": 206
+                        "x": 211,
+                        "y": 74.5
                       },
                       {
-                        "x": 66.5,
-                        "y": 214.5
+                        "x": 218.5,
+                        "y": 271
+                      },
+                      {
+                        "x": 4,
+                        "y": 272.5
                       }
                     ]
                   ]
@@ -2793,16 +2805,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 162.5,
-                        "y": 78.5
+                        "x": 49.5,
+                        "y": 14.5
                       },
                       {
-                        "x": 186.5,
-                        "y": 139.5
+                        "x": 218.5,
+                        "y": 2
                       },
                       {
-                        "x": 137.5,
-                        "y": 136
+                        "x": 216,
+                        "y": 218
+                      },
+                      {
+                        "x": 62.5,
+                        "y": 229
                       }
                     ]
                   ]
@@ -2837,16 +2853,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 126,
-                        "y": 108
+                        "x": 18.5,
+                        "y": 68.5
                       },
                       {
-                        "x": 152.5,
-                        "y": 189
+                        "x": 233.5,
+                        "y": 80
                       },
                       {
-                        "x": 90,
-                        "y": 191
+                        "x": 228.5,
+                        "y": 280.5
+                      },
+                      {
+                        "x": 12.5,
+                        "y": 275
                       }
                     ]
                   ]
@@ -2881,16 +2901,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 151.5,
-                        "y": 108
+                        "x": 60,
+                        "y": 78
                       },
                       {
-                        "x": 194,
-                        "y": 189.5
+                        "x": 265.5,
+                        "y": 79.5
                       },
                       {
-                        "x": 101.5,
-                        "y": 195
+                        "x": 262,
+                        "y": 275.5
+                      },
+                      {
+                        "x": 65.5,
+                        "y": 275.5
                       }
                     ]
                   ]
@@ -2925,16 +2949,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 134,
-                        "y": 88
+                        "x": 3.5,
+                        "y": 17.5
                       },
                       {
-                        "x": 134.5,
-                        "y": 168.5
+                        "x": 216,
+                        "y": 22.5
                       },
                       {
-                        "x": 49,
-                        "y": 124.5
+                        "x": 213,
+                        "y": 226.5
+                      },
+                      {
+                        "x": 1,
+                        "y": 229
                       }
                     ]
                   ]
@@ -2969,16 +2997,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 163.5,
-                        "y": 107.5
+                        "x": 44.5,
+                        "y": 68.5
                       },
                       {
-                        "x": 189,
-                        "y": 192
+                        "x": 265.5,
+                        "y": 71
                       },
                       {
-                        "x": 130.5,
-                        "y": 187.5
+                        "x": 264.5,
+                        "y": 283.5
+                      },
+                      {
+                        "x": 59.5,
+                        "y": 288
                       }
                     ]
                   ]
@@ -3013,16 +3045,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 120.5,
-                        "y": 93.5
+                        "x": 12,
+                        "y": 15.5
                       },
                       {
-                        "x": 150.5,
-                        "y": 141.5
+                        "x": 234,
+                        "y": 19.5
                       },
                       {
-                        "x": 93,
-                        "y": 149.5
+                        "x": 226,
+                        "y": 234
+                      },
+                      {
+                        "x": 17,
+                        "y": 234
                       }
                     ]
                   ]
@@ -3057,16 +3093,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 154.5,
-                        "y": 92.5
+                        "x": 50,
+                        "y": 10.5
                       },
                       {
-                        "x": 187,
-                        "y": 142.5
+                        "x": 267.5,
+                        "y": 10.5
                       },
                       {
-                        "x": 126.5,
-                        "y": 144.5
+                        "x": 260.5,
+                        "y": 232
+                      },
+                      {
+                        "x": 57.5,
+                        "y": 235.5
                       }
                     ]
                   ]
@@ -4484,6 +4524,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4775,16 +4816,6 @@
                     "Arrastrable",
                     "no"
                   ]
-                },
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "ganar",
-                    "True",
-                    ""
-                  ]
                 }
               ]
             }
@@ -4898,16 +4929,6 @@
                 "assets\\sounds\\Late Nights.wav",
                 "yes",
                 "100",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "ganar",
-                "False",
                 ""
               ]
             }
@@ -5534,6 +5555,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5548,15 +5570,6 @@
               "parameters": [
                 "btn_regresar",
                 ""
-              ]
-            },
-            {
-              "type": {
-                "value": "Layer"
-              },
-              "parameters": [
-                "BtSiguiente",
-                "\"UI\""
               ]
             }
           ],
@@ -5585,25 +5598,6 @@
                 "ButtonFSM",
                 ""
               ]
-            },
-            {
-              "type": {
-                "value": "Layer"
-              },
-              "parameters": [
-                "BtSiguiente",
-                "\"game over\""
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "ganar",
-                "True",
-                ""
-              ]
             }
           ],
           "actions": [
@@ -5629,16 +5623,6 @@
               "parameters": [
                 "btn_salirJuego",
                 "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "ganar",
-                "True",
                 ""
               ]
             }

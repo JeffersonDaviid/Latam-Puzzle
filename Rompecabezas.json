@@ -10226,6 +10226,24 @@
       },
       {
         "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Volumen_On.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Volumen_On.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/Game_Over/Fondo/Volumen_Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\Game_Over\\Fondo\\Volumen_Off.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
         "file": "assets/puzzles/Game_Over/Fondo/Pie_Imagen.png",
         "kind": "image",
         "metadata": "",
@@ -10497,9 +10515,9 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,

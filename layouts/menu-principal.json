@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.2308918338522514,
+    "zoomFactor": 0.1830573495556024,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -145,11 +145,11 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 170,
+      "height": 115,
       "layer": "botones",
       "name": "creditos",
       "persistentUuid": "d616ee73-8ad9-48e6-b320-4013ddce328a",
-      "width": 420,
+      "width": 296,
       "x": 1884,
       "y": 79,
       "zOrder": 16,
@@ -183,8 +183,8 @@
       "name": "nube2",
       "persistentUuid": "6bff311c-d2fb-40de-a5b8-202f0bdbb5e2",
       "width": 0,
-      "x": -16,
-      "y": 237,
+      "x": 67,
+      "y": 174,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -323,9 +323,25 @@
       "name": "avion2",
       "persistentUuid": "bec42edb-8607-45aa-bd77-86fe7a6b556f",
       "width": 477,
-      "x": 15,
-      "y": 370,
+      "x": 11,
+      "y": 231,
       "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "logo_dominio",
+      "persistentUuid": "055930fe-f845-4b15-9e88-914a4344189e",
+      "width": 0,
+      "x": 67,
+      "y": 876,
+      "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -385,23 +401,6 @@
           "value": 500
         }
       ]
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 252,
-      "keepRatio": true,
-      "layer": "instrucciones",
-      "name": "logo_dominio",
-      "persistentUuid": "19e4ff40-8cfc-490a-9963-cf8fb8de157d",
-      "width": 471,
-      "x": 73,
-      "y": 45,
-      "zOrder": 20,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
     }
   ],
   "objects": [
@@ -2255,7 +2254,7 @@
           "parameters": [
             "avion2",
             "=",
-            "50*sin(avion2.ObjectTimerElapsedTime(\"time\"))+400\n"
+            "50*sin(avion2.ObjectTimerElapsedTime(\"time\"))+260\n"
           ]
         },
         {
