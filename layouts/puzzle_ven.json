@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27433470637762114,
+    "zoomFactor": 0.3238143136465301,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -51,6 +51,12 @@
       "name": "numberInfo",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "ganar",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -969,12 +975,12 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 507,
+      "height": 369,
       "keepRatio": true,
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 541,
+      "width": 421,
       "x": 1222,
       "y": 583,
       "zOrder": 100,
@@ -1017,15 +1023,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 600,
       "keepRatio": true,
       "layer": "winer",
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
-      "width": 0,
-      "x": 1744,
-      "y": 404,
+      "width": 662,
+      "x": 1882,
+      "y": 402,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -2373,20 +2380,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 20,
-                        "y": 13
+                        "x": 31,
+                        "y": 65.5
                       },
                       {
-                        "x": 213,
-                        "y": 8
+                        "x": 121,
+                        "y": 58
                       },
                       {
-                        "x": 205,
-                        "y": 215
-                      },
-                      {
-                        "x": 13,
-                        "y": 210.5
+                        "x": 108.5,
+                        "y": 108
                       }
                     ]
                   ]
@@ -2421,20 +2424,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 56.5,
-                        "y": 4.5
+                        "x": 163.5,
+                        "y": 67
                       },
                       {
-                        "x": 259,
-                        "y": 7.5
+                        "x": 220.5,
+                        "y": 135.5
                       },
                       {
-                        "x": 264,
-                        "y": 209.5
-                      },
-                      {
-                        "x": 55,
-                        "y": 212.5
+                        "x": 127.5,
+                        "y": 130.5
                       }
                     ]
                   ]
@@ -2469,20 +2468,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11.5,
-                        "y": 4.5
+                        "x": 140.5,
+                        "y": 30.5
                       },
                       {
-                        "x": 227.5,
-                        "y": 15.5
+                        "x": 173.5,
+                        "y": 152.5
                       },
                       {
-                        "x": 224.5,
-                        "y": 226
-                      },
-                      {
-                        "x": 14.5,
-                        "y": 221.5
+                        "x": 90,
+                        "y": 129.5
                       }
                     ]
                   ]
@@ -2517,20 +2512,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 1
+                        "x": 145.5,
+                        "y": 109
                       },
                       {
-                        "x": 230,
-                        "y": 1
+                        "x": 214,
+                        "y": 35.5
                       },
                       {
-                        "x": 230,
-                        "y": 229
-                      },
-                      {
-                        "x": 0,
-                        "y": 229
+                        "x": 228.5,
+                        "y": 168
                       }
                     ]
                   ]
@@ -2565,20 +2556,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 73.5
+                        "x": 99.5,
+                        "y": 103.5
                       },
                       {
-                        "x": 211,
-                        "y": 68.5
+                        "x": 147,
+                        "y": 171.5
                       },
                       {
-                        "x": 211,
-                        "y": 281.5
-                      },
-                      {
-                        "x": 2,
-                        "y": 286.5
+                        "x": 71,
+                        "y": 175.5
                       }
                     ]
                   ]
@@ -2613,20 +2600,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 9,
-                        "y": 16
+                        "x": 90.5,
+                        "y": 95.5
                       },
                       {
-                        "x": 235.5,
-                        "y": 19
+                        "x": 183.5,
+                        "y": 96
                       },
                       {
-                        "x": 230,
-                        "y": 229
-                      },
-                      {
-                        "x": 9.5,
-                        "y": 227
+                        "x": 125,
+                        "y": 197
                       }
                     ]
                   ]
@@ -2661,20 +2644,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 62,
-                        "y": 67
+                        "x": 165,
+                        "y": 79.5
                       },
                       {
-                        "x": 266,
-                        "y": 73.5
+                        "x": 204.5,
+                        "y": 183.5
                       },
                       {
-                        "x": 262.5,
-                        "y": 281.5
-                      },
-                      {
-                        "x": 55.5,
-                        "y": 273.5
+                        "x": 133.5,
+                        "y": 170
                       }
                     ]
                   ]
@@ -2709,20 +2688,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 12,
-                        "y": 74
+                        "x": 128,
+                        "y": 108.5
                       },
                       {
-                        "x": 231,
-                        "y": 70
+                        "x": 169,
+                        "y": 178
                       },
                       {
-                        "x": 232,
-                        "y": 280.5
-                      },
-                      {
-                        "x": 11.5,
-                        "y": 282.5
+                        "x": 92,
+                        "y": 188
                       }
                     ]
                   ]
@@ -2757,20 +2732,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 3.5,
-                        "y": 73
+                        "x": 108.5,
+                        "y": 103
                       },
                       {
-                        "x": 210,
-                        "y": 67
+                        "x": 142.5,
+                        "y": 195.5
                       },
                       {
-                        "x": 208,
-                        "y": 270.5
-                      },
-                      {
-                        "x": 5.5,
-                        "y": 270.5
+                        "x": 60.5,
+                        "y": 193.5
                       }
                     ]
                   ]
@@ -2805,20 +2776,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 68,
-                        "y": 27.5
+                        "x": 163.5,
+                        "y": 79.5
                       },
                       {
-                        "x": 255,
-                        "y": 20.5
+                        "x": 189,
+                        "y": 144.5
                       },
                       {
-                        "x": 254.5,
-                        "y": 227
-                      },
-                      {
-                        "x": 72,
-                        "y": 226
+                        "x": 134.5,
+                        "y": 144.5
                       }
                     ]
                   ]
@@ -2853,20 +2820,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 10.5,
-                        "y": 64.5
+                        "x": 124,
+                        "y": 136.5
                       },
                       {
-                        "x": 237.5,
-                        "y": 79
+                        "x": 164,
+                        "y": 202.5
                       },
                       {
-                        "x": 232,
-                        "y": 281
-                      },
-                      {
-                        "x": 15.5,
-                        "y": 273
+                        "x": 93.5,
+                        "y": 206.5
                       }
                     ]
                   ]
@@ -2901,20 +2864,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 56,
-                        "y": 75
+                        "x": 155.5,
+                        "y": 107
                       },
                       {
-                        "x": 267,
-                        "y": 77
+                        "x": 191,
+                        "y": 193
                       },
                       {
-                        "x": 259.5,
-                        "y": 275
-                      },
-                      {
-                        "x": 52,
-                        "y": 272
+                        "x": 118,
+                        "y": 187.5
                       }
                     ]
                   ]
@@ -2949,20 +2908,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 4,
-                        "y": 10.5
+                        "x": 107.5,
+                        "y": 92.5
                       },
                       {
-                        "x": 207.5,
-                        "y": 6.5
+                        "x": 130.5,
+                        "y": 144
                       },
                       {
-                        "x": 220.5,
-                        "y": 231.5
-                      },
-                      {
-                        "x": 3,
-                        "y": 231.5
+                        "x": 73,
+                        "y": 142
                       }
                     ]
                   ]
@@ -2997,20 +2952,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 48.5,
-                        "y": 76
+                        "x": 156.5,
+                        "y": 129.5
                       },
                       {
-                        "x": 262.5,
-                        "y": 70
+                        "x": 178.5,
+                        "y": 186
                       },
                       {
-                        "x": 258,
-                        "y": 287
-                      },
-                      {
-                        "x": 56,
-                        "y": 292
+                        "x": 126,
+                        "y": 185
                       }
                     ]
                   ]
@@ -3045,20 +2996,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11.5,
-                        "y": 15
+                        "x": 87.5,
+                        "y": 135.5
                       },
                       {
-                        "x": 233.5,
-                        "y": 16.5
+                        "x": 153,
+                        "y": 104
                       },
                       {
-                        "x": 228.5,
-                        "y": 239
-                      },
-                      {
-                        "x": 4,
-                        "y": 240
+                        "x": 160.5,
+                        "y": 163.5
                       }
                     ]
                   ]
@@ -3093,20 +3040,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 52.5,
-                        "y": 13.5
+                        "x": 161.5,
+                        "y": 85
                       },
                       {
-                        "x": 267.5,
-                        "y": 5.5
+                        "x": 191.5,
+                        "y": 134.5
                       },
                       {
-                        "x": 263.5,
-                        "y": 238
-                      },
-                      {
-                        "x": 54.5,
-                        "y": 236.5
+                        "x": 134.5,
+                        "y": 136
                       }
                     ]
                   ]
@@ -4524,7 +4467,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4815,6 +4757,16 @@
                     "Pieza",
                     "Arrastrable",
                     "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ganar",
+                    "True",
+                    ""
                   ]
                 }
               ]
@@ -5430,6 +5382,16 @@
                 "",
                 "\"winer\""
               ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "False",
+                ""
+              ]
             }
           ]
         }
@@ -5555,7 +5517,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5570,6 +5531,15 @@
               "parameters": [
                 "btn_regresar",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"UI\""
               ]
             }
           ],
@@ -5598,6 +5568,25 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"game over\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -5623,6 +5612,16 @@
               "parameters": [
                 "btn_salirJuego",
                 "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
                 ""
               ]
             }
@@ -6100,7 +6099,7 @@
       "cameraType": "",
       "followBaseLayerCamera": false,
       "isLightingLayer": false,
-      "isLocked": false,
+      "isLocked": true,
       "name": "game over",
       "renderingType": "",
       "visibility": false,
