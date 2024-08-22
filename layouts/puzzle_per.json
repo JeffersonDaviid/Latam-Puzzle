@@ -983,7 +983,7 @@
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 720,
+      "width": 685,
       "x": 1208,
       "y": 594,
       "zOrder": 100,
@@ -1532,6 +1532,23 @@
       "x": 1990,
       "y": 950,
       "zOrder": 1010,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 9,
+      "customSize": true,
+      "depth": 0,
+      "height": 307.5,
+      "keepRatio": true,
+      "layer": "winer",
+      "name": "remolino",
+      "persistentUuid": "cf08109c-428c-4731-a6e5-8e0d56a2eb85",
+      "width": 410,
+      "x": 1875,
+      "y": 675,
+      "zOrder": 1011,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -3391,9 +3408,9 @@
       ],
       "behaviors": [
         {
+          "leftEdgeAnchor": 1,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
@@ -3414,9 +3431,9 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 1,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
