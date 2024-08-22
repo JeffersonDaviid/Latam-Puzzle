@@ -10497,9 +10497,9 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
