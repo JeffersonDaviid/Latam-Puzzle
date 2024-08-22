@@ -423,6 +423,7 @@
       "effects": [],
       "behaviors": [
         {
+<<<<<<< Updated upstream
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
@@ -430,6 +431,15 @@
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 3,
+=======
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+>>>>>>> Stashed changes
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -701,7 +711,11 @@
             "",
             "\"Movimiento\"",
             ">=",
+<<<<<<< Updated upstream
             "33"
+=======
+            "30"
+>>>>>>> Stashed changes
           ]
         }
       ],
