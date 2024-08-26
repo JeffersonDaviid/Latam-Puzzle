@@ -51,6 +51,11 @@
       "name": "numberInfo",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "ganar",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -4558,7 +4563,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4850,6 +4854,16 @@
                     "Arrastrable",
                     "no"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ganar",
+                    "True",
+                    ""
+                  ]
                 }
               ]
             }
@@ -4919,7 +4933,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4964,6 +4977,16 @@
                 "assets\\sounds\\Late Nights.wav",
                 "yes",
                 "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "False",
                 ""
               ]
             }
@@ -5607,6 +5630,15 @@
                 "btn_regresar",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"UI\""
+              ]
             }
           ],
           "actions": [
@@ -5634,6 +5666,25 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"game over\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -5659,6 +5710,16 @@
               "parameters": [
                 "btn_salirJuego",
                 "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
                 ""
               ]
             }
