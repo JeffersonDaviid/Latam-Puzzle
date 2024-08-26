@@ -51,6 +51,12 @@
       "name": "numberInfo",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "ganar",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -4547,7 +4553,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4821,6 +4826,16 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ganar",
+                    "True",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "ShowLayer"
@@ -5596,6 +5611,15 @@
                 "btn_regresar",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"UI\""
+              ]
             }
           ],
           "actions": [
@@ -5623,6 +5647,25 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"game over\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -5648,6 +5691,16 @@
               "parameters": [
                 "btn_salirJuego",
                 "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
                 ""
               ]
             }

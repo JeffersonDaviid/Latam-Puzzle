@@ -1,13 +1,13 @@
 {
-  "b": 27,
+  "b": 255,
   "disableInputWhenNotFocused": true,
   "mangledName": "puzzle_95honduras",
   "name": "puzzle_honduras",
-  "r": 34,
+  "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
   "title": "ESTADOS UNIDOS DE AMERICA",
-  "v": 177,
+  "v": 255,
   "uiSettings": {
     "grid": false,
     "gridType": "rectangular",
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.4084298220582882,
+    "zoomFactor": 0.32381431364653496,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -51,6 +51,12 @@
       "name": "numberInfo",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "ganar",
+      "type": "boolean",
+      "value": false
     }
   ],
   "instances": [
@@ -4558,7 +4564,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4839,6 +4844,16 @@
                   "parameters": [
                     "",
                     "\"game over\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "ganar",
+                    "True",
+                    ""
                   ]
                 },
                 {
@@ -5604,6 +5619,15 @@
                 "btn_regresar",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"UI\""
+              ]
             }
           ],
           "actions": [
@@ -5631,6 +5655,25 @@
                 "ButtonFSM",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "Layer"
+              },
+              "parameters": [
+                "btn_regresar",
+                "\"game over\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -5640,7 +5683,7 @@
               },
               "parameters": [
                 "",
-                "\"puzzle_usa\"",
+                "\"puzzle_honduras\"",
                 ""
               ]
             }
@@ -5656,6 +5699,16 @@
               "parameters": [
                 "btn_salirJuego",
                 "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
                 ""
               ]
             }
