@@ -3408,9 +3408,9 @@
       ],
       "behaviors": [
         {
-          "leftEdgeAnchor": 1,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 1,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
@@ -3431,9 +3431,9 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 1,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 1,
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
