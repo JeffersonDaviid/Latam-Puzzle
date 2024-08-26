@@ -6181,7 +6181,7 @@
       "isLocked": false,
       "name": "game over",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": [
         {
