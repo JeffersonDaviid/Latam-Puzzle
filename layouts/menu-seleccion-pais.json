@@ -6,7 +6,7 @@
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
-  "title": "",
+  "title": "MENU",
   "v": 209,
   "uiSettings": {
     "grid": false,
@@ -885,10 +885,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 4,
           "name": "Anchor",
-          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 1,
+          "rightEdgeAnchor": 2,
           "bottomEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "topEdgeAnchor": 3,

@@ -1,7 +1,7 @@
 {
   "firstLayout": "Menu principal",
   "gdVersion": {
-    "build": 210,
+    "build": 211,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -11,7 +11,7 @@
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": true,
-    "orientation": "landscape",
+    "orientation": "default",
     "packageName": "com.epn.latampuzzle",
     "pixelsRounding": false,
     "projectUuid": "7edd034a-dfab-4235-b4a2-638b42b40dd9",
@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\RM",
+    "latestCompilationDirectory": "\\\\WINSERVER\\game",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -10442,8 +10442,8 @@
       "behaviors": [
         {
           "name": "Anchor",
-          "rightEdgeAnchor": 2,
           "type": "AnchorBehavior::AnchorBehavior",
+          "rightEdgeAnchor": 2,
           "leftEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
@@ -13453,8 +13453,8 @@
       "behaviors": [
         {
           "name": "Anchor",
-          "rightEdgeAnchor": 2,
           "type": "AnchorBehavior::AnchorBehavior",
+          "rightEdgeAnchor": 2,
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
           "topEdgeAnchor": 0,
@@ -14015,10 +14015,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 4,
           "name": "Anchor",
-          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 4,
+          "rightEdgeAnchor": 4,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -14087,9 +14087,9 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -14337,11 +14337,11 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 1,
-          "name": "Anchor",
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 2,
           "useLegacyBottomAndRightAnchors": false
@@ -14666,10 +14666,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 4,
           "name": "Anchor",
-          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 4,
+          "rightEdgeAnchor": 4,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
