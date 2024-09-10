@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.31966000195506133,
+    "zoomFactor": 0.3530997991555018,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -33,7 +33,7 @@
       "layer": "",
       "name": "fondo_america",
       "persistentUuid": "9d75759d-6402-4592-96c3-6865f7fcea9c",
-      "width": 2352,
+      "width": 1939,
       "x": -9,
       "y": -3,
       "zOrder": 2,
@@ -44,15 +44,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 1015,
+      "depth": 0.9110396570203644,
+      "height": 924.70525187567,
       "keepRatio": true,
       "layer": "",
       "name": "Tableta",
       "persistentUuid": "5eb050b9-72a9-4495-869d-85835088906a",
-      "width": 1866,
-      "x": 219,
-      "y": 45,
+      "width": 1700,
+      "x": 110,
+      "y": 78,
       "zOrder": 63,
       "numberProperties": [],
       "stringProperties": [],
@@ -61,15 +61,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 130,
+      "depth": 34.52054794520548,
+      "height": 93.49315068493158,
       "keepRatio": true,
       "layer": "",
       "name": "b1",
       "persistentUuid": "6efb80a0-275f-40f0-96f0-c391513d98fa",
-      "width": 146,
-      "x": 471,
-      "y": 224,
+      "width": 105,
+      "x": 355,
+      "y": 255,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -78,15 +78,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 132,
+      "depth": 34.05405405405406,
+      "height": 93.64864864864863,
       "keepRatio": true,
       "layer": "",
       "name": "b2",
       "persistentUuid": "bc33187d-ccc6-4ebc-a82c-7c2e839bcfe1",
-      "width": 148,
-      "x": 673,
-      "y": 223,
+      "width": 105,
+      "x": 535,
+      "y": 254,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -95,15 +95,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 132,
+      "depth": 35.74468085106385,
+      "height": 98.29787234042556,
       "keepRatio": true,
       "layer": "",
       "name": "b3",
       "persistentUuid": "61adfadc-2f46-4d63-b0e6-0de8ff7c5aa5",
-      "width": 141,
-      "x": 884,
-      "y": 223,
+      "width": 105,
+      "x": 725,
+      "y": 254,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -112,15 +112,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 134,
+      "depth": 35.00000000000003,
+      "height": 97.70833333333337,
       "keepRatio": true,
       "layer": "",
       "name": "b4",
       "persistentUuid": "3f8512bd-df83-442d-9379-edc180d63140",
-      "width": 144,
-      "x": 1081,
-      "y": 221,
+      "width": 105,
+      "x": 900,
+      "y": 252,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -129,15 +129,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 133,
+      "depth": 35.244755244755254,
+      "height": 97.65734265734268,
       "keepRatio": true,
       "layer": "",
       "name": "b5",
       "persistentUuid": "b24727ec-48e8-44ea-96f6-2bb71a364e60",
-      "width": 143,
-      "x": 1272,
-      "y": 221,
+      "width": 105,
+      "x": 1080,
+      "y": 252,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -146,15 +146,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 127,
+      "depth": 36.000000000000014,
+      "height": 95.25000000000001,
       "keepRatio": true,
       "layer": "",
       "name": "b6",
       "persistentUuid": "ba4e1373-db62-4d16-96e9-daa712d9dec6",
-      "width": 140,
-      "x": 1472,
-      "y": 222,
+      "width": 105,
+      "x": 1267,
+      "y": 253,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -163,15 +163,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 133,
+      "depth": 36.78832116788322,
+      "height": 101.93430656934315,
       "keepRatio": true,
       "layer": "",
       "name": "b8",
       "persistentUuid": "6ac42ab1-7f9d-48a1-9577-d2201fa33483",
-      "width": 137,
-      "x": 1665,
-      "y": 220,
+      "width": 105,
+      "x": 1450,
+      "y": 251,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -180,15 +180,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 129,
+      "depth": 37.611940298507484,
+      "height": 101.08208955223884,
       "keepRatio": true,
       "layer": "",
       "name": "b9",
       "persistentUuid": "bd3cf0ea-f2c7-4106-8a9e-3d5e02ea1df9",
-      "width": 134,
-      "x": 493,
-      "y": 441,
+      "width": 105,
+      "x": 359,
+      "y": 442,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -197,15 +197,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 131,
+      "depth": 36.258992805755405,
+      "height": 98.95683453237416,
       "keepRatio": true,
       "layer": "",
       "name": "b10",
       "persistentUuid": "63dd068a-1ab3-45ba-8409-6852b2458669",
-      "width": 139,
-      "x": 678,
-      "y": 439,
+      "width": 105,
+      "x": 535,
+      "y": 440,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -214,15 +214,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 126,
+      "depth": 36.52173913043481,
+      "height": 95.86956521739133,
       "keepRatio": true,
       "layer": "",
       "name": "b11",
       "persistentUuid": "bc41a29e-7ccc-47fa-b767-a67ee967caaf",
-      "width": 138,
-      "x": 879,
-      "y": 443,
+      "width": 105,
+      "x": 725,
+      "y": 444,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -231,15 +231,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 132,
+      "depth": 34.285714285714285,
+      "height": 94.28571428571428,
       "keepRatio": true,
       "layer": "",
       "name": "b12",
       "persistentUuid": "4cd2fdfc-8684-4401-ae76-904d81e038d4",
-      "width": 147,
-      "x": 1071,
-      "y": 436,
+      "width": 105,
+      "x": 900,
+      "y": 437,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -248,15 +248,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 129,
+      "depth": 34.52054794520548,
+      "height": 92.77397260273973,
       "keepRatio": true,
       "layer": "",
       "name": "b13",
       "persistentUuid": "9ccbadd4-641d-40e9-9ddc-09efb02d1006",
-      "width": 146,
-      "x": 1272,
-      "y": 439,
+      "width": 105,
+      "x": 1080,
+      "y": 440,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -265,15 +265,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 140,
+      "depth": 35.244755244755254,
+      "height": 102.79720279720287,
       "keepRatio": true,
       "layer": "",
       "name": "b14",
       "persistentUuid": "e02e5832-64e1-47dd-8479-2d133f3a82fe",
-      "width": 143,
-      "x": 1472,
-      "y": 430,
+      "width": 105,
+      "x": 1267,
+      "y": 431,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -282,15 +282,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 139,
+      "depth": 34.05405405405406,
+      "height": 98.61486486486486,
       "keepRatio": true,
       "layer": "",
       "name": "b15",
       "persistentUuid": "2f92d0b6-3690-4c8d-86ec-791dfcbe3ee5",
-      "width": 148,
-      "x": 1664,
-      "y": 430,
+      "width": 105,
+      "x": 1450,
+      "y": 431,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -299,15 +299,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 133,
+      "depth": 35.74468085106385,
+      "height": 99.04255319148938,
       "keepRatio": true,
       "layer": "",
       "name": "b16",
       "persistentUuid": "7ee8e479-c712-4665-a681-9c14a7513bfc",
-      "width": 141,
-      "x": 481,
-      "y": 660,
+      "width": 105,
+      "x": 359,
+      "y": 655,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -316,15 +316,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 131,
+      "depth": 36.52173913043481,
+      "height": 99.67391304347834,
       "keepRatio": true,
       "layer": "",
       "name": "b17",
       "persistentUuid": "b1d5ee35-9cf9-4792-91df-96f046cd43ab",
-      "width": 138,
-      "x": 681,
-      "y": 664,
+      "width": 105,
+      "x": 535,
+      "y": 659,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -333,15 +333,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 130,
+      "depth": 36.258992805755405,
+      "height": 98.20143884892093,
       "keepRatio": true,
       "layer": "",
       "name": "b18",
       "persistentUuid": "9edc2b94-fc3d-40f6-bea0-881e5f189d22",
-      "width": 139,
-      "x": 881,
-      "y": 664,
+      "width": 105,
+      "x": 725,
+      "y": 659,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -350,15 +350,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 129,
+      "depth": 35.00000000000003,
+      "height": 94.06249999999999,
       "keepRatio": true,
       "layer": "",
       "name": "b19",
       "persistentUuid": "9f89ba5e-4f87-4f65-8843-7948e52fd863",
-      "width": 144,
-      "x": 1073,
-      "y": 664,
+      "width": 105,
+      "x": 900,
+      "y": 659,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -367,15 +367,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 131,
+      "depth": 34.7586206896552,
+      "height": 94.86206896551725,
       "keepRatio": true,
       "layer": "",
       "name": "b20",
       "persistentUuid": "3dd394f9-6ace-4521-8ab2-cc626da91d20",
-      "width": 145,
-      "x": 1266,
-      "y": 662,
+      "width": 105,
+      "x": 1080,
+      "y": 657,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -384,15 +384,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 133,
+      "depth": 36.000000000000014,
+      "height": 99.75000000000007,
       "keepRatio": true,
       "layer": "",
       "name": "b21",
       "persistentUuid": "e3318104-5ae6-4ec7-80c8-ae02ac5d0382",
-      "width": 140,
-      "x": 1471,
-      "y": 660,
+      "width": 105,
+      "x": 1267,
+      "y": 655,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -401,15 +401,15 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 48,
-      "height": 132,
+      "depth": 35.49295774647888,
+      "height": 97.60563380281698,
       "keepRatio": true,
       "layer": "",
       "name": "b22",
       "persistentUuid": "ff51febb-ec7e-4e58-bc2d-761cf78c4e51",
-      "width": 142,
-      "x": 1671,
-      "y": 660,
+      "width": 105,
+      "x": 1450,
+      "y": 655,
       "zOrder": 65,
       "numberProperties": [],
       "stringProperties": [],
@@ -866,7 +866,7 @@
       "name": "logo_dominioTablet",
       "persistentUuid": "b902a4e5-b5a4-4ecb-849e-cb9934f4ffdd",
       "width": 430,
-      "x": 928,
+      "x": 745,
       "y": 859,
       "zOrder": 64,
       "numberProperties": [],
@@ -885,12 +885,12 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 4,
           "name": "Anchor",
+          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -947,12 +947,6 @@
       ]
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b1",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1037,46 +1031,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b2",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1161,46 +1118,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b3",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1285,46 +1205,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b4",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1409,46 +1292,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b5",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1533,46 +1379,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b6",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1657,46 +1466,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b8",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1781,46 +1553,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b9",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -1905,46 +1640,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b10",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2029,46 +1727,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b11",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2153,46 +1814,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b12",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2277,46 +1901,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b13",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2401,46 +1988,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b14",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2525,46 +2075,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b15",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2649,46 +2162,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b16",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2773,46 +2249,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b17",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -2897,46 +2336,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b18",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -3021,46 +2423,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b19",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -3145,46 +2510,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b20",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -3269,46 +2597,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b21",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -3393,46 +2684,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "b22",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -3517,46 +2771,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "Return",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -3641,38 +2858,7 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     }
   ],
   "objectsFolderStructure": {

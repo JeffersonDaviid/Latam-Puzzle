@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.1830573495556024,
+    "zoomFactor": 0.34375202416123557,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -39,7 +39,7 @@
       "layer": "",
       "name": "fondo",
       "persistentUuid": "34895886-6da4-4efd-969b-a60f7fc74046",
-      "width": 2340,
+      "width": 1931,
       "x": 0,
       "y": 0,
       "zOrder": 3,
@@ -69,7 +69,7 @@
       "name": "inst",
       "persistentUuid": "de210516-ef97-49f5-ad36-7897a3c73b5d",
       "width": 420,
-      "x": 2300,
+      "x": 2539,
       "y": 670,
       "zOrder": 11,
       "numberProperties": [],
@@ -102,8 +102,8 @@
       "name": "cabezas",
       "persistentUuid": "92a8dd52-8137-4ddd-b5b1-beb5a9824ceb",
       "width": 1113,
-      "x": 678,
-      "y": -443,
+      "x": 403.5,
+      "y": -447,
       "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
@@ -150,8 +150,8 @@
       "name": "creditos",
       "persistentUuid": "d616ee73-8ad9-48e6-b320-4013ddce328a",
       "width": 296,
-      "x": 1884,
-      "y": 79,
+      "x": 1600,
+      "y": 946,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -200,8 +200,8 @@
       "name": "camara",
       "persistentUuid": "65889463-5db9-4d0d-872b-b76e252808a7",
       "width": 717,
-      "x": 1670,
-      "y": 402,
+      "x": 1224,
+      "y": 394,
       "zOrder": 17,
       "numberProperties": [],
       "stringProperties": [],
@@ -339,8 +339,8 @@
       "name": "logo_dominio",
       "persistentUuid": "055930fe-f845-4b15-9e88-914a4344189e",
       "width": 0,
-      "x": 67,
-      "y": 876,
+      "x": 30,
+      "y": 30,
       "zOrder": 20,
       "numberProperties": [],
       "stringProperties": [],
@@ -421,12 +421,12 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 4,
           "name": "Anchor",
+          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -505,14 +505,14 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
+          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 2,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 3,
-          "relativeToOriginalWindowSize": false,
-          "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 0,
-          "useLegacyBottomAndRightAnchors": true
+          "useLegacyBottomAndRightAnchors": false,
+          "topEdgeAnchor": 0
         }
       ],
       "animations": [
@@ -913,12 +913,12 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         },
         {

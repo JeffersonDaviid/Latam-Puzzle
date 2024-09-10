@@ -1,7 +1,7 @@
 {
   "firstLayout": "Menu principal",
   "gdVersion": {
-    "build": 209,
+    "build": 210,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -23,9 +23,9 @@
     "name": "LatamPuzzle",
     "description": "",
     "author": "",
-    "windowWidth": 2340,
+    "windowWidth": 1920,
     "windowHeight": 1080,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\jeffe\\OneDrive\\Escritorio\\RM",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -10256,12 +10256,6 @@
   },
   "objects": [
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "btRetroceder",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -10348,46 +10342,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "btn_volver",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -10472,38 +10429,7 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -10516,9 +10442,9 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "rightEdgeAnchor": 2,
           "type": "AnchorBehavior::AnchorBehavior",
           "leftEdgeAnchor": 0,
-          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -13526,12 +13452,12 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
-          "name": "Anchor",
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "rightEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -14089,13 +14015,13 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 4,
           "name": "Anchor",
+          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -14161,12 +14087,12 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -14411,13 +14337,13 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 2,
+          "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 1,
+          "name": "Anchor",
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 1,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -14473,12 +14399,6 @@
       ]
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "btn_regresar",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -14582,46 +14502,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "BtHome",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -14695,46 +14578,9 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "BtSiguiente",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -14808,38 +14654,7 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     },
     {
       "adaptCollisionMaskAutomatically": true,
@@ -14851,10 +14666,10 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 4,
           "name": "Anchor",
+          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 3,
-          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
@@ -14913,12 +14728,6 @@
       ]
     },
     {
-      "areaMaxX": 64,
-      "areaMaxY": 64,
-      "areaMaxZ": 64,
-      "areaMinX": 0,
-      "areaMinY": 0,
-      "areaMinZ": 0,
       "assetStoreId": "",
       "name": "btn_salirJuego",
       "type": "PanelSpriteButton::PanelSpriteButton",
@@ -15022,38 +14831,7 @@
           "topMargin": 0,
           "width": 32
         }
-      },
-      "instances": [],
-      "layers": [
-        {
-          "ambientLightColorB": 200,
-          "ambientLightColorG": 200,
-          "ambientLightColorR": 200,
-          "camera3DFarPlaneDistance": 10000,
-          "camera3DFieldOfView": 45,
-          "camera3DNearPlaneDistance": 3,
-          "cameraType": "",
-          "followBaseLayerCamera": false,
-          "isLightingLayer": false,
-          "isLocked": false,
-          "name": "",
-          "renderingType": "",
-          "visibility": true,
-          "cameras": [
-            {
-              "defaultSize": true,
-              "defaultViewport": true,
-              "height": 0,
-              "viewportBottom": 1,
-              "viewportLeft": 0,
-              "viewportRight": 1,
-              "viewportTop": 0,
-              "width": 0
-            }
-          ],
-          "effects": []
-        }
-      ]
+      }
     }
   ],
   "objectsFolderStructure": {
