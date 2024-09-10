@@ -6,7 +6,7 @@
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
-  "title": "COMOJUGAR",
+  "title": "TUTORIAL",
   "v": 209,
   "uiSettings": {
     "grid": false,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.22916801610749069,
+    "zoomFactor": 0.3411856023473496,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -45,7 +45,7 @@
       "layer": "",
       "name": "fondoTutorial",
       "persistentUuid": "7ba404a1-0570-49f9-be9a-f24b0d23dc9b",
-      "width": 2340,
+      "width": 1920,
       "x": 0,
       "y": 0,
       "zOrder": 1,
@@ -62,8 +62,8 @@
       "layer": "",
       "name": "comoJugar",
       "persistentUuid": "b3727874-1676-4c94-980b-c52d79bdafbe",
-      "width": 823,
-      "x": 672,
+      "width": 1689,
+      "x": 115,
       "y": 80,
       "zOrder": 3,
       "numberProperties": [],
@@ -609,7 +609,7 @@
       "persistentUuid": "7d3dd19e-0635-4796-99ed-b72dd5671f65",
       "width": 145,
       "x": 150,
-      "y": 50,
+      "y": 65,
       "zOrder": 41,
       "numberProperties": [],
       "stringProperties": [],
@@ -700,19 +700,19 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 4,
           "name": "Anchor",
+          "rightEdgeAnchor": 4,
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 1,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 2,
-          "topEdgeAnchor": 1,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
       "string": "¿CÓMO JUGAR?",
       "font": "assets\\Fonts\\Kid Games.ttf",
-      "textAlignment": "left",
+      "textAlignment": "center",
       "characterSize": 90,
       "color": {
         "b": 43,
@@ -735,7 +735,7 @@
         "underlined": false,
         "text": "¿CÓMO JUGAR?",
         "font": "assets\\Fonts\\Kid Games.ttf",
-        "textAlignment": "left",
+        "textAlignment": "center",
         "characterSize": 90,
         "color": "238;206;43"
       }
@@ -1958,18 +1958,6 @@
         },
         {
           "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "btRetroceder",
-            "=",
-            "45",
-            "=",
-            "61"
-          ]
-        },
-        {
-          "type": {
             "value": "PlayMusic"
           },
           "parameters": [
@@ -2030,18 +2018,6 @@
             "850",
             "80",
             "0"
-          ]
-        },
-        {
-          "type": {
-            "value": "MettreXY"
-          },
-          "parameters": [
-            "btRetroceder",
-            "=",
-            "45",
-            "=",
-            "61"
           ]
         }
       ]

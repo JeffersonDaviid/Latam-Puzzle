@@ -6,7 +6,7 @@
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
-  "title": "ESTADOS UNIDOS DE AMERICA",
+  "title": "HAITI",
   "v": 255,
   "uiSettings": {
     "grid": false,
@@ -542,7 +542,7 @@
       "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
       "width": 795,
       "x": 1109,
-      "y": 266,
+      "y": 257,
       "zOrder": 201,
       "numberProperties": [],
       "stringProperties": [],
@@ -1045,8 +1045,8 @@
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 700,
-      "x": 1449,
-      "y": 483,
+      "x": 1443,
+      "y": 505,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1080,7 +1080,7 @@
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 783,
       "x": 1110,
-      "y": 500,
+      "y": 475,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1162,7 +1162,7 @@
       "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
       "width": 785,
       "x": 1108,
-      "y": 358,
+      "y": 318,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -3174,7 +3174,7 @@
       "string": "¡ GANASTE !",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 50,
       "color": {
         "b": 61,
         "g": 168,
@@ -3197,7 +3197,7 @@
         "text": "¡ GANASTE !",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
+        "characterSize": 50,
         "color": "59;168;61"
       }
     },
@@ -3337,11 +3337,11 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
           "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": false,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -3864,7 +3864,7 @@
       "string": "CIUDADELA DE LAFERRIÈRE",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 40,
+      "characterSize": 60,
       "color": {
         "b": 142,
         "g": 33,
@@ -3887,7 +3887,7 @@
         "text": "CIUDADELA DE LAFERRIÈRE",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 40,
+        "characterSize": 60,
         "color": "163;33;142"
       }
     },

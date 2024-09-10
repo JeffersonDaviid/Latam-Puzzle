@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.25314140012986314,
+    "zoomFactor": 0.22916801610748855,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -214,13 +214,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
           "name": "Anchor",
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -289,13 +289,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
           "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
+          "topEdgeAnchor": 0,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -364,13 +364,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
           "name": "Anchor",
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -558,13 +558,13 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
           "name": "Anchor",
+          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 3,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
         },
         {

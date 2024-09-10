@@ -991,8 +991,8 @@
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 700,
-      "x": 1458,
-      "y": 488,
+      "x": 1436,
+      "y": 491,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1026,7 +1026,7 @@
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 774,
       "x": 1112,
-      "y": 500,
+      "y": 475,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -3182,7 +3182,7 @@
       "string": "¡ GANASTE !",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 50,
       "color": {
         "b": 61,
         "g": 168,
@@ -3205,7 +3205,7 @@
         "text": "¡ GANASTE !",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
+        "characterSize": 50,
         "color": "59;168;61"
       }
     },
@@ -3345,11 +3345,11 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
           "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": false,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -3445,10 +3445,6 @@
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
         }
       ],
       "string": "\"El Templo I de Tikal, es más conocido como El Gran Jaguar.\nFue encontrado en febrero de 1848  por el gobernador de Petén Modesto Méndez.\"\n",
@@ -3872,7 +3868,7 @@
       "string": "TIKAL",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 40,
+      "characterSize": 60,
       "color": {
         "b": 142,
         "g": 33,
@@ -3895,7 +3891,7 @@
         "text": "TIKAL",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 40,
+        "characterSize": 60,
         "color": "163;33;142"
       }
     },

@@ -6,7 +6,7 @@
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
-  "title": "ESTADOS UNIDOS DE AMERICA",
+  "title": "VENEZUELA",
   "v": 255,
   "uiSettings": {
     "grid": false,
@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27433470637762114,
+    "zoomFactor": 0.28358536322913996,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -532,7 +532,7 @@
       "layer": "winer",
       "name": "txt_win",
       "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
-      "width": 1119,
+      "width": 731,
       "x": 1154,
       "y": 269,
       "zOrder": 201,
@@ -962,9 +962,9 @@
       "layer": "UI",
       "name": "nameCountry",
       "persistentUuid": "415ba0b9-0446-45ef-851d-8bd852e7fd97",
-      "width": 1004,
-      "x": 1142,
-      "y": 44,
+      "width": 836,
+      "x": 1084,
+      "y": 25,
       "zOrder": 106,
       "numberProperties": [],
       "stringProperties": [],
@@ -979,9 +979,9 @@
       "layer": "winer",
       "name": "curiosidad",
       "persistentUuid": "d92ca3f3-167f-4632-a8a4-f38fded28bc0",
-      "width": 541,
-      "x": 1222,
-      "y": 583,
+      "width": 552,
+      "x": 1134,
+      "y": 585,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1022,15 +1022,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 525.0000000000001,
       "keepRatio": true,
       "layer": "winer",
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
-      "width": 0,
-      "x": 1744,
-      "y": 404,
+      "width": 700,
+      "x": 1417,
+      "y": 478,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1055,15 +1056,16 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 69,
       "keepRatio": true,
       "layer": "winer",
       "name": "txt_sabiasQue",
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
-      "width": 0,
-      "x": 1450,
-      "y": 500,
+      "width": 788,
+      "x": 1104,
+      "y": 475,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1077,8 +1079,8 @@
       "layer": "winer",
       "name": "background3",
       "persistentUuid": "e11fb1eb-6fd4-47f2-ad2f-577115728dee",
-      "width": 1115,
-      "x": 1157,
+      "width": 783,
+      "x": 1108,
       "y": 234,
       "zOrder": 0,
       "numberProperties": [],
@@ -1090,11 +1092,10 @@
       "customSize": true,
       "depth": 1,
       "height": 1080,
-      "keepRatio": true,
       "layer": "",
       "name": "background",
       "persistentUuid": "91e5eb4c-1111-4b45-bc7f-fb0fe7b840e4",
-      "width": 2340,
+      "width": 1920,
       "x": 0,
       "y": 0,
       "zOrder": 0,
@@ -1144,7 +1145,7 @@
       "layer": "winer",
       "name": "nombreSitioPuzzle",
       "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
-      "width": 1115,
+      "width": 731,
       "x": 1156,
       "y": 360,
       "zOrder": 100,
@@ -1205,13 +1206,13 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 0.9991460290350128,
+      "depth": 0.8198121263877027,
       "height": 1080,
       "keepRatio": true,
       "layer": "game over",
       "name": "background2",
       "persistentUuid": "7768130d-2bdb-44e6-995b-af5ffcecbb4b",
-      "width": 2340,
+      "width": 1920,
       "x": 0,
       "y": 0,
       "zOrder": 0,
@@ -1229,7 +1230,7 @@
       "name": "logo_juego",
       "persistentUuid": "07464440-8536-4557-b772-e8a02d161f64",
       "width": 1156,
-      "x": 542,
+      "x": 382,
       "y": 3,
       "zOrder": 999,
       "numberProperties": [],
@@ -1246,8 +1247,8 @@
       "name": "map_personaje",
       "persistentUuid": "fe318cc8-226e-4c1a-b347-c53cfa74d0fb",
       "width": 665,
-      "x": 1660,
-      "y": 616,
+      "x": 1403,
+      "y": 591,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1263,8 +1264,8 @@
       "name": "remolino",
       "persistentUuid": "9f3ac786-9000-4788-b255-95656778ca33",
       "width": 361,
-      "x": 1770,
-      "y": 872,
+      "x": 1513,
+      "y": 847,
       "zOrder": 101,
       "numberProperties": [],
       "stringProperties": [],
@@ -1323,14 +1324,14 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1,
-      "height": 227,
+      "depth": 1.2549019607843137,
+      "height": 284.8627450980392,
       "keepRatio": true,
       "layer": "game over",
       "name": "txt_volverJugar",
       "persistentUuid": "7ab32d3f-30f7-4cc4-bac4-efa92879c8c8",
-      "width": 1530,
-      "x": 450,
+      "width": 1920,
+      "x": 0,
       "y": 475,
       "zOrder": 1005,
       "numberProperties": [],
@@ -1492,7 +1493,7 @@
       "name": "btn_regresar",
       "persistentUuid": "b6ad71d2-4bf9-4b7b-819b-d8ffdeab02b9",
       "width": 430,
-      "x": 675,
+      "x": 463,
       "y": 775,
       "zOrder": 1007,
       "numberProperties": [],
@@ -1509,7 +1510,7 @@
       "name": "btn_salirJuego",
       "persistentUuid": "23253b04-dc2e-4f68-85fc-43cf04cb4660",
       "width": 430,
-      "x": 1235,
+      "x": 1023,
       "y": 775,
       "zOrder": 1009,
       "numberProperties": [],
@@ -1525,7 +1526,7 @@
       "name": "btn_regresar",
       "persistentUuid": "b35a295a-067d-4005-a8a1-d01b1b591ce5",
       "width": 300,
-      "x": 1990,
+      "x": 1610,
       "y": 950,
       "zOrder": 1010,
       "numberProperties": [],
@@ -3147,7 +3148,7 @@
       "string": "¡ GANASTE !",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 50,
       "color": {
         "b": 61,
         "g": 168,
@@ -3170,7 +3171,7 @@
         "text": "¡ GANASTE !",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
+        "characterSize": 50,
         "color": "59;168;61"
       }
     },
@@ -3309,12 +3310,12 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 0,
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
           "leftEdgeAnchor": 3,
-          "bottomEdgeAnchor": 1,
-          "relativeToOriginalWindowSize": false,
-          "rightEdgeAnchor": 2,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -3410,16 +3411,12 @@
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
         }
       ],
       "string": "Empezó su formación hace más de 2.5 millones de años, en la última era del hielo. \nEl nombre del glaciar se debe a Francisco Moreno, director del museo de la Sociedad Científica Argentina.\nDeclarado Patrimonio de la Humanidad por la UNESCO en 1981.\n \n",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
-      "characterSize": 30,
+      "characterSize": 50,
       "color": {
         "b": 0,
         "g": 0,
@@ -3442,7 +3439,7 @@
         "text": "Empezó su formación hace más de 2.5 millones de años, en la última era del hielo. \nEl nombre del glaciar se debe a Francisco Moreno, director del museo de la Sociedad Científica Argentina.\nDeclarado Patrimonio de la Humanidad por la UNESCO en 1981.\n \n",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
-        "characterSize": 30,
+        "characterSize": 50,
         "color": "0;0;0"
       }
     },
@@ -3602,17 +3599,17 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
+          "useLegacyBottomAndRightAnchors": false,
           "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
-          "relativeToOriginalWindowSize": true,
-          "useLegacyBottomAndRightAnchors": false
+          "relativeToOriginalWindowSize": true
         }
       ],
       "string": "Sabías que ...",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
-      "textAlignment": "left",
+      "textAlignment": "center",
       "characterSize": 50,
       "color": {
         "b": 0,
@@ -3635,7 +3632,7 @@
         "underlined": false,
         "text": "Sabías que ...",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
-        "textAlignment": "left",
+        "textAlignment": "center",
         "characterSize": 50,
         "color": "0;0;0"
       }
@@ -3824,9 +3821,9 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
@@ -3837,7 +3834,7 @@
       "string": "SALTO ÁNGEL",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 40,
+      "characterSize": 60,
       "color": {
         "b": 142,
         "g": 33,
@@ -3860,7 +3857,7 @@
         "text": "SALTO ÁNGEL",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 40,
+        "characterSize": 60,
         "color": "163;33;142"
       }
     },
@@ -4218,11 +4215,11 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 4,
           "name": "Anchor",
+          "rightEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
@@ -4529,6 +4526,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Timer",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -4899,6 +4897,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Al comienzo de cada Iteración",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5032,6 +5031,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5498,7 +5498,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"Es la catarata más alta del mundo.\n\"\n"
+                "\"Es la catarata más alta del mundo.\"\n"
               ]
             }
           ]
@@ -5566,7 +5566,7 @@
                 "curiosidad",
                 "Text",
                 "=",
-                "\"\nDeclarada Patrimonio de la Humanidad por la Unesco en el año 1994.\n\"\n"
+                "\"Declarada Patrimonio de la Humanidad por la Unesco en el año 1994.\"\n"
               ]
             }
           ]

@@ -535,7 +535,7 @@
       "persistentUuid": "0e6cd26f-5aba-4dfb-a217-cb249139f82e",
       "width": 785,
       "x": 1102,
-      "y": 269,
+      "y": 258,
       "zOrder": 201,
       "numberProperties": [],
       "stringProperties": [],
@@ -1066,7 +1066,7 @@
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 747,
       "x": 1120,
-      "y": 490,
+      "y": 475,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1148,7 +1148,7 @@
       "persistentUuid": "969aeae1-dcef-4132-9275-8e9d8025f15f",
       "width": 789,
       "x": 1102,
-      "y": 358,
+      "y": 320,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -1494,7 +1494,7 @@
       "name": "btn_regresar",
       "persistentUuid": "b6ad71d2-4bf9-4b7b-819b-d8ffdeab02b9",
       "width": 430,
-      "x": 539,
+      "x": 492,
       "y": 775,
       "zOrder": 1007,
       "numberProperties": [],
@@ -1511,7 +1511,7 @@
       "name": "btn_salirJuego",
       "persistentUuid": "23253b04-dc2e-4f68-85fc-43cf04cb4660",
       "width": 430,
-      "x": 1036,
+      "x": 989,
       "y": 775,
       "zOrder": 1009,
       "numberProperties": [],
@@ -3173,7 +3173,7 @@
       "string": "¡ GANASTE !",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 50,
       "color": {
         "b": 61,
         "g": 168,
@@ -3196,7 +3196,7 @@
         "text": "¡ GANASTE !",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
+        "characterSize": 50,
         "color": "59;168;61"
       }
     },
@@ -3336,11 +3336,11 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
-          "relativeToOriginalWindowSize": false,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -3428,18 +3428,14 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 1,
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 1,
           "rightEdgeAnchor": 3,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
         }
       ],
       "string": "cuiosidad aleatoria",
@@ -3863,7 +3859,7 @@
       "string": "ESTATUA DE LA LIBERTAD",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 40,
+      "characterSize": 60,
       "color": {
         "b": 142,
         "g": 33,
@@ -3886,7 +3882,7 @@
         "text": "ESTATUA DE LA LIBERTAD",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 40,
+        "characterSize": 60,
         "color": "163;33;142"
       }
     },

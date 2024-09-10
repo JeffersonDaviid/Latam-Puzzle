@@ -10263,13 +10263,13 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
-          "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -14406,12 +14406,12 @@
       "effects": [],
       "behaviors": [
         {
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
+          "rightEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         },

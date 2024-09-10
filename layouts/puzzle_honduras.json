@@ -6,7 +6,7 @@
   "r": 255,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
-  "title": "ESTADOS UNIDOS DE AMERICA",
+  "title": "HONDURAS",
   "v": 255,
   "uiSettings": {
     "grid": false,
@@ -1045,8 +1045,8 @@
       "name": "map_personaje",
       "persistentUuid": "2c083999-d7a1-451c-ac97-8b129550f83a",
       "width": 700,
-      "x": 1450,
-      "y": 483,
+      "x": 1438,
+      "y": 495,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -1080,7 +1080,7 @@
       "persistentUuid": "8b23efed-36a8-4404-8fb5-adbcd3fb38ee",
       "width": 801,
       "x": 1101,
-      "y": 481,
+      "y": 475,
       "zOrder": 100,
       "numberProperties": [],
       "stringProperties": [],
@@ -3182,7 +3182,7 @@
       "string": "¡ GANASTE !",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 60,
+      "characterSize": 50,
       "color": {
         "b": 61,
         "g": 168,
@@ -3205,7 +3205,7 @@
         "text": "¡ GANASTE !",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 60,
+        "characterSize": 50,
         "color": "59;168;61"
       }
     },
@@ -3345,11 +3345,11 @@
       "behaviors": [
         {
           "name": "Anchor",
+          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 0,
           "rightEdgeAnchor": 4,
-          "relativeToOriginalWindowSize": false,
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
@@ -3872,7 +3872,7 @@
       "string": "RUINAS DE COPÀN",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
-      "characterSize": 40,
+      "characterSize": 60,
       "color": {
         "b": 142,
         "g": 33,
@@ -3895,7 +3895,7 @@
         "text": "RUINAS DE COPÀN",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
-        "characterSize": 40,
+        "characterSize": 60,
         "color": "163;33;142"
       }
     },
