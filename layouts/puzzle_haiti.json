@@ -3337,8 +3337,8 @@
       "behaviors": [
         {
           "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
+          "relativeToOriginalWindowSize": true,
           "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "bottomEdgeAnchor": 1,

@@ -214,10 +214,10 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
           "name": "Anchor",
-          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
@@ -289,11 +289,11 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "leftEdgeAnchor": 3,
           "rightEdgeAnchor": 3,
           "useLegacyBottomAndRightAnchors": false
@@ -364,10 +364,10 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
           "name": "Anchor",
-          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
@@ -558,10 +558,10 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
           "name": "Anchor",
-          "topEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 0,
+          "topEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,

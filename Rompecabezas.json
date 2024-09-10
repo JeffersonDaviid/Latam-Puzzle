@@ -9,7 +9,7 @@
   "properties": {
     "adaptGameResolutionAtRuntime": true,
     "antialiasingMode": "MSAA",
-    "antialisingEnabledOnMobile": false,
+    "antialisingEnabledOnMobile": true,
     "folderProject": true,
     "orientation": "default",
     "packageName": "com.epn.latampuzzle",
@@ -36,19 +36,19 @@
       "backgroundImageResourceName": "",
       "gdevelopLogoStyle": "light",
       "logoAndProgressFadeInDuration": 0.2,
-      "logoAndProgressLogoFadeInDelay": 0.2,
-      "minDuration": 1.5,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 2,
       "progressBarColor": 16777215,
       "progressBarHeight": 20,
       "progressBarMaxWidth": 200,
       "progressBarMinWidth": 40,
       "progressBarWidthPercent": 30,
       "showGDevelopSplash": true,
-      "showProgressBar": true
+      "showProgressBar": false
     },
     "watermark": {
       "placement": "bottom-left",
-      "showWatermark": true
+      "showWatermark": false
     },
     "authorIds": [],
     "authorUsernames": [],
@@ -10250,6 +10250,15 @@
         "name": "assets\\puzzles\\Game_Over\\Fondo\\Pie_Imagen.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/puzzles/MEXICO/armado.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\puzzles\\MEXICO\\armado.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -10263,10 +10272,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "relativeToOriginalWindowSize": true,
           "bottomEdgeAnchor": 0,
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
@@ -14406,10 +14415,10 @@
       "effects": [],
       "behaviors": [
         {
-          "leftEdgeAnchor": 3,
           "name": "Anchor",
-          "rightEdgeAnchor": 0,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "topEdgeAnchor": 0,

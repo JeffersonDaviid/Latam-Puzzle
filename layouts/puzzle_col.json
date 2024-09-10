@@ -3316,12 +3316,12 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 3,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
-          "type": "AnchorBehavior::AnchorBehavior",
           "topEdgeAnchor": 0,
           "useLegacyBottomAndRightAnchors": false
         }
