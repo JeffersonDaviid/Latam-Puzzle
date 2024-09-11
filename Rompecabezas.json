@@ -10259,6 +10259,36 @@
         "name": "assets\\puzzles\\MEXICO\\armado.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "assets/sounds/ClickButton.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\sounds\\ClickButton.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "file": "assets/sounds/LevelCompleted.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\sounds\\LevelCompleted.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/sounds/overButton.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets\\sounds\\overButton.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []

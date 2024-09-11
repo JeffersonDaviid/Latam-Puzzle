@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.38221817103243155,
+    "zoomFactor": 0.3576886955295104,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -5396,7 +5396,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5465,6 +5464,18 @@
             },
             {
               "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\LevelCompleted.wav",
+                "",
+                "5000",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "PauseTimer"
               },
               "parameters": [
@@ -5491,6 +5502,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5634,6 +5646,18 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\ClickButton.wav",
+                "no",
+                "100",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -5680,6 +5704,18 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\ClickButton.wav",
+                "no",
+                "100",
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -5715,6 +5751,18 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\ClickButton.wav",
+                "no",
+                "100",
+                "1"
+              ]
+            },
             {
               "type": {
                 "value": "Quit"

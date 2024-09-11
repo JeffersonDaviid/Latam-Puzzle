@@ -1244,6 +1244,18 @@
                 "",
                 "1"
               ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\ClickButton.wav",
+                "no",
+                "100",
+                "1"
+              ]
             }
           ]
         }
