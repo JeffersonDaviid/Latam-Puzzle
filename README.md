@@ -19,7 +19,7 @@ Para instalar GDevelop es necesario ir al Link oficial, donde descargamos el sof
 
 Dentro del proyecto encontramos las siguientes carpetas y archivos
 
-![image.png](image.png)
+![image.png](readme/image.png)
 
 Obviando el archivo .gitignore por razones obvias, tenemos otros 2 archivos 
 
@@ -43,13 +43,13 @@ Aquí es donde se almacenan las extensiones de funciones de eventos que hayas cr
 
 La carpeta `assets` está organizada en subdirectorios que clasifican los distintos recursos utilizados para el desarrollo y la ejecución del juego. Estos recursos incluyen imágenes para botones, animaciones, elementos gráficos, sonidos, fuentes, y más.
 
-![image.png](image%201.png)
+![image.png](readme/image%201.png)
 
 ## Inicialización
 
 Para poder trabajar, solo debemos abrir nuestro GDevelop y en Archivo, seleccionamos abrir, lo que abrirá nuestro explorador de Windows, vamos a el lugar donde hayamos clonado este repositorio y abrimos la carpeta Creada, finalmente solo seleccionamos el Archivo Rompecabezas y podremos iniciar a modificar
 
-![image.png](image%202.png)
+![image.png](readme/image%202.png)
 
 ## Escenas
 
@@ -58,8 +58,8 @@ Para poder trabajar, solo debemos abrir nuestro GDevelop y en Archivo, seleccion
 
 En la pestaña dedicada a los elementos gráficos podemos colocar nuevos elementos con diferentes comportamientos o características
 
-![image.png](image%203.png)
+![image.png](readme/image%203.png)
 
 Por el otro lado en la pestaña de los eventos colocamos triggers que disparan una acción concretra de alguno de los elementos existentes. Los eventos se puede ordenar y juntar para formar eventos mucho más complejos y elaborados.
 
-![image.png](image%204.png)
+![image.png](readme/image%204.png)
