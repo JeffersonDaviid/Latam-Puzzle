@@ -3430,8 +3430,8 @@
       "behaviors": [
         {
           "name": "Anchor",
-          "rightEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
+          "rightEdgeAnchor": 3,
           "leftEdgeAnchor": 1,
           "topEdgeAnchor": 0,
           "bottomEdgeAnchor": 0,
