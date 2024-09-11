@@ -1808,7 +1808,7 @@
           "parameters": [
             "play",
             "=",
-            "-600",
+            "-420",
             "=",
             "670"
           ]
@@ -1820,7 +1820,7 @@
           "parameters": [
             "inst",
             "=",
-            "2280",
+            "SceneWindowWidth()",
             "=",
             "670"
           ]
@@ -1919,6 +1919,18 @@
             "\"ComoJugar\"",
             ""
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
+          ]
         }
       ]
     },
@@ -1983,6 +1995,18 @@
             "",
             "1"
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
+          ]
         }
       ]
     },
@@ -2019,6 +2043,18 @@
             "",
             "\"Menu Seleccion Pais\"",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
           ]
         }
       ]

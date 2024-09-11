@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3411856023473496,
+    "zoomFactor": 0.4913877545329421,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -2326,6 +2326,18 @@
             "=",
             "0"
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
+          ]
         }
       ]
     },
@@ -2598,6 +2610,18 @@
             "",
             "1"
           ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
+          ]
         }
       ]
     },
@@ -2623,6 +2647,18 @@
             "",
             "\"Menu Seleccion Pais\"",
             ""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
           ]
         }
       ]

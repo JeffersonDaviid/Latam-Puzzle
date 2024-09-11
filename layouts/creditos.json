@@ -18,29 +18,12 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.22916801610748855,
+    "zoomFactor": 0.20746499616301614,
     "windowMask": false
   },
   "objectsGroups": [],
   "variables": [],
   "instances": [
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0.8590604026845637,
-      "height": 950.1208053691275,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Credito_0",
-      "persistentUuid": "f28f2914-71f5-4b7d-8410-fe225080fe66",
-      "width": 1920,
-      "x": 0,
-      "y": 716,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
     {
       "angle": 0,
       "customSize": true,
@@ -77,23 +60,6 @@
     {
       "angle": 0,
       "customSize": true,
-      "depth": 1.0047095761381475,
-      "height": 179.8430141287284,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Titulo_Creditos",
-      "persistentUuid": "be3ec8b7-8c1c-4955-b95b-505e8de67215",
-      "width": 1920,
-      "x": 0,
-      "y": 468,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
       "depth": 0,
       "height": 315.6512221816855,
       "keepRatio": true,
@@ -102,7 +68,7 @@
       "persistentUuid": "4c30244f-b77b-408f-87c9-025ca1ed6bf4",
       "width": 1200,
       "x": 360,
-      "y": 1575,
+      "y": 4075,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -127,233 +93,201 @@
     },
     {
       "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 269.1923981191231,
+      "customSize": false,
+      "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "Pie_Imagen",
-      "persistentUuid": "62d56314-3750-4d0d-9a64-fed709e32b0c",
-      "width": 2063,
-      "x": -7,
-      "y": 1925,
+      "name": "Titulo",
+      "persistentUuid": "0977b780-0ad1-468a-9b9d-5ff8eeedf497",
+      "width": 0,
+      "x": 390,
+      "y": 897,
       "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Titulo_Dir",
+      "persistentUuid": "4d11d532-b8ff-4277-9022-28a21ef8e7cc",
+      "width": 0,
+      "x": 758,
+      "y": 1340,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 388,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Desarrolladores",
+      "persistentUuid": "b19fd0d1-eddd-48db-ac5f-e551380aea89",
+      "width": 932,
+      "x": 493,
+      "y": 1402,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Titulo_Cont",
+      "persistentUuid": "ced8ee3d-bc5a-4e7b-8e1d-0197d342de0f",
+      "width": 0,
+      "x": 758,
+      "y": 1881,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Controlador_V",
+      "persistentUuid": "c1c40b03-1b90-41c4-b993-6c4f499a804c",
+      "width": 0,
+      "x": 518,
+      "y": 1933,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Titulo_Prog",
+      "persistentUuid": "ed77ee5b-b938-479a-bde6-9365dc8beb38",
+      "width": 0,
+      "x": 830,
+      "y": 2112,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Programadores",
+      "persistentUuid": "b7e7d5d2-9074-4c52-ab39-d1c61edb411b",
+      "width": 0,
+      "x": 898,
+      "y": 2168,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1234,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Izquierda_Prog",
+      "persistentUuid": "cbfa611b-0ac0-40f4-bd6b-6a52ecacc415",
+      "width": 685,
+      "x": 162,
+      "y": 2200,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Titulo_Dis",
+      "persistentUuid": "7931bc91-2572-4ba0-b540-47a8068b7459",
+      "width": 0,
+      "x": 856,
+      "y": 3482,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Izquierda_Dis",
+      "persistentUuid": "78ebdd6b-3bd9-4f00-b52c-a724fe8e71f7",
+      "width": 0,
+      "x": 498,
+      "y": 3563,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 365,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Diseñadores",
+      "persistentUuid": "825eb741-b4a0-4ad4-b123-2e7b6455d47c",
+      "width": 1013,
+      "x": 901,
+      "y": 3542,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "Titulo_Col",
+      "persistentUuid": "58ec21e9-c676-4734-8f1c-99b549e4188e",
+      "width": 0,
+      "x": 843,
+      "y": 3995,
+      "zOrder": 18,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
   ],
   "objects": [
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Fondo",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Fondo.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 4407,
-                        "y": 0
-                      },
-                      {
-                        "x": 4407,
-                        "y": 2482
-                      },
-                      {
-                        "x": 0,
-                        "y": 2482
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Credito_0",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 3,
-          "useLegacyBottomAndRightAnchors": false
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Creditos_0.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 236,
-                        "y": 128
-                      },
-                      {
-                        "x": 1043,
-                        "y": 128
-                      },
-                      {
-                        "x": 1043,
-                        "y": 2164
-                      },
-                      {
-                        "x": 236,
-                        "y": 2164
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "Titulo_Creditos",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "relativeToOriginalWindowSize": true,
-          "topEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
-          "rightEdgeAnchor": 3,
-          "useLegacyBottomAndRightAnchors": false
-        },
-        {
-          "name": "Tween",
-          "type": "Tween::TweenBehavior"
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Titulo.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 141,
-                        "y": 52
-                      },
-                      {
-                        "x": 2000,
-                        "y": 52
-                      },
-                      {
-                        "x": 2000,
-                        "y": 183
-                      },
-                      {
-                        "x": 141,
-                        "y": 183
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
@@ -366,11 +300,11 @@
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -549,22 +483,24 @@
       ]
     },
     {
-      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Pie_Imagen",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
+      "bold": false,
+      "italic": false,
+      "name": "Titulo",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
       "variables": [],
       "effects": [],
       "behaviors": [
         {
           "name": "Anchor",
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "leftEdgeAnchor": 3,
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -572,69 +508,670 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "animations": [
+      "string": "ARMA Y APRENDE",
+      "font": "assets\\Fonts\\Kid Games.ttf",
+      "textAlignment": "left",
+      "characterSize": 110,
+      "color": {
+        "b": 205,
+        "g": 205,
+        "r": 241
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "7;0;0",
+        "outlineThickness": 30,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 5,
+        "shadowOpacity": 70,
+        "smoothed": true,
+        "underlined": false,
+        "text": "ARMA Y APRENDE",
+        "font": "assets\\Fonts\\Kid Games.ttf",
+        "textAlignment": "left",
+        "characterSize": 110,
+        "color": "241;205;205"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Titulo_Dir",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
         {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "assets\\puzzles\\Game_Over\\Fondo\\Pie_Imagen.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 325,
-                        "y": 20
-                      },
-                      {
-                        "x": 2226,
-                        "y": 20
-                      },
-                      {
-                        "x": 2226,
-                        "y": 310
-                      },
-                      {
-                        "x": 325,
-                        "y": 310
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
-      ]
+      ],
+      "string": "Directores de Desarrollo",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Directores de Desarrollo",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "247;233;233"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Desarrolladores",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "KEVIN ALEXANDER PAÑAFIEL\nDOMÉNICA CAMILA SÁNCHEZ\nJONATHAN STEEVEN ANGULO\nSEBASTIAN PATRICIO RAMOS\nERIC DANIEL NONO\n",
+      "font": "assets\\Fonts\\Kid Games.ttf",
+      "textAlignment": "center",
+      "characterSize": 55,
+      "color": {
+        "b": 205,
+        "g": 205,
+        "r": 241
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 15,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "KEVIN ALEXANDER PAÑAFIEL\nDOMÉNICA CAMILA SÁNCHEZ\nJONATHAN STEEVEN ANGULO\nSEBASTIAN PATRICIO RAMOS\nERIC DANIEL NONO\n",
+        "font": "assets\\Fonts\\Kid Games.ttf",
+        "textAlignment": "center",
+        "characterSize": 55,
+        "color": "241;205;205"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Titulo_Cont",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "Controlador de Versiones",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Controlador de Versiones",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "247;233;233"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Controlador_V",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "JEFFERSON DAVID CHILENO",
+      "font": "assets\\Fonts\\Kid Games.ttf",
+      "textAlignment": "center",
+      "characterSize": 55,
+      "color": {
+        "b": 205,
+        "g": 205,
+        "r": 241
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 15,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "JEFFERSON DAVID CHILENO",
+        "font": "assets\\Fonts\\Kid Games.ttf",
+        "textAlignment": "center",
+        "characterSize": 55,
+        "color": "241;205;205"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Titulo_Prog",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "Programadores",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Programadores",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "247;233;233"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Programadores",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "JEFFERSON DAVID CHILENO\nALEXANDER XAVIER MOTOCHE\n\nJEFFERSON DAVID CHILENO\nBRAYAN LEONARDO MALDONADO \n\nALEXANDER XAVIER MOTOCHE\n\nJEFFERSON DAVID CHILENO\nJONATHAN JAIME LUZURIAGA\nBRAYAN LEONARDO MALDONADO  \nALEXANDER XAVIER MOTOCHE\nCARLOS ALEXANDER VILLARREAL\n\nCARLOS ALEXANDER VILLARREAL\n\nJONATHAN JAIME LUZURIAGA",
+      "font": "assets\\Fonts\\Kid Games.ttf",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 205,
+        "g": 205,
+        "r": 241
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 15,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "JEFFERSON DAVID CHILENO\nALEXANDER XAVIER MOTOCHE\n\nJEFFERSON DAVID CHILENO\nBRAYAN LEONARDO MALDONADO \n\nALEXANDER XAVIER MOTOCHE\n\nJEFFERSON DAVID CHILENO\nJONATHAN JAIME LUZURIAGA\nBRAYAN LEONARDO MALDONADO  \nALEXANDER XAVIER MOTOCHE\nCARLOS ALEXANDER VILLARREAL\n\nCARLOS ALEXANDER VILLARREAL\n\nJONATHAN JAIME LUZURIAGA",
+        "font": "assets\\Fonts\\Kid Games.ttf",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "241;205;205"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Izquierda_Prog",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "Menú Principal\n\n\n\nMenú Selección de Paises\n\n\n\nComo Jugar\n\n\nPuzzles de Mapas\n\n\n\n\n\n\n\nAudio\n\n\nCreditos",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "right",
+      "characterSize": 38,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Menú Principal\n\n\n\nMenú Selección de Paises\n\n\n\nComo Jugar\n\n\nPuzzles de Mapas\n\n\n\n\n\n\n\nAudio\n\n\nCreditos",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "right",
+        "characterSize": 38,
+        "color": "247;233;233"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Titulo_Dis",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "Diseñadores",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Diseñadores",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "247;233;233"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Izquierda_Dis",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "Diseño de Videojuego",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "right",
+      "characterSize": 38,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Diseño de Videojuego",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "right",
+        "characterSize": 38,
+        "color": "247;233;233"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Diseñadores",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "DR. ROSA CUESTA\nING. DANIEL PADILLA\nDIS. XAVIER VIVAS\nING DANNY LICANGO\nDIRECCIÓN GEOGRÁFICA IGM",
+      "font": "assets\\Fonts\\Kid Games.ttf",
+      "textAlignment": "left",
+      "characterSize": 50,
+      "color": {
+        "b": 205,
+        "g": 205,
+        "r": 241
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 15,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "DR. ROSA CUESTA\nING. DANIEL PADILLA\nDIS. XAVIER VIVAS\nING DANNY LICANGO\nDIRECCIÓN GEOGRÁFICA IGM",
+        "font": "assets\\Fonts\\Kid Games.ttf",
+        "textAlignment": "left",
+        "characterSize": 50,
+        "color": "241;205;205"
+      }
+    },
+    {
+      "assetStoreId": "",
+      "bold": false,
+      "italic": false,
+      "name": "Titulo_Col",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "string": "Realizado por:",
+      "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+      "textAlignment": "left",
+      "characterSize": 40,
+      "color": {
+        "b": 233,
+        "g": 233,
+        "r": 247
+      },
+      "content": {
+        "bold": false,
+        "isOutlineEnabled": true,
+        "isShadowEnabled": false,
+        "italic": false,
+        "outlineColor": "0;0;0",
+        "outlineThickness": 4,
+        "shadowAngle": 90,
+        "shadowBlurRadius": 2,
+        "shadowColor": "0;0;0",
+        "shadowDistance": 4,
+        "shadowOpacity": 127,
+        "smoothed": true,
+        "underlined": false,
+        "text": "Realizado por:",
+        "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
+        "textAlignment": "left",
+        "characterSize": 40,
+        "color": "247;233;233"
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "Fondo"
+        "objectName": "Desarrolladores"
       },
       {
-        "objectName": "Credito_0"
+        "objectName": "Programadores"
       },
       {
-        "objectName": "Titulo_Creditos"
+        "objectName": "Diseñadores"
+      },
+      {
+        "objectName": "Controlador_V"
+      },
+      {
+        "objectName": "Titulo"
       },
       {
         "objectName": "Logos"
@@ -643,7 +1180,25 @@
         "objectName": "Boton_Mute"
       },
       {
-        "objectName": "Pie_Imagen"
+        "objectName": "Titulo_Dir"
+      },
+      {
+        "objectName": "Titulo_Dis"
+      },
+      {
+        "objectName": "Titulo_Col"
+      },
+      {
+        "objectName": "Titulo_Cont"
+      },
+      {
+        "objectName": "Titulo_Prog"
+      },
+      {
+        "objectName": "Izquierda_Prog"
+      },
+      {
+        "objectName": "Izquierda_Dis"
       }
     ]
   },
@@ -687,6 +1242,18 @@
               },
               "parameters": [
                 "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\ClickButton.wav",
+                "no",
+                "100",
                 "1"
               ]
             }
@@ -753,65 +1320,169 @@
             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
-            "Titulo_Creditos",
+            "Titulo",
             "Tween",
             "\"Movimiento\"",
-            "-2400",
+            "-4900",
             "\"linear\"",
-            "32",
+            "80",
             ""
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CompareTimer"
-          },
-          "parameters": [
-            "",
-            "\"Movimiento\"",
-            "<=",
-            "2"
-          ]
-        }
-      ],
-      "actions": [
+        },
         {
           "type": {
             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
-            "Credito_0",
+            "Titulo_Dir",
             "Tween",
             "\"Movimiento\"",
-            "-2000",
+            "-4850",
             "\"linear\"",
-            "32",
+            "80",
             ""
           ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
+        },
         {
           "type": {
-            "value": "CompareTimer"
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
-            "",
+            "Desarrolladores",
+            "Tween",
             "\"Movimiento\"",
-            "<=",
-            "2"
+            "-4700",
+            "\"linear\"",
+            "80",
+            ""
           ]
-        }
-      ],
-      "actions": [
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Titulo_Cont",
+            "Tween",
+            "\"Movimiento\"",
+            "-4450",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Controlador_V",
+            "Tween",
+            "\"Movimiento\"",
+            "-4400",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Titulo_Prog",
+            "Tween",
+            "\"Movimiento\"",
+            "-4350",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Izquierda_Prog",
+            "Tween",
+            "\"Movimiento\"",
+            "-4200",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Programadores",
+            "Tween",
+            "\"Movimiento\"",
+            "-4200",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Titulo_Dis",
+            "Tween",
+            "\"Movimiento\"",
+            "-3050",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Izquierda_Dis",
+            "Tween",
+            "\"Movimiento\"",
+            "-3000",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Diseñadores",
+            "Tween",
+            "\"Movimiento\"",
+            "-3000",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "Titulo_Col",
+            "Tween",
+            "\"Movimiento\"",
+            "-2650",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
         {
           "type": {
             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
@@ -820,9 +1491,9 @@
             "Logos",
             "Tween",
             "\"Movimiento\"",
-            "-1200",
+            "-2650",
             "\"linear\"",
-            "32",
+            "80",
             ""
           ]
         }
@@ -839,7 +1510,7 @@
             "",
             "\"Movimiento\"",
             ">=",
-            "33"
+            "55"
           ]
         }
       ],
@@ -851,38 +1522,6 @@
           "parameters": [
             "",
             "\"Menu principal\"",
-            ""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CompareTimer"
-          },
-          "parameters": [
-            "",
-            "\"Movimiento\"",
-            "<=",
-            "2"
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
-          },
-          "parameters": [
-            "Pie_Imagen",
-            "Tween",
-            "\"Movimiento\"",
-            "-750",
-            "\"linear\"",
-            "32",
             ""
           ]
         }
@@ -949,11 +1588,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
     }
   ],
   "layers": [
@@ -1038,6 +1672,10 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "Text",
+      "type": "TextContainerCapability::TextContainerBehavior"
     },
     {
       "name": "Tween",
