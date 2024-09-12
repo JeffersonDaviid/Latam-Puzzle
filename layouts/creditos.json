@@ -1089,7 +1089,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Botones",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -1110,6 +1109,26 @@
           "actions": [
             {
               "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets\\sounds\\ClickButton.wav",
+                "no",
+                "100",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
                 "value": "Scene"
               },
               "parameters": [
@@ -1124,18 +1143,6 @@
               },
               "parameters": [
                 "",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "assets\\sounds\\ClickButton.wav",
-                "no",
-                "100",
                 "1"
               ]
             }

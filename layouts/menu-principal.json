@@ -1894,6 +1894,26 @@
       "actions": [
         {
           "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
             "value": "HideLayer"
           },
           "parameters": [
@@ -1918,18 +1938,6 @@
             "",
             "\"ComoJugar\"",
             ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "assets\\sounds\\ClickButton.wav",
-            "no",
-            "100",
-            "1"
           ]
         }
       ]
@@ -1959,6 +1967,26 @@
         }
       ],
       "actions": [
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "assets\\sounds\\ClickButton.wav",
+            "no",
+            "100",
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
         {
           "type": {
             "value": "HideLayer"
@@ -1995,18 +2023,6 @@
             "",
             "1"
           ]
-        },
-        {
-          "type": {
-            "value": "PlaySound"
-          },
-          "parameters": [
-            "",
-            "assets\\sounds\\ClickButton.wav",
-            "no",
-            "100",
-            "1"
-          ]
         }
       ]
     },
@@ -2037,16 +2053,6 @@
       "actions": [
         {
           "type": {
-            "value": "Scene"
-          },
-          "parameters": [
-            "",
-            "\"Menu Seleccion Pais\"",
-            ""
-          ]
-        },
-        {
-          "type": {
             "value": "PlaySound"
           },
           "parameters": [
@@ -2055,6 +2061,24 @@
             "no",
             "100",
             "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Menu Seleccion Pais\"",
+            ""
           ]
         }
       ]
