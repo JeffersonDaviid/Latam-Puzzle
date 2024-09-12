@@ -3325,7 +3325,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "BRAZIL",
+      "string": "BRASIL",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
@@ -3348,7 +3348,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "BRAZIL",
+        "text": "BRASIL",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,

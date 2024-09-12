@@ -3346,7 +3346,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "HAITI",
+      "string": "HAITÍ",
       "font": "assets\\Fonts\\Kid Games.ttf",
       "textAlignment": "center",
       "characterSize": 60,
@@ -3369,7 +3369,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "HAITI",
+        "text": "HAITÍ",
         "font": "assets\\Fonts\\Kid Games.ttf",
         "textAlignment": "center",
         "characterSize": 60,
@@ -5497,7 +5497,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
