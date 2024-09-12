@@ -1124,7 +1124,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "1"
+                "0.1"
               ]
             },
             {

@@ -1909,7 +1909,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "1"
+            "0.1"
           ]
         },
         {
@@ -1984,7 +1984,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "1"
+            "0.1"
           ]
         },
         {
@@ -2068,7 +2068,7 @@
             "value": "Wait"
           },
           "parameters": [
-            "1"
+            "0.1"
           ]
         },
         {
