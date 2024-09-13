@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.19415059112741015,
+    "zoomFactor": 0.30887412163426936,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -481,7 +481,7 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "Controlador de Versiones:",
+      "string": "Controlador de versiones",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "center",
       "characterSize": 40,
@@ -504,7 +504,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Controlador de Versiones:",
+        "text": "Controlador de versiones",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "center",
         "characterSize": 40,
@@ -593,7 +593,7 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "Programadores:",
+      "string": "Programadores",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "center",
       "characterSize": 40,
@@ -616,7 +616,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Programadores:",
+        "text": "Programadores",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "center",
         "characterSize": 40,
@@ -705,7 +705,7 @@
           "type": "Tween::TweenBehavior"
         }
       ],
-      "string": "Menu principal\n\n\n\nMenu selección de paises\n\n\n\nComo jugar\n\n\nPuzzles de mapas\n\n\n\n\n\n\n\nAudio\n\n\nCréditos",
+      "string": "Menú principal\n\n\n\nMenú selección de países\n\n\n\nInstrucciones\n\n\nPuzzles de mapas\n\n\n\n\n\n\n\nAudio\n\n\nCréditos",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "right",
       "characterSize": 38,
@@ -728,7 +728,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "Menu principal\n\n\n\nMenu selección de paises\n\n\n\nComo jugar\n\n\nPuzzles de mapas\n\n\n\n\n\n\n\nAudio\n\n\nCréditos",
+        "text": "Menú principal\n\n\n\nMenú selección de países\n\n\n\nInstrucciones\n\n\nPuzzles de mapas\n\n\n\n\n\n\n\nAudio\n\n\nCréditos",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "right",
         "characterSize": 38,
