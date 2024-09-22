@@ -1218,6 +1218,7 @@
       "defaultName": "Button",
       "description": "A button that can be customized.",
       "fullName": "Button (panel sprite)",
+      "isUsingLegacyInstancesRenderer": true,
       "name": "PanelSpriteButton",
       "eventsFunctions": [
         {

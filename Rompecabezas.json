@@ -1,7 +1,7 @@
 {
   "firstLayout": "Menu principal",
   "gdVersion": {
-    "build": 211,
+    "build": 213,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -10289,6 +10289,60 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "imagen_2024-09-21_194951485.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "imagen_2024-09-21_194951485.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "imagen_2024-09-21_194357971.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "imagen_2024-09-21_194357971.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "FIs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "FIs.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/epnLogo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\epnLogo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/igmLogo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\igmLogo.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Elementos/FIs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Elementos\\FIs.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -13918,6 +13972,10 @@
           "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ],
       "animations": [
