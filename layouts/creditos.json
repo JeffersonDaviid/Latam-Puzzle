@@ -60,23 +60,6 @@
       "angle": 0,
       "customSize": true,
       "depth": 0,
-      "height": 315.6512221816855,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Logos",
-      "persistentUuid": "4c30244f-b77b-408f-87c9-025ca1ed6bf4",
-      "width": 1200,
-      "x": 360,
-      "y": 3720,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
       "height": 141.81818181818184,
       "keepRatio": true,
       "layer": "",
@@ -255,6 +238,74 @@
       "x": 360,
       "y": 443,
       "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 292,
+      "keepRatio": true,
+      "layer": "",
+      "name": "EpnLogo",
+      "persistentUuid": "221c991d-2b50-4782-889a-c9f9f1db9533",
+      "width": 286,
+      "x": 121,
+      "y": 3869,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 382,
+      "keepRatio": true,
+      "layer": "",
+      "name": "IGMLogo",
+      "persistentUuid": "dde4bb6e-343a-4c5c-8a68-e1aacee47547",
+      "width": 388,
+      "x": 1033,
+      "y": 3812,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 289,
+      "keepRatio": true,
+      "layer": "",
+      "name": "FisLogo",
+      "persistentUuid": "7987fc43-b411-4bff-98e8-f73fcbd87c7f",
+      "width": 329,
+      "x": 1482,
+      "y": 3857,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 255,
+      "keepRatio": true,
+      "layer": "",
+      "name": "logo_dominio",
+      "persistentUuid": "30aad613-dba2-4244-abfa-4194f572d285",
+      "width": 522,
+      "x": 477,
+      "y": 3894,
+      "zOrder": 23,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -1029,6 +1080,231 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "EpnLogo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\epnLogo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 138,
+                        "y": 0
+                      },
+                      {
+                        "x": 1909,
+                        "y": 0
+                      },
+                      {
+                        "x": 1909,
+                        "y": 2048
+                      },
+                      {
+                        "x": 138,
+                        "y": 2048
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "IGMLogo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\igmLogo.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 21,
+                        "y": 19
+                      },
+                      {
+                        "x": 482,
+                        "y": 19
+                      },
+                      {
+                        "x": 482,
+                        "y": 481
+                      },
+                      {
+                        "x": 21,
+                        "y": 481
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "FisLogo",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "assets\\Elementos\\FIs.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 71,
+                        "y": 38
+                      },
+                      {
+                        "x": 2468,
+                        "y": 38
+                      },
+                      {
+                        "x": 2468,
+                        "y": 2138
+                      },
+                      {
+                        "x": 71,
+                        "y": 2138
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -1069,6 +1345,15 @@
       },
       {
         "objectName": "BG_Creditos"
+      },
+      {
+        "objectName": "EpnLogo"
+      },
+      {
+        "objectName": "IGMLogo"
+      },
+      {
+        "objectName": "FisLogo"
       }
     ]
   },
@@ -1365,10 +1650,52 @@
             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
-            "Logos",
+            "EpnLogo",
             "Tween",
             "\"Movimiento\"",
-            "Logos.Y()-6000",
+            "EpnLogo.Y()-6000",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "IGMLogo",
+            "Tween",
+            "\"Movimiento\"",
+            "IGMLogo.Y()-6000",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "FisLogo",
+            "Tween",
+            "\"Movimiento\"",
+            "FisLogo.Y()-6000",
+            "\"linear\"",
+            "80",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+          },
+          "parameters": [
+            "logo_dominio",
+            "Tween",
+            "\"Movimiento\"",
+            "logo_dominio.Y()-6000",
             "\"linear\"",
             "80",
             ""
