@@ -1492,7 +1492,7 @@
       "height": 150,
       "keepRatio": true,
       "layer": "game over",
-      "name": "btn_regresar",
+      "name": "btn_seleccion",
       "persistentUuid": "b6ad71d2-4bf9-4b7b-819b-d8ffdeab02b9",
       "width": 430,
       "x": 465,
@@ -1525,7 +1525,7 @@
       "depth": 150,
       "height": 100,
       "layer": "UI",
-      "name": "btn_regresar",
+      "name": "btn_seleccion",
       "persistentUuid": "b35a295a-067d-4005-a8a1-d01b1b591ce5",
       "width": 300,
       "x": 1610,
@@ -5634,7 +5634,7 @@
                 "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
               },
               "parameters": [
-                "btn_regresar",
+                "btn_seleccion",
                 ""
               ]
             },
@@ -5643,7 +5643,7 @@
                 "value": "Layer"
               },
               "parameters": [
-                "btn_regresar",
+                "btn_seleccion",
                 "\"UI\""
               ]
             }
@@ -5681,7 +5681,7 @@
                 "value": "ButtonStates::ButtonFSM::IsClicked"
               },
               "parameters": [
-                "btn_regresar",
+                "btn_seleccion",
                 "ButtonFSM",
                 ""
               ]
@@ -5691,7 +5691,7 @@
                 "value": "Layer"
               },
               "parameters": [
-                "btn_regresar",
+                "btn_seleccion",
                 "\"game over\""
               ]
             },
