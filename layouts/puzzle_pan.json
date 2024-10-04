@@ -1527,7 +1527,7 @@
       "name": "btn_seleccion",
       "persistentUuid": "b35a295a-067d-4005-a8a1-d01b1b591ce5",
       "width": 300,
-      "x": 1610,
+      "x": 1550,
       "y": 950,
       "zOrder": 1010,
       "numberProperties": [],
@@ -5490,6 +5490,59 @@
               "parameters": [
                 "",
                 "\"winer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeLayer"
+              },
+              "parameters": [
+                "btn_salirJuego",
+                "\"winer\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetWidth"
+              },
+              "parameters": [
+                "btn_salirJuego",
+                "Resizable",
+                "=",
+                "300"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResizableCapability::ResizableBehavior::SetHeight"
+              },
+              "parameters": [
+                "btn_salirJuego",
+                "Resizable",
+                "=",
+                "100"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "btn_salirJuego",
+                "=",
+                "1610",
+                "=",
+                "950"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "ganar",
+                "True",
+                ""
               ]
             }
           ]
