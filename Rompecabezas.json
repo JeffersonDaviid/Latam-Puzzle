@@ -1,7 +1,7 @@
 {
   "firstLayout": "Menu principal",
   "gdVersion": {
-    "build": 212,
+    "build": 213,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -10343,6 +10343,42 @@
         "name": "assets\\Elementos\\FIs.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 20.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 20_pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 20_pressed.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 19_pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 19_pressed.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -12797,7 +12833,7 @@
     },
     {
       "assetStoreId": "",
-      "name": "btn_regresar",
+      "name": "btn_seleccion",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
@@ -12839,7 +12875,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\Botones\\regresar11.png",
+          "texture": "assets\\Botones\\Recurso 20_pressed.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -12849,7 +12885,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\Botones\\Recurso 15.png",
+          "texture": "assets\\Botones\\Recurso 20.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -12894,7 +12930,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\Botones\\Recurso 15.png",
+          "texture": "assets\\Botones\\Recurso 20.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -13153,6 +13189,112 @@
           "width": 32
         }
       }
+    },
+    {
+      "assetStoreId": "",
+      "name": "btn_regresar",
+      "type": "PanelSpriteButton::PanelSpriteButton",
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 3,
+          "rightEdgeAnchor": 0,
+          "bottomEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
+          "topEdgeAnchor": 0,
+          "useLegacyBottomAndRightAnchors": false
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "ButtonObjectEffects",
+          "type": "ButtonStates::ButtonObjectEffects",
+          "ButtonFSM": "ButtonFSM",
+          "Effect": "Effect",
+          "IdleEffect": "",
+          "FocusedEffect": "",
+          "PressedEffect": ""
+        }
+      ],
+      "content": {},
+      "childrenContent": {
+        "Hovered": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\Recurso 19_pressed.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Idle": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\Recurso 19.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        },
+        "Label": {
+          "bold": false,
+          "italic": false,
+          "smoothed": true,
+          "underlined": false,
+          "string": "",
+          "font": "",
+          "textAlignment": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "",
+            "textAlignment": "",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        "Pressed": {
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "assets\\Botones\\Recurso 19.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 32
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -13199,6 +13341,9 @@
       },
       {
         "objectName": "btn_regresar"
+      },
+      {
+        "objectName": "btn_seleccion"
       },
       {
         "objectName": "BtSiguiente"
