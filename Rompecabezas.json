@@ -10361,6 +10361,24 @@
         "name": "assets\\Botones\\Recurso 20_pressed.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 19.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Botones/Recurso 19_pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Botones\\Recurso 19_pressed.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -13216,7 +13234,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\Botones\\regresar11.png",
+          "texture": "assets\\Botones\\Recurso 19_pressed.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -13226,7 +13244,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\Botones\\Recurso 15.png",
+          "texture": "assets\\Botones\\Recurso 19.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
@@ -13271,7 +13289,7 @@
           "height": 32,
           "leftMargin": 0,
           "rightMargin": 0,
-          "texture": "assets\\Botones\\Recurso 15.png",
+          "texture": "assets\\Botones\\Recurso 19.png",
           "tiled": false,
           "topMargin": 0,
           "width": 32
