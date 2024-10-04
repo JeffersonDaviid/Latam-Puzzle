@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.27962265218394144,
+    "zoomFactor": 0.18781732880530672,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1030,7 +1030,7 @@
       "string": "Haz clic en el país que deseas armar.\nCada país tiene su propio conjunto de piezas únicas.",
       "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
       "textAlignment": "left",
-      "characterSize": 30,
+      "characterSize": 40,
       "color": {
         "b": 226,
         "g": 144,
@@ -1053,7 +1053,7 @@
         "text": "Haz clic en el país que deseas armar.\nCada país tiene su propio conjunto de piezas únicas.",
         "font": "assets\\Fonts\\CantoraOne-Regular.ttf",
         "textAlignment": "left",
-        "characterSize": 30,
+        "characterSize": 40,
         "color": "74;144;226"
       }
     },

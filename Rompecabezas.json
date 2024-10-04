@@ -12260,12 +12260,12 @@
       "effects": [],
       "behaviors": [
         {
+          "bottomEdgeAnchor": 3,
+          "leftEdgeAnchor": 3,
           "name": "Anchor",
+          "rightEdgeAnchor": 3,
+          "topEdgeAnchor": 3,
           "type": "AnchorBehavior::AnchorBehavior",
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 1,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         },

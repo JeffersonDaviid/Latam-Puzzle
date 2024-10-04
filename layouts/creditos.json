@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.30887412163426936,
+    "zoomFactor": 0.22916801610749069,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1091,13 +1091,13 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 4,
-          "relativeToOriginalWindowSize": true,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 4,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -1166,13 +1166,13 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 4,
-          "relativeToOriginalWindowSize": true,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 4,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -1241,13 +1241,13 @@
       "effects": [],
       "behaviors": [
         {
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 3,
-          "leftEdgeAnchor": 4,
-          "relativeToOriginalWindowSize": true,
+          "leftEdgeAnchor": 3,
+          "name": "Anchor",
           "rightEdgeAnchor": 3,
-          "topEdgeAnchor": 4,
+          "topEdgeAnchor": 3,
+          "type": "AnchorBehavior::AnchorBehavior",
+          "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         },
         {
