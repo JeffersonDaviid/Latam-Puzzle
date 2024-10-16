@@ -2384,8 +2384,8 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 56,
-                        "y": 125.5
+                        "x": 62.5,
+                        "y": 121
                       },
                       {
                         "x": 67,
@@ -6278,7 +6278,7 @@
       "isLocked": false,
       "name": "Socalos",
       "renderingType": "",
-      "visibility": true,
+      "visibility": false,
       "cameras": [],
       "effects": []
     },
