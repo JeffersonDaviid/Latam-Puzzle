@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3238143136465378,
+    "zoomFactor": 0.24835424145453597,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -1605,20 +1605,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 59,
+                        "y": 44.5
                       },
                       {
-                        "x": 182,
-                        "y": 0
+                        "x": 153.5,
+                        "y": 54.5
                       },
                       {
-                        "x": 158,
+                        "x": 170,
+                        "y": 127
+                      },
+                      {
+                        "x": 69.5,
                         "y": 125.5
-                      },
-                      {
-                        "x": 0,
-                        "y": 152.5
                       }
                     ]
                   ]
@@ -1653,12 +1653,12 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 76.5,
-                        "y": 10
+                        "x": 91.5,
+                        "y": 36.5
                       },
                       {
-                        "x": 171,
-                        "y": 11.5
+                        "x": 161.5,
+                        "y": 53.5
                       },
                       {
                         "x": 163.5,
@@ -1953,8 +1953,8 @@
                         "y": 203.5
                       },
                       {
-                        "x": 115,
-                        "y": 193
+                        "x": 101.5,
+                        "y": 216.5
                       }
                     ]
                   ]
@@ -1993,11 +1993,11 @@
                         "y": 81.5
                       },
                       {
-                        "x": 120,
-                        "y": 106
+                        "x": 144,
+                        "y": 116
                       },
                       {
-                        "x": 140,
+                        "x": 176,
                         "y": 172
                       },
                       {
@@ -2141,8 +2141,8 @@
                         "y": 111
                       },
                       {
-                        "x": 221,
-                        "y": 191.5
+                        "x": 174.5,
+                        "y": 171
                       },
                       {
                         "x": 97,
@@ -2193,8 +2193,8 @@
                         "y": 206.5
                       },
                       {
-                        "x": 20.5,
-                        "y": 221
+                        "x": 45.5,
+                        "y": 204.5
                       }
                     ]
                   ]
@@ -2281,8 +2281,8 @@
                         "y": 127.5
                       },
                       {
-                        "x": 202,
-                        "y": 153.5
+                        "x": 194,
+                        "y": 128
                       },
                       {
                         "x": 224,
@@ -2397,20 +2397,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 153.5
+                        "x": 62.5,
+                        "y": 136
                       },
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 61.5,
+                        "y": 52
                       },
                       {
-                        "x": 148,
-                        "y": 0
+                        "x": 158.5,
+                        "y": 47.5
                       },
                       {
-                        "x": 162,
-                        "y": 152.5
+                        "x": 159,
+                        "y": 128.5
                       }
                     ]
                   ]
@@ -2445,16 +2445,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 68,
-                        "y": 18.5
+                        "x": 81.5,
+                        "y": 54
                       },
                       {
-                        "x": 165,
-                        "y": 27
+                        "x": 147.5,
+                        "y": 47
                       },
                       {
-                        "x": 165.5,
-                        "y": 131.5
+                        "x": 158.5,
+                        "y": 125.5
                       },
                       {
                         "x": 78.5,
@@ -2493,16 +2493,16 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 99.5,
-                        "y": 155
+                        "x": 121.5,
+                        "y": 148.5
                       },
                       {
-                        "x": 89,
-                        "y": 30
+                        "x": 114.5,
+                        "y": 66
                       },
                       {
-                        "x": 227.5,
-                        "y": 19.5
+                        "x": 207.5,
+                        "y": 60.5
                       },
                       {
                         "x": 212.5,
@@ -2545,16 +2545,16 @@
                         "y": 120
                       },
                       {
-                        "x": 92.5,
-                        "y": 115
+                        "x": 119.5,
+                        "y": 142
                       },
                       {
-                        "x": 76,
-                        "y": 8.5
+                        "x": 73.5,
+                        "y": 36
                       },
                       {
-                        "x": 205,
-                        "y": 10
+                        "x": 188.5,
+                        "y": 64
                       }
                     ]
                   ]
@@ -2589,20 +2589,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 229.5
+                        "x": 44,
+                        "y": 230.5
                       },
                       {
-                        "x": 0,
-                        "y": 96.5
+                        "x": 73.5,
+                        "y": 128.5
                       },
                       {
-                        "x": 117,
-                        "y": 108.5
+                        "x": 164,
+                        "y": 112.5
                       },
                       {
-                        "x": 125,
-                        "y": 228.5
+                        "x": 159,
+                        "y": 224.5
                       }
                     ]
                   ]
@@ -2733,8 +2733,8 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 80.5,
-                        "y": 216
+                        "x": 92,
+                        "y": 201.5
                       },
                       {
                         "x": 97,
@@ -2793,8 +2793,8 @@
                         "y": 116
                       },
                       {
-                        "x": 159,
-                        "y": 184.5
+                        "x": 141.5,
+                        "y": 173
                       }
                     ]
                   ]
@@ -2841,8 +2841,8 @@
                         "y": 107.5
                       },
                       {
-                        "x": 229.5,
-                        "y": 181.5
+                        "x": 211.5,
+                        "y": 168
                       }
                     ]
                   ]
@@ -2879,10 +2879,6 @@
                       {
                         "x": 76.5,
                         "y": 184.5
-                      },
-                      {
-                        "x": 71.5,
-                        "y": 151.5
                       },
                       {
                         "x": 75.5,
@@ -2977,20 +2973,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 160,
-                        "y": 241
+                        "x": 173.5,
+                        "y": 187.5
                       },
                       {
-                        "x": 0,
-                        "y": 242
+                        "x": 70,
+                        "y": 187
                       },
                       {
-                        "x": 13,
-                        "y": 111.5
+                        "x": 59,
+                        "y": 130
                       },
                       {
-                        "x": 153,
-                        "y": 140.5
+                        "x": 178.5,
+                        "y": 109.5
                       }
                     ]
                   ]
@@ -3029,12 +3025,12 @@
                         "y": 193
                       },
                       {
-                        "x": 97,
-                        "y": 122
+                        "x": 100,
+                        "y": 105
                       },
                       {
-                        "x": 156,
-                        "y": 115
+                        "x": 146,
+                        "y": 106
                       },
                       {
                         "x": 161,
@@ -3085,8 +3081,8 @@
                         "y": 137.5
                       },
                       {
-                        "x": 216,
-                        "y": 140.5
+                        "x": 213,
+                        "y": 110.5
                       }
                     ]
                   ]
@@ -3121,16 +3117,12 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 80.5,
-                        "y": 212
+                        "x": 100,
+                        "y": 194
                       },
                       {
-                        "x": 87,
-                        "y": 152
-                      },
-                      {
-                        "x": 103.5,
-                        "y": 111.5
+                        "x": 94,
+                        "y": 102
                       },
                       {
                         "x": 183.5,
@@ -5051,7 +5043,6 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "folded": true,
       "name": "Ubicar las piezas en la posición (correcta o incorrecta)",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5188,7 +5179,7 @@
                 "value": "SourisSurObjet"
               },
               "parameters": [
-                "Socalo",
+                "Pieza",
                 "",
                 "",
                 ""
@@ -5391,6 +5382,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Comprobar si el puzzle está resuelto",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5497,6 +5489,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
+      "folded": true,
       "name": "Curiosidades",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
@@ -5640,16 +5633,6 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Menu Seleccion Pais\"",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "PlaySound"
               },
               "parameters": [
@@ -5658,6 +5641,24 @@
                 "no",
                 "100",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Seleccion Pais\"",
+                ""
               ]
             }
           ]
@@ -5698,16 +5699,6 @@
           "actions": [
             {
               "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"puzzle_haiti\"",
-                ""
-              ]
-            },
-            {
-              "type": {
                 "value": "PlaySound"
               },
               "parameters": [
@@ -5716,6 +5707,24 @@
                 "no",
                 "100",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu Seleccion Pais\"",
+                ""
               ]
             }
           ]
@@ -5725,34 +5734,69 @@
           "conditions": [
             {
               "type": {
-                "value": "ButtonStates::ButtonFSM::IsClicked"
+                "value": "BuiltinCommonInstructions::Or"
               },
-              "parameters": [
-                "btn_salirJuego",
-                "ButtonFSM",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "ganar",
-                "True",
-                ""
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "btn_salirJuego",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "LayerVisible"
+                      },
+                      "parameters": [
+                        "",
+                        "\"game over\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::And"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "ButtonStates::ButtonFSM::IsClicked"
+                      },
+                      "parameters": [
+                        "btn_salirJuego",
+                        "ButtonFSM",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "ganar",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             }
           ],
           "actions": [
-            {
-              "type": {
-                "value": "Quit"
-              },
-              "parameters": [
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "PlaySound"
@@ -5763,6 +5807,22 @@
                 "no",
                 "100",
                 "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
               ]
             }
           ]
